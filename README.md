@@ -27,9 +27,27 @@
 
 
 **BiSeNetV2 (IJCV'2021)**
+- Paper: 
+- Code: 
+- Contribution：
+
+
 **STDC (CVPR'2021)**
+- Paper: 
+- Code: 
+- Contribution：
+
+
 **SETR (CVPR'2021)**
+- Paper: https://arxiv.org/pdf/2012.15840
+- Code: 
+- Contribution：
+
+
 **DPT (ArXiv'2021)**
+- Paper: 
+- Code: 
+- Contribution：
 
 **Segmenter (ICCV'2021)**
 - Paper: https://arxiv.org/pdf/2105.05633
@@ -37,8 +55,19 @@
 - Contribution：Supervised ViT Segmentation，ViT Enconder + ViT Decoder
 
 **SegFormer (NeurIPS'2021)**
+- Paper: 
+- Code: 
+- Contribution：
+
 **K-Net (NeurIPS'2021)**
+- Paper: 
+- Code: 
+- Contribution：
+
 **DEST (CVPRW'2022)**
+- Paper: 
+- Code: 
+- Contribution：
 
 <a name="ViT"></a>
 # ViT sementation
@@ -50,12 +79,6 @@
 - Paper: https://arxiv.org/pdf/2103.14030
 - Code: https://github.com/microsoft/Swin-Transformer
 - Contribution：Sliding Window Attention + Patch Merging
-
-
-- Paper: 
-- Code: 
-- Contribution：
-
 
 <a name="Open"></a>
 # Open vocabulary segmentation
