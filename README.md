@@ -64,11 +64,6 @@
 - Code: 
 - Contribution：
 
-**DEST (CVPRW'2022)**
-- Paper: 
-- Code: 
-- Contribution：
-
 <a name="ViT"></a>
 # ViT sementation
 **DeiT: Training data-efficient image transformers & distillation through attention**
@@ -79,6 +74,11 @@
 - Paper: https://arxiv.org/pdf/2103.14030
 - Code: https://github.com/microsoft/Swin-Transformer
 - Contribution：Sliding Window Attention + Patch Merging
+
+**Twins: Revisiting the Design of Spatial Attention in Vision Transformers [NeurIPS 2021]**
+- Paper: https://arxiv.org/pdf/2104.13840
+- Code: https://github.com/Meituan-AutoML/Twins
+- Contribution：
 
 <a name="Open"></a>
 # Open vocabulary segmentation
