@@ -79,7 +79,7 @@
 **Twins: Revisiting the Design of Spatial Attention in Vision Transformers [NeurIPS 2021]**
 - Paper: https://arxiv.org/pdf/2104.13840
 - Code: https://github.com/Meituan-AutoML/Twins
-- Contribution：Spatially Separable Self-Attention(SSSA), Conditional Positional Encodings(CPE)
+- Contribution：Spatially Separable Self-Attention(SSSA)(Similar to separable convolution), Conditional Positional Encodings(CPE) in every transformer block
 
 **BEiT: BERT Pre-Training of Image Transformers (ICLR'2022)**
 - Paper: https://arxiv.org/pdf/2106.08254
