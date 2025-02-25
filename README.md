@@ -1,15 +1,15 @@
 # paper-list
 
 - [Classical segmentation methods](#Classical)
-- [ViT sementation](#3DGS)
-- [Open vocabulary segmentation](#Backbone)
+- [ViT sementation](#ViT)
+- [Open vocabulary segmentation](#Open)
+- [Other Technologies](#Other)
 
 <a name="Classical"></a>
 
 # Classical segmentation method
 
 **FCN: Fully convolutional networks**
-
 - Paper: https://arxiv.org/abs/1411.4038
 - Code: https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn
 
@@ -26,3 +26,18 @@
 - [x] [SegFormer (NeurIPS'2021)]
 - [x] [K-Net (NeurIPS'2021)]
 - [x] [DEST (CVPRW'2022)]
+
+<a name="ViT"></a>
+
+# ViT sementation
+
+<a name="Open"></a>
+
+# Open vocabulary segmentation
+
+<a name="Other"></a>
+
+# Other Technologies
+
+**pixel shuffle**
+- Paper: https://arxiv.org/pdf/1609.05158
