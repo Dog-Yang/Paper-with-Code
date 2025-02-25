@@ -57,7 +57,7 @@
 **SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers (NeurIPS'2021)**
 - Paper: https://arxiv.org/pdf/2105.15203
 - Code: https://github.com/NVlabs/SegFormer
-- Contribution：
+- Contribution：positional-encoding-free, Hierarchical Transformer Encoder, All-MLP decoder
 
 **K-Net (NeurIPS'2021)**
 - Paper: 
