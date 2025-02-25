@@ -2,8 +2,8 @@
 - [Classical segmentation methods](#Classical)
 - [ViT sementation](#ViT)
 - [Open vocabulary segmentation](#Open)
-- [Other Technologies](#Other)
 - [Support Dataset](#Dataset)
+- [Other Technologies](#Other)
 
 <a name="Classical"></a>
 # Classical segmentation method
