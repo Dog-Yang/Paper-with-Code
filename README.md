@@ -30,9 +30,10 @@
 **STDC (CVPR'2021)**
 **SETR (CVPR'2021)**
 **DPT (ArXiv'2021)**
+
 **Segmenter (ICCV'2021)**
-- Paper: https://arxiv.org/pdf/1901.02446
-- Code: 
+- Paper: https://arxiv.org/pdf/2105.05633
+- Code: https://github.com/rstrudel/segmenter
 - Contribution：Supervised ViT Segmentation，ViT Enconder + ViT Decoder
 
 **SegFormer (NeurIPS'2021)**
