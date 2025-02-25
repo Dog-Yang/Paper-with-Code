@@ -101,6 +101,9 @@
 - Code: https://github.com/Visual-Attention-Network/SegNeXt
 - Contribution：
 
+<a name="Open"></a>
+# Open vocabulary segmentation
+
 <a name="Dataset"></a>
 # Supported datasets:
 - [x] [Cityscapes](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#cityscapes)
@@ -121,11 +124,6 @@
 - [x] [iSAID](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#isaid)
 - [x] [High quality synthetic face occlusion](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#delving-into-high-quality-synthetic-face-occlusion-segmentation-datasets)
 - [x] [ImageNetS](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#imagenets)
-
-
-<a name="Open"></a>
-# Open vocabulary segmentation
-
 
 <a name="Other"></a>
 # Other Technologies
