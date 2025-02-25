@@ -42,11 +42,11 @@
 
 <a name="ViT"></a>
 # ViT sementation
-**DeiT:Training data-efficient image transformers & distillation through attention**
+**DeiT: Training data-efficient image transformers & distillation through attention**
 - Paper: https://arxiv.org/pdf/2012.12877
 - Contribution：Distillation Token；Teacher Model:CNN, Student model: ViT
 
-**Swin Transfomer:**
+**Swin Transfomer: Hierarchical Vision Transformer using Shifted Windows**
 - Paper: https://arxiv.org/pdf/2103.14030
 - Code: https://github.com/microsoft/Swin-Transformer
 - Contribution：Sliding Window Attention + Patch Merging
