@@ -65,12 +65,12 @@
 - Contribution：
 
 <a name="ViT"></a>
-# ViT sementation
+# ViT backbone sementation
 **DeiT: Training data-efficient image transformers & distillation through attention**
 - Paper: https://arxiv.org/pdf/2012.12877
 - Contribution：Distillation Token；Teacher Model:CNN, Student model: ViT
 
-**Swin Transfomer: Hierarchical Vision Transformer using Shifted Windows**
+**Swin Transfomer: Hierarchical Vision Transformer using Shifted Windows (ICCV'2021)**
 - Paper: https://arxiv.org/pdf/2103.14030
 - Code: https://github.com/microsoft/Swin-Transformer
 - Contribution：Sliding Window Attention + Patch Merging
@@ -78,6 +78,26 @@
 **Twins: Revisiting the Design of Spatial Attention in Vision Transformers [NeurIPS 2021]**
 - Paper: https://arxiv.org/pdf/2104.13840
 - Code: https://github.com/Meituan-AutoML/Twins
+- Contribution：
+
+**BEiT: BERT Pre-Training of Image Transformers (ICLR'2022)**
+- Paper: https://arxiv.org/pdf/2106.08254
+- Code: https://github.com/microsoft/unilm/tree/master/beit
+- Contribution：
+
+**MAE: Masked Autoencoders Are Scalable Vision Learners (CVPR'2022)**
+- Paper: https://arxiv.org/pdf/2111.06377
+- Code: https://github.com/facebookresearch/mae
+- Contribution：
+
+**PoolFormer:MetaFormer is Actually What You Need for Vision (CVPR'2022)**
+- Paper: https://arxiv.org/pdf/2111.11418
+- Code: https://arxiv.org/pdf/2111.11418
+- Contribution：
+
+**SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation (NeurIPS'2022)**
+- Paper: https://arxiv.org/pdf/2209.08575
+- Code: https://github.com/Visual-Attention-Network/SegNeXt
 - Contribution：
 
 <a name="Open"></a>
