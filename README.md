@@ -38,10 +38,10 @@
 - Contribution：
 
 
-**SETR (CVPR'2021)**
+**SETR: Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers (CVPR'2021)**
 - Paper: https://arxiv.org/pdf/2012.15840
-- Code: 
-- Contribution：
+- Code: https://github.com/fudan-zvg/SETR
+- Contribution：ViT Encoder + 3 types of decoders
 
 
 **DPT (ArXiv'2021)**
@@ -49,12 +49,12 @@
 - Code: 
 - Contribution：
 
-**Segmenter (ICCV'2021)**
+**Segmenter: Segmenter: Transformer for Semantic Segmentation (ICCV'2021)**
 - Paper: https://arxiv.org/pdf/2105.05633
 - Code: https://github.com/rstrudel/segmenter
 - Contribution：Supervised ViT Segmentation，ViT Enconder + ViT Decoder
 
-**SegFormer (NeurIPS'2021)**
+**SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers (NeurIPS'2021)**
 - Paper: 
 - Code: 
 - Contribution：
