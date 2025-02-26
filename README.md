@@ -93,8 +93,8 @@
 
 **PoolFormer:MetaFormer is Actually What You Need for Vision (CVPR'2022)**
 - Paper: https://arxiv.org/pdf/2111.11418
-- Code: https://arxiv.org/pdf/2111.11418
-- Contribution：
+- Code: https://github.com/sail-sg/poolformer
+- Contribution：The success of ViT is not entirely due to attention mechanism, should be attributed to Transformer architecture. Replace the attention layer with a simple pooling layerin the ViT with a simple pooling layer.
 
 **SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation (NeurIPS'2022)**
 - Paper: https://arxiv.org/pdf/2209.08575
