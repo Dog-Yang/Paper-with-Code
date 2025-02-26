@@ -6,7 +6,7 @@
 - [Other Technologies](#Other)
 
 <a name="Classical"></a>
-# Classical segmentation method
+# Classical segmentation method（Supervised）
 **FCN: Fully convolutional networks (CVPR'2015)**
 - Paper: https://arxiv.org/abs/1411.4038
 - Code: https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn
