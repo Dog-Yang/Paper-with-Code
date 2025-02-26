@@ -84,12 +84,12 @@
 **BEiT: BERT Pre-Training of Image Transformers (ICLR'2022)**
 - Paper: https://arxiv.org/pdf/2106.08254
 - Code: https://github.com/microsoft/unilm/tree/master/beit
-- Contribution：
+- Contribution：Encoder：input mask image patches, output mask visual tokens, by dVAE；Decoder：input all visual tokens, output reconstruct image; loss only compute mask part by Cross-Entropy.
 
 **MAE: Masked Autoencoders Are Scalable Vision Learners (CVPR'2022)**
 - Paper: https://arxiv.org/pdf/2111.06377
 - Code: https://github.com/facebookresearch/mae
-- Contribution：
+- Contribution：Encoder：input unmask image patches, output unmask Embedding, by AutoEncoder；Decoder：input all Embedding(mask Embedding come from random Init), output reconstruct image; loss compute mask part by MSE(Mean Squared Error).
 
 **PoolFormer:MetaFormer is Actually What You Need for Vision (CVPR'2022)**
 - Paper: https://arxiv.org/pdf/2111.11418
