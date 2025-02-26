@@ -44,12 +44,12 @@
 **MaskFormer: Per-Pixel Classification is Not All You Need for Semantic Segmentation (CVPR'2021)**
 - Paper: https://arxiv.org/pdf/2107.06278
 - Code: https://github.com/facebookresearch/MaskFormer
-- Contribution：Consider the semantic segmentation task as Mask Classification(predicts a set of binary masks and predicts masks class)
+- Contribution：Consider the semantic segmentation task as Mask Classification(predicts a set of binary masks and predicts masks class); Architecture: Encoder + transformer decoder and pixel decoder
 
 **Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation (CVPR'2022)**
 - Paper: https://arxiv.org/pdf/2112.01527
 - Code: https://github.com/facebookresearch/Mask2Former
-- Contribution：
+- Contribution：Pixel Decoder multi-scale feature feed to transformer decoder layer; mask transformer decoder; Architecture: Encoder + mask transformer decoder and pixel decoder
 
 **VPD: Unleashing Text-to-Image Diffusion Models for Visual Perception (ICCV'2023)**
 - Paper: https://arxiv.org/pdf/2303.02153
