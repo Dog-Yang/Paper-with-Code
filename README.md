@@ -1,8 +1,8 @@
 # paper-list
 - [Classical segmentation methods](#Classical)
-- [backbone](#backbone)
+- [Backbone](#Backbone)
 - [Open vocabulary segmentation](#Open)
-- [Support Dataset](#Dataset)
+- [Dataset](#Dataset)
 - [Other Technologies](#Other)
 
 <a name="Classical"></a>
@@ -56,14 +56,8 @@
 - Code: https://github.com/wl-zhao/VPD
 - Contribution：
 
-**SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation (CVPR'2023)**
-- Paper: https://arxiv.org/pdf/2302.12242
-- Code: https://github.com/MendelXu/SAN
-- Contribution：
-
-
-<a name="backbone"></a>
-# backbone
+<a name="Backbone"></a>
+# Backbone
 **ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (ICLR'2021)**
 - Paper: https://arxiv.org/pdf/2010.11929
 - Code: https://github.com/google-research/vision_transformer
@@ -104,9 +98,13 @@
 
 <a name="Open"></a>
 # Open vocabulary segmentation
+**SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation (CVPR'2023)**
+- Paper: https://arxiv.org/pdf/2302.12242
+- Code: https://github.com/MendelXu/SAN
+- Contribution：
 
 <a name="Dataset"></a>
-# Supported datasets:
+# Datasets:
 - [x] [Cityscapes](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#cityscapes)
 - [x] [PASCAL VOC](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#pascal-voc)
 - [x] [ADE20K](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#ade20k)
