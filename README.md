@@ -26,29 +26,10 @@
 - Paper: https://arxiv.org/pdf/1901.02446
 - Contribution：Panoptic Feature Pyramid Networks
 
-
-**BiSeNetV2 (IJCV'2021)**
-- Paper: 
-- Code: 
-- Contribution：
-
-
-**STDC (CVPR'2021)**
-- Paper: 
-- Code: 
-- Contribution：
-
-
 **SETR: Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers (CVPR'2021)**
 - Paper: https://arxiv.org/pdf/2012.15840
 - Code: https://github.com/fudan-zvg/SETR
 - Contribution：ViT Encoder + 3 types of CNN decoders
-
-
-**DPT (ArXiv'2021)**
-- Paper: 
-- Code: 
-- Contribution：
 
 **Segmenter: Segmenter: Transformer for Semantic Segmentation (ICCV'2021)**
 - Paper: https://arxiv.org/pdf/2105.05633
@@ -59,11 +40,6 @@
 - Paper: https://arxiv.org/pdf/2105.15203
 - Code: https://github.com/NVlabs/SegFormer
 - Contribution：positional-encoding-free, Hierarchical Transformer Encoder, All-MLP decoder
-
-**K-Net (NeurIPS'2021)**
-- Paper: 
-- Code: 
-- Contribution：
 
 **Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation (CVPR'2022)**
 - Paper: https://arxiv.org/pdf/2112.01527
