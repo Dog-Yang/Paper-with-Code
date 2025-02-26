@@ -98,6 +98,10 @@
 
 <a name="Open"></a>
 # Open vocabulary segmentation
+**Review: Towards Open Vocabulary Learning:A Survey (TPAMI'2024)**
+- Paper: https://arxiv.org/pdf/2306.15880
+- Code: https://github.com/jianzongwu/Awesome-Open-Vocabulary
+
 **SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation (CVPR'2023)**
 - Paper: https://arxiv.org/pdf/2302.12242
 - Code: https://github.com/MendelXu/SAN
