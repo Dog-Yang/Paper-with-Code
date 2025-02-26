@@ -65,6 +65,22 @@
 - Code: 
 - Contribution：
 
+**Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation (CVPR'2022)**
+- Paper: https://arxiv.org/pdf/2112.01527
+- Code: https://github.com/facebookresearch/Mask2Former
+- Contribution：
+
+**VPD: Unleashing Text-to-Image Diffusion Models for Visual Perception (ICCV'2023)**
+- Paper: https://arxiv.org/pdf/2303.02153
+- Code: https://github.com/wl-zhao/VPD
+- Contribution：
+
+**SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation (CVPR'2023)**
+- Paper: https://arxiv.org/pdf/2302.12242
+- Code: https://github.com/MendelXu/SAN
+- Contribution：
+
+
 <a name="backbone"></a>
 # backbone
 **ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (ICLR'2021)**
