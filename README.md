@@ -99,7 +99,7 @@
 **SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation (NeurIPS'2022)**
 - Paper: https://arxiv.org/pdf/2209.08575
 - Code: https://github.com/Visual-Attention-Network/SegNeXt
-- Contribution：
+- Contribution：Attention by convolution, rather than transformer.
 
 <a name="Open"></a>
 # Open vocabulary segmentation
