@@ -1,6 +1,6 @@
 # paper-list
 - [Classical segmentation methods](#Classical)
-- [ViT sementation](#ViT)
+- [backbone](#backbone)
 - [Open vocabulary segmentation](#Open)
 - [Support Dataset](#Dataset)
 - [Other Technologies](#Other)
@@ -65,8 +65,12 @@
 - Code: 
 - Contribution：
 
-<a name="ViT"></a>
-# ViT backbone sementation
+<a name="backbone"></a>
+# backbone
+**Vision Transformer: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (ICLR'2021)**
+- Paper: https://arxiv.org/pdf/2010.11929
+- Code: https://github.com/google-research/vision_transformer
+
 **DeiT: Training data-efficient image transformers & distillation through attention**
 - Paper: https://arxiv.org/pdf/2012.12877
 - Contribution：Distillation Token；Teacher Model:CNN, Student model: ViT
