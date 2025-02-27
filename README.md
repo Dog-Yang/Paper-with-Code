@@ -102,12 +102,12 @@
 - Paper: https://arxiv.org/pdf/2306.15880
 - Code: https://github.com/jianzongwu/Awesome-Open-Vocabulary
 
-**Lseg: Language-driven semantic segmentation (ICLR, 2022)**
+**Lseg: Language-driven semantic segmentation (ICLR, 2022)(Supervised)**
 - Paper: https://arxiv.org/pdf/2201.03546
 - Code: https://github.com/isl-org/lang-seg
 - Contribution：Visual Encoder = DPT(Vit + Decoder), Text Encoder = transformer
 
-**GroupViT: Semantic Segmentation Emerges from Text Supervision(CVPR, 2022)**
+**GroupViT: Semantic Segmentation Emerges from Text Supervision(CVPR, 2022)(Unsupervised)**
 - Paper: https://arxiv.org/pdf/2202.11094
 - Code: https://github.com/NVlabs/GroupViT
 
