@@ -105,11 +105,12 @@
 **Lseg: Language-driven semantic segmentation (ICLR, 2022)(Supervised)**
 - Paper: https://arxiv.org/pdf/2201.03546
 - Code: https://github.com/isl-org/lang-seg
-- Contribution：Visual Encoder = DPT(Vit + Decoder), Text Encoder = transformer
+- Contribution：Visual Encoder = DPT(Vit + Decoder), Text Encoder = transformer; use CLIP pretrain parameters
 
 **GroupViT: Semantic Segmentation Emerges from Text Supervision(CVPR, 2022)(Unsupervised)**
 - Paper: https://arxiv.org/pdf/2202.11094
 - Code: https://github.com/NVlabs/GroupViT
+- Contribution：add segment token into transformer layers; use Grouping Block(attention) to reduce tokens num; training: Using global image features and text features compute loss function, inference like CLIP; From the beginning training, Do not use CLIP pre-training parameters.
 
 **Scaling Open-Vocabulary Image Segmentation with Image-Level Labels (ECCV, 2022)**
 - Paper: https://arxiv.org/pdf/2112.12143
