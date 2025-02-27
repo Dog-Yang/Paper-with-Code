@@ -1,7 +1,7 @@
 # paper-list
 - [Classical segmentation methods](#Classical)
 - [Backbone](#Backbone)
-- [Open vocabulary segmentation](#Open)
+- [Open vocabulary](#Open)
 - [Dataset](#Dataset)
 - [Other Technologies](#Other)
 
@@ -97,7 +97,7 @@
 - Contribution：Attention by convolution, rather than transformer.
 
 <a name="Open"></a>
-# Open vocabulary segmentation
+# Open vocabulary
 **Review: Towards Open Vocabulary Learning:A Survey (TPAMI'2024)**
 - Paper: https://arxiv.org/pdf/2306.15880
 - Code: https://github.com/jianzongwu/Awesome-Open-Vocabulary
@@ -107,6 +107,7 @@ Open-vocabulary object detection using captions(CVPR, 2021)
 - Paper: https://arxiv.org/pdf/2011.10678
 - Code: https://github.com/alirezazareian/ovr-cnn
 
+**Fisrt Open vocabulary object detection**
 Open-vocabulary object detection via vision and language knowledge distillation(ICLR, 2022)
 - Paper: https://arxiv.org/pdf/2104.13921
 - Code: https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild
@@ -116,6 +117,7 @@ Scaling Open-Vocabulary Image Segmentation with Image-Level Labels (ECCV, 2022)
 - Paper: https://arxiv.org/pdf/2112.12143
 - Code: N/A
 
+**Fisrt Open vocabulary segmentation**
 Language-driven semantic segmentation (ICLR, 2022)
 - Paper: https://arxiv.org/pdf/2201.03546
 - Code: https://github.com/isl-org/lang-seg
