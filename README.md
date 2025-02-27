@@ -102,27 +102,27 @@
 - Paper: https://arxiv.org/pdf/2306.15880
 - Code: https://github.com/jianzongwu/Awesome-Open-Vocabulary
 
-**Fisrt Open vocabulary object detection**
-- Open-vocabulary object detection using captions(CVPR, 2021)
-- Paper: https://arxiv.org/pdf/2011.10678
-- Code: https://github.com/alirezazareian/ovr-cnn
-
-- Open-vocabulary object detection via vision and language knowledge distillation(ICLR, 2022)
-- Paper: https://arxiv.org/pdf/2104.13921
-- Code: https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild
-
-**Fisrt Open vocabulary segmentation**
-- Language-driven semantic segmentation (ICLR, 2022)
+**Lseg: Language-driven semantic segmentation (ICLR, 2022)**
 - Paper: https://arxiv.org/pdf/2201.03546
 - Code: https://github.com/isl-org/lang-seg
+- Contribution：Visual Encoder = DPT(Vit + Decoder), Text Encoder = transformer
 
-- GroupViT: Semantic Segmentation Emerges from Text Supervision(CVPR, 2022)
+**GroupViT: Semantic Segmentation Emerges from Text Supervision(CVPR, 2022)**
 - Paper: https://arxiv.org/pdf/2202.11094
 - Code: https://github.com/NVlabs/GroupViT
 
-- Scaling Open-Vocabulary Image Segmentation with Image-Level Labels (ECCV, 2022)
+**Scaling Open-Vocabulary Image Segmentation with Image-Level Labels (ECCV, 2022)**
 - Paper: https://arxiv.org/pdf/2112.12143
 - Code: N/A
+
+**Open-vocabulary object detection using captions(CVPR, 2021)**
+- Paper: https://arxiv.org/pdf/2011.10678
+- Code: https://github.com/alirezazareian/ovr-cnn
+
+
+**Open-vocabulary object detection via vision and language knowledge distillation(ICLR, 2022)**
+- Paper: https://arxiv.org/pdf/2104.13921
+- Code: https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild
 
 **SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation (CVPR'2023)**
 - Paper: https://arxiv.org/pdf/2302.12242
