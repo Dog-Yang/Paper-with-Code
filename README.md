@@ -1,4 +1,4 @@
-# paper-list
+# Segmentation and Detection Paper with Code
 - [Classical segmentation methods](#Classical_Segmentation)
 - [Classical detection method](#Classical_detection)
 - [Backbone](#Backbone)
