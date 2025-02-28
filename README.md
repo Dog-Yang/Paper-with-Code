@@ -1,11 +1,12 @@
 # paper-list
-- [Classical segmentation methods](#Classical)
+- [Classical segmentation methods](#Classical Segmentation)
+- [Classical detection method](#Classical detection)
 - [Backbone](#Backbone)
 - [Open vocabulary](#Open)
 - [Dataset](#Dataset)
 - [Other Technologies](#Other)
 
-<a name="Classical"></a>
+<a name="Classical segmentation"></a>
 # Classical segmentation method（Supervised）
 **FCN: Fully convolutional networks (CVPR'2015)**
 - Paper: https://arxiv.org/abs/1411.4038
@@ -51,9 +52,30 @@
 - Code: https://github.com/facebookresearch/Mask2Former
 - Contribution：Pixel Decoder multi-scale feature feed to transformer decoder layer; mask transformer decoder; Architecture: Encoder + mask transformer decoder and pixel decoder
 
-**VPD: Unleashing Text-to-Image Diffusion Models for Visual Perception (ICCV'2023)**
-- Paper: https://arxiv.org/pdf/2303.02153
-- Code: https://github.com/wl-zhao/VPD
+<a name="Classical detection"></a>
+# Classical detection method
+**Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (NeurIPS'2015)**
+- Paper: https://arxiv.org/pdf/1506.01497
+- Contribution：End-to-End objection detection; Region Proposal Network(RPN)
+
+**DETR: End-to-End Object Detection with Transformers (ECCV'2020)**
+- Paper: https://arxiv.org/pdf/2005.12872
+- Code: https://github.com/facebookresearch/detr
+- Contribution：like title;  removing non-maximum suppression; bipartite matching.
+
+**Deformable DETR: Deformable DETR: Deformable Transformers for End-to-End Object Detection (ICLR'2021)**
+- Paper: https://arxiv.org/pdf/2010.04159
+- Code: https://github.com/fundamentalvision/Deformable-DETR
+- Contribution：
+
+**GLIP: Grounded Language-Image Pre-training (CVPR'2022)**
+- Paper: https://arxiv.org/pdf/2112.03857
+- Code: https://github.com/microsoft/GLIP
+- Contribution：
+
+**DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection (ICLR'2023)**
+- Paper: https://arxiv.org/pdf/2203.03605
+- Code: https://github.com/IDEA-Research/DINO
 - Contribution：
 
 <a name="Backbone"></a>
@@ -120,8 +142,7 @@
 - Paper: https://arxiv.org/pdf/2011.10678
 - Code: https://github.com/alirezazareian/ovr-cnn
 
-
-**Open-vocabulary object detection via vision and language knowledge distillation(ICLR, 2022)**
+**ViLD: Open-vocabulary object detection via vision and language knowledge distillation(ICLR, 2022)**
 - Paper: https://arxiv.org/pdf/2104.13921
 - Code: https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild
 
