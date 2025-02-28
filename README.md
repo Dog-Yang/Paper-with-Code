@@ -25,7 +25,7 @@
 
 **Semantic FPN ：Panoptic Feature Pyramid Networks(CVPR'2019)**
 - Paper: https://arxiv.org/pdf/1901.02446
-- Contribution：Panoptic Feature Pyramid Networks
+- Contribution：Like the title.
 
 **SETR: Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers (CVPR'2021)**
 - Paper: https://arxiv.org/pdf/2012.15840
@@ -61,7 +61,7 @@
 **DETR: End-to-End Object Detection with Transformers (ECCV'2020)**
 - Paper: https://arxiv.org/pdf/2005.12872
 - Code: https://github.com/facebookresearch/detr
-- Contribution：like title;  removing non-maximum suppression; bipartite matching.
+- Contribution：Like the title;  removing non-maximum suppression; bipartite matching.
 
 **Deformable DETR: Deformable DETR: Deformable Transformers for End-to-End Object Detection (ICLR'2021)**
 - Paper: https://arxiv.org/pdf/2010.04159
