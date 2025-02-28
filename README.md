@@ -1,12 +1,12 @@
 # paper-list
-- [Classical segmentation methods](#Classical Segmentation)
-- [Classical detection method](#Classical detection)
+- [Classical segmentation methods](#Classical_Segmentation)
+- [Classical detection method](#Classical_detection)
 - [Backbone](#Backbone)
 - [Open vocabulary](#Open)
 - [Dataset](#Dataset)
 - [Other Technologies](#Other)
 
-<a name="Classical segmentation"></a>
+<a name="Classical_Segmentation"></a>
 # Classical segmentation method（Supervised）
 **FCN: Fully convolutional networks (CVPR'2015)**
 - Paper: https://arxiv.org/abs/1411.4038
@@ -52,7 +52,7 @@
 - Code: https://github.com/facebookresearch/Mask2Former
 - Contribution：Pixel Decoder multi-scale feature feed to transformer decoder layer; mask transformer decoder; Architecture: Encoder + mask transformer decoder and pixel decoder
 
-<a name="Classical detection"></a>
+<a name="Classical_detection"></a>
 # Classical detection method
 **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (NeurIPS'2015)**
 - Paper: https://arxiv.org/pdf/1506.01497
