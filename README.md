@@ -141,10 +141,12 @@
 **Open-vocabulary object detection using captions(CVPR, 2021)**
 - Paper: https://arxiv.org/pdf/2011.10678
 - Code: https://github.com/alirezazareian/ovr-cnn
+- Contribution：
 
 **ViLD: Open-vocabulary object detection via vision and language knowledge distillation(ICLR, 2022)**
 - Paper: https://arxiv.org/pdf/2104.13921
 - Code: https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild
+- Contribution：
 
 **SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation (CVPR'2023)**
 - Paper: https://arxiv.org/pdf/2302.12242
