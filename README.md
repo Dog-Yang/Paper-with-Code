@@ -32,7 +32,7 @@
 - Code: https://github.com/fudan-zvg/SETR
 - Contribution：ViT Encoder + 3 types of CNN decoders
 
-**Segmenter: Segmenter: Transformer for Semantic Segmentation (ICCV'2021)**
+**Segmenter: Transformer for Semantic Segmentation (ICCV'2021)**
 - Paper: https://arxiv.org/pdf/2105.05633
 - Code: https://github.com/rstrudel/segmenter
 - Contribution：Supervised ViT Segmentation，ViT Enconder + ViT Decoder
