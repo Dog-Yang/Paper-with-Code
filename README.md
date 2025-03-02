@@ -139,6 +139,11 @@
 - Code: https://github.com/MendelXu/SAN
 - Contribution：
 
+**SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation (CVPR'2024)**
+- Paper: https://arxiv.org/pdf/2311.15537
+- Code: https://github.com/xb534/SED
+- Contribution：
+
 <a name="open_detection"></a>
 # Open vocabulary object detection
 **Open-vocabulary object detection using captions(CVPR, 2021)**
