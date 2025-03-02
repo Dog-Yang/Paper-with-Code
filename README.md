@@ -67,7 +67,7 @@
 **Deformable DETR: Deformable DETR: Deformable Transformers for End-to-End Object Detection (ICLR'2021)**
 - Paper: https://arxiv.org/pdf/2010.04159
 - Code: https://github.com/fundamentalvision/Deformable-DETR
-- Contribution：
+- Contribution：Multi-scale feature(Resnet 3block output reshape + concat  + GroupNorm); Attention map by linear layer instead of traditional q*k, Attention map is also smaller because the query only corresponds to a few keys; by linear layer compute dynamic offset(Because linear-layer-weight can be learned), then get sampling value.
 
 **DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection (ICLR'2023)**
 - Paper: https://arxiv.org/pdf/2203.03605
