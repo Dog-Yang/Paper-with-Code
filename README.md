@@ -154,7 +154,7 @@
 **GLIP: Grounded Language-Image Pre-training (CVPR'2022)**
 - Paper: https://arxiv.org/pdf/2112.03857
 - Code: https://github.com/microsoft/GLIP
-- Contribution：like CLIP do Language-Image Pre-training object detection; Difference: 1. Do self-attention between text and image embedding, then calculate the contrast loss. 2.There is more a Localization loss than classification task.
+- Contribution：Like CLIP do Language-Image Pre-training object detection;Base Swin Transformer ; Difference: 1. Do self-attention between text and image embedding, then calculate the contrast loss. 2.There is more a Localization loss than classification task.
 
 <a name="Dataset"></a>
 # Dataset:
