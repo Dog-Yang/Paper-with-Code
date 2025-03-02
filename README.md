@@ -69,11 +69,6 @@
 - Code: https://github.com/fundamentalvision/Deformable-DETR
 - Contribution：
 
-**GLIP: Grounded Language-Image Pre-training (CVPR'2022)**
-- Paper: https://arxiv.org/pdf/2112.03857
-- Code: https://github.com/microsoft/GLIP
-- Contribution：
-
 **DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection (ICLR'2023)**
 - Paper: https://arxiv.org/pdf/2203.03605
 - Code: https://github.com/IDEA-Research/DINO
@@ -155,6 +150,11 @@
 - Paper: https://arxiv.org/pdf/2104.13921
 - Code: https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild
 - Contribution：text embedding and ViLD region embedding(for Cropped Regions) compute cross-entropy loss; Vision Knowledge Distillation: ViLD region embedding(from Cropped Regions image) and CLIP image embedding(from Cropped Regions image) compute L1-loss,aims to study novel class from CLIP.
+
+**GLIP: Grounded Language-Image Pre-training (CVPR'2022)**
+- Paper: https://arxiv.org/pdf/2112.03857
+- Code: https://github.com/microsoft/GLIP
+- Contribution：
 
 <a name="Dataset"></a>
 # Dataset:
