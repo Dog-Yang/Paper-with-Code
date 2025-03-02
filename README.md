@@ -138,6 +138,13 @@
 - Paper: https://arxiv.org/pdf/2112.12143
 - Code: N/A
 
+**SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation (CVPR'2023)**
+- Paper: https://arxiv.org/pdf/2302.12242
+- Code: https://github.com/MendelXu/SAN
+- Contribution：
+
+
+object detection
 **Open-vocabulary object detection using captions(CVPR, 2021)**
 - Paper: https://arxiv.org/pdf/2011.10678
 - Code: https://github.com/alirezazareian/ovr-cnn
@@ -146,12 +153,7 @@
 **ViLD: Open-vocabulary object detection via vision and language knowledge distillation(ICLR, 2022)**
 - Paper: https://arxiv.org/pdf/2104.13921
 - Code: https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild
-- Contribution：
-
-**SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation (CVPR'2023)**
-- Paper: https://arxiv.org/pdf/2302.12242
-- Code: https://github.com/MendelXu/SAN
-- Contribution：s
+- Contribution：text embedding and ViLD region embedding(for Cropped Regions) compute cross-entropy loss; Vision Knowledge Distillation: ViLD region embedding(from Cropped Regions image) and CLIP image embedding(from Cropped Regions image) compute L1-loss,aims to study novel class from CLIP.
 
 <a name="Dataset"></a>
 # Dataset:
