@@ -9,7 +9,7 @@
 
 <a name="Classical_Segmentation"></a>
 # Classical segmentation method（Supervised）
-**FCN: Fully convolutional networks (CVPR'2015)**
+**FCN: Fully Convolutional Networks for Semantic Segmentation (CVPR'2015)**
 - Paper: https://arxiv.org/abs/1411.4038
 - Code: https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn
 
