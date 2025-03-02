@@ -2,7 +2,8 @@
 - [Classical segmentation methods](#Classical_Segmentation)
 - [Classical detection method](#Classical_detection)
 - [Backbone](#Backbone)
-- [Open vocabulary](#Open)
+- [Open vocabulary segmentation](#open_segmentation)
+- [Open vocabulary detection](#open_detection)
 - [Dataset](#Dataset)
 - [Other Technologies](#Other)
 
@@ -118,8 +119,8 @@
 - Code: https://github.com/Visual-Attention-Network/SegNeXt
 - Contribution：Attention by convolution, rather than transformer.
 
-<a name="Open"></a>
-# Open vocabulary
+<a name="open_segmentation"></a>
+# Open vocabulary segmentation
 **Review: Towards Open Vocabulary Learning:A Survey (TPAMI'2024)**
 - Paper: https://arxiv.org/pdf/2306.15880
 - Code: https://github.com/jianzongwu/Awesome-Open-Vocabulary
@@ -143,8 +144,8 @@
 - Code: https://github.com/MendelXu/SAN
 - Contribution：
 
-
-object detection
+<a name="open_detection"></a>
+# Open vocabulary object detection
 **Open-vocabulary object detection using captions(CVPR, 2021)**
 - Paper: https://arxiv.org/pdf/2011.10678
 - Code: https://github.com/alirezazareian/ovr-cnn
