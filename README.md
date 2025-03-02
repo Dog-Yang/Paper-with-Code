@@ -156,6 +156,11 @@
 - Code: https://github.com/microsoft/GLIP
 - Contribution：Like CLIP do Language-Image Pre-training object detection;Base Swin Transformer ; Difference: 1. Do self-attention between text and image embedding, then calculate the contrast loss. 2.There is more a Localization loss than classification task.
 
+**GLIPv2:Unifying Localization and VL Understanding (NeurIPS 2022)**
+- Paper: https://arxiv.org/pdf/2206.05836
+- Code: https://github.com/microsoft/GLIP
+- Contribution：A unified framework: Localization tasks(Object Detection; Instance Segmentation) and Understanding tasks(VL Grounding;Visual Question Answering;Image Caption)
+
 <a name="Dataset"></a>
 # Dataset:
 - [x] [Cityscapes](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#cityscapes)
