@@ -64,7 +64,7 @@
 - Code: https://github.com/facebookresearch/detr
 - Contribution：Like the title;  removing non-maximum suppression; bipartite matching.
 
-**Deformable DETR: Deformable DETR: Deformable Transformers for End-to-End Object Detection (ICLR'2021)**
+**Deformable DETR: Deformable Transformers for End-to-End Object Detection (ICLR'2021)**
 - Paper: https://arxiv.org/pdf/2010.04159
 - Code: https://github.com/fundamentalvision/Deformable-DETR
 - Contribution：Multi-scale feature(Resnet 3block output reshape + concat  + GroupNorm); Attention map by linear layer instead of traditional q*k, Attention map is also smaller because the query only corresponds to a few keys; by linear layer compute dynamic offset(Because linear-layer-weight can be learned), then get sampling value.
