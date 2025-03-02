@@ -151,7 +151,7 @@
 **SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation (CVPR'2023)**
 - Paper: https://arxiv.org/pdf/2302.12242
 - Code: https://github.com/MendelXu/SAN
-- Contribution：
+- Contribution：s
 
 <a name="Dataset"></a>
 # Dataset:
