@@ -114,6 +114,17 @@
 - Code: https://github.com/Visual-Attention-Network/SegNeXt
 - Contribution：Attention by convolution, rather than transformer.
 
+**SAM: Segment Anything(Arxiv'2023)**
+- Paper: https://arxiv.org/pdf/2304.02643
+- Code: https://github.com/facebookresearch/segment-anything
+- Demo: https://segment-anything.com/demo
+- Contribution：Image Encoder: MAE; Prompt Encoder: text(CLIP), points and boxes(positional encodings), mask(convolutions and summed element-wise); Mask Decoder: Transformer block; Prompt-Encoder and Mask-Decoder are efficient
+
+**SAM 2: Segment Anything in Images and Videos (Arxiv'2024)**
+- Paper: https://arxiv.org/pdf/2408.00714
+- Code: https://github.com/facebookresearch/sam2
+- Demo: https://sam2.metademolab.com/
+
 <a name="open_segmentation"></a>
 # Open vocabulary segmentation
 **Review: Towards Open Vocabulary Learning:A Survey (TPAMI'2024)**
