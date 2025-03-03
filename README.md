@@ -171,8 +171,8 @@
 - Contribution：
 
 **Segclip: Patch aggregation with learnable centers for open-vocabulary semantic segmentation  (ICML'2023)**
-- Paper: 
-- Code: 
+- Paper: https://arxiv.org/pdf/2211.14813
+- Code: https://github.com/ArrowLuo/SegCLIP
 - Contribution：
 
 **X-Decoder: Generalized decoding for pixel, image, and language (CVPR'2023)**
