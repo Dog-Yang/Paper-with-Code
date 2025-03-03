@@ -156,7 +156,7 @@
 - Code: https://github.com/NVlabs/GroupViT
 - Contribution：add segment token into transformer layers; use Grouping Block(attention) to reduce tokens num; training: Using global image features and text features compute loss function, inference like CLIP; From the beginning training, Do not use CLIP pre-training parameters.
 
-**Scaling Open-Vocabulary Image Segmentation with Image-Level Labels (ECCV, 2022)**
+**OpenSeg: Scaling Open-Vocabulary Image Segmentation with Image-Level Labels (ECCV, 2022)**
 - Paper: https://arxiv.org/pdf/2112.12143
 - Code: N/A
 
@@ -170,7 +170,10 @@
 - Code: https://github.com/bytedance/FreeSeg
 - Contribution：
 
-Segclip: Patch aggregation with learnable centers for open-vocabulary semantic segmentation  (ICML'2023)
+**Segclip: Patch aggregation with learnable centers for open-vocabulary semantic segmentation  (ICML'2023)**
+- Paper: 
+- Code: 
+- Contribution：
 
 **X-Decoder: Generalized decoding for pixel, image, and language (CVPR'2023)**
 - Paper: https://arxiv.org/pdf/2212.11270
@@ -184,11 +187,7 @@ Segclip: Patch aggregation with learnable centers for open-vocabulary semantic s
 
 **ViL-Seg: Open-world semantic segmentation via contrasting and clustering vision-language embedding(ECCV'2022)**
 - Paper: https://arxiv.org/pdf/2207.08455v2
-- Code: 
-- Contribution：
-
-- Paper: 
-- Code: 
+- Code: N/A
 - Contribution：
 
 **SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation (CVPR'2023)**
