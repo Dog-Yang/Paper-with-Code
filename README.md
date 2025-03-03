@@ -136,6 +136,21 @@
 - Code: https://github.com/isl-org/lang-seg
 - Contribution：Visual Encoder = DPT(Vit + Decoder), Text Encoder = transformer; use CLIP pretrain parameters
 
+**ZegFormer: Decoupling Zero-Shot Semantic Segmentation**
+- Paper: https://arxiv.org/pdf/2112.07910
+- Code: https://github.com/dingjiansw101/ZegFormer
+- Contribution：
+
+**MaskCLIP+: Extract Free Dense Labels from CLIP(ECCV'2022)**
+- Paper: https://arxiv.org/pdf/2112.01071
+- Code: https://github.com/chongzhou96/MaskCLIP
+- Contribution：
+
+**Open-Vocabulary Universal Image Segmentation with MaskCLIP(ICML'2023)**
+- Paper: https://arxiv.org/pdf/2208.08984
+- Code: https://github.com/mlpc-ucsd/MaskCLIP
+- Contribution：
+
 **GroupViT: Semantic Segmentation Emerges from Text Supervision(CVPR, 2022)(Unsupervised)**
 - Paper: https://arxiv.org/pdf/2202.11094
 - Code: https://github.com/NVlabs/GroupViT
@@ -144,6 +159,37 @@
 **Scaling Open-Vocabulary Image Segmentation with Image-Level Labels (ECCV, 2022)**
 - Paper: https://arxiv.org/pdf/2112.12143
 - Code: N/A
+
+**OpenSeeD: A simple framework for open-vocabulary segmentation and detection (ICCV'2023)**
+- Paper: https://arxiv.org/pdf/2303.08131
+- Code: https://github.com/IDEA-Research/OpenSeeD
+- Contribution：
+
+**Freeseg: Unified, universal and open-vocabulary image segmentation (CVPR'2023)**
+- Paper: https://arxiv.org/pdf/2303.17225
+- Code: https://github.com/bytedance/FreeSeg
+- Contribution：
+
+Segclip: Patch aggregation with learnable centers for open-vocabulary semantic segmentation  (ICML'2023)
+
+**X-Decoder: Generalized decoding for pixel, image, and language (CVPR'2023)**
+- Paper: https://arxiv.org/pdf/2212.11270
+- Code: https://github.com/microsoft/X-Decoder/tree/main
+- Contribution：
+
+**ODISE: Open-vocabulary panoptic segmentation with text-to-image diffusion models (CVPR'2023)**
+- Paper: https://arxiv.org/pdf/2303.04803
+- Code: https://github.com/NVlabs/ODISE
+- Contribution：
+
+**ViL-Seg: Open-world semantic segmentation via contrasting and clustering vision-language embedding(ECCV'2022)**
+- Paper: https://arxiv.org/pdf/2207.08455v2
+- Code: 
+- Contribution：
+
+- Paper: 
+- Code: 
+- Contribution：
 
 **SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation (CVPR'2023)**
 - Paper: https://arxiv.org/pdf/2302.12242
