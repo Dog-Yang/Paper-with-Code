@@ -139,7 +139,7 @@
 **ZegFormer: Decoupling Zero-Shot Semantic Segmentation**
 - Paper: https://arxiv.org/pdf/2112.07910
 - Code: https://github.com/dingjiansw101/ZegFormer
-- Contribution：
+- Contribution：A complex architecture = Maskformer + CLIP (like Maskformer do mask-classification)
 
 **MaskCLIP+: Extract Free Dense Labels from CLIP(ECCV'2022)**
 - Paper: https://arxiv.org/pdf/2112.01071
