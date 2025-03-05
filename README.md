@@ -114,6 +114,11 @@
 - Code: https://github.com/Visual-Attention-Network/SegNeXt
 - Contribution：Attention by convolution, rather than transformer.
 
+**OpenSeeD: A simple framework for open-vocabulary segmentation and detection (ICCV'2023)**
+- Paper: https://arxiv.org/pdf/2303.08131
+- Code: https://github.com/IDEA-Research/OpenSeeD
+- Contribution：Combined object detection data and panoramic segmentation data training, Before SAM.
+
 **SAM: Segment Anything(Arxiv'2023)**
 - Paper: https://arxiv.org/pdf/2304.02643
 - Code: https://github.com/facebookresearch/segment-anything
@@ -159,11 +164,6 @@
 **OpenSeg: Scaling Open-Vocabulary Image Segmentation with Image-Level Labels (ECCV, 2022)**
 - Paper: https://arxiv.org/pdf/2112.12143
 - Code: N/A
-
-**OpenSeeD: A simple framework for open-vocabulary segmentation and detection (ICCV'2023)**
-- Paper: https://arxiv.org/pdf/2303.08131
-- Code: https://github.com/IDEA-Research/OpenSeeD
-- Contribution：
 
 **Freeseg: Unified, universal and open-vocabulary image segmentation (CVPR'2023)**
 - Paper: https://arxiv.org/pdf/2303.17225
