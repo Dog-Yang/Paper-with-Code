@@ -151,7 +151,7 @@
 - Code: https://github.com/chongzhou96/MaskCLIP
 - Contribution：1.CLIP generates pseudo-labels to guide target-model(deeplabV2) predictions. 2.Over time, CLIP suboptimal target-model, then target model to generate pseudo-labels to self-training. 3.How does CLIP generate pseudo-labels:
 
-**Open-Vocabulary Universal Image Segmentation with MaskCLIP(ICML'2023)**
+**MaskCLIP: Open-Vocabulary Universal Image Segmentation with MaskCLIP(ICML'2023)**
 - Paper: https://arxiv.org/pdf/2208.08984
 - Code: https://github.com/mlpc-ucsd/MaskCLIP
 - Contribution：
