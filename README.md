@@ -145,7 +145,7 @@
 - Code: https://github.com/isl-org/lang-seg
 - Contribution：Visual Encoder = DPT(Vit + Decoder), Text Encoder = transformer; use CLIP pretrain parameters
 
-**ZegFormer: Decoupling Zero-Shot Semantic Segmentation**
+**ZegFormer: Decoupling Zero-Shot Semantic Segmentation (CVPR, 2022)**
 - Paper: https://arxiv.org/pdf/2112.07910
 - Code: https://github.com/dingjiansw101/ZegFormer
 - Contribution：A complex architecture = Maskformer + CLIP (like Maskformer do mask-classification)
