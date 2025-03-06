@@ -172,7 +172,7 @@
 **Freeseg: Unified, universal and open-vocabulary image segmentation (CVPR'2023)**
 - Paper: https://arxiv.org/pdf/2303.17225
 - Code: https://github.com/bytedance/FreeSeg
-- Contribution：
+- Contribution：A unified Open-Vocabulary Segmentation framework, for combine Semantic, Instance and Panoptic Segmentation; Architecture based on MaskFormer.
 
 **Segclip: Patch aggregation with learnable centers for open-vocabulary semantic segmentation  (ICML'2023)**
 - Paper: https://arxiv.org/pdf/2211.14813
