@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d357d5b4-e2fa-4f28-8c4d-60155095e811)# Segmentation and Detection Paper with Code
+![image](https://github.com/user-attachments/assets/931e8bd0-3ee0-4006-957d-5c8f25aa8a9f)![image](https://github.com/user-attachments/assets/d357d5b4-e2fa-4f28-8c4d-60155095e811)# Segmentation and Detection Paper with Code
 - [Classical segmentation methods](#Classical_Segmentation)
 - [Classical detection method](#Classical_detection)
 - [Backbone](#Backbone)
@@ -168,6 +168,7 @@
 **OpenSeg: Scaling Open-Vocabulary Image Segmentation with Image-Level Labels (ECCV, 2022)**
 - Paper: https://arxiv.org/pdf/2112.12143
 - Code: N/A
+- Contribution：Like segmentor(ICCV'2021) compute Segmentation-loss; Introduce Region-word grounding loss between Word embedding and mask-based pooling image embedding.
 
 **Freeseg: Unified, universal and open-vocabulary image segmentation (CVPR'2023)**
 - Paper: https://arxiv.org/pdf/2303.17225
