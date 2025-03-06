@@ -200,7 +200,7 @@
 - Code: https://github.com/xb534/SED
 - Contribution：
 
-Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding (CVPR'2024)
+**Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding (CVPR'2024)**
 - Paper: https://arxiv.org/pdf/2311.08046
 - Code: https://github.com/PKU-YuanGroup/Chat-UniVi
 - Contribution：
