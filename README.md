@@ -1,4 +1,4 @@
-# Segmentation and Detection Paper with Code
+![image](https://github.com/user-attachments/assets/d357d5b4-e2fa-4f28-8c4d-60155095e811)# Segmentation and Detection Paper with Code
 - [Classical segmentation methods](#Classical_Segmentation)
 - [Classical detection method](#Classical_detection)
 - [Backbone](#Backbone)
@@ -148,12 +148,12 @@
 **ZegFormer: Decoupling Zero-Shot Semantic Segmentation (CVPR, 2022)**
 - Paper: https://arxiv.org/pdf/2112.07910
 - Code: https://github.com/dingjiansw101/ZegFormer
-- Contribution：A complex architecture = Maskformer + CLIP (like Maskformer do mask-classification)
+- Contribution：A complex architecture = Maskformer (like Maskformer do mask-classification) + CLIP(Like CLIP zero-shot)
 
 **MaskCLIP+: Extract Free Dense Labels from CLIP(ECCV'2022)**
 - Paper: https://arxiv.org/pdf/2112.01071
 - Code: https://github.com/chongzhou96/MaskCLIP
-- Contribution：1.CLIP generates pseudo-labels to guide target-model(deeplabV2) predictions. 2.Over time, CLIP suboptimal target-model, then target model to generate pseudo-labels to self-training. 3.How does CLIP generate pseudo-labels:
+- Contribution：1.CLIP generates pseudo-labels to guide target-model(deeplabV2) predictions. 2.Over time, CLIP suboptimal target-model, then target model to generate pseudo-labels to self-training. 3.How does CLIP generate pseudo-labels.
 
 **MaskCLIP: Open-Vocabulary Universal Image Segmentation with MaskCLIP(ICML'2023)**
 - Paper: https://arxiv.org/pdf/2208.08984
