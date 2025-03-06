@@ -132,6 +132,10 @@
 
 <a name="open_segmentation"></a>
 # Open vocabulary segmentation
+**CLIP: Learning transferable visual models from natural language supervision (ICML'2021)**
+- Paper: https://arxiv.org/pdf/2103.00020
+- Code: https://github.com/OpenAI/CLIP
+
 **Review: Towards Open Vocabulary Learning:A Survey (TPAMI'2024)**
 - Paper: https://arxiv.org/pdf/2306.15880
 - Code: https://github.com/jianzongwu/Awesome-Open-Vocabulary
