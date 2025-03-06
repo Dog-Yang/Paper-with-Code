@@ -227,6 +227,10 @@ Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Im
 - Code: https://github.com/microsoft/GLIP
 - Contribution：A unified framework: Localization tasks(Object Detection; Instance Segmentation) and Understanding tasks(VL Grounding;Visual Question Answering;Image Caption)
 
+GroupVit: https://arxiv.org/pdf/2202.11094
+BoQ: https://arxiv.org/pdf/2405.07364
+Crica-VPR: https://arxiv.org/pdf/2402.19231
+
 <a name="Dataset"></a>
 # Dataset:
 - [x] [Cityscapes](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#cityscapes)
