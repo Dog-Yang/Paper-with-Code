@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/931e8bd0-3ee0-4006-957d-5c8f25aa8a9f)![image](https://github.com/user-attachments/assets/d357d5b4-e2fa-4f28-8c4d-60155095e811)# Segmentation and Detection Paper with Code
+# Segmentation and Detection Paper with Code
 - [Classical segmentation methods](#Classical_Segmentation)
 - [Classical detection method](#Classical_detection)
 - [Backbone](#Backbone)
