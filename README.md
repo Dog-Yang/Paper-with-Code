@@ -262,7 +262,7 @@ Crica-VPR: https://arxiv.org/pdf/2402.19231
 **pixel shuffle**
 - Paper: https://arxiv.org/pdf/1609.05158
 
-**DDPM: Denoising Diffusion Probabilistic Models**
+**DDPM: Denoising Diffusion Probabilistic Models(NeurIPS'2020)**
 - Paper: https://arxiv.org/pdf/2006.11239
 - Code: https://github.com/hojonathanho/diffusion
 - Contribution：First Diffusion Model
