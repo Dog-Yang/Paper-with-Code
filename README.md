@@ -175,10 +175,10 @@
 - Code: https://github.com/bytedance/FreeSeg
 - Contribution：A unified Open-Vocabulary Segmentation framework, for combine Semantic, Instance and Panoptic Segmentation; Architecture based on MaskFormer.
 
-**Segclip: Patch aggregation with learnable centers for open-vocabulary semantic segmentation  (ICML'2023)**
+**Segclip: Patch aggregation with learnable centers for open-vocabulary semantic segmentation  (ICML'2023)(Unsupervised)**
 - Paper: https://arxiv.org/pdf/2211.14813
 - Code: https://github.com/ArrowLuo/SegCLIP
-- Contribution：
+- Contribution：GroupViT(CVPR, 2022) improvement work.
 
 **X-Decoder: Generalized decoding for pixel, image, and language (CVPR'2023)**
 - Paper: https://arxiv.org/pdf/2212.11270
