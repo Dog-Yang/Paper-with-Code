@@ -173,17 +173,17 @@
 **Freeseg: Unified, universal and open-vocabulary image segmentation (CVPR'2023)**
 - Paper: https://arxiv.org/pdf/2303.17225
 - Code: https://github.com/bytedance/FreeSeg
-- Contribution：A unified Open-Vocabulary Segmentation framework, for combine Semantic, Instance and Panoptic Segmentation; Architecture based on MaskFormer.
+- Contribution：A unified Open-Vocabulary Segmentation framework, for combine Semantic, Instance and Panoptic Segmentation; Architecture based on Mask2Former, improvement work.
 
 **Segclip: Patch aggregation with learnable centers for open-vocabulary semantic segmentation  (ICML'2023)((Open-Vocabulary zero-shot))**
 - Paper: https://arxiv.org/pdf/2211.14813
 - Code: https://github.com/ArrowLuo/SegCLIP
-- Contribution：GroupViT(CVPR, 2022) improvement work. train: Contrastive loss between Image and text, reconstruction loss(MAE), superpixel based KL loss(between super-patch and mapping matrix from attention map); test: like CLIP.
+- Contribution：GroupViT(CVPR, 2022) improvement work. train: Contrastive loss between Image and text(supervise), MAE reconstruction loss(unsupervise), superpixel based KL loss(between super-patch and mapping matrix from attention map)(unsupervise); test: like CLIP.
 
 **X-Decoder: Generalized decoding for pixel, image, and language (CVPR'2023)**
 - Paper: https://arxiv.org/pdf/2212.11270
 - Code: https://github.com/microsoft/X-Decoder/tree/main
-- Contribution：
+- Contribution：Generalized decoding framework(include pixel-level image segmentation, image-level retrieval and visual-language tasks); Mask2Former improvement work.
 
 **ODISE: Open-vocabulary panoptic segmentation with text-to-image diffusion models (CVPR'2023)**
 - Paper: https://arxiv.org/pdf/2303.04803
@@ -261,3 +261,8 @@ Crica-VPR: https://arxiv.org/pdf/2402.19231
 # Other Technologies
 **pixel shuffle**
 - Paper: https://arxiv.org/pdf/1609.05158
+
+**DDPM: Denoising Diffusion Probabilistic Models**
+- Paper: https://arxiv.org/pdf/2006.11239
+- Code: https://github.com/hojonathanho/diffusion
+- Contribution：First Diffusion Model
