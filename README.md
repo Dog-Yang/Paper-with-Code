@@ -56,6 +56,20 @@
 [[code]](https://github.com/facebookresearch/Mask2Former)
 - Contribution：Pixel Decoder multi-scale feature feed to transformer decoder layer; mask transformer decoder; Architecture: Encoder + mask transformer decoder and pixel decoder
 
+| Year/Source | Title | Links |
+|-------------|------------------------------------------------------------|----------------------------------------------------------------|
+| 2015 CVPR   | **FCN: Fully Convolutional Networks for Semantic Segmentation** | [[paper]](https://arxiv.org/abs/1411.4038) [[code]](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn) |
+| 2016 MICCAI | **UNet: Convolutional Networks for Biomedical Image Segmentation** | [[paper]](https://arxiv.org/pdf/1505.04597) |
+| 2017 arXiv  | **DeepLabV3: Rethinking atrous convolution for semantic image segmentation** | [[paper]](https://arxiv.org/pdf/1706.05587) <details><summary>[Contribution]</summary>Atrous Convolution (Dilated Convolution)</details> |
+| 2018 CVPR   | **DeepLabV3+: Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation** | [[paper]](https://arxiv.org/pdf/1802.02611) <details><summary>[Contribution]</summary>The convolution layer and pooling layer is replaced by a depth-separable convolution</details> |
+| 2019 CVPR   | **Semantic FPN: Panoptic Feature Pyramid Networks** | [[paper]](https://arxiv.org/pdf/1901.02446) <details><summary>[Contribution]</summary>Like the title.</details> |
+| 2021 CVPR   | **SETR: Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers** | [[paper]](https://arxiv.org/pdf/2012.15840) [[code]](https://github.com/fudan-zvg/SETR) <details><summary>[Contribution]</summary>ViT Encoder + 3 types of CNN decoders</details> |
+| 2021 ICCV   | **Segmenter: Transformer for Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2105.05633) [[code]](https://github.com/rstrudel/segmenter) <details><summary>[Contribution]</summary>Supervised ViT Segmentation, ViT Encoder + ViT Decoder</details> |
+| 2021 NIPS   | **SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers** | [[paper]](https://arxiv.org/pdf/2105.15203) [[code]](https://github.com/NVlabs/SegFormer) <details><summary>[Contribution]</summary>Positional-encoding-free, Hierarchical Transformer Encoder, All-MLP decoder</details> |
+| 2021 CVPR   | **MaskFormer: Per-Pixel Classification is Not All You Need for Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2107.06278) [[code]](https://github.com/facebookresearch/MaskFormer) <details><summary>[Contribution]</summary>Consider the semantic segmentation task as Mask Classification (predicts a set of binary masks and predicts mask class) = Instance Segmentation + Instance Classification; Architecture: Encoder + Transformer Decoder and Pixel Decoder</details> |
+| 2022 CVPR   | **Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation** | [[paper]](https://arxiv.org/pdf/2112.01527) [[code]](https://github.com/facebookresearch/Mask2Former) <details><summary>[Contribution]</summary>Pixel Decoder multi-scale feature feed to Transformer Decoder layer; Mask Transformer Decoder; Architecture: Encoder + Mask Transformer Decoder and Pixel Decoder</details> |
+
+
 <a name="Classical_detection"></a>
 # Classical detection method
 [2015 NIPS] **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**
