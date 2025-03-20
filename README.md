@@ -122,13 +122,13 @@
 [2023 arxiv] **SAM: Segment Anything**
 [[paper]](https://arxiv.org/pdf/2304.02643)
 [[code]](https://github.com/facebookresearch/segment-anything)
-- Demo: https://segment-anything.com/demo
+[[demo]](https://segment-anything.com/demo)
 - Contribution：Image Encoder: MAE; Prompt Encoder: text(CLIP), points and boxes(positional encodings), mask(convolutions and summed element-wise); Mask Decoder: Transformer block; Prompt-Encoder and Mask-Decoder are efficient
 
 [2024 arxiv] **SAM 2: Segment Anything in Images and Videos**
 [[paper]](https://arxiv.org/pdf/2408.00714)
 [[code]](https://github.com/facebookresearch/sam2)
-- Demo: https://sam2.metademolab.com/
+[[demo]](https://sam2.metademolab.com/)
 
 <a name="open_segmentation"></a>
 # Open vocabulary segmentation
