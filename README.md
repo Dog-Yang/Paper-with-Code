@@ -10,14 +10,14 @@
 <a name="Classical_Segmentation"></a>
 # Classical segmentation method（Supervised）
 [2015 CVPR]**FCN: Fully Convolutional Networks for Semantic Segmentation**
-[paper]https://arxiv.org/abs/1411.4038
-[code]https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn
+[paper](https://arxiv.org/abs/1411.4038)
+[code](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)
 
 [2016 MICCAI]**UNet:Convolutional Networks for Biomedical Image Segmentation**
-[paper]https://arxiv.org/pdf/1505.04597
+[paper](https://arxiv.org/pdf/1505.04597)
 
 [2017 ArXiv]**DeepLabV3：Rethinking atrous convolution for semantic image segmentation**
-[paper]https://arxiv.org/pdf/1706.05587
+[paper](https://arxiv.org/pdf/1706.05587)
 - Contribution：Atrous Convolution(Dilated Convolution)
 
 [2018 CVPR]**DeepLabV3+ ：Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation**
@@ -25,38 +25,38 @@
 - Contribution：The convolution layer and pooling layer is replaced by a depth-separable convolution
 
 [2019 CVPR]**Semantic FPN ：Panoptic Feature Pyramid Networks**
-[paper]https://arxiv.org/pdf/1901.02446
+[paper](https://arxiv.org/pdf/1901.02446)
 - Contribution：Like the title.
 
 [2021 CVPR]**SETR: Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers**
-[paper]https://arxiv.org/pdf/2012.15840
-[code]https://github.com/fudan-zvg/SETR
+[paper](https://arxiv.org/pdf/2012.15840)
+[code](https://github.com/fudan-zvg/SETR)
 - Contribution：ViT Encoder + 3 types of CNN decoders
 
 [2021 ICCV]**Segmenter: Transformer for Semantic Segmentation**
-[paper]https://arxiv.org/pdf/2105.05633
-[code]https://github.com/rstrudel/segmenter
+[paper](https://arxiv.org/pdf/2105.05633)
+[code](https://github.com/rstrudel/segmenter)
 - Contribution：Supervised ViT Segmentation，ViT Enconder + ViT Decoder
 
 [2021 NeurIPS]**SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers**
-[paper]https://arxiv.org/pdf/2105.15203
-[code]https://github.com/NVlabs/SegFormer
+[paper](https://arxiv.org/pdf/2105.15203)
+[code](https://github.com/NVlabs/SegFormer)
 - Contribution：positional-encoding-free, Hierarchical Transformer Encoder, All-MLP decoder
 
 [2021 CVPR]**MaskFormer: Per-Pixel Classification is Not All You Need for Semantic Segmentation**
-[paper]https://arxiv.org/pdf/2107.06278
-[code]https://github.com/facebookresearch/MaskFormer
+[paper](https://arxiv.org/pdf/2107.06278)
+[code](https://github.com/facebookresearch/MaskFormer)
 - Contribution：Consider the semantic segmentation task as Mask Classification(predicts a set of binary masks and predicts masks class) = Instance Segmentation + Instance classification; Architecture: Encoder + transformer decoder and pixel decoder
 
 [2022 CVPR]**Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation**
-[paper]https://arxiv.org/pdf/2112.01527
-[code]https://github.com/facebookresearch/Mask2Former
+[paper](https://arxiv.org/pdf/2112.01527)
+[code](https://github.com/facebookresearch/Mask2Former)
 - Contribution：Pixel Decoder multi-scale feature feed to transformer decoder layer; mask transformer decoder; Architecture: Encoder + mask transformer decoder and pixel decoder
 
 <a name="Classical_detection"></a>
 # Classical detection method
 [2015 NeurIPS]**Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**
-[paper]https://arxiv.org/pdf/1506.01497
+[paper](https://arxiv.org/pdf/1506.01497)
 - Contribution：End-to-End objection detection; Region Proposal Network(RPN)
 
 [2020 ECCV]**DETR: End-to-End Object Detection with Transformers**
