@@ -60,12 +60,12 @@
 - Contribution：End-to-End objection detection; Region Proposal Network(RPN)
 
 [2020 ECCV]**DETR: End-to-End Object Detection with Transformers**
-[[paper]]https://arxiv.org/pdf/2005.12872
+[[paper]](https://arxiv.org/pdf/2005.12872)
 [[code]]https://github.com/facebookresearch/detr
 - Contribution：Like the title;  removing non-maximum suppression; bipartite matching.
 
 [2021 ICLR]**Deformable DETR: Deformable Transformers for End-to-End Object Detection**
-[[paper]]https://arxiv.org/pdf/2010.04159
+[paper](https://arxiv.org/pdf/2010.04159)
 [[code]]https://github.com/fundamentalvision/Deformable-DETR
 - Contribution：Multi-scale feature(Resnet 3block output reshape + concat  + GroupNorm); Attention map by linear layer instead of traditional q*k, Attention map is also smaller because the query only corresponds to a few keys; by linear layer compute dynamic offset(Because linear-layer-weight can be learned), then get sampling value.
 
