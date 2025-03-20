@@ -9,14 +9,14 @@
 
 <a name="Classical_Segmentation"></a>
 # Classical segmentation method（Supervised）
-[2015 CVPR]**FCN: Fully Convolutional Networks for Semantic Segmentation**
+[2015 CVPR] **FCN: Fully Convolutional Networks for Semantic Segmentation**
 [[paper]](https://arxiv.org/abs/1411.4038)
 [[code]](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)
 
-[2016 MICCAI]**UNet:Convolutional Networks for Biomedical Image Segmentation**
+[2016 MICCAI] **UNet:Convolutional Networks for Biomedical Image Segmentation**
 [[paper]](https://arxiv.org/pdf/1505.04597)
 
-[2017 ArXiv]**DeepLabV3：Rethinking atrous convolution for semantic image segmentation**
+[2017 ArXiv] **DeepLabV3：Rethinking atrous convolution for semantic image segmentation**
 [[paper]](https://arxiv.org/pdf/1706.05587)
 - Contribution：Atrous Convolution(Dilated Convolution)
 
