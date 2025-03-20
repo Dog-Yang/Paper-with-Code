@@ -35,159 +35,51 @@
 
 <a name="Backbone"></a>
 # Backbone
-[2021 ICLR] **ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale**
-[[paper]](https://arxiv.org/pdf/2010.11929)
-[[code]](https://github.com/google-research/vision_transformer)
-
-[2021 ICML] **DeiT: Training data-efficient image transformers & distillation through attention**
-[[paper]](https://arxiv.org/pdf/2012.12877)
-- summary：Distillation Token；Teacher Model:CNN, Student model: ViT
-
-[2021 ICCV] **Swin Transfomer: Hierarchical Vision Transformer using Shifted Windows**
-[[paper]](https://arxiv.org/pdf/2103.14030)
-[[code]](https://github.com/microsoft/Swin-Transformer)
-- summary：Sliding Window Attention + Patch Merging
-
-[2021 NIPS] **Twins: Revisiting the Design of Spatial Attention in Vision Transformers**
-[[paper]](https://arxiv.org/pdf/2104.13840)
-[[code]](https://github.com/Meituan-AutoML/Twins)
-- summary：Spatially Separable Self-Attention(SSSA)(Similar to separable convolution), Conditional Positional Encodings(CPE) in every transformer block
-
-[2022 ICLR] **BEiT: BERT Pre-Training of Image Transformers**
-[[paper]](https://arxiv.org/pdf/2106.08254)
-[[code]](https://github.com/microsoft/unilm/tree/master/beit)
-- summary：Encoder：input mask image patches, output mask visual tokens, by dVAE；Decoder：input all visual tokens, output reconstruct image; loss only compute mask part by Cross-Entropy.
-
-[2022 CVPR] **MAE: Masked Autoencoders Are Scalable Vision Learners**
-[[paper]](https://arxiv.org/pdf/2111.06377)
-[[code]](https://github.com/facebookresearch/mae)
-- summary：Encoder：input unmask image patches, output unmask Embedding, by AutoEncoder；Decoder：input all Embedding(mask Embedding come from random Init), output reconstruct image; loss compute mask part by MSE(Mean Squared Error).
-
-[2022 CVPR] **PoolFormer:MetaFormer is Actually What You Need for Vision**
-[[paper]](https://arxiv.org/pdf/2111.11418)
-[[code]](https://github.com/sail-sg/poolformer)
-- summary：The success of ViT is not entirely due to attention mechanism, should be attributed to Transformer architecture. Replace the attention layer with a simple pooling layerin the ViT with a simple pooling layer.
-
-[2022 NIPS] **SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation**
-[[paper]](https://arxiv.org/pdf/2209.08575)
-[[code]](https://github.com/Visual-Attention-Network/SegNeXt)
-- summary：Attention by convolution, rather than transformer.
-
-[2023 ICCV] **OpenSeeD: A simple framework for open-vocabulary segmentation and detection**
-[[paper]](https://arxiv.org/pdf/2303.08131)
-[[code]](https://github.com/IDEA-Research/OpenSeeD)
-- summary：Combined object detection data and panoramic segmentation data training, Before SAM.
-
-[2023 arxiv] **SAM: Segment Anything**
-[[paper]](https://arxiv.org/pdf/2304.02643)
-[[code]](https://github.com/facebookresearch/segment-anything)
-[[demo]](https://segment-anything.com/demo)
-- summary：Image Encoder: MAE; Prompt Encoder: text(CLIP), points and boxes(positional encodings), mask(convolutions and summed element-wise); Mask Decoder: Transformer block; Prompt-Encoder and Mask-Decoder are efficient
-
-[2024 arxiv] **SAM 2: Segment Anything in Images and Videos**
-[[paper]](https://arxiv.org/pdf/2408.00714)
-[[code]](https://github.com/facebookresearch/sam2)
-[[demo]](https://sam2.metademolab.com/)
+| Year/Source | Title | Links |
+|-------------|------------------------------------------------------------|----------------------------------------------------------------|
+| 2021 ICLR   | **ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale** | [[paper]](https://arxiv.org/pdf/2010.11929) [[code]](https://github.com/google-research/vision_transformer) |
+| 2021 ICML   | **DeiT: Training data-efficient image transformers & distillation through attention** | [[paper]](https://arxiv.org/pdf/2012.12877) <details><summary>[Summary]</summary>Distillation Token; Teacher Model: CNN, Student Model: ViT</details> |
+| 2021 ICCV   | **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows** | [[paper]](https://arxiv.org/pdf/2103.14030) [[code]](https://github.com/microsoft/Swin-Transformer) <details><summary>[Summary]</summary>Sliding Window Attention + Patch Merging</details> |
+| 2021 NIPS   | **Twins: Revisiting the Design of Spatial Attention in Vision Transformers** | [[paper]](https://arxiv.org/pdf/2104.13840) [[code]](https://github.com/Meituan-AutoML/Twins) <details><summary>[Summary]</summary>Spatially Separable Self-Attention (SSSA) (Similar to separable convolution), Conditional Positional Encodings (CPE) in every transformer block</details> |
+| 2022 ICLR   | **BEiT: BERT Pre-Training of Image Transformers** | [[paper]](https://arxiv.org/pdf/2106.08254) [[code]](https://github.com/microsoft/unilm/tree/master/beit) <details><summary>[Summary]</summary>Encoder: input masked image patches, output masked visual tokens via dVAE; Decoder: input all visual tokens, output reconstructed image; Loss computed only on masked parts using Cross-Entropy.</details> |
+| 2022 CVPR   | **MAE: Masked Autoencoders Are Scalable Vision Learners** | [[paper]](https://arxiv.org/pdf/2111.06377) [[code]](https://github.com/facebookresearch/mae) <details><summary>[Summary]</summary>Encoder: input unmasked image patches, output unmasked embeddings via AutoEncoder; Decoder: input all embeddings (masked embeddings initialized randomly), output reconstructed image; Loss computed on masked parts using MSE (Mean Squared Error).</details> |
+| 2022 CVPR   | **PoolFormer: MetaFormer is Actually What You Need for Vision** | [[paper]](https://arxiv.org/pdf/2111.11418) [[code]](https://github.com/sail-sg/poolformer) <details><summary>[Summary]</summary>The success of ViT is not entirely due to the attention mechanism but rather the Transformer architecture. Replaces the attention layer with a simple pooling layer.</details> |
+| 2022 NIPS   | **SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2209.08575) [[code]](https://github.com/Visual-Attention-Network/SegNeXt) <details><summary>[Summary]</summary>Attention by convolution instead of transformer.</details> |
+| 2023 ICCV   | **OpenSeeD: A simple framework for open-vocabulary segmentation and detection** | [[paper]](https://arxiv.org/pdf/2303.08131) [[code]](https://github.com/IDEA-Research/OpenSeeD) <details><summary>[Summary]</summary>Combines object detection data and panoramic segmentation data for training, preceding SAM.</details> |
+| 2023 arXiv  | **SAM: Segment Anything** | [[paper]](https://arxiv.org/pdf/2304.02643) [[code]](https://github.com/facebookresearch/segment-anything) [[demo]](https://segment-anything.com/demo) <details><summary>[Summary]</summary>Image Encoder: MAE; Prompt Encoder: text (CLIP), points and boxes (positional encodings), mask (convolutions and summed element-wise); Mask Decoder: Transformer block; Prompt-Encoder and Mask-Decoder are efficient.</details> |
+| 2024 arXiv  | **SAM 2: Segment Anything in Images and Videos** | [[paper]](https://arxiv.org/pdf/2408.00714) [[code]](https://github.com/facebookresearch/sam2) [[demo]](https://sam2.metademolab.com/) |
 
 <a name="open_segmentation"></a>
 # Open vocabulary segmentation
-[2021 ICML] **CLIP: Learning transferable visual models from natural language supervision**
-[[paper]](https://arxiv.org/pdf/2103.00020)
-[[code]](https://github.com/OpenAI/CLIP)
+| Year/Source | Title | Links |
+|-------------|------------------------------------------------------------|----------------------------------------------------------------|
+| 2021 ICML   | **CLIP: Learning transferable visual models from natural language supervision** | [[paper]](https://arxiv.org/pdf/2103.00020) [[code]](https://github.com/OpenAI/CLIP) |
+| 2024 TPAMI  | **Review: Towards Open Vocabulary Learning: A Survey** | [[paper]](https://arxiv.org/pdf/2306.15880) [[code]](https://github.com/jianzongwu/Awesome-Open-Vocabulary) |
+| 2022 ICLR   | **Lseg: Language-driven semantic segmentation (Supervised)** | [[paper]](https://arxiv.org/pdf/2201.03546) [[code]](https://github.com/isl-org/lang-seg) <details><summary>[Summary]</summary>Visual Encoder = DPT (ViT + Decoder), Text Encoder = Transformer; uses CLIP pre-trained parameters.</details> |
+| 2022 CVPR   | **ZegFormer: Decoupling Zero-Shot Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2112.07910) [[code]](https://github.com/dingjiansw101/ZegFormer) <details><summary>[Summary]</summary>Complex architecture = MaskFormer (mask classification) + CLIP (zero-shot learning).</details> |
+| 2022 ECCV   | **MaskCLIP+: Extract Free Dense Labels from CLIP** | [[paper]](https://arxiv.org/pdf/2112.01071) [[code]](https://github.com/chongzhou96/MaskCLIP) <details><summary>[Summary]</summary>1. CLIP generates pseudo-labels to guide the target model (DeepLabV2). 2. Over time, CLIP → suboptimal target model → target model self-training. 3. How CLIP generates pseudo-labels.</details> |
+| 2023 ICML   | **MaskCLIP: Open-Vocabulary Universal Image Segmentation with MaskCLIP** | [[paper]](https://arxiv.org/pdf/2208.08984) [[code]](https://github.com/mlpc-ucsd/MaskCLIP) |
+| 2022 CVPR   | **GroupViT: Semantic Segmentation Emerges from Text Supervision (Open-Vocabulary Zero-Shot)** | [[paper]](https://arxiv.org/pdf/2202.11094) [[code]](https://github.com/NVlabs/GroupViT) <details><summary>[Summary]</summary>Adds segment token into transformer layers; uses Grouping Block (attention) to reduce token count; trained from scratch, no CLIP pre-training.</details> |
+| 2022 ECCV   | **OpenSeg: Scaling Open-Vocabulary Image Segmentation with Image-Level Labels** | [[paper]](https://arxiv.org/pdf/2112.12143) <details><summary>[Summary]</summary>Similar to Segmentor (ICCV'2021); introduces region-word grounding loss between word embeddings and mask-based pooled image embeddings.</details> |
+| 2023 CVPR   | **FreeSeg: Unified, Universal, and Open-Vocabulary Image Segmentation** | [[paper]](https://arxiv.org/pdf/2303.17225) [[code]](https://github.com/bytedance/FreeSeg) <details><summary>[Summary]</summary>A unified open-vocabulary segmentation framework combining semantic, instance, and panoptic segmentation; based on Mask2Former with improvements.</details> |
+| 2023 ICML   | **SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation (Zero-Shot)** | [[paper]](https://arxiv.org/pdf/2211.14813) [[code]](https://github.com/ArrowLuo/SegCLIP) <details><summary>[Summary]</summary>Improves upon GroupViT (CVPR 2022). Training: contrastive loss (image-text, supervised), MAE reconstruction loss (unsupervised), superpixel-based KL loss. Testing: CLIP-like inference.</details> |
+| 2023 CVPR   | **X-Decoder: Generalized Decoding for Pixel, Image, and Language** | [[paper]](https://arxiv.org/pdf/2212.11270) [[code]](https://github.com/microsoft/X-Decoder/tree/main) <details><summary>[Summary]</summary>Generalized decoding framework covering pixel-level image segmentation, image retrieval, and visual-language tasks; improvement over Mask2Former.</details> |
+| 2023 CVPR   | **ODISE: Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models** | [[paper]](https://arxiv.org/pdf/2303.04803) [[code]](https://github.com/NVlabs/ODISE) |
+| 2022 ECCV   | **ViL-Seg: Open-World Semantic Segmentation via Contrasting and Clustering Vision-Language Embeddings** | [[paper]](https://arxiv.org/pdf/2207.08455v2) |
+| 2023 CVPR   | **SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2302.12242) [[code]](https://github.com/MendelXu/SAN) |
+| 2024 CVPR   | **SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2311.15537) [[code]](https://github.com/xb534/SED) |
+| 2024 CVPR   | **Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding** | [[paper]](https://arxiv.org/pdf/2311.08046) [[code]](https://github.com/PKU-YuanGroup/Chat-UniVi) |
 
-[2024 TPAMI] **Review: Towards Open Vocabulary Learning:A Survey**
-[[paper]](https://arxiv.org/pdf/2306.15880)
-[[code]](https://github.com/jianzongwu/Awesome-Open-Vocabulary)
-
-[2022 ICLR] **Lseg: Language-driven semantic segmentation(Supervised)**
-[[paper]](https://arxiv.org/pdf/2201.03546)
-[[code]](https://github.com/isl-org/lang-seg)
-- summary：Visual Encoder = DPT(Vit + Decoder), Text Encoder = transformer; use CLIP pretrain parameters
-
-[2022 CVPR] **ZegFormer: Decoupling Zero-Shot Semantic Segmentation**
-[[paper]](https://arxiv.org/pdf/2112.07910)
-[[code]](https://github.com/dingjiansw101/ZegFormer)
-- summary：A complex architecture = Maskformer (like Maskformer do mask-classification) + CLIP(Like CLIP zero-shot)
-
-[2022 ECCV] **MaskCLIP+: Extract Free Dense Labels from CLIP**
-[[paper]](https://arxiv.org/pdf/2112.01071)
-[[code]](https://github.com/chongzhou96/MaskCLIP)
-- summary：1.CLIP generates pseudo-labels to guide target-model(deeplabV2) predictions. 2.Over time, CLIP suboptimal target-model, then target model to generate pseudo-labels to self-training. 3.How does CLIP generate pseudo-labels.
-
-[2023 ICML] **MaskCLIP: Open-Vocabulary Universal Image Segmentation with MaskCLIP**
-[[paper]](https://arxiv.org/pdf/2208.08984)
-[[code]](https://github.com/mlpc-ucsd/MaskCLIP)
-- summary：
-
-[2022 CVPR] **GroupViT: Semantic Segmentation Emerges from Text Supervision(Open-Vocabulary zero-shot)**
-[[paper]](https://arxiv.org/pdf/2202.11094)
-[[code]](https://github.com/NVlabs/GroupViT)
-- summary：add segment token into transformer layers; use Grouping Block(attention) to reduce tokens num; training: Using global image features and text features compute loss function, inference like CLIP; From the beginning training, Do not use CLIP pre-training parameters.
-
-[2022 ECCV] **OpenSeg: Scaling Open-Vocabulary Image Segmentation with Image-Level Labels**
-[[paper]](https://arxiv.org/pdf/2112.12143)
-- summary：Like segmentor(ICCV'2021) compute Segmentation-loss; Introduce Region-word grounding loss between Word embedding and mask-based pooling image embedding.
-
-[2023 CVPR] **Freeseg: Unified, universal and open-vocabulary image segmentation**
-[[paper]](https://arxiv.org/pdf/2303.17225)
-[[code]](https://github.com/bytedance/FreeSeg)
-- summary：A unified Open-Vocabulary Segmentation framework, for combine Semantic, Instance and Panoptic Segmentation; Architecture based on Mask2Former, improvement work.
-
-[2023 ICML] **Segclip: Patch aggregation with learnable centers for open-vocabulary semantic segmentation(Open-Vocabulary zero-shot)**
-[[paper]](https://arxiv.org/pdf/2211.14813)
-[[code]](https://github.com/ArrowLuo/SegCLIP)
-- summary：GroupViT(CVPR, 2022) improvement work. train: Contrastive loss between Image and text(supervise), MAE reconstruction loss(unsupervise), superpixel based KL loss(between super-patch and mapping matrix from attention map)(unsupervise); test: like CLIP.
-
-[2023 CVPR] **X-Decoder: Generalized decoding for pixel, image, and language**
-[[paper]](https://arxiv.org/pdf/2212.11270)
-[[code]](https://github.com/microsoft/X-Decoder/tree/main)
-- summary：Generalized decoding framework(include pixel-level image segmentation, image-level retrieval and visual-language tasks); Mask2Former improvement work.
-
-[2023 CVPR] **ODISE: Open-vocabulary panoptic segmentation with text-to-image diffusion models**
-[[paper]](https://arxiv.org/pdf/2303.04803)
-[[code]](https://github.com/NVlabs/ODISE)
-- summary：
-
-[2022 ECCV] **ViL-Seg: Open-world semantic segmentation via contrasting and clustering vision-language embedding**
-[[paper]](https://arxiv.org/pdf/2207.08455v2)
-- summary：
-
-[2023 CVPR] **SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation**
-[[paper]](https://arxiv.org/pdf/2302.12242)
-[[code]](https://github.com/MendelXu/SAN)
-- summary：
-
-[2024 CVPR] **SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation**
-[[paper]](https://arxiv.org/pdf/2311.15537)
-[[code]](https://github.com/xb534/SED)
-- summary：
-
-[2024 CVPR] **Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding**
-[[paper]](https://arxiv.org/pdf/2311.08046)
-[[code]](https://github.com/PKU-YuanGroup/Chat-UniVi)
-- summary：
 
 <a name="open_detection"></a>
 # Open vocabulary object detection
-[2021 CVPR] **Open-vocabulary object detection using captions**
-[[paper]](https://arxiv.org/pdf/2011.10678)
-[[code]](https://github.com/alirezazareian/ovr-cnn)
-- summary：
+| Year/Source | Title | Links |
+|-------------|------------------------------------------------------------|----------------------------------------------------------------|
+| 2021 CVPR   | **Open-Vocabulary Object Detection Using Captions** | [[paper]](https://arxiv.org/pdf/2011.10678) [[code]](https://github.com/alirezazareian/ovr-cnn) |
+| 2022 ICLR   | **ViLD: Open-Vocabulary Object Detection via Vision and Language Knowledge Distillation** | [[paper]](https://arxiv.org/pdf/2104.13921) [[code]](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild) <details><summary>[Summary]</summary>Text embedding and ViLD region embedding (for cropped regions) compute cross-entropy loss. Vision Knowledge Distillation: ViLD region embedding (from cropped image regions) and CLIP image embedding compute L1 loss, enabling novel class learning from CLIP.</details> |
+| 2022 CVPR   | **GLIP: Grounded Language-Image Pre-training** | [[paper]](https://arxiv.org/pdf/2112.03857) [[code]](https://github.com/microsoft/GLIP) <details><summary>[Summary]</summary>Similar to CLIP's language-image pretraining but for object detection. Uses Swin Transformer as backbone. Differences: (1) Self-attention between text and image embeddings before contrastive loss calculation. (2) Adds a localization loss beyond classification.</details> |
+| 2022 NIPS   | **GLIPv2: Unifying Localization and Vision-Language Understanding** | [[paper]](https://arxiv.org/pdf/2206.05836) [[code]](https://github.com/microsoft/GLIP) <details><summary>[Summary]</summary>A unified framework for both localization tasks (object detection, instance segmentation) and understanding tasks (VL grounding, visual question answering, image captioning).</details> |
 
-[2022 ICLR] **ViLD: Open-vocabulary object detection via vision and language knowledge distillation**
-[[paper]](https://arxiv.org/pdf/2104.13921)
-[[code]](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)
-- summary：text embedding and ViLD region embedding(for Cropped Regions) compute cross-entropy loss; Vision Knowledge Distillation: ViLD region embedding(from Cropped Regions image) and CLIP image embedding(from Cropped Regions image) compute L1-loss,aims to study novel class from CLIP.
-
-[2022 CVPR] **GLIP: Grounded Language-Image Pre-training**
-[[paper]](https://arxiv.org/pdf/2112.03857)
-[[code]](https://github.com/microsoft/GLIP)
-- summary：Like CLIP do Language-Image Pre-training object detection;Base Swin Transformer ; Difference: 1. Do self-attention between text and image embedding, then calculate the contrast loss. 2.There is more a Localization loss than classification task.
-
-[2022 NIPS] **GLIPv2:Unifying Localization and VL Understanding**
-[[paper]](https://arxiv.org/pdf/2206.05836)
-[[code]](https://github.com/microsoft/GLIP)
-- summary：A unified framework: Localization tasks(Object Detection; Instance Segmentation) and Understanding tasks(VL Grounding;Visual Question Answering;Image Caption)
 
 GroupVit: https://arxiv.org/pdf/2202.11094
 BoQ: https://arxiv.org/pdf/2405.07364
