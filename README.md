@@ -1,4 +1,4 @@
-# Dense prediction [paper] with Code
+# Dense prediction paper with code
 - [Classical segmentation methods](#Classical_Segmentation)
 - [Classical detection method](#Classical_detection)
 - [Backbone](#Backbone)
