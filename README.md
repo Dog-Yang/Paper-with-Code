@@ -80,7 +80,7 @@
 [[paper]](https://arxiv.org/pdf/2010.11929)
 [[code]](https://github.com/google-research/vision_transformer)
 
-[] **DeiT: Training data-efficient image transformers & distillation through attention**
+[2021 ICML] **DeiT: Training data-efficient image transformers & distillation through attention**
 [[paper]](https://arxiv.org/pdf/2012.12877)
 - Contribution：Distillation Token；Teacher Model:CNN, Student model: ViT
 
