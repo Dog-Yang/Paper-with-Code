@@ -61,7 +61,7 @@
 
 [2020 ECCV] **DETR: End-to-End Object Detection with Transformers**
 [[paper]](https://arxiv.org/pdf/2005.12872)
-[code]https://github.com/facebookresearch/detr
+[[code]](https://github.com/facebookresearch/detr)
 - Contribution：Like the title;  removing non-maximum suppression; bipartite matching.
 
 [2021 ICLR] **Deformable DETR: Deformable Transformers for End-to-End Object Detection**
@@ -167,7 +167,6 @@
 
 [2022 ECCV] **OpenSeg: Scaling Open-Vocabulary Image Segmentation with Image-Level Labels**
 [[paper]](https://arxiv.org/pdf/2112.12143)
-[code]N/A
 - Contribution：Like segmentor(ICCV'2021) compute Segmentation-loss; Introduce Region-word grounding loss between Word embedding and mask-based pooling image embedding.
 
 [2023 CVPR] **Freeseg: Unified, universal and open-vocabulary image segmentation**
@@ -192,7 +191,6 @@
 
 [2022 ECCV] **ViL-Seg: Open-world semantic segmentation via contrasting and clustering vision-language embedding**
 [[paper]](https://arxiv.org/pdf/2207.08455v2)
-[code]N/A
 - Contribution：
 
 [2023 CVPR] **SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation**
