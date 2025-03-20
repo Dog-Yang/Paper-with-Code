@@ -18,12 +18,9 @@
 
 [2017 arxiv] **DeepLabV3：Rethinking atrous convolution for semantic image segmentation**
 [[paper]](https://arxiv.org/pdf/1706.05587)
-- Contribution：Atrous Convolution(Dilated Convolution)
 <details>
 <summary>[Contribution]</summary>
-
-ViT Encoder + 3 types of CNN decoders
-
+Atrous Convolution(Dilated Convolution)
 </details>
 
 
