@@ -19,7 +19,7 @@
 [2017 arxiv] **DeepLabV3：Rethinking atrous convolution for semantic image segmentation**
 [[paper]](https://arxiv.org/pdf/1706.05587)
 
-
+[2017 arxiv] **DeepLabV3：Rethinking atrous convolution for semantic image segmentation**
 | [[paper]](https://arxiv.org/pdf/1706.05587) | <details><summary>[Contribution]</summary>Atrous Convolution (Dilated Convolution)</details> |
 | ------------------------------------------ | ------------------------------------------------------------ |
 
