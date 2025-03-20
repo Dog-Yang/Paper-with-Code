@@ -21,7 +21,7 @@
 - Contribution：Atrous Convolution(Dilated Convolution)
 
 [2018 CVPR]**DeepLabV3+ ：Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation**
-- Paper: https://arxiv.org/pdf/1802.02611
+[Paper](https://arxiv.org/pdf/1802.02611)
 - Contribution：The convolution layer and pooling layer is replaced by a depth-separable convolution
 
 [2019 CVPR]**Semantic FPN ：Panoptic Feature Pyramid Networks**
