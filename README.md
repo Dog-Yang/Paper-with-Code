@@ -25,24 +25,13 @@
 
 <a name="Classical_detection"></a>
 # Classical detection method
-[2015 NIPS] **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**
-[[paper]](https://arxiv.org/pdf/1506.01497)
-- summary：End-to-End objection detection; Region Proposal Network(RPN)
+| Year/Source | Title | Links |
+|-------------|------------------------------------------------------------|----------------------------------------------------------------|
+| 2015 NIPS   | **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks** | [[paper]](https://arxiv.org/pdf/1506.01497) <details><summary>[Summary]</summary>End-to-End object detection; Region Proposal Network (RPN)</details> |
+| 2020 ECCV   | **DETR: End-to-End Object Detection with Transformers** | [[paper]](https://arxiv.org/pdf/2005.12872) [[code]](https://github.com/facebookresearch/detr) <details><summary>[Summary]</summary>Like the title; Removing non-maximum suppression; Bipartite matching.</details> |
+| 2021 ICLR   | **Deformable DETR: Deformable Transformers for End-to-End Object Detection** | [[paper]](https://arxiv.org/pdf/2010.04159) [[code]](https://github.com/fundamentalvision/Deformable-DETR) <details><summary>[Summary]</summary>Multi-scale feature (ResNet 3-block output reshape + concat + GroupNorm); Attention map by linear layer instead of traditional q*k; Attention map is also smaller because the query only corresponds to a few keys; By linear layer compute dynamic offset (Because linear-layer-weight can be learned), then get sampling value.</details> |
+| 2023 ICLR   | **DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection** | [[paper]](https://arxiv.org/pdf/2203.03605) [[code]](https://github.com/IDEA-Research/DINO) <details><summary>[Summary]</summary>To be added.</details> |
 
-[2020 ECCV] **DETR: End-to-End Object Detection with Transformers**
-[[paper]](https://arxiv.org/pdf/2005.12872)
-[[code]](https://github.com/facebookresearch/detr)
-- summary：Like the title;  removing non-maximum suppression; bipartite matching.
-
-[2021 ICLR] **Deformable DETR: Deformable Transformers for End-to-End Object Detection**
-[[paper]](https://arxiv.org/pdf/2010.04159)
-[[code]](https://github.com/fundamentalvision/Deformable-DETR)
-- summary：Multi-scale feature(Resnet 3block output reshape + concat  + GroupNorm); Attention map by linear layer instead of traditional q*k, Attention map is also smaller because the query only corresponds to a few keys; by linear layer compute dynamic offset(Because linear-layer-weight can be learned), then get sampling value.
-
-[2023 ICLR] **DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection**
-[[paper]](https://arxiv.org/pdf/2203.03605)
-[[code]](https://github.com/IDEA-Research/DINO)
-- summary：
 
 <a name="Backbone"></a>
 # Backbone
