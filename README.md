@@ -91,11 +91,6 @@
 | 2024 Arxiv   | **Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers** | [[paper]](https://arxiv.org/pdf/2403.10030) [[code]](https://github.com/mlvlab/MCTF) |
 | 2024 NeurIPS | **SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition** | [[paper]](https://papers.nips.cc/paper_files/paper/2024/file/0b135d408253205ba501d55c6539bfc7-Paper-Conference.pdf) [[code]](https://github.com/lu-feng/SuperVLAD) |
 
-
-GroupVit: https://arxiv.org/pdf/2202.11094
-BoQ: https://arxiv.org/pdf/2405.07364
-Crica-VPR: https://arxiv.org/pdf/2402.19231
-
 <a name="Dataset"></a>
 # Dataset:
 - [x][Cityscapes](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#cityscapes)
