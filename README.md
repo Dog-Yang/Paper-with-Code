@@ -23,6 +23,7 @@
 | 2022 CVPR   | **Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation** | [[paper]](https://arxiv.org/pdf/2112.01527) [[code]](https://github.com/facebookresearch/Mask2Former) <details><summary>[summary]</summary>Pixel Decoder multi-scale feature feed to Transformer Decoder layer; Mask Transformer Decoder; Architecture: Encoder + Mask Transformer Decoder and Pixel Decoder</details> |
 
 
+
 <a name="Classical_detection"></a>
 # Classical detection method
 | Year/Source | Title | Links |
@@ -80,16 +81,18 @@
 | 2022 CVPR   | **GLIP: Grounded Language-Image Pre-training** | [[paper]](https://arxiv.org/pdf/2112.03857) [[code]](https://github.com/microsoft/GLIP) <details><summary>[Summary]</summary>Similar to CLIP's language-image pretraining but for object detection. Uses Swin Transformer as backbone. Differences: (1) Self-attention between text and image embeddings before contrastive loss calculation. (2) Adds a localization loss beyond classification.</details> |
 | 2022 NIPS   | **GLIPv2: Unifying Localization and Vision-Language Understanding** | [[paper]](https://arxiv.org/pdf/2206.05836) [[code]](https://github.com/microsoft/GLIP) <details><summary>[Summary]</summary>A unified framework for both localization tasks (object detection, instance segmentation) and understanding tasks (VL grounding, visual question answering, image captioning).</details> |
 
-
+<a name="VPR"></a>
+# Visual Place Recognition
 | Year/Source | Title | Links |
 |-------------|------------------------------------------------------------|----------------------------------------------------------------|
+| 2024 CVPR   | **CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition** | [[paper]](https://arxiv.org/pdf/2402.19231) [[code]](https://github.com/Lu-Feng/CricaVPR) |
+| 2024 NeurIPS | **SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition** | [[paper]](https://papers.nips.cc/paper_files/paper/2024/file/0b135d408253205ba501d55c6539bfc7-Paper-Conference.pdf) 
+[[code]](https://github.com/lu-feng/SuperVLAD) |
 | 2022 CVPR   | **GroupViT: Semantic Segmentation Emerges from Text Supervision** | [[paper]](https://arxiv.org/pdf/2202.11094) [[code]](https://github.com/NVlabs/GroupViT) |
 | 2024 CVPR   | **BoQ: A Place is Worth a Bag of Learnable Queries** | [[paper]](https://arxiv.org/pdf/2405.07364) [[code]](https://github.com/amaralibey/Bag-of-Queries) |
-| 2024 CVPR   | **CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition** | [[paper]](https://arxiv.org/pdf/2402.19231) [[code]](https://github.com/Lu-Feng/CricaVPR) |
 | 2023 CVPR   | **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models** | [[paper]](https://arxiv.org/pdf/2301.12597) [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |
 | 2023 ICLR   | **GPVIT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation** | [[paper]](https://arxiv.org/pdf/2212.06795) [[code]](https://github.com/ChenhongyiYang/GPViT) |
 | 2024 CVPR   | **Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers** | [[paper]](https://arxiv.org/pdf/2403.10030) [[code]](https://github.com/mlvlab/MCTF) |
-| 2024 NeurIPS | **SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition** | [[paper]](https://papers.nips.cc/paper_files/paper/2024/file/0b135d408253205ba501d55c6539bfc7-Paper-Conference.pdf) [[code]](https://github.com/lu-feng/SuperVLAD) |
 
 <a name="Dataset"></a>
 # Dataset:
