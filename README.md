@@ -81,6 +81,17 @@
 | 2022 NIPS   | **GLIPv2: Unifying Localization and Vision-Language Understanding** | [[paper]](https://arxiv.org/pdf/2206.05836) [[code]](https://github.com/microsoft/GLIP) <details><summary>[Summary]</summary>A unified framework for both localization tasks (object detection, instance segmentation) and understanding tasks (VL grounding, visual question answering, image captioning).</details> |
 
 
+| Year/Source | Title | Links |
+|-------------|------------------------------------------------------------|----------------------------------------------------------------|
+| 2022 Arxiv   | **GroupViT: Semantic Segmentation Emerges from Text Supervision** | [[paper]](https://arxiv.org/pdf/2202.11094) [[code]](https://github.com/NVlabs/GroupViT) |
+| 2024 Arxiv   | **BoQ: A Place is Worth a Bag of Learnable Queries** | [[paper]](https://arxiv.org/pdf/2405.07364) [[code]](https://github.com/amaralibey/Bag-of-Queries) |
+| 2024 Arxiv   | **CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition** | [[paper]](https://arxiv.org/pdf/2402.19231) [[code]](https://github.com/Lu-Feng/CricaVPR) |
+| 2023 Arxiv   | **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models** | [[paper]](https://arxiv.org/pdf/2301.12597) [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |
+| 2022 Arxiv   | **GPVIT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation** | [[paper]](https://arxiv.org/pdf/2212.06795) [[code]](https://github.com/ChenhongyiYang/GPViT) |
+| 2024 Arxiv   | **Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers** | [[paper]](https://arxiv.org/pdf/2403.10030) [[code]](https://github.com/mlvlab/MCTF) |
+| 2024 NeurIPS | **SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition** | [[paper]](https://papers.nips.cc/paper_files/paper/2024/file/0b135d408253205ba501d55c6539bfc7-Paper-Conference.pdf) [[code]](https://github.com/lu-feng/SuperVLAD) |
+
+
 GroupVit: https://arxiv.org/pdf/2202.11094
 BoQ: https://arxiv.org/pdf/2405.07364
 Crica-VPR: https://arxiv.org/pdf/2402.19231
