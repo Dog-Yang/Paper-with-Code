@@ -86,8 +86,7 @@
 | Year/Source | Title | Links |
 |-------------|------------------------------------------------------------|----------------------------------------------------------------|
 | 2024 CVPR   | **CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition** | [[paper]](https://arxiv.org/pdf/2402.19231) [[code]](https://github.com/Lu-Feng/CricaVPR) |
-| 2024 NeurIPS | **SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition** | [[paper]](https://papers.nips.cc/paper_files/paper/2024/file/0b135d408253205ba501d55c6539bfc7-Paper-Conference.pdf) 
-[[code]](https://github.com/lu-feng/SuperVLAD) |
+| 2024 NeurIPS | **SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition** | [[paper]](https://papers.nips.cc/paper_files/paper/2024/file/0b135d408253205ba501d55c6539bfc7-Paper-Conference.pdf) [[code]](https://github.com/lu-feng/SuperVLAD) |
 | 2022 CVPR   | **GroupViT: Semantic Segmentation Emerges from Text Supervision** | [[paper]](https://arxiv.org/pdf/2202.11094) [[code]](https://github.com/NVlabs/GroupViT) |
 | 2024 CVPR   | **BoQ: A Place is Worth a Bag of Learnable Queries** | [[paper]](https://arxiv.org/pdf/2405.07364) [[code]](https://github.com/amaralibey/Bag-of-Queries) |
 | 2023 CVPR   | **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models** | [[paper]](https://arxiv.org/pdf/2301.12597) [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |
