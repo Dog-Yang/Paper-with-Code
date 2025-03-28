@@ -4,6 +4,7 @@
 - [Backbone](#Backbone)
 - [Open vocabulary segmentation](#open_segmentation)
 - [Open vocabulary detection](#open_detection)
+- [Visual Place Recognition](#VPR)
 - [Dataset](#Dataset)
 - [Other Technologies](#Other)
 
