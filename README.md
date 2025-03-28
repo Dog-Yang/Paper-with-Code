@@ -92,6 +92,7 @@
 | 2023 CVPR   | **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models** | [[paper]](https://arxiv.org/pdf/2301.12597) [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |
 | 2023 ICLR   | **GPVIT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation** | [[paper]](https://arxiv.org/pdf/2212.06795) [[code]](https://github.com/ChenhongyiYang/GPViT) |
 | 2024 CVPR   | **Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers** | [[paper]](https://arxiv.org/pdf/2403.10030) [[code]](https://github.com/mlvlab/MCTF) |
+| 2024 NIPS   | **SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition** | [[paper]](https://openreview.net/pdf?id=bZpZMdY1sj) [[code]](https://github.com/Lu-Feng/SuperVLAD) |
 
 <a name="Dataset"></a>
 # Dataset:
