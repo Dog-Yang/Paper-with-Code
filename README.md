@@ -68,8 +68,8 @@
 | 2023 CVPR   | **X-Decoder: Generalized Decoding for Pixel, Image, and Language** | [[paper]](https://arxiv.org/pdf/2212.11270) [[code]](https://github.com/microsoft/X-Decoder/tree/main) <details><summary>[Summary]</summary>Generalized decoding framework covering pixel-level image segmentation, image retrieval, and visual-language tasks; improvement over Mask2Former.</details> |
 | 2023 CVPR   | **ODISE: Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models** | [[paper]](https://arxiv.org/pdf/2303.04803) [[code]](https://github.com/NVlabs/ODISE) |
 | 2022 ECCV   | **ViL-Seg: Open-World Semantic Segmentation via Contrasting and Clustering Vision-Language Embeddings** | [[paper]](https://arxiv.org/pdf/2207.08455v2) |
-| 2023 CVPR   | **SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2302.12242) [[code]](https://github.com/MendelXu/SAN) |
-| 2024 CVPR   | **SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2311.15537) [[code]](https://github.com/xb534/SED) |
+| 2023 CVPR   | **SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2302.12242) [[code]](https://github.com/MendelXu/SAN) <details><summary>[Summary]</summary> The mask classification is designed as an end-to-end form, the backbone uses CLIP and freezes, and then extracts the features of CLIP and adds them to the Adapter network with additional training (transformer + learnable query +cls token) </details> |
+| 2024 CVPR   | **SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2311.15537) [[code]](https://github.com/xb534/SED) <details><summary>[Summary]</summary> The design of decoder </details> |
 | 2024 CVPR   | **Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding** | [[paper]](https://arxiv.org/pdf/2311.08046) [[code]](https://github.com/PKU-YuanGroup/Chat-UniVi) |
 
 
@@ -87,7 +87,7 @@
 | Year/Source | Title | Links |
 |-------------|------------------------------------------------------------|----------------------------------------------------------------|
 | 2024 CVPR   | **CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition** | [[paper]](https://arxiv.org/pdf/2402.19231) [[code]](https://github.com/Lu-Feng/CricaVPR) |
-| 2024 NeurIPS | **SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition** | [[paper]](https://papers.nips.cc/paper_files/paper/2024/file/0b135d408253205ba501d55c6539bfc7-Paper-Conference.pdf) [[code]](https://github.com/lu-feng/SuperVLAD) |
+| 2024 NIPS | **SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition** | [[paper]](https://papers.nips.cc/paper_files/paper/2024/file/0b135d408253205ba501d55c6539bfc7-Paper-Conference.pdf) [[code]](https://github.com/lu-feng/SuperVLAD) |
 | 2022 CVPR   | **GroupViT: Semantic Segmentation Emerges from Text Supervision** | [[paper]](https://arxiv.org/pdf/2202.11094) [[code]](https://github.com/NVlabs/GroupViT) |
 | 2024 CVPR   | **BoQ: A Place is Worth a Bag of Learnable Queries** | [[paper]](https://arxiv.org/pdf/2405.07364) [[code]](https://github.com/amaralibey/Bag-of-Queries) |
 | 2023 CVPR   | **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models** | [[paper]](https://arxiv.org/pdf/2301.12597) [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |
