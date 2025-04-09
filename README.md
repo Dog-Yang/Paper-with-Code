@@ -5,6 +5,7 @@
 - [Open vocabulary segmentation](#open_segmentation)
 - [Open vocabulary detection](#open_detection)
 - [Visual Place Recognition](#VPR)
+- [Token fusion](#Token_fusion)
 - [Dataset](#Dataset)
 - [Other Technologies](#Other)
 
@@ -71,7 +72,7 @@
 | 2022 ECCV   | **ViL-Seg: Open-World Semantic Segmentation via Contrasting and Clustering Vision-Language Embeddings** | [[paper]](https://arxiv.org/pdf/2207.08455v2) |
 | 2023 CVPR   | **SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2302.12242) [[code]](https://github.com/MendelXu/SAN) <details><summary>[Summary]</summary> The mask classification is designed as an end-to-end form, the backbone uses CLIP and freezes, and then extracts the features of CLIP and adds them to the Adapter network with additional training (transformer + learnable query +cls token) </details> |
 | 2024 CVPR   | **SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2311.15537) [[code]](https://github.com/xb534/SED) <details><summary>[Summary]</summary> The design of decoder </details> |
-| 2024 CVPR   | **Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding** | [[paper]](https://arxiv.org/pdf/2311.08046) [[code]](https://github.com/PKU-YuanGroup/Chat-UniVi) |
+
 
 
 <a name="open_detection"></a>
@@ -88,13 +89,20 @@
 | Year/Source | Title | Links |
 |-------------|------------------------------------------------------------|----------------------------------------------------------------|
 | 2024 CVPR   | **CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition** | [[paper]](https://arxiv.org/pdf/2402.19231) [[code]](https://github.com/Lu-Feng/CricaVPR) |
-| 2024 NIPS | **SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition** | [[paper]](https://papers.nips.cc/paper_files/paper/2024/file/0b135d408253205ba501d55c6539bfc7-Paper-Conference.pdf) [[code]](https://github.com/lu-feng/SuperVLAD) |
-| 2022 CVPR   | **GroupViT: Semantic Segmentation Emerges from Text Supervision** | [[paper]](https://arxiv.org/pdf/2202.11094) [[code]](https://github.com/NVlabs/GroupViT) |
+| 2024 NIPS   | **SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition** | [[paper]](https://papers.nips.cc/paper_files/paper/2024/file/0b135d408253205ba501d55c6539bfc7-Paper-Conference.pdf) [[code]](https://github.com/lu-feng/SuperVLAD) |
 | 2024 CVPR   | **BoQ: A Place is Worth a Bag of Learnable Queries** | [[paper]](https://arxiv.org/pdf/2405.07364) [[code]](https://github.com/amaralibey/Bag-of-Queries) |
 | 2023 CVPR   | **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models** | [[paper]](https://arxiv.org/pdf/2301.12597) [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |
-| 2023 ICLR   | **GPVIT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation** | [[paper]](https://arxiv.org/pdf/2212.06795) [[code]](https://github.com/ChenhongyiYang/GPViT) |
-| 2024 CVPR   | **Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers** | [[paper]](https://arxiv.org/pdf/2403.10030) [[code]](https://github.com/mlvlab/MCTF) |
 | 2024 NIPS   | **SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition** | [[paper]](https://openreview.net/pdf?id=bZpZMdY1sj) [[code]](https://github.com/Lu-Feng/SuperVLAD) |
+
+<a name="Token_fusion"></a>
+# Token Fusion
+|-------------|------------------------------------------------------------|----------------------------------------------------------------|
+| 2022 CVPR   | **GroupViT: Semantic Segmentation Emerges from Text Supervision** | [[paper]](https://arxiv.org/pdf/2202.11094) [[code]](https://github.com/NVlabs/GroupViT) |
+| 2024 CVPR   | **Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers** | [[paper]](https://arxiv.org/pdf/2403.10030) [[code]](https://github.com/mlvlab/MCTF) |
+| 2023 ICLR   | **GPVIT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation** | [[paper]](https://arxiv.org/pdf/2212.06795) [[code]](https://github.com/ChenhongyiYang/GPViT) |
+| 2024 CVPR   | **Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding** | [[paper]](https://arxiv.org/pdf/2311.08046) [[code]](https://github.com/PKU-YuanGroup/Chat-UniVi) <details><summary>[Summary]</summary> 1.non-parameters token fusion by Density-Peaks-Clustering KNN(DPC-KNN) 2.Primary object with numerous visual tokens and background only one visual token </details> |
+| 2023 CVPR   | **SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2302.12242) [[code]](https://github.com/MendelXu/SAN) <details><summary>[Summary]</summary> The mask classification is designed as an end-to-end form, the backbone uses CLIP and freezes, and then extracts the features of CLIP and adds them to the Adapter network with additional training (transformer + learnable query +cls token) </details> |
+
 
 <a name="Dataset"></a>
 # Dataset:
