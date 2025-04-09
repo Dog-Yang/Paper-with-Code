@@ -96,11 +96,12 @@
 
 <a name="Token_fusion"></a>
 # Token Fusion
+| Year/Source | Title | Links |
 |-------------|------------------------------------------------------------|----------------------------------------------------------------|
 | 2022 CVPR   | **GroupViT: Semantic Segmentation Emerges from Text Supervision** | [[paper]](https://arxiv.org/pdf/2202.11094) [[code]](https://github.com/NVlabs/GroupViT) |
 | 2024 CVPR   | **Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers** | [[paper]](https://arxiv.org/pdf/2403.10030) [[code]](https://github.com/mlvlab/MCTF) |
 | 2023 ICLR   | **GPVIT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation** | [[paper]](https://arxiv.org/pdf/2212.06795) [[code]](https://github.com/ChenhongyiYang/GPViT) |
-| 2024 CVPR   | **Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding** | [[paper]](https://arxiv.org/pdf/2311.08046) [[code]](https://github.com/PKU-YuanGroup/Chat-UniVi) <details><summary>[Summary]</summary>1.non-parameters token fusion by Density-Peaks-Clustering KNN(DPC-KNN) 2.Primary object with numerous visual tokens and background only one visual token </details> |
+| 2024 CVPR   | **Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding** | [[paper]](https://arxiv.org/pdf/2311.08046) [[code]](https://github.com/PKU-YuanGroup/Chat-UniVi) <details><summary>[Summary]</summary> 1.non-parameters token fusion by Density-Peaks-Clustering KNN(DPC-KNN) 2.Primary object with numerous visual tokens and background only one visual token </details> |
 | 2023 CVPR   | **SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2302.12242) [[code]](https://github.com/MendelXu/SAN) <details><summary>[Summary]</summary> The mask classification is designed as an end-to-end form, the backbone uses CLIP and freezes, and then extracts the features of CLIP and adds them to the Adapter network with additional training (transformer + learnable query +cls token) </details> |
 
 
