@@ -41,7 +41,7 @@
 # Backbone
 | Year/Source | Title | Links |
 |-------------|------------------------------------------------------------|----------------------------------------------------------------|
-| 2017 NIPS   | **transfomer: Attention Is All You Need** | [[paper]](https://arxiv.org/pdf/1706.03762) [[code]](The code we used to train and evaluate our models is available at https://github.com/tensorflow/tensor2tensor.) |
+| 2017 NIPS   | **transfomer: Attention Is All You Need** | [[paper]](https://arxiv.org/pdf/1706.03762) [[code]](https://github.com/tensorflow/tensor2tensor) |
 | 2021 ICLR   | **ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale** | [[paper]](https://arxiv.org/pdf/2010.11929) [[code]](https://github.com/google-research/vision_transformer) |
 | 2021 ICML   | **DeiT: Training data-efficient image transformers & distillation through attention** | [[paper]](https://arxiv.org/pdf/2012.12877) <details><summary>[Summary]</summary>Distillation Token; Teacher Model: CNN, Student Model: ViT</details> |
 | 2021 ICCV   | **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows** | [[paper]](https://arxiv.org/pdf/2103.14030) [[code]](https://github.com/microsoft/Swin-Transformer) <details><summary>[Summary]</summary>Sliding Window Attention + Patch Merging</details> |
