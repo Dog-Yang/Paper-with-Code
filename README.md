@@ -1,6 +1,7 @@
 # Dense prediction paper with code
 - [Visual Place Recognition](#VPR)
 - [Token fusion](#Token_fusion)
+- [Training Free](#Training_Free)
 - [Classical segmentation methods](#Classical_Segmentation)
 - [Classical detection method](#Classical_detection)
 - [Backbone](#Backbone)
@@ -32,6 +33,13 @@
 | 2024 ICLR   | **LaVIT:UNIFIED LANGUAGE-VISION PRETRAINING IN LLM WITH DYNAMIC DISCRETE VISUAL TOKENIZATION** | [[paper]](https://arxiv.org/pdf/2309.04669) [[code]](https://github.com/jy0205/LaVIT) <details><summary>[Summary]</summary> LaVIT used the Gumbel-Softmax to train a mask that selects tokens for retention, merging discarded tokens into retained ones via additional attention layers. </details> |
 | 2022 CVPR   | **MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2308.03005) [[code]](https://github.com/xulianuwa/MCTformer) <details><summary>[Summary]</summary> MCTformer+. </details> |
 | 2023 CVPR   | **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models** | [[paper]](https://arxiv.org/pdf/2301.12597) [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |
+
+<a name="Training_Free"></a>
+# Training Free
+| Year/Source | Title | Links |
+|-------------|------------------------------------------------------------|----------------------------------------------------------------|
+| 2024 ECCV   | **SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference** | [[paper]](https://arxiv.org/pdf/2312.01597) [[code]](https://github.com/wangf3014/SCLIP) |
+| 2024 WACV   | **Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2404.08181) [[code]](https://github.com/sinahmr/NACLIP) |
 
 
 <a name="Classical_Segmentation"></a>
