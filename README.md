@@ -1,13 +1,39 @@
 # Dense prediction paper with code
+- [Visual Place Recognition](#VPR)
+- [Token fusion](#Token_fusion)
 - [Classical segmentation methods](#Classical_Segmentation)
 - [Classical detection method](#Classical_detection)
 - [Backbone](#Backbone)
 - [Open vocabulary segmentation](#open_segmentation)
 - [Open vocabulary detection](#open_detection)
-- [Visual Place Recognition](#VPR)
-- [Token fusion](#Token_fusion)
 - [Dataset](#Dataset)
 - [Other Technologies](#Other)
+
+<a name="VPR"></a>
+# Visual Place Recognition
+| Year/Source | Title | Links |
+|-------------|------------------------------------------------------------|----------------------------------------------------------------|
+| 2024 CVPR   | **CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition** | [[paper]](https://arxiv.org/pdf/2402.19231) [[code]](https://github.com/Lu-Feng/CricaVPR) |
+| 2024 NIPS   | **SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition** | [[paper]](https://papers.nips.cc/paper_files/paper/2024/file/0b135d408253205ba501d55c6539bfc7-Paper-Conference.pdf) [[code]](https://github.com/lu-feng/SuperVLAD) |
+| 2024 CVPR   | **BoQ: A Place is Worth a Bag of Learnable Queries** | [[paper]](https://arxiv.org/pdf/2405.07364) [[code]](https://github.com/amaralibey/Bag-of-Queries) |
+| 2023 CVPR   | **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models** | [[paper]](https://arxiv.org/pdf/2301.12597) [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |
+| 2024 NIPS   | **SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition** | [[paper]](https://openreview.net/pdf?id=bZpZMdY1sj) [[code]](https://github.com/Lu-Feng/SuperVLAD) |
+
+<a name="Token_fusion"></a>
+# Token Fusion
+| Year/Source | Title | Links |
+|-------------|------------------------------------------------------------|----------------------------------------------------------------|
+| 2022 CVPR   | **GroupViT: Semantic Segmentation Emerges from Text Supervision** | [[paper]](https://arxiv.org/pdf/2202.11094) [[code]](https://github.com/NVlabs/GroupViT) |
+| 2024 CVPR   | **Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers** | [[paper]](https://arxiv.org/pdf/2403.10030) [[code]](https://github.com/mlvlab/MCTF) |
+| 2021 NIPS   | **TokenLearner: What Can 8 Learned Tokens Do for Images and Videos?** | [[paper]](https://arxiv.org/pdf/2106.11297) [[code]](https://github.com/google-research/scenic/tree/main/scenic/projects/token_learner) <details><summary>[Summary]</summary> TokenLearner. </details> |
+| 2023 ICLR   | **GPVIT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation** | [[paper]](https://arxiv.org/pdf/2212.06795) [[code]](https://github.com/ChenhongyiYang/GPViT) |
+| 2024 CVPR   | **Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding** | [[paper]](https://arxiv.org/pdf/2311.08046) [[code]](https://github.com/PKU-YuanGroup/Chat-UniVi) <details><summary>[Summary]</summary> 1.non-parameters token fusion by Density-Peaks-Clustering KNN(DPC-KNN) 2.Primary object with numerous visual tokens and background only one visual token </details> |
+| 2023 CVPR   | **SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2302.12242) [[code]](https://github.com/MendelXu/SAN) <details><summary>[Summary]</summary> The mask classification is designed as an end-to-end form, the backbone uses CLIP and freezes, and then extracts the features of CLIP and adds them to the Adapter network with additional training (transformer + learnable query +cls token) </details> |
+| 2025 CVPR   | **PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models** | [[paper]](https://arxiv.org/pdf/2504.08966) [[code]](https://github.com/orailix/PACT/tree/main) <details><summary>[Summary]</summary> 1.The pruning module eliminates unimportant tokens. 2.DBDPC algorithm clusters the remaining tokens. 3.Tokens that were initially pruned but are sufficiently close to the constructed clusters are reincorporated, ensuring that valuable information from the pruned tokens is recovered. </details> |
+| 2024 ICLR   | **LaVIT:UNIFIED LANGUAGE-VISION PRETRAINING IN LLM WITH DYNAMIC DISCRETE VISUAL TOKENIZATION** | [[paper]](https://arxiv.org/pdf/2309.04669) [[code]](https://github.com/jy0205/LaVIT) <details><summary>[Summary]</summary> LaVIT used the Gumbel-Softmax to train a mask that selects tokens for retention, merging discarded tokens into retained ones via additional attention layers. </details> |
+| 2022 CVPR   | **MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2308.03005) [[code]](https://github.com/xulianuwa/MCTformer) <details><summary>[Summary]</summary> MCTformer+. </details> |
+
+
 
 <a name="Classical_Segmentation"></a>
 # Classical segmentation method（Supervised）
@@ -84,32 +110,6 @@
 | 2022 ICLR   | **ViLD: Open-Vocabulary Object Detection via Vision and Language Knowledge Distillation** | [[paper]](https://arxiv.org/pdf/2104.13921) [[code]](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild) <details><summary>[Summary]</summary>Text embedding and ViLD region embedding (for cropped regions) compute cross-entropy loss. Vision Knowledge Distillation: ViLD region embedding (from cropped image regions) and CLIP image embedding compute L1 loss, enabling novel class learning from CLIP.</details> |
 | 2022 CVPR   | **GLIP: Grounded Language-Image Pre-training** | [[paper]](https://arxiv.org/pdf/2112.03857) [[code]](https://github.com/microsoft/GLIP) <details><summary>[Summary]</summary>Similar to CLIP's language-image pretraining but for object detection. Uses Swin Transformer as backbone. Differences: (1) Self-attention between text and image embeddings before contrastive loss calculation. (2) Adds a localization loss beyond classification.</details> |
 | 2022 NIPS   | **GLIPv2: Unifying Localization and Vision-Language Understanding** | [[paper]](https://arxiv.org/pdf/2206.05836) [[code]](https://github.com/microsoft/GLIP) <details><summary>[Summary]</summary>A unified framework for both localization tasks (object detection, instance segmentation) and understanding tasks (VL grounding, visual question answering, image captioning).</details> |
-
-<a name="VPR"></a>
-# Visual Place Recognition
-| Year/Source | Title | Links |
-|-------------|------------------------------------------------------------|----------------------------------------------------------------|
-| 2024 CVPR   | **CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition** | [[paper]](https://arxiv.org/pdf/2402.19231) [[code]](https://github.com/Lu-Feng/CricaVPR) |
-| 2024 NIPS   | **SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition** | [[paper]](https://papers.nips.cc/paper_files/paper/2024/file/0b135d408253205ba501d55c6539bfc7-Paper-Conference.pdf) [[code]](https://github.com/lu-feng/SuperVLAD) |
-| 2024 CVPR   | **BoQ: A Place is Worth a Bag of Learnable Queries** | [[paper]](https://arxiv.org/pdf/2405.07364) [[code]](https://github.com/amaralibey/Bag-of-Queries) |
-| 2023 CVPR   | **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models** | [[paper]](https://arxiv.org/pdf/2301.12597) [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |
-| 2024 NIPS   | **SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition** | [[paper]](https://openreview.net/pdf?id=bZpZMdY1sj) [[code]](https://github.com/Lu-Feng/SuperVLAD) |
-
-<a name="Token_fusion"></a>
-# Token Fusion
-| Year/Source | Title | Links |
-|-------------|------------------------------------------------------------|----------------------------------------------------------------|
-| 2022 CVPR   | **GroupViT: Semantic Segmentation Emerges from Text Supervision** | [[paper]](https://arxiv.org/pdf/2202.11094) [[code]](https://github.com/NVlabs/GroupViT) |
-| 2024 CVPR   | **Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers** | [[paper]](https://arxiv.org/pdf/2403.10030) [[code]](https://github.com/mlvlab/MCTF) |
-| 2021 NIPS   | **TokenLearner: What Can 8 Learned Tokens Do for Images and Videos?** | [[paper]](https://arxiv.org/pdf/2106.11297) [[code]](https://github.com/google-research/scenic/tree/main/scenic/projects/token_learner) <details><summary>[Summary]</summary> TokenLearner. </details> |
-| 2023 ICLR   | **GPVIT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation** | [[paper]](https://arxiv.org/pdf/2212.06795) [[code]](https://github.com/ChenhongyiYang/GPViT) |
-| 2024 CVPR   | **Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding** | [[paper]](https://arxiv.org/pdf/2311.08046) [[code]](https://github.com/PKU-YuanGroup/Chat-UniVi) <details><summary>[Summary]</summary> 1.non-parameters token fusion by Density-Peaks-Clustering KNN(DPC-KNN) 2.Primary object with numerous visual tokens and background only one visual token </details> |
-| 2023 CVPR   | **SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2302.12242) [[code]](https://github.com/MendelXu/SAN) <details><summary>[Summary]</summary> The mask classification is designed as an end-to-end form, the backbone uses CLIP and freezes, and then extracts the features of CLIP and adds them to the Adapter network with additional training (transformer + learnable query +cls token) </details> |
-| 2025 CVPR   | **PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models** | [[paper]](https://arxiv.org/pdf/2504.08966) [[code]](https://github.com/orailix/PACT/tree/main) <details><summary>[Summary]</summary> 1.The pruning module eliminates unimportant tokens. 2.DBDPC algorithm clusters the remaining tokens. 3.Tokens that were initially pruned but are sufficiently close to the constructed clusters are reincorporated, ensuring that valuable information from the pruned tokens is recovered. </details> |
-| 2024 ICLR   | **LaVIT:UNIFIED LANGUAGE-VISION PRETRAINING IN LLM WITH DYNAMIC DISCRETE VISUAL TOKENIZATION** | [[paper]](https://arxiv.org/pdf/2309.04669) [[code]](https://github.com/jy0205/LaVIT) <details><summary>[Summary]</summary> LaVIT used the Gumbel-Softmax to train a mask that selects tokens for retention, merging discarded tokens into retained ones via additional attention layers. </details> |
-| 2022 CVPR   | **MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2308.03005) [[code]](https://github.com/xulianuwa/MCTformer) <details><summary>[Summary]</summary> MCTformer+. </details> |
-
-
   
 
 <a name="Dataset"></a>
