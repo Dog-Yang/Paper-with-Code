@@ -31,7 +31,7 @@
 | 2025 CVPR   | **PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models** | [[paper]](https://arxiv.org/pdf/2504.08966) [[code]](https://github.com/orailix/PACT/tree/main) <details><summary>[Summary]</summary> 1.The pruning module eliminates unimportant tokens. 2.DBDPC algorithm clusters the remaining tokens. 3.Tokens that were initially pruned but are sufficiently close to the constructed clusters are reincorporated, ensuring that valuable information from the pruned tokens is recovered. </details> |
 | 2024 ICLR   | **LaVIT: Unified language-vision pretraining in LLM with dynamic discrete visual tokenization** | [[paper]](https://arxiv.org/pdf/2309.04669) [[code]](https://github.com/jy0205/LaVIT) <details><summary>[Summary]</summary> LaVIT used the Gumbel-Softmax to train a mask that selects tokens for retention, merging discarded tokens into retained ones via additional attention layers. </details> |
 | 2022 CVPR   | **MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2308.03005) [[code]](https://github.com/xulianuwa/MCTformer) <details><summary>[Summary]</summary> MCTformer+. </details> |
-| 2023 CVPR   | **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models** | [[paper]](https://arxiv.org/pdf/2301.12597) [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |
+| 2023 CVPR   | **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models** | |
 
 <a name="Training_Free"></a>
 # Training Free
@@ -39,6 +39,7 @@
 |-------------|------------------------------------------------------------|----------------------------------------------------------------|
 | 2024 ECCV   | **SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference** | [[paper]](https://arxiv.org/pdf/2312.01597) [[code]](https://github.com/wangf3014/SCLIP) |
 | 2024 WACV   | **Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2404.08181) [[code]](https://github.com/sinahmr/NACLIP) |
+| 2025 AAAI   | **Unveiling the Knowledge of CLIP for Training-Free Open-Vocabulary Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2404.08181) [[code]](https://github.com/sinahmr/NACLIP) |
 
 
 <a name="Classical_Segmentation"></a>
