@@ -32,6 +32,8 @@
 | 2024 ICLR   | **LaVIT: Unified language-vision pretraining in LLM with dynamic discrete visual tokenization** | [[paper]](https://arxiv.org/pdf/2309.04669) [[code]](https://github.com/jy0205/LaVIT) <details><summary>[Summary]</summary> LaVIT used the Gumbel-Softmax to train a mask that selects tokens for retention, merging discarded tokens into retained ones via additional attention layers. </details> |
 | 2022 CVPR   | **MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2308.03005) [[code]](https://github.com/xulianuwa/MCTformer) <details><summary>[Summary]</summary> MCTformer+. </details> |
 | 2023 CVPR   | **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models** | |
+| 2023 CVPR   | **Perceptual Grouping in Contrastive Vision-Language Models** | [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ranasinghe_Perceptual_Grouping_in_Contrastive_Vision-Language_Models_ICCV_2023_paper.pdf) <details><summary>[Summary]</summary> Self-supervised pretraining how to deal with patch token: **1.max pooling(this paper choise).** 2.average pooling. 3.cls token. </details>  |
+
 
 <a name="Training_Free"></a>
 # Training Free
