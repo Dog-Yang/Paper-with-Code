@@ -110,6 +110,7 @@
 | 2023 CVPR   | **ODISE: Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models** | [[paper]](https://arxiv.org/pdf/2303.04803) [[code]](https://github.com/NVlabs/ODISE) |
 | 2022 ECCV   | **ViL-Seg: Open-World Semantic Segmentation via Contrasting and Clustering Vision-Language Embeddings** | [[paper]](https://arxiv.org/pdf/2207.08455v2) |
 | 2023 CVPR   | **SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2302.12242) [[code]](https://github.com/MendelXu/SAN) <details><summary>[Summary]</summary> The mask classification is designed as an end-to-end form, the backbone uses CLIP and freezes, and then extracts the features of CLIP and adds them to the Adapter network with additional training (transformer + learnable query +cls token) </details> |
+| 2024 ECCV   | **CLIP-DINOiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation** | [[paper]](https://arxiv.org/pdf/2312.12359) [[code]](https://github.com/wysoczanska/clip_dinoiser) |
 | 2024 CVPR   | **SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2311.15537) [[code]](https://github.com/xb534/SED) <details><summary>[Summary]</summary> The design of decoder </details> |
 
 
