@@ -1,4 +1,4 @@
-# Dense prediction paper with code
+# Paper with code
 - [Visual Place Recognition](#VPR)
 - [Token fusion](#Token_fusion)
 - [Training Free](#Training_Free)
