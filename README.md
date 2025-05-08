@@ -17,7 +17,7 @@
 | 2024 CVPR   | **CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition** | [[paper]](https://arxiv.org/pdf/2402.19231) [[code]](https://github.com/Lu-Feng/CricaVPR) |
 | 2024 CVPR   | **BoQ: A Place is Worth a Bag of Learnable Queries** | [[paper]](https://arxiv.org/pdf/2405.07364) [[code]](https://github.com/amaralibey/Bag-of-Queries) |
 | 2024 NIPS   | **SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition** | [[paper]](https://openreview.net/pdf?id=bZpZMdY1sj) [[code]](https://github.com/Lu-Feng/SuperVLAD) |
-| 2022 CVPR   | **CosPlace: Compact and Robust Image Descriptors for Visual Place Recognition** | [[paper]](https://arxiv.org/pdf/2204.02287) [[code]](https://github.com/gmberton/CosPlace) |
+| 2022 CVPR   | **CosPlace: Rethinking Visual Geo-localization for Large-Scale Applications** | [[paper]](https://arxiv.org/pdf/2204.02287) [[code]](https://github.com/gmberton/CosPlace) |
 
 <a name="Token_fusion"></a>
 # Token Mering, Clustering and Pruning
