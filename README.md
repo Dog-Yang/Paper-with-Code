@@ -50,7 +50,7 @@
 | 2025 CVPR   | **LOPSS LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2503.19777) [[code]](https://github.com/vladan-stojnic/LPOSS/tree/main) |
 | 2024 ECCV   | **ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation** | [[paper]](https://arxiv.org/pdf/2408.04883v1) [[code]](https://github.com/mc-lan/ProxyCLIP) |
 | 2024 ECCV   | **CLIP_Dinoiser Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation** | [[paper]](https://arxiv.org/pdf/2312.12359) [[code]](https://github.com/wysoczanska/clip_dinoiser) |
-
+| 2025 ICML   | **ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via α-β-Divergence** | [[paper]](https://arxiv.org/abs/2505.04560) [[code]](https://github.com/ghwang-s/abkd) |
 
 
 <a name="Classical_Segmentation"></a>
