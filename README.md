@@ -46,6 +46,11 @@
 | 2024 ECCV   | **SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference** | [[paper]](https://arxiv.org/pdf/2312.01597) [[code]](https://github.com/wangf3014/SCLIP) |
 | 2024 WACV   | **Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2404.08181) [[code]](https://github.com/sinahmr/NACLIP) |
 | 2025 AAAI   | **Unveiling the Knowledge of CLIP for Training-Free Open-Vocabulary Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2404.08181) [[code]](https://github.com/sinahmr/NACLIP) |
+| 2022 ECCV   | **Maskclip Extract Free Dense Labels from CLIP** | [[paper]](https://arxiv.org/pdf/2112.01071) [[code]](https://github.com/chongzhou96/MaskCLIP) |
+| 2025 CVPR   | **LOPSS LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation** | [[paper]](https://arxiv.org/pdf/2503.19777) [[code]](https://github.com/vladan-stojnic/LPOSS/tree/main) |
+| 2024 ECCV   | **ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation** | [[paper]](https://arxiv.org/pdf/2408.04883v1) [[code]](https://github.com/mc-lan/ProxyCLIP) |
+| 2024 ECCV   | **CLIP_Dinoiser Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation** | [[paper]](https://arxiv.org/pdf/2312.12359) [[code]](https://github.com/wysoczanska/clip_dinoiser) |
+
 
 
 <a name="Classical_Segmentation"></a>
