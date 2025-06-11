@@ -52,6 +52,10 @@
 | 2024 ECCV   | **CLIP_Dinoiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation** | [[paper]](https://arxiv.org/pdf/2312.12359) [[code]](https://github.com/wysoczanska/clip_dinoiser) |
 | 2025 ICML   | **ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via α-β-Divergence** | [[paper]](https://arxiv.org/abs/2505.04560) [[code]](https://github.com/ghwang-s/abkd) |
 | 2025 CVPR   | **ResCLIP: Residual Attention for Training-free Dense Vision-language Inference** | [[paper]](https://arxiv.org/pdf/2411.15851) [[code]](https://github.com/yvhangyang/ResCLIP) |
+| 2025.03 Arxiv  | **SCCLIP: Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation** | [[paper]](https://arxiv.org/pdf/2411.15869) [[code]](https://github.com/SuleBai/SC-CLIP) |
+
+
+
 
 
 
