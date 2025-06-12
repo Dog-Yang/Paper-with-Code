@@ -78,35 +78,35 @@
 
 <a name="CLIP"></a>
 # CLIP
-[[2021 ICML](https://arxiv.org/pdf/2103.00020)] [[code](https://github.com/OpenAI/CLIP)] CLIP: Learning transferable visual models from natural language supervision    
-[[2022 CVPR](https://arxiv.org/abs/2204.02287)] [[code](https://github.com/gmberton/CosPlace)] CosPlace: Rethinking Visual Geo-localization for Large-Scale Applications
-[[2024 ECCV](https://arxiv.org/pdf/2409.18049)] [[code](https://github.com/AnyLoc/Revisit-Anything)] Revisit Anything: Visual Place Recognition via Image Segment Retrieval
-[[2022 IJCV](https://arxiv.org/pdf/2109.01134)] [[code](https://github.com/KaiyangZhou/CoOp)] CoOp: Learning to Prompt for Vision-Language Models
-[[2022 ECCV](https://arxiv.org/pdf/2203.12119)] [[code](https://github.com/kmnp/vpt)] VPT: Visual Prompt Tuning
-[[2022 ICLR](https://arxiv.org/pdf/2106.09685)] [[code](https://github.com/microsoft/LoRA)] LoRA: Low-Rank Adaptation of Large Language Models
-[[2023 CVPR](https://arxiv.org/pdf/2211.10277)] [[code](https://github.com/geekyutao/TaskRe)] TaskRes: Task Residual for Tuning Vision-Language Models
-[[2023 ICML](https://arxiv.org/pdf/2305.00350)] [[code](https://github.com/korawat-tanwisuth/POUF)] POUF: Prompt-Oriented Unsupervised Fine-tuning for Large Pre-trained Models
-[[2023 NeurIPS](https://arxiv.org/pdf/2306.01669)] [[code](https://github.com/BatsResearch/menghini-neurips23-code)] Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning
-[[2023 NeurIPS](https://arxiv.org/pdf/2305.18287)] [[code](https://github.com/jmiemirza/LaFTer)] LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections
-[[2023 PRCV](https://arxiv.org/pdf/2308.11507)] Unsupervised Prototype Adapter for Vision-Language Models
-[[2025 WACV](https://arxiv.org/pdf/2403.12952)] [[code](https://github.com/elaine-sui/TPS)] Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models
-[[2025 WACV](https://arxiv.org/pdf/2410.08211)] [[code](https://github.com/astra-vision/LatteCLIP)] LATTECLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts
-[[2024 CVPR](https://arxiv.org/pdf/2404.17753)] [[code](https://github.com/YCaigogogo/CODER)] CODER: Leveraging Cross-Modal Neighbor Representation for Improved CLIP Classification
-[[2024 CVPR](https://arxiv.org/pdf/2404.02285)] [[code](https://github.com/FereshteShakeri/FewShot-CLIP-Strong-Baseline)] LP++: A Surprisingly Strong Linear Probe for Few-Shot CLIP
-[[2024 CVPR](https://arxiv.org/pdf/2403.02781)] [[code](https://github.com/zhengli97/PromptKD)] PromptKD: Unsupervised Prompt Distillation for Vision-Language Models
-[[2024 CVPR](https://arxiv.org/pdf/2405.18437)] [[code](https://github.com/SegoleneMartin/transductive-CLIP)] Transductive Zero-Shot and Few-Shot CLIP
-[[2024 CVPR](https://arxiv.org/pdf/2403.15132)] [[code](https://github.com/alwaysuu/CLIPDenoising)] Transfer CLIP for Generalizable Image Denoising
-[[2024 ECCV](https://arxiv.org/pdf/2404.07204)] BRAVE: Broadening the visual encoding of vision-language model
-[[2024 ICML](https://arxiv.org/pdf/2406.10502)] [[code](https://github.com/vanillaer/CPL-ICML2024)] Candidate Pseudolabel Learning: Enhancing Vision-Language Models by Prompt Tuning with Unlabeled Data
-[[2025 ICLR](https://arxiv.org/pdf/2502.04263)] [[code](https://github.com/miccunifi/Cross-the-Gap)] CROSS THE GAP: EXPOSING THE INTRA-MODAL MISALIGNMENT IN CLIP VIA MODALITY INVERSION
-[[2025 ICLR](https://arxiv.org/pdf/2410.05270)] [[code](https://github.com/astra-vision/ProLIP)] CLIP’s Visual Embedding Projector is a Few-shot Cornucopia
-[[2023 IJCV](https://arxiv.org/pdf/2110.04544)] CLIP-Adapter: Better Vision-Language Models with Feature Adapters
-[[2022 Arxiv](https://arxiv.org/pdf/2212.00784)] [[code](https://github.com/jonkahana/CLIPPR)] CLIPPR: Improving Zero-Shot Models with Label Distribution Priors
-[[2022 CVPR](https://arxiv.org/pdf/2203.05557)] [[code](https://github.com/KaiyangZhou/CoOp)] CoCoOp: Conditional Prompt Learning for Vision-Language Models
-[2024 CVPR] CLIP-KD: An Empirical Study of CLIP Model Distillation
-[[2025 WACV](https://arxiv.org/pdf/2408.08855)] [[code](https://github.com/Externalhappy/DPA)] DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models
-[[2022 NIPS](https://arxiv.org/pdf/2209.07511)] [[code](https://github.com/azshue/TPT)] TPT: Test-Time Prompt Tuning for Zero-shot Generalization in Vision-Language Models
-[2022 Arxiv] [[code](https://github.com/tonyhuang2022/UPL)] UPL: Unsupervised Prompt Learning for Vision-Language Models
+[[2021 ICML](https://arxiv.org/pdf/2103.00020)] [[code](https://github.com/OpenAI/CLIP)] CLIP: Learning transferable visual models from natural language supervision      
+[[2022 CVPR](https://arxiv.org/abs/2204.02287)] [[code](https://github.com/gmberton/CosPlace)] CosPlace: Rethinking Visual Geo-localization for Large-Scale Applications      
+[[2024 ECCV](https://arxiv.org/pdf/2409.18049)] [[code](https://github.com/AnyLoc/Revisit-Anything)] Revisit Anything: Visual Place Recognition via Image Segment Retrieval      
+[[2022 IJCV](https://arxiv.org/pdf/2109.01134)] [[code](https://github.com/KaiyangZhou/CoOp)] CoOp: Learning to Prompt for Vision-Language Models      
+[[2022 ECCV](https://arxiv.org/pdf/2203.12119)] [[code](https://github.com/kmnp/vpt)] VPT: Visual Prompt Tuning      
+[[2022 ICLR](https://arxiv.org/pdf/2106.09685)] [[code](https://github.com/microsoft/LoRA)] LoRA: Low-Rank Adaptation of Large Language Models      
+[[2023 CVPR](https://arxiv.org/pdf/2211.10277)] [[code](https://github.com/geekyutao/TaskRe)] TaskRes: Task Residual for Tuning Vision-Language Models      
+[[2023 ICML](https://arxiv.org/pdf/2305.00350)] [[code](https://github.com/korawat-tanwisuth/POUF)] POUF: Prompt-Oriented Unsupervised Fine-tuning for Large Pre-trained Models      
+[[2023 NeurIPS](https://arxiv.org/pdf/2306.01669)] [[code](https://github.com/BatsResearch/menghini-neurips23-code)] Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning      
+[[2023 NeurIPS](https://arxiv.org/pdf/2305.18287)] [[code](https://github.com/jmiemirza/LaFTer)] LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections      
+[[2023 PRCV](https://arxiv.org/pdf/2308.11507)] Unsupervised Prototype Adapter for Vision-Language Models      
+[[2025 WACV](https://arxiv.org/pdf/2403.12952)] [[code](https://github.com/elaine-sui/TPS)] Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models      
+[[2025 WACV](https://arxiv.org/pdf/2410.08211)] [[code](https://github.com/astra-vision/LatteCLIP)] LATTECLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts      
+[[2024 CVPR](https://arxiv.org/pdf/2404.17753)] [[code](https://github.com/YCaigogogo/CODER)] CODER: Leveraging Cross-Modal Neighbor Representation for Improved CLIP Classification      
+[[2024 CVPR](https://arxiv.org/pdf/2404.02285)] [[code](https://github.com/FereshteShakeri/FewShot-CLIP-Strong-Baseline)] LP++: A Surprisingly Strong Linear Probe for Few-Shot CLIP      
+[[2024 CVPR](https://arxiv.org/pdf/2403.02781)] [[code](https://github.com/zhengli97/PromptKD)] PromptKD: Unsupervised Prompt Distillation for Vision-Language Models      
+[[2024 CVPR](https://arxiv.org/pdf/2405.18437)] [[code](https://github.com/SegoleneMartin/transductive-CLIP)] Transductive Zero-Shot and Few-Shot CLIP      
+[[2024 CVPR](https://arxiv.org/pdf/2403.15132)] [[code](https://github.com/alwaysuu/CLIPDenoising)] Transfer CLIP for Generalizable Image Denoising      
+[[2024 ECCV](https://arxiv.org/pdf/2404.07204)] BRAVE: Broadening the visual encoding of vision-language model      
+[[2024 ICML](https://arxiv.org/pdf/2406.10502)] [[code](https://github.com/vanillaer/CPL-ICML2024)] Candidate Pseudolabel Learning: Enhancing Vision-Language Models by Prompt Tuning with Unlabeled Data      
+[[2025 ICLR](https://arxiv.org/pdf/2502.04263)] [[code](https://github.com/miccunifi/Cross-the-Gap)] CROSS THE GAP: EXPOSING THE INTRA-MODAL MISALIGNMENT IN CLIP VIA MODALITY INVERSION      
+[[2025 ICLR](https://arxiv.org/pdf/2410.05270)] [[code](https://github.com/astra-vision/ProLIP)] CLIP’s Visual Embedding Projector is a Few-shot Cornucopia      
+[[2023 IJCV](https://arxiv.org/pdf/2110.04544)] [[code](https://github.com/gaopengcuhk/CLIP-Adapter)] CLIP-Adapter: Better Vision-Language Models with Feature Adapters      
+[[2022 Arxiv](https://arxiv.org/pdf/2212.00784)] [[code](https://github.com/jonkahana/CLIPPR)] CLIPPR: Improving Zero-Shot Models with Label Distribution Priors      
+[[2022 CVPR](https://arxiv.org/pdf/2203.05557)] [[code](https://github.com/KaiyangZhou/CoOp)] CoCoOp: Conditional Prompt Learning for Vision-Language Models      
+[[2024 CVPR](https://arxiv.org/pdf/2307.12732)] [[code](https://github.com/winycg/CLIP-KD)] CLIP-KD: An Empirical Study of CLIP Model Distillation    
+[[2025 WACV](https://arxiv.org/pdf/2408.08855)] [[code](https://github.com/Externalhappy/DPA)] DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models      
+[[2022 NIPS](https://arxiv.org/pdf/2209.07511)] [[code](https://github.com/azshue/TPT)] TPT: Test-Time Prompt Tuning for Zero-shot Generalization in Vision-Language Models      
+[[2022 Arxiv](https://arxiv.org/pdf/2204.03649)] [[code](https://github.com/tonyhuang2022/UPL)] UPL: Unsupervised Prompt Learning for Vision-Language Models      
 
 <a name="open_segmentation"></a>
 # Open vocabulary segmentation
