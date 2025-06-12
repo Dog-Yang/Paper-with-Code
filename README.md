@@ -40,7 +40,7 @@
 [[2025.03 Arxiv](https://arxiv.org/pdf/2411.15869)] [[code](https://github.com/SuleBai/SC-CLIP)] SC-CLIP: Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation    
 
 <a name="Classical_Segmentation"></a>
-# Classical segmentation method（Supervised）
+# Classical segmentation method
 [[2015 CVPR](https://arxiv.org/abs/1411.4038)] [[code](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)] FCN: Fully Convolutional Networks for Semantic Segmentation    
 [[2016 MICCAI](https://arxiv.org/pdf/1505.04597)] UNet: Convolutional Networks for Biomedical Image Segmentation    
 [[2017 arXiv](https://arxiv.org/pdf/1706.05587)] DeepLabV3: Rethinking atrous convolution for semantic image segmentation    
