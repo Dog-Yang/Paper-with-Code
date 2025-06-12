@@ -8,6 +8,7 @@
 [[2024 CVPR](https://arxiv.org/pdf/2405.07364)] [[code](https://github.com/amaralibey/Bag-of-Queries)] BoQ: A Place is Worth a Bag of Learnable Queries    
 [[2024 NeurIPS](https://openreview.net/pdf?id=bZpZMdY1sj)] [[code](https://github.com/Lu-Feng/SuperVLAD)] SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition    
 [[2022 CVPR](https://arxiv.org/pdf/2204.02287)] [[code](https://github.com/gmberton/CosPlace)] CosPlace: Rethinking Visual Geo-localization for Large-Scale Applications    
+[[2025 Arxiv](https://arxiv.org/pdf/2506.04764)] [[code](https://github.com/suhan-woo/HypeVPR)] HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition  
 
 <a name="Token_fusion"></a>
 # Token Mering, Clustering and Pruning
@@ -38,7 +39,8 @@
 [[2024 ECCV](https://arxiv.org/pdf/2312.12359)] [[code](https://github.com/wysoczanska/clip_dinoiser)] CLIP_Dinoiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation    
 [[2025 ICML](https://arxiv.org/abs/2505.04560)] [[code](https://github.com/ghwang-s/abkd)] ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via α-β-Divergence    
 [[2025 CVPR](https://arxiv.org/pdf/2411.15851)] [[code](https://github.com/yvhangyang/ResCLIP)] ResCLIP: Residual Attention for Training-free Dense Vision-language Inference    
-[[2025.03 Arxiv](https://arxiv.org/pdf/2411.15869)] [[code](https://github.com/SuleBai/SC-CLIP)] SC-CLIP: Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation    
+[[2025 Arxiv](https://arxiv.org/pdf/2411.15869)] [[code](https://github.com/SuleBai/SC-CLIP)] SC-CLIP: Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation    
+[[2023 NeurIPS](https://arxiv.org/pdf/2310.05174) [[code](https://github.com/GSL-Benchmark/GSLB)] GSLB: The Graph Structure Learning Benchmark   
 
 <a name="Classical_Segmentation"></a>
 # Classical segmentation method
