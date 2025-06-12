@@ -10,6 +10,21 @@
 - [Dataset](#Dataset)
 - [Other Technologies](#Other)
 
+# Content
+[[VPR](#VPR)]  [[Token fusion](#Token_fusion)]  
+[[Training Free](#Training_Free)] 
+[[Classical segmentation](#Classical_Segmentation)] 
+[[Classical detection](#Model-Classical_detection)] 
+[[Backbone](#Backbone)]
+[[Open vocabulary segmentation](#open_segmentation)]
+[[Open vocabulary detection](#open_detection)]
+[[Other Technologies](#Other)]
+
+
+
+
+-----------------------------------------------------------------------------------------------
+
 <a name="VPR"></a>
 # Visual Place Recognition
 | 2024 CVPR   | **CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition** | [[paper]](https://arxiv.org/pdf/2402.19231) [[code]](https://github.com/Lu-Feng/CricaVPR) |
