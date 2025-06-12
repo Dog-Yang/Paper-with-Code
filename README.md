@@ -40,8 +40,8 @@
 [[2024 NeurIPS](https://arxiv.org/pdf/2404.08461)] [[code](https://github.com/sprocketlab/otter)] OTTER: Effortless Label Distribution Adaptation of Zero-shot Models    
 [[2025 CVPR](https://arxiv.org/pdf/2505.24693)] [[code](https://github.com/jusiro/CLIP-Conformal)] Conformal Prediction for Zero-Shot Models
 [[2025 ICML](https://arxiv.org/abs/2505.04560)] [[code](https://github.com/ghwang-s/abkd)] ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via α-β-Divergence    
-[[2025 CVPR](https://arxiv.org/pdf/2411.15851)] [[code](https://github.com/yvhangyang/ResCLIP)] ResCLIP: Residual Attention for Training-free Dense Vision-language Inference 
-[[2025 AAAI](https://arxiv.org/pdf/2404.08181)] [[code](https://github.com/sinahmr/NACLIP)] Unveiling the Knowledge of CLIP for Training-Free Open-Vocabulary Semantic Segmentation    
+[[2025 CVPR](https://arxiv.org/pdf/2411.15851)] [[code](https://github.com/yvhangyang/ResCLIP)] ResCLIP: Residual Attention for Training-free Dense Vision-language Inference    
+[[2025 AAAI](https://arxiv.org/pdf/2404.08181)] [[code](https://github.com/sinahmr/NACLIP)] Unveiling the Knowledge of CLIP for Training-Free Open-Vocabulary Semantic Segmentation     
 [[2025 CVPR](https://arxiv.org/pdf/2503.19777)] [[code](https://github.com/vladan-stojnic/LPOSS/tree/main)] LOPSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation 
 
 <a name="Graph_Structure"></a>
@@ -81,7 +81,7 @@
 [[2021 ICML](https://arxiv.org/pdf/2012.12877)] DeiT: Training data-efficient image transformers & distillation through attention    
 [[2021 ICCV](https://arxiv.org/pdf/2103.14030)] [[code](https://github.com/microsoft/Swin-Transformer)] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows    
 [[2021 NeurIPS](https://arxiv.org/pdf/2104.13840)] [[code](https://github.com/Meituan-AutoML/Twins)] Twins: Revisiting the Design of Spatial Attention in Vision Transformers    
-[[2022 CVPR](https://arxiv.org/pdf/2203.10833)] [[code](https://github.com/htdt/hyp_metric)] Hyperbolic Vision Transformers: Combining Improvements in Metric Learning
+[[2022 CVPR](https://arxiv.org/pdf/2203.10833)] [[code](https://github.com/htdt/hyp_metric)] Hyperbolic Vision Transformers: Combining Improvements in Metric Learning      
 [[2022 ICLR](https://arxiv.org/pdf/2106.08254)] [[code](https://github.com/microsoft/unilm/tree/master/beit)] BEiT: BERT Pre-Training of Image Transformers    
 [[2022 CVPR](https://arxiv.org/pdf/2111.06377)] [[code](https://github.com/facebookresearch/mae)] MAE: Masked Autoencoders Are Scalable Vision Learners    
 [[2022 CVPR](https://arxiv.org/pdf/2111.11418)] [[code](https://github.com/sail-sg/poolformer)] PoolFormer: MetaFormer is Actually What You Need for Vision    
