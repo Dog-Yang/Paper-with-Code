@@ -38,7 +38,7 @@
 [[2024 ECCV](https://arxiv.org/pdf/2312.12359)] [[code](https://github.com/wysoczanska/clip_dinoiser)] CLIP_Dinoiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation    
 [[2024 Arxiv](https://arxiv.org/pdf/2411.15869)] [[code](https://github.com/SuleBai/SC-CLIP)] SC-CLIP: Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation    
 [[2024 NeurIPS](https://arxiv.org/pdf/2404.08461)] [[code](https://github.com/sprocketlab/otter)] OTTER: Effortless Label Distribution Adaptation of Zero-shot Models    
-[[2025 CVPR](https://arxiv.org/pdf/2505.24693)] [[code](https://github.com/jusiro/CLIP-Conformal)] Conformal Prediction for Zero-Shot Models
+[[2025 CVPR](https://arxiv.org/pdf/2505.24693)] [[code](https://github.com/jusiro/CLIP-Conformal)] Conformal Prediction for Zero-Shot Models     
 [[2025 ICML](https://arxiv.org/abs/2505.04560)] [[code](https://github.com/ghwang-s/abkd)] ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via α-β-Divergence    
 [[2025 CVPR](https://arxiv.org/pdf/2411.15851)] [[code](https://github.com/yvhangyang/ResCLIP)] ResCLIP: Residual Attention for Training-free Dense Vision-language Inference    
 [[2025 AAAI](https://arxiv.org/pdf/2404.08181)] [[code](https://github.com/sinahmr/NACLIP)] Unveiling the Knowledge of CLIP for Training-Free Open-Vocabulary Semantic Segmentation     
