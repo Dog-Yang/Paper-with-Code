@@ -11,7 +11,8 @@
 - [Other Technologies](#Other)
 
 # Content
-[[VPR](#VPR)]  [[Token fusion](#Token_fusion)]  
+[[VPR](#VPR)]
+[[Token fusion](#Token_fusion)]  
 [[Training Free](#Training_Free)] 
 [[Classical segmentation](#Classical_Segmentation)] 
 [[Classical detection](#Model-Classical_detection)] 
