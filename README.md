@@ -1,5 +1,5 @@
 # Content
-[[VPR](#VPR)] [[Token fusion](#Token_fusion)] [[Training Free](#Training_Free)] [[Classical segmentation](#Classical_Segmentation)] [[Classical detection](#Model-Classical_detection)] [[Backbone](#Backbone)] [[Open vocabulary segmentation](#open_segmentation)] [[Open vocabulary detection](#open_detection)] [[Other Technologies](#Other)]
+[[VPR](#VPR)] [[Token fusion](#Token_fusion)] [[Training Free](#Training_Free)] [[Classical segmentation](#Classical_Segmentation)] [[Classical detection](#Model-Classical_detection)] [[Backbone](#Backbone)] [[CLIP](#CLIP)] [[Open vocabulary segmentation](#open_segmentation)] [[Open vocabulary detection](#open_detection)] [[Other Technologies](#Other)]
 -----------------------------------------------------------------------------------------------
 
 <a name="VPR"></a>
