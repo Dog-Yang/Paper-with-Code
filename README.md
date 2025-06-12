@@ -39,8 +39,20 @@
 [[2024 ECCV](https://arxiv.org/pdf/2312.12359)] [[code](https://github.com/wysoczanska/clip_dinoiser)] CLIP_Dinoiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation    
 [[2025 ICML](https://arxiv.org/abs/2505.04560)] [[code](https://github.com/ghwang-s/abkd)] ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via α-β-Divergence    
 [[2025 CVPR](https://arxiv.org/pdf/2411.15851)] [[code](https://github.com/yvhangyang/ResCLIP)] ResCLIP: Residual Attention for Training-free Dense Vision-language Inference    
-[[2025 Arxiv](https://arxiv.org/pdf/2411.15869)] [[code](https://github.com/SuleBai/SC-CLIP)] SC-CLIP: Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation    
-[[2023 NeurIPS](https://arxiv.org/pdf/2310.05174) [[code](https://github.com/GSL-Benchmark/GSLB)] GSLB: The Graph Structure Learning Benchmark   
+[[2024 Arxiv](https://arxiv.org/pdf/2411.15869)] [[code](https://github.com/SuleBai/SC-CLIP)] SC-CLIP: Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation    
+[[2025 CVPR](https://arxiv.org/pdf/2505.24693)] [[code](https://github.com/jusiro/CLIP-Conformal)] Conformal Prediction for Zero-Shot Models
+[[2024 NeurIPS](https://arxiv.org/pdf/2404.08461)] [[code](https://github.com/sprocketlab/otter)] OTTER: Effortless Label Distribution Adaptation of Zero-shot Models
+
+<a name="Graph_Structure"></a>
+# Graph Structure
+[[2023 NeurIPS](https://arxiv.org/pdf/2310.05174)] [[code](https://github.com/GSL-Benchmark/GSLB)] GSLB: The Graph Structure Learning Benchmark   
+[[2024 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28092)] [[code](https://github.com/lhf12278/FCM-ReID)] Catalyst for Clustering-based Unsupervised Object Re-Identification: Feature Calibration
+[[2016 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/10302)] The Constrained Laplacian Rank Algorithm for Graph-Based Clustering
+[[2025 IJCAI](https://www.ijcai.org/Proceedings/16/Papers/269.pdf)] Parameter-Free Auto-Weighted Multiple Graph Learning: A Framework for Multiview Clustering and Semi-Supervised Classification
+
+
+[[2025 IJCAI]()] [[code]()] 
+
 
 <a name="Classical_Segmentation"></a>
 # Classical segmentation method
@@ -77,7 +89,7 @@
 [[2023 ICCV](https://arxiv.org/pdf/2303.08131)] [[code](https://github.com/IDEA-Research/OpenSeeD)] OpenSeeD: A simple framework for open-vocabulary segmentation and detection    
 [[2023 arXiv](https://arxiv.org/pdf/2304.02643)] [[code](https://github.com/facebookresearch/segment-anything)] [[demo](https://segment-anything.com/demo)] SAM: Segment Anything    
 [[2024 arXiv](https://arxiv.org/pdf/2408.00714)] [[code](https://github.com/facebookresearch/sam2)] [[demo](https://sam2.metademolab.com/)] SAM 2: Segment Anything in Images and Videos    
-
+[[2022 CVPR](https://arxiv.org/pdf/2203.10833)] [[code](https://github.com/htdt/hyp_metric)] Hyperbolic Vision Transformers: Combining Improvements in Metric Learning
 
 <a name="CLIP"></a>
 # CLIP
@@ -110,6 +122,9 @@
 [[2025 WACV](https://arxiv.org/pdf/2408.08855)] [[code](https://github.com/Externalhappy/DPA)] DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models      
 [[2022 NeurIPS](https://arxiv.org/pdf/2209.07511)] [[code](https://github.com/azshue/TPT)] TPT: Test-Time Prompt Tuning for Zero-shot Generalization in Vision-Language Models      
 [[2022 Arxiv](https://arxiv.org/pdf/2204.03649)] [[code](https://github.com/tonyhuang2022/UPL)] UPL: Unsupervised Prompt Learning for Vision-Language Models      
+[[2025 ICML](https://arxiv.org/pdf/2506.02557)]  [[code](https://github.com/peterant330/KUEA)] Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models
+[[2025 CVPR](https://arxiv.org/pdf/2505.23694)]  [[code](https://github.com/Noahsark/DA-VPT)] DA-VPT: Semantic-Guided Visual Prompt Tuning for Vision Transformers
+
 
 <a name="open_segmentation"></a>
 # Open vocabulary segmentation
