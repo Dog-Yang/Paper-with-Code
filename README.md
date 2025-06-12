@@ -120,8 +120,8 @@
 [[2025 WACV](https://arxiv.org/pdf/2410.08211)] [[code](https://github.com/astra-vision/LatteCLIP)] LATTECLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts      
 [[2025 ICLR](https://arxiv.org/pdf/2502.04263)] [[code](https://github.com/miccunifi/Cross-the-Gap)] CROSS THE GAP: EXPOSING THE INTRA-MODAL MISALIGNMENT IN CLIP VIA MODALITY INVERSION      
 [[2025 ICLR](https://arxiv.org/pdf/2410.05270)] [[code](https://github.com/astra-vision/ProLIP)] CLIP’s Visual Embedding Projector is a Few-shot Cornucopia    
-[[2025 CVPR](https://arxiv.org/pdf/2505.23694)]  [[code](https://github.com/Noahsark/DA-VPT)] DA-VPT: Semantic-Guided Visual Prompt Tuning for Vision Transformers
-[[2025 ICML](https://arxiv.org/pdf/2506.02557)]  [[code](https://github.com/peterant330/KUEA)] Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models
+[[2025 CVPR](https://arxiv.org/pdf/2505.23694)]  [[code](https://github.com/Noahsark/DA-VPT)] DA-VPT: Semantic-Guided Visual Prompt Tuning for Vision Transformers     
+[[2025 ICML](https://arxiv.org/pdf/2506.02557)]  [[code](https://github.com/peterant330/KUEA)] Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models     
 
 <a name="open_segmentation"></a>
 # Open vocabulary segmentation
