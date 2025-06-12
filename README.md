@@ -1,6 +1,29 @@
 # Content
 [[VPR](#VPR)] [[Token fusion](#Token_fusion)] [[Training Free](#Training_Free)] [[Classical segmentation](#Classical_Segmentation)] [[Classical detection](#Model-Classical_detection)] [[Backbone](#Backbone)] [[CLIP](#CLIP)] [[Open vocabulary segmentation](#open_segmentation)] [[Open vocabulary detection](#open_detection)] [[Other](#Other)]
 -----------------------------------------------------------------------------------------------
+<a name="Training_Free"></a>
+# Training Free
+[[2022 ECCV](https://arxiv.org/pdf/2112.01071)] [[code](https://github.com/chongzhou96/MaskCLIP)] Maskclip: Extract Free Dense Labels from CLIP    
+[[2024 NeurIPS](https://arxiv.org/pdf/2406.01837)] [[code](https://github.com/MaxZanella/transduction-for-vlms)] Transclip: Boosting Vision-Language Models with Transduction    
+[[2024 ECCV](https://arxiv.org/pdf/2312.01597)] [[code](https://github.com/wangf3014/SCLIP)] SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference    
+[[2024 WACV](https://arxiv.org/pdf/2404.08181)] [[code](https://github.com/sinahmr/NACLIP)] NACLIP: Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation       
+[[2024 ECCV](https://arxiv.org/pdf/2408.04883v1)] [[code](https://github.com/mc-lan/ProxyCLIP)] ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation    
+[[2024 ECCV](https://arxiv.org/pdf/2312.12359)] [[code](https://github.com/wysoczanska/clip_dinoiser)] CLIP_Dinoiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation    
+[[2024 Arxiv](https://arxiv.org/pdf/2411.15869)] [[code](https://github.com/SuleBai/SC-CLIP)] SC-CLIP: Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation    
+[[2024 NeurIPS](https://arxiv.org/pdf/2404.08461)] [[code](https://github.com/sprocketlab/otter)] OTTER: Effortless Label Distribution Adaptation of Zero-shot Models    
+[[2025 CVPR](https://arxiv.org/pdf/2505.24693)] [[code](https://github.com/jusiro/CLIP-Conformal)] Conformal Prediction for Zero-Shot Models     
+[[2025 ICML](https://arxiv.org/abs/2505.04560)] [[code](https://github.com/ghwang-s/abkd)] ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via α-β-Divergence    
+[[2025 CVPR](https://arxiv.org/pdf/2411.15851)] [[code](https://github.com/yvhangyang/ResCLIP)] ResCLIP: Residual Attention for Training-free Dense Vision-language Inference    
+[[2025 AAAI](https://arxiv.org/pdf/2404.08181)] [[code](https://github.com/sinahmr/NACLIP)] Unveiling the Knowledge of CLIP for Training-Free Open-Vocabulary Semantic Segmentation     
+[[2025 CVPR](https://arxiv.org/pdf/2503.19777)] [[code](https://github.com/vladan-stojnic/LPOSS/tree/main)] LOPSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation 
+
+<a name="Graph_Structure"></a>
+# Graph Structure
+[[2016 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/10302)] The Constrained Laplacian Rank Algorithm for Graph-Based Clustering    
+[[2016 IJCAI](https://www.ijcai.org/Proceedings/16/Papers/269.pdf)] Parameter-Free Auto-Weighted Multiple Graph Learning: A Framework for Multiview Clustering and Semi-Supervised Classification   
+[[2023 NeurIPS](https://arxiv.org/pdf/2310.05174)] [[code](https://github.com/GSL-Benchmark/GSLB)] GSLB: The Graph Structure Learning Benchmark     
+[[2024 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28092)] [[code](https://github.com/lhf12278/FCM-ReID)] Catalyst for Clustering-based Unsupervised Object Re-Identification: Feature Calibration    
+[[2025 CVPR]()] [[code]()] 
 
 <a name="VPR"></a>
 # Visual Place Recognition
@@ -27,30 +50,6 @@
 [[2024 arXiv](https://arxiv.org/pdf/2405.20985)] [[code](https://github.com/yaolinli/DeCo)] DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models    
 [[2024 CVPR](https://arxiv.org/pdf/2312.00878)] [[code](https://github.com/WalBouss/GEM)] Grounding Everything: Emerging Localization Properties in Vision-Language Transformers    
 [[2025 CVPR](https://arxiv.org/pdf/2504.08966)] [[code](https://github.com/orailix/PACT/tree/main)] PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models   
-
-<a name="Training_Free"></a>
-# Training Free
-[[2022 ECCV](https://arxiv.org/pdf/2112.01071)] [[code](https://github.com/chongzhou96/MaskCLIP)] Maskclip: Extract Free Dense Labels from CLIP    
-[[2024 NeurIPS](https://arxiv.org/pdf/2406.01837)] [[code](https://github.com/MaxZanella/transduction-for-vlms)] Transclip: Boosting Vision-Language Models with Transduction    
-[[2024 ECCV](https://arxiv.org/pdf/2312.01597)] [[code](https://github.com/wangf3014/SCLIP)] SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference    
-[[2024 WACV](https://arxiv.org/pdf/2404.08181)] [[code](https://github.com/sinahmr/NACLIP)] NACLIP: Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation       
-[[2024 ECCV](https://arxiv.org/pdf/2408.04883v1)] [[code](https://github.com/mc-lan/ProxyCLIP)] ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation    
-[[2024 ECCV](https://arxiv.org/pdf/2312.12359)] [[code](https://github.com/wysoczanska/clip_dinoiser)] CLIP_Dinoiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation    
-[[2024 Arxiv](https://arxiv.org/pdf/2411.15869)] [[code](https://github.com/SuleBai/SC-CLIP)] SC-CLIP: Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation    
-[[2024 NeurIPS](https://arxiv.org/pdf/2404.08461)] [[code](https://github.com/sprocketlab/otter)] OTTER: Effortless Label Distribution Adaptation of Zero-shot Models    
-[[2025 CVPR](https://arxiv.org/pdf/2505.24693)] [[code](https://github.com/jusiro/CLIP-Conformal)] Conformal Prediction for Zero-Shot Models     
-[[2025 ICML](https://arxiv.org/abs/2505.04560)] [[code](https://github.com/ghwang-s/abkd)] ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via α-β-Divergence    
-[[2025 CVPR](https://arxiv.org/pdf/2411.15851)] [[code](https://github.com/yvhangyang/ResCLIP)] ResCLIP: Residual Attention for Training-free Dense Vision-language Inference    
-[[2025 AAAI](https://arxiv.org/pdf/2404.08181)] [[code](https://github.com/sinahmr/NACLIP)] Unveiling the Knowledge of CLIP for Training-Free Open-Vocabulary Semantic Segmentation     
-[[2025 CVPR](https://arxiv.org/pdf/2503.19777)] [[code](https://github.com/vladan-stojnic/LPOSS/tree/main)] LOPSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation 
-
-<a name="Graph_Structure"></a>
-# Graph Structure
-[[2016 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/10302)] The Constrained Laplacian Rank Algorithm for Graph-Based Clustering    
-[[2016 IJCAI](https://www.ijcai.org/Proceedings/16/Papers/269.pdf)] Parameter-Free Auto-Weighted Multiple Graph Learning: A Framework for Multiview Clustering and Semi-Supervised Classification   
-[[2023 NeurIPS](https://arxiv.org/pdf/2310.05174)] [[code](https://github.com/GSL-Benchmark/GSLB)] GSLB: The Graph Structure Learning Benchmark     
-[[2024 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28092)] [[code](https://github.com/lhf12278/FCM-ReID)] Catalyst for Clustering-based Unsupervised Object Re-Identification: Feature Calibration    
-[[2025 CVPR]()] [[code]()] 
 
 
 <a name="Classical_Segmentation"></a>
