@@ -4,104 +4,104 @@
 
 <a name="VPR"></a>
 # Visual Place Recognition
-[[2024 CVPR](https://arxiv.org/pdf/2402.19231)] [[code](https://github.com/Lu-Feng/CricaVPR)] CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition
-[[2024 CVPR](https://arxiv.org/pdf/2405.07364)] [[code](https://github.com/amaralibey/Bag-of-Queries)] BoQ: A Place is Worth a Bag of Learnable Queries
-[[2024 NIPS](https://openreview.net/pdf?id=bZpZMdY1sj)] [[code](https://github.com/Lu-Feng/SuperVLAD)] SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition
-[[2022 CVPR](https://arxiv.org/pdf/2204.02287)] [[code](https://github.com/gmberton/CosPlace)] CosPlace: Rethinking Visual Geo-localization for Large-Scale Applications
+[[2024 CVPR](https://arxiv.org/pdf/2402.19231)] [[code](https://github.com/Lu-Feng/CricaVPR)] CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition    
+[[2024 CVPR](https://arxiv.org/pdf/2405.07364)] [[code](https://github.com/amaralibey/Bag-of-Queries)] BoQ: A Place is Worth a Bag of Learnable Queries    
+[[2024 NIPS](https://openreview.net/pdf?id=bZpZMdY1sj)] [[code](https://github.com/Lu-Feng/SuperVLAD)] SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition    
+[[2022 CVPR](https://arxiv.org/pdf/2204.02287)] [[code](https://github.com/gmberton/CosPlace)] CosPlace: Rethinking Visual Geo-localization for Large-Scale Applications    
 
 <a name="Token_fusion"></a>
 # Token Mering, Clustering and Pruning
-[[2022 CVPR](https://arxiv.org/pdf/2202.11094)] [[code](https://github.com/NVlabs/GroupViT)] GroupViT: Semantic Segmentation Emerges from Text Supervision
-[[2024 CVPR](https://arxiv.org/pdf/2403.10030)] [[code](https://github.com/mlvlab/MCTF)] Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers
-[[2021 NIPS](https://arxiv.org/pdf/2106.11297)] [[code](https://github.com/google-research/scenic/tree/main/scenic/projects/token_learner)] TokenLearner: What Can 8 Learned Tokens Do for Images and Videos?
-[[2023 ICLR](https://arxiv.org/pdf/2212.06795)] [[code](https://github.com/ChenhongyiYang/GPViT)] GPVIT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation
-[[2024 CVPR](https://arxiv.org/pdf/2311.08046)] [[code](https://github.com/PKU-YuanGroup/Chat-UniVi)] Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding
-[[2023 CVPR](https://arxiv.org/pdf/2302.12242)] [[code](https://github.com/MendelXu/SAN)] SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation
-[[2025 CVPR](https://arxiv.org/pdf/2504.08966)] [[code](https://github.com/orailix/PACT/tree/main)] PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models
-[[2024 ICLR](https://arxiv.org/pdf/2309.04669)] [[code](https://github.com/jy0205/LaVIT)] LaVIT: Unified language-vision pretraining in LLM with dynamic discrete visual tokenization
-[[2022 CVPR](https://arxiv.org/pdf/2308.03005)] [[code](https://github.com/xulianuwa/MCTformer)] MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation
-[[2023 CVPR](https://arxiv.org/pdf/2301.12597)] [[code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)] BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models
-[[2023 ICCV](https://arxiv.org/abs/2210.09996)] Perceptual Grouping in Contrastive Vision-Language Models
-[[2024 arXiv](https://arxiv.org/abs/2407.02392)] [[code](https://github.com/CircleRadon/TokenPacker)] TokenPacker: Efficient Visual Projector for Multimodal LLM
-[[2024 arXiv](https://arxiv.org/pdf/2405.20985)] [[code](https://github.com/yaolinli/DeCo)] DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models
-[[2024 CVPR](https://arxiv.org/pdf/2312.00878)] [[code](https://github.com/WalBouss/GEM)] Grounding Everything: Emerging Localization Properties in Vision-Language Transformers
+[[2022 CVPR](https://arxiv.org/pdf/2202.11094)] [[code](https://github.com/NVlabs/GroupViT)] GroupViT: Semantic Segmentation Emerges from Text Supervision    
+[[2024 CVPR](https://arxiv.org/pdf/2403.10030)] [[code](https://github.com/mlvlab/MCTF)] Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers    
+[[2021 NIPS](https://arxiv.org/pdf/2106.11297)] [[code](https://github.com/google-research/scenic/tree/main/scenic/projects/token_learner)] TokenLearner: What Can 8 Learned Tokens Do for Images and Videos?    
+[[2023 ICLR](https://arxiv.org/pdf/2212.06795)] [[code](https://github.com/ChenhongyiYang/GPViT)] GPVIT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation    
+[[2024 CVPR](https://arxiv.org/pdf/2311.08046)] [[code](https://github.com/PKU-YuanGroup/Chat-UniVi)] Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding    
+[[2023 CVPR](https://arxiv.org/pdf/2302.12242)] [[code](https://github.com/MendelXu/SAN)] SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation    
+[[2025 CVPR](https://arxiv.org/pdf/2504.08966)] [[code](https://github.com/orailix/PACT/tree/main)] PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models    
+[[2024 ICLR](https://arxiv.org/pdf/2309.04669)] [[code](https://github.com/jy0205/LaVIT)] LaVIT: Unified language-vision pretraining in LLM with dynamic discrete visual tokenization    
+[[2022 CVPR](https://arxiv.org/pdf/2308.03005)] [[code](https://github.com/xulianuwa/MCTformer)] MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation    
+[[2023 CVPR](https://arxiv.org/pdf/2301.12597)] [[code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)] BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models    
+[[2023 ICCV](https://arxiv.org/abs/2210.09996)] Perceptual Grouping in Contrastive Vision-Language Models    
+[[2024 arXiv](https://arxiv.org/abs/2407.02392)] [[code](https://github.com/CircleRadon/TokenPacker)] TokenPacker: Efficient Visual Projector for Multimodal LLM    
+[[2024 arXiv](https://arxiv.org/pdf/2405.20985)] [[code](https://github.com/yaolinli/DeCo)] DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models    
+[[2024 CVPR](https://arxiv.org/pdf/2312.00878)] [[code](https://github.com/WalBouss/GEM)] Grounding Everything: Emerging Localization Properties in Vision-Language Transformers    
 
 <a name="Training_Free"></a>
 # Training Free
-[[2024 ECCV](https://arxiv.org/pdf/2312.01597)] [[code](https://github.com/wangf3014/SCLIP)] SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference
-[[2024 WACV](https://arxiv.org/pdf/2404.08181)] [[code](https://github.com/sinahmr/NACLIP)] NACLIP: Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation
-[[2025 AAAI](https://arxiv.org/pdf/2404.08181)] [[code](https://github.com/sinahmr/NACLIP)] Unveiling the Knowledge of CLIP for Training-Free Open-Vocabulary Semantic Segmentation
-[[2022 ECCV](https://arxiv.org/pdf/2112.01071)] [[code](https://github.com/chongzhou96/MaskCLIP)] Maskclip: Extract Free Dense Labels from CLIP
-[[2025 CVPR](https://arxiv.org/pdf/2503.19777)] [[code](https://github.com/vladan-stojnic/LPOSS/tree/main)] LOPSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation
-[[2024 ECCV](https://arxiv.org/pdf/2408.04883v1)] [[code](https://github.com/mc-lan/ProxyCLIP)] ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation
-[[2024 ECCV](https://arxiv.org/pdf/2312.12359)] [[code](https://github.com/wysoczanska/clip_dinoiser)] CLIP_Dinoiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation
-[[2025 ICML](https://arxiv.org/abs/2505.04560)] [[code](https://github.com/ghwang-s/abkd)] ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via α-β-Divergence
-[[2025 CVPR](https://arxiv.org/pdf/2411.15851)] [[code](https://github.com/yvhangyang/ResCLIP)] ResCLIP: Residual Attention for Training-free Dense Vision-language Inference
-[[2025.03 Arxiv](https://arxiv.org/pdf/2411.15869)] [[code](https://github.com/SuleBai/SC-CLIP)] SC-CLIP: Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation
+[[2024 ECCV](https://arxiv.org/pdf/2312.01597)] [[code](https://github.com/wangf3014/SCLIP)] SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference    
+[[2024 WACV](https://arxiv.org/pdf/2404.08181)] [[code](https://github.com/sinahmr/NACLIP)] NACLIP: Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation    
+[[2025 AAAI](https://arxiv.org/pdf/2404.08181)] [[code](https://github.com/sinahmr/NACLIP)] Unveiling the Knowledge of CLIP for Training-Free Open-Vocabulary Semantic Segmentation    
+[[2022 ECCV](https://arxiv.org/pdf/2112.01071)] [[code](https://github.com/chongzhou96/MaskCLIP)] Maskclip: Extract Free Dense Labels from CLIP    
+[[2025 CVPR](https://arxiv.org/pdf/2503.19777)] [[code](https://github.com/vladan-stojnic/LPOSS/tree/main)] LOPSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation    
+[[2024 ECCV](https://arxiv.org/pdf/2408.04883v1)] [[code](https://github.com/mc-lan/ProxyCLIP)] ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation    
+[[2024 ECCV](https://arxiv.org/pdf/2312.12359)] [[code](https://github.com/wysoczanska/clip_dinoiser)] CLIP_Dinoiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation    
+[[2025 ICML](https://arxiv.org/abs/2505.04560)] [[code](https://github.com/ghwang-s/abkd)] ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via α-β-Divergence    
+[[2025 CVPR](https://arxiv.org/pdf/2411.15851)] [[code](https://github.com/yvhangyang/ResCLIP)] ResCLIP: Residual Attention for Training-free Dense Vision-language Inference    
+[[2025.03 Arxiv](https://arxiv.org/pdf/2411.15869)] [[code](https://github.com/SuleBai/SC-CLIP)] SC-CLIP: Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation    
 
 <a name="Classical_Segmentation"></a>
 # Classical segmentation method（Supervised）
-[[2015 CVPR](https://arxiv.org/abs/1411.4038)] [[code](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)] FCN: Fully Convolutional Networks for Semantic Segmentation
-[[2016 MICCAI](https://arxiv.org/pdf/1505.04597)] UNet: Convolutional Networks for Biomedical Image Segmentation
-[[2017 arXiv](https://arxiv.org/pdf/1706.05587)] DeepLabV3: Rethinking atrous convolution for semantic image segmentation
-[[2018 CVPR](https://arxiv.org/pdf/1802.02611)] DeepLabV3+: Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation
-[[2019 CVPR](https://arxiv.org/pdf/1901.02446)] Semantic FPN: Panoptic Feature Pyramid Networks
-[[2021 CVPR](https://arxiv.org/pdf/2012.15840)] [[code](https://github.com/fudan-zvg/SETR)] SETR: Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers
-[[2021 ICCV](https://arxiv.org/pdf/2105.05633)] [[code](https://github.com/rstrudel/segmenter)] Segmenter: Transformer for Semantic Segmentation
-[[2021 NIPS](https://arxiv.org/pdf/2105.15203)] [[code](https://github.com/NVlabs/SegFormer)] SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers
-[[2021 CVPR](https://arxiv.org/pdf/2107.06278)] [[code](https://github.com/facebookresearch/MaskFormer)] MaskFormer: Per-Pixel Classification is Not All You Need for Semantic Segmentation
-[[2022 CVPR](https://arxiv.org/pdf/2112.01527)] [[code](https://github.com/facebookresearch/Mask2Former)] Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation
-[[2024 CVPR](https://arxiv.org/pdf/2312.04265)] [[code](https://github.com/w1oves/Rein)] Rein: Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation
+[[2015 CVPR](https://arxiv.org/abs/1411.4038)] [[code](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)] FCN: Fully Convolutional Networks for Semantic Segmentation    
+[[2016 MICCAI](https://arxiv.org/pdf/1505.04597)] UNet: Convolutional Networks for Biomedical Image Segmentation    
+[[2017 arXiv](https://arxiv.org/pdf/1706.05587)] DeepLabV3: Rethinking atrous convolution for semantic image segmentation    
+[[2018 CVPR](https://arxiv.org/pdf/1802.02611)] DeepLabV3+: Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation    
+[[2019 CVPR](https://arxiv.org/pdf/1901.02446)] Semantic FPN: Panoptic Feature Pyramid Networks    
+[[2021 CVPR](https://arxiv.org/pdf/2012.15840)] [[code](https://github.com/fudan-zvg/SETR)] SETR: Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers    
+[[2021 ICCV](https://arxiv.org/pdf/2105.05633)] [[code](https://github.com/rstrudel/segmenter)] Segmenter: Transformer for Semantic Segmentation    
+[[2021 NIPS](https://arxiv.org/pdf/2105.15203)] [[code](https://github.com/NVlabs/SegFormer)] SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers    
+[[2021 CVPR](https://arxiv.org/pdf/2107.06278)] [[code](https://github.com/facebookresearch/MaskFormer)] MaskFormer: Per-Pixel Classification is Not All You Need for Semantic Segmentation    
+[[2022 CVPR](https://arxiv.org/pdf/2112.01527)] [[code](https://github.com/facebookresearch/Mask2Former)] Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation    
+[[2024 CVPR](https://arxiv.org/pdf/2312.04265)] [[code](https://github.com/w1oves/Rein)] Rein: Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation    
 
 <a name="Classical_detection"></a>
 # Classical detection method
-[[2015 NIPS](https://arxiv.org/pdf/1506.01497)] Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
-[[2020 ECCV](https://arxiv.org/pdf/2005.12872)] [[code](https://github.com/facebookresearch/detr)] DETR: End-to-End Object Detection with Transformers
-[[2021 ICLR](https://arxiv.org/pdf/2010.04159)] [[code](https://github.com/fundamentalvision/Deformable-DETR)] Deformable DETR: Deformable Transformers for End-to-End Object Detection
-[[2023 ICLR](https://arxiv.org/pdf/2203.03605)] [[code](https://github.com/IDEA-Research/DINO)] DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection
+[[2015 NIPS](https://arxiv.org/pdf/1506.01497)] Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks    
+[[2020 ECCV](https://arxiv.org/pdf/2005.12872)] [[code](https://github.com/facebookresearch/detr)] DETR: End-to-End Object Detection with Transformers    
+[[2021 ICLR](https://arxiv.org/pdf/2010.04159)] [[code](https://github.com/fundamentalvision/Deformable-DETR)] Deformable DETR: Deformable Transformers for End-to-End Object Detection    
+[[2023 ICLR](https://arxiv.org/pdf/2203.03605)] [[code](https://github.com/IDEA-Research/DINO)] DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection    
 
 <a name="Backbone"></a>
 # Backbone
-[[2017 NIPS](https://arxiv.org/pdf/1706.03762)] [[code](https://github.com/tensorflow/tensor2tensor)] transfomer: Attention Is All You Need
-[[2021 ICLR](https://arxiv.org/pdf/2010.11929)] [[code](https://github.com/google-research/vision_transformer)] ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
-[[2021 ICML](https://arxiv.org/pdf/2012.12877)] DeiT: Training data-efficient image transformers & distillation through attention
-[[2021 ICCV](https://arxiv.org/pdf/2103.14030)] [[code](https://github.com/microsoft/Swin-Transformer)] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
-[[2021 NIPS](https://arxiv.org/pdf/2104.13840)] [[code](https://github.com/Meituan-AutoML/Twins)] Twins: Revisiting the Design of Spatial Attention in Vision Transformers
-[[2022 ICLR](https://arxiv.org/pdf/2106.08254)] [[code](https://github.com/microsoft/unilm/tree/master/beit)] BEiT: BERT Pre-Training of Image Transformers
-[[2022 CVPR](https://arxiv.org/pdf/2111.06377)] [[code](https://github.com/facebookresearch/mae)] MAE: Masked Autoencoders Are Scalable Vision Learners
-[[2022 CVPR](https://arxiv.org/pdf/2111.11418)] [[code](https://github.com/sail-sg/poolformer)] PoolFormer: MetaFormer is Actually What You Need for Vision
-[[2022 NIPS](https://arxiv.org/pdf/2209.08575)] [[code](https://github.com/Visual-Attention-Network/SegNeXt)] SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation
-[[2023 ICCV](https://arxiv.org/pdf/2303.08131)] [[code](https://github.com/IDEA-Research/OpenSeeD)] OpenSeeD: A simple framework for open-vocabulary segmentation and detection
-[[2023 arXiv](https://arxiv.org/pdf/2304.02643)] [[code](https://github.com/facebookresearch/segment-anything)] [[demo](https://segment-anything.com/demo)] SAM: Segment Anything
-[[2024 arXiv](https://arxiv.org/pdf/2408.00714)] [[code](https://github.com/facebookresearch/sam2)] [[demo](https://sam2.metademolab.com/)] SAM 2: Segment Anything in Images and Videos
+[[2017 NIPS](https://arxiv.org/pdf/1706.03762)] [[code](https://github.com/tensorflow/tensor2tensor)] transfomer: Attention Is All You Need    
+[[2021 ICLR](https://arxiv.org/pdf/2010.11929)] [[code](https://github.com/google-research/vision_transformer)] ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale    
+[[2021 ICML](https://arxiv.org/pdf/2012.12877)] DeiT: Training data-efficient image transformers & distillation through attention    
+[[2021 ICCV](https://arxiv.org/pdf/2103.14030)] [[code](https://github.com/microsoft/Swin-Transformer)] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows    
+[[2021 NIPS](https://arxiv.org/pdf/2104.13840)] [[code](https://github.com/Meituan-AutoML/Twins)] Twins: Revisiting the Design of Spatial Attention in Vision Transformers    
+[[2022 ICLR](https://arxiv.org/pdf/2106.08254)] [[code](https://github.com/microsoft/unilm/tree/master/beit)] BEiT: BERT Pre-Training of Image Transformers    
+[[2022 CVPR](https://arxiv.org/pdf/2111.06377)] [[code](https://github.com/facebookresearch/mae)] MAE: Masked Autoencoders Are Scalable Vision Learners    
+[[2022 CVPR](https://arxiv.org/pdf/2111.11418)] [[code](https://github.com/sail-sg/poolformer)] PoolFormer: MetaFormer is Actually What You Need for Vision    
+[[2022 NIPS](https://arxiv.org/pdf/2209.08575)] [[code](https://github.com/Visual-Attention-Network/SegNeXt)] SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation    
+[[2023 ICCV](https://arxiv.org/pdf/2303.08131)] [[code](https://github.com/IDEA-Research/OpenSeeD)] OpenSeeD: A simple framework for open-vocabulary segmentation and detection    
+[[2023 arXiv](https://arxiv.org/pdf/2304.02643)] [[code](https://github.com/facebookresearch/segment-anything)] [[demo](https://segment-anything.com/demo)] SAM: Segment Anything    
+[[2024 arXiv](https://arxiv.org/pdf/2408.00714)] [[code](https://github.com/facebookresearch/sam2)] [[demo](https://sam2.metademolab.com/)] SAM 2: Segment Anything in Images and Videos    
 
 <a name="open_segmentation"></a>
 # Open vocabulary segmentation
-[[2021 ICML](https://arxiv.org/pdf/2103.00020)] [[code](https://github.com/OpenAI/CLIP)] CLIP: Learning transferable visual models from natural language supervision
-[[2024 TPAMI](https://arxiv.org/pdf/2306.15880)] [[code](https://github.com/jianzongwu/Awesome-Open-Vocabulary)] Review: Towards Open Vocabulary Learning: A Survey
-[[2022 ICLR](https://arxiv.org/pdf/2201.03546)] [[code](https://github.com/isl-org/lang-seg)] Lseg: Language-driven semantic segmentation (Supervised)
-[[2022 CVPR](https://arxiv.org/pdf/2112.07910)] [[code](https://github.com/dingjiansw101/ZegFormer)] ZegFormer: Decoupling Zero-Shot Semantic Segmentation
-[[2022 ECCV](https://arxiv.org/pdf/2112.01071)] [[code](https://github.com/chongzhou96/MaskCLIP)] MaskCLIP+: Extract Free Dense Labels from CLIP
-[[2023 ICML](https://arxiv.org/pdf/2208.08984)] [[code](https://github.com/mlpc-ucsd/MaskCLIP)] MaskCLIP: Open-Vocabulary Universal Image Segmentation with MaskCLIP
-[[2022 CVPR](https://arxiv.org/pdf/2202.11094)] [[code](https://github.com/NVlabs/GroupViT)] GroupViT: Semantic Segmentation Emerges from Text Supervision (Open-Vocabulary Zero-Shot)
-[[2022 ECCV](https://arxiv.org/pdf/2112.12143)] OpenSeg: Scaling Open-Vocabulary Image Segmentation with Image-Level Labels
-[[2023 CVPR](https://arxiv.org/pdf/2303.17225)] [[code](https://github.com/bytedance/FreeSeg)] FreeSeg: Unified, Universal, and Open-Vocabulary Image Segmentation
-[[2023 ICML](https://arxiv.org/pdf/2211.14813)] [[code](https://github.com/ArrowLuo/SegCLIP)] SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation (Zero-Shot)
-[[2023 CVPR](https://arxiv.org/pdf/2212.11270)] [[code](https://github.com/microsoft/X-Decoder/tree/main)] X-Decoder: Generalized Decoding for Pixel, Image, and Language
-[[2023 CVPR](https://arxiv.org/pdf/2303.04803)] [[code](https://github.com/NVlabs/ODISE)] ODISE: Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models
-[[2022 ECCV](https://arxiv.org/pdf/2207.08455v2)] ViL-Seg: Open-World Semantic Segmentation via Contrasting and Clustering Vision-Language Embeddings
-[[2023 CVPR](https://arxiv.org/pdf/2302.12242)] [[code](https://github.com/MendelXu/SAN)] SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation
-[[2024 ECCV](https://arxiv.org/pdf/2312.12359)] [[code](https://github.com/wysoczanska/clip_dinoiser)] CLIP-DINOiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation
-[[2024 CVPR](https://arxiv.org/pdf/2311.15537)] [[code](https://github.com/xb534/SED)] SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation
+[[2021 ICML](https://arxiv.org/pdf/2103.00020)] [[code](https://github.com/OpenAI/CLIP)] CLIP: Learning transferable visual models from natural language supervision    
+[[2024 TPAMI](https://arxiv.org/pdf/2306.15880)] [[code](https://github.com/jianzongwu/Awesome-Open-Vocabulary)] Review: Towards Open Vocabulary Learning: A Survey    
+[[2022 ICLR](https://arxiv.org/pdf/2201.03546)] [[code](https://github.com/isl-org/lang-seg)] Lseg: Language-driven semantic segmentation (Supervised)    
+[[2022 CVPR](https://arxiv.org/pdf/2112.07910)] [[code](https://github.com/dingjiansw101/ZegFormer)] ZegFormer: Decoupling Zero-Shot Semantic Segmentation    
+[[2022 ECCV](https://arxiv.org/pdf/2112.01071)] [[code](https://github.com/chongzhou96/MaskCLIP)] MaskCLIP+: Extract Free Dense Labels from CLIP    
+[[2023 ICML](https://arxiv.org/pdf/2208.08984)] [[code](https://github.com/mlpc-ucsd/MaskCLIP)] MaskCLIP: Open-Vocabulary Universal Image Segmentation with MaskCLIP    
+[[2022 CVPR](https://arxiv.org/pdf/2202.11094)] [[code](https://github.com/NVlabs/GroupViT)] GroupViT: Semantic Segmentation Emerges from Text Supervision (Open-Vocabulary Zero-Shot)    
+[[2022 ECCV](https://arxiv.org/pdf/2112.12143)] OpenSeg: Scaling Open-Vocabulary Image Segmentation with Image-Level Labels    
+[[2023 CVPR](https://arxiv.org/pdf/2303.17225)] [[code](https://github.com/bytedance/FreeSeg)] FreeSeg: Unified, Universal, and Open-Vocabulary Image Segmentation    
+[[2023 ICML](https://arxiv.org/pdf/2211.14813)] [[code](https://github.com/ArrowLuo/SegCLIP)] SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation (Zero-Shot)    
+[[2023 CVPR](https://arxiv.org/pdf/2212.11270)] [[code](https://github.com/microsoft/X-Decoder/tree/main)] X-Decoder: Generalized Decoding for Pixel, Image, and Language    
+[[2023 CVPR](https://arxiv.org/pdf/2303.04803)] [[code](https://github.com/NVlabs/ODISE)] ODISE: Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models    
+[[2022 ECCV](https://arxiv.org/pdf/2207.08455v2)] ViL-Seg: Open-World Semantic Segmentation via Contrasting and Clustering Vision-Language Embeddings    
+[[2023 CVPR](https://arxiv.org/pdf/2302.12242)] [[code](https://github.com/MendelXu/SAN)] SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation    
+[[2024 ECCV](https://arxiv.org/pdf/2312.12359)] [[code](https://github.com/wysoczanska/clip_dinoiser)] CLIP-DINOiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation    
+[[2024 CVPR](https://arxiv.org/pdf/2311.15537)] [[code](https://github.com/xb534/SED)] SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation    
 
 <a name="open_detection"></a>
 # Open vocabulary object detection
-[[2021 CVPR](https://arxiv.org/pdf/2011.10678)] [[code](https://github.com/alirezazareian/ovr-cnn)] Open-Vocabulary Object Detection Using Captions
-[[2022 ICLR](https://arxiv.org/pdf/2104.13921)] [[code](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)] ViLD: Open-Vocabulary Object Detection via Vision and Language Knowledge Distillation
-[[2022 CVPR](https://arxiv.org/pdf/2112.03857)] [[code](https://github.com/microsoft/GLIP)] GLIP: Grounded Language-Image Pre-training
-[[2022 NIPS](https://arxiv.org/pdf/2206.05836)] [[code](https://github.com/microsoft/GLIP)] GLIPv2: Unifying Localization and Vision-Language Understanding
+[[2021 CVPR](https://arxiv.org/pdf/2011.10678)] [[code](https://github.com/alirezazareian/ovr-cnn)] Open-Vocabulary Object Detection Using Captions    
+[[2022 ICLR](https://arxiv.org/pdf/2104.13921)] [[code](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)] ViLD: Open-Vocabulary Object Detection via Vision and Language Knowledge Distillation    
+[[2022 CVPR](https://arxiv.org/pdf/2112.03857)] [[code](https://github.com/microsoft/GLIP)] GLIP: Grounded Language-Image Pre-training    
+[[2022 NIPS](https://arxiv.org/pdf/2206.05836)] [[code](https://github.com/microsoft/GLIP)] GLIPv2: Unifying Localization and Vision-Language Understanding    
 
 <a name="Other"></a>
 # Other Technologies
-[[2016 CVPRW](https://arxiv.org/pdf/1609.05158)] pixel shuffle
-[[2020 NIPS](https://arxiv.org/pdf/2006.11239)] [[code](https://github.com/hojonathanho/diffusion)] DDPM: Denoising Diffusion Probabilistic Models
+[[2016 CVPRW](https://arxiv.org/pdf/1609.05158)] pixel shuffle    
+[[2020 NIPS](https://arxiv.org/pdf/2006.11239)] [[code](https://github.com/hojonathanho/diffusion)] DDPM: Denoising Diffusion Probabilistic Models    
