@@ -1,15 +1,3 @@
-# Paper with code
-- [Visual Place Recognition](#VPR)
-- [Token fusion](#Token_fusion)
-- [Training Free](#Training_Free)
-- [Classical segmentation methods](#Classical_Segmentation)
-- [Classical detection method](#Classical_detection)
-- [Backbone](#Backbone)
-- [Open vocabulary segmentation](#open_segmentation)
-- [Open vocabulary detection](#open_detection)
-- [Dataset](#Dataset)
-- [Other Technologies](#Other)
-
 # Content
 [[VPR](#VPR)] [[Token fusion](#Token_fusion)] [[Training Free](#Training_Free)] [[Classical segmentation](#Classical_Segmentation)] [[Classical detection](#Model-Classical_detection)] [[Backbone](#Backbone)] [[Open vocabulary segmentation](#open_segmentation)] [[Open vocabulary detection](#open_detection)] [[Other Technologies](#Other)]
 -----------------------------------------------------------------------------------------------
@@ -20,6 +8,11 @@
 | 2024 CVPR   | **BoQ: A Place is Worth a Bag of Learnable Queries** | [[paper]](https://arxiv.org/pdf/2405.07364) [[code]](https://github.com/amaralibey/Bag-of-Queries) |
 | 2024 NIPS   | **SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition** | [[paper]](https://openreview.net/pdf?id=bZpZMdY1sj) [[code]](https://github.com/Lu-Feng/SuperVLAD) |
 | 2022 CVPR   | **CosPlace: Rethinking Visual Geo-localization for Large-Scale Applications** | [[paper]](https://arxiv.org/pdf/2204.02287) [[code]](https://github.com/gmberton/CosPlace) |
+
+
+# GCD
+[[2024 CVPR](https://arxiv.org/pdf/2305.06144)] [[code](https://github.com/Lu-Feng/CricaVPR)] CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition
+[[2024 CVPR](https://arxiv.org/pdf/2405.07364)] [[code](https://github.com/amaralibey/Bag-of-Queries)] BoQ: A Place is Worth a Bag of Learnable Queries
 
 <a name="Token_fusion"></a>
 # Token Mering, Clustering and Pruning
@@ -138,27 +131,6 @@
 | 2022 CVPR   | **GLIP: Grounded Language-Image Pre-training** | [[paper]](https://arxiv.org/pdf/2112.03857) [[code]](https://github.com/microsoft/GLIP) <details><summary>[Summary]</summary>Similar to CLIP's language-image pretraining but for object detection. Uses Swin Transformer as backbone. Differences: (1) Self-attention between text and image embeddings before contrastive loss calculation. (2) Adds a localization loss beyond classification.</details> |
 | 2022 NIPS   | **GLIPv2: Unifying Localization and Vision-Language Understanding** | [[paper]](https://arxiv.org/pdf/2206.05836) [[code]](https://github.com/microsoft/GLIP) <details><summary>[Summary]</summary>A unified framework for both localization tasks (object detection, instance segmentation) and understanding tasks (VL grounding, visual question answering, image captioning).</details> |
   
-
-<a name="Dataset"></a>
-# Dataset:
-- [x][Cityscapes](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#cityscapes)
-- [x][PASCAL VOC](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#pascal-voc)
-- [x][ADE20K](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#ade20k)
-- [x][Pascal Context](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#pascal-context)
-- [x][COCO-Stuff 10k](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#coco-stuff-10k)
-- [x][COCO-Stuff 164k](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#coco-stuff-164k)
-- [x][CHASE_DB1](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#chase-db1)
-- [x][DRIVE](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#drive)
-- [x][HRF](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#hrf)
-- [x][STARE](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#stare)
-- [x][Dark Zurich](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#dark-zurich)
-- [x][Nighttime Driving](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#nighttime-driving)
-- [x][LoveDA](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#loveda)
-- [x][Potsdam](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#isprs-potsdam)
-- [x][Vaihingen](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#isprs-vaihingen)
-- [x][iSAID](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#isaid)
-- [x][High quality synthetic face occlusion](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#delving-into-high-quality-synthetic-face-occlusion-segmentation-datasets)
-- [x][ImageNetS](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#imagenets)
 
 <a name="Other"></a>
 # Other Technologies
