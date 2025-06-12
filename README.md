@@ -24,6 +24,7 @@
 [[2023 NeurIPS](https://arxiv.org/pdf/2310.05174)] [[code](https://github.com/GSL-Benchmark/GSLB)] GSLB: The Graph Structure Learning Benchmark     
 [[2024 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28092)] [[code](https://github.com/lhf12278/FCM-ReID)] Catalyst for Clustering-based Unsupervised Object Re-Identification: Feature Calibration    
 [[2025 CVPR]()] [[code]()] 
+[[network](https://www.gnn.club/?p=2170)] [[code]()] 
 
 <a name="VPR"></a>
 # Visual Place Recognition
