@@ -28,6 +28,7 @@
 
 <a name="Training_Free"></a>
 # Training Free
+[[2024 NeurIPS](https://arxiv.org/pdf/2406.01837)] [[code](https://github.com/MaxZanella/transduction-for-vlms)] Transclip: Boosting Vision-Language Models with Transduction    
 [[2024 ECCV](https://arxiv.org/pdf/2312.01597)] [[code](https://github.com/wangf3014/SCLIP)] SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference    
 [[2024 WACV](https://arxiv.org/pdf/2404.08181)] [[code](https://github.com/sinahmr/NACLIP)] NACLIP: Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation    
 [[2025 AAAI](https://arxiv.org/pdf/2404.08181)] [[code](https://github.com/sinahmr/NACLIP)] Unveiling the Knowledge of CLIP for Training-Free Open-Vocabulary Semantic Segmentation    
