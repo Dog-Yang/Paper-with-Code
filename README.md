@@ -23,7 +23,9 @@
 [[2016 IJCAI](https://www.ijcai.org/Proceedings/16/Papers/269.pdf)] Parameter-Free Auto-Weighted Multiple Graph Learning: A Framework for Multiview Clustering and Semi-Supervised Classification   
 [[2023 NeurIPS](https://arxiv.org/pdf/2310.05174)] [[code](https://github.com/GSL-Benchmark/GSLB)] GSLB: The Graph Structure Learning Benchmark     
 [[2024 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28092)] [[code](https://github.com/lhf12278/FCM-ReID)] Catalyst for Clustering-based Unsupervised Object Re-Identification: Feature Calibration    
+[[2025 ICLR](https://arxiv.org/pdf/2412.18303)] [[code](https://github.com/Yushu-Li/ECALP)] Efficient and Context-Aware Label Propagation for Zero-/Few-Shot Training-Free Adaptation of Vision-Language Model    
 [[2025 CVPR]()] [[code]()] 
+
 [[network](https://www.gnn.club/?p=2170)] [[code]()] 
 
 <a name="VPR"></a>
@@ -122,6 +124,7 @@
 [[2025 ICLR](https://arxiv.org/pdf/2410.05270)] [[code](https://github.com/astra-vision/ProLIP)] CLIP’s Visual Embedding Projector is a Few-shot Cornucopia    
 [[2025 CVPR](https://arxiv.org/pdf/2505.23694)]  [[code](https://github.com/Noahsark/DA-VPT)] DA-VPT: Semantic-Guided Visual Prompt Tuning for Vision Transformers     
 [[2025 ICML](https://arxiv.org/pdf/2506.02557)]  [[code](https://github.com/peterant330/KUEA)] Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models     
+[[2025 CVPR](https://arxiv.org/pdf/2501.03729)] [[code](https://github.com/MaxZanella/StatA)] Realistic Test-Time Adaptation of Vision-Language Models     
 
 <a name="open_segmentation"></a>
 # Open vocabulary segmentation
