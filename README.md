@@ -21,6 +21,10 @@
 [[2025 Arxiv](https://arxiv.org/pdf/2504.10487)] [[code](https://github.com/yasserben/FLOSS)] FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation    
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Exploring_Regional_Clues_in_CLIP_for_Zero-Shot_Semantic_Segmentation_CVPR_2024_paper.pdf)] [[code](https://github.com/Jittor/JSeg)] Exploring Regional Clues in CLIP for Zero-Shot Semantic    Segmentation    
 [[2025 CVPRW](https://arxiv.org/pdf/2412.13823)] Prompt Categories Cluster for Weakly Supervised Semantic Segmentation    
+[[2024 ECCV](https://arxiv.org/pdf/2403.14183)] [[code](https://github.com/cubeyoung/OTSeg)] OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation     
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)] [[code](https://github.com/jianwang91/POT)] POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation    
+[[2024 Arxiv](https://arxiv.org/pdf/2411.13836)] [[code](https://github.com/linsun449/cliper.code)] CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation    
+[[2025 CVPRW](https://openaccess.thecvf.com/content/CVPR2025W/PixFoundation/papers/Aydin_ITACLIP_Boosting_Training-Free_Semantic_Segmentation_with_Image_Text_and_Architectural_CVPRW_2025_paper.pdf)] [[code](https://github.com/m-arda-aydn/ITACLIP)] ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements    
 
 <a name="Graph_Structure"></a>
 # Graph Structure
@@ -140,7 +144,8 @@
 [[2022 CVPR](https://arxiv.org/pdf/2202.11094)] [[code](https://github.com/NVlabs/GroupViT)] GroupViT: Semantic Segmentation Emerges from Text Supervision (Open-Vocabulary Zero-Shot)    
 [[2022 ECCV](https://arxiv.org/pdf/2112.12143)] OpenSeg: Scaling Open-Vocabulary Image Segmentation with Image-Level Labels    
 [[2023 CVPR](https://arxiv.org/pdf/2303.17225)] [[code](https://github.com/bytedance/FreeSeg)] FreeSeg: Unified, Universal, and Open-Vocabulary Image Segmentation    
-[[2023 ICML](https://arxiv.org/pdf/2211.14813)] [[code](https://github.com/ArrowLuo/SegCLIP)] SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation (Zero-Shot)    
+[[2023 ICML](https://arxiv.org/pdf/2211.14813)] [[code](https://github.com/ArrowLuo/SegCLIP)] SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation (Zero-Shot)   
+[[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_ZegCLIP_Towards_Adapting_CLIP_for_Zero-Shot_Semantic_Segmentation_CVPR_2023_paper.pdf)] [[code](https://github.com/ZiqinZhou66/ZegCLIP)] ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation
 [[2023 CVPR](https://arxiv.org/pdf/2212.11270)] [[code](https://github.com/microsoft/X-Decoder/tree/main)] X-Decoder: Generalized Decoding for Pixel, Image, and Language    
 [[2023 CVPR](https://arxiv.org/pdf/2303.04803)] [[code](https://github.com/NVlabs/ODISE)] ODISE: Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models    
 [[2023 ICML](https://arxiv.org/pdf/2208.08984)] [[code](https://github.com/mlpc-ucsd/MaskCLIP)] MaskCLIP: Open-Vocabulary Universal Image Segmentation with MaskCLIP    
