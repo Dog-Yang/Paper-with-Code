@@ -25,6 +25,8 @@
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)] [[code](https://github.com/jianwang91/POT)] POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation    
 [[2024 Arxiv](https://arxiv.org/pdf/2411.13836)] [[code](https://github.com/linsun449/cliper.code)] CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation    
 [[2025 CVPRW](https://openaccess.thecvf.com/content/CVPR2025W/PixFoundation/papers/Aydin_ITACLIP_Boosting_Training-Free_Semantic_Segmentation_with_Image_Text_and_Architectural_CVPRW_2025_paper.pdf)] [[code](https://github.com/m-arda-aydn/ITACLIP)] ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements    
+[[2022 AISTATS](https://arxiv.org/pdf/2110.11773)] [[code](https://github.com/michaelsdr/sinkformers)] Sinkformers: Transformers with Doubly Stochastic Attention      
+
 
 <a name="Graph_Structure"></a>
 # Graph Structure
