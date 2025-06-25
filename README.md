@@ -28,7 +28,7 @@
 <a name="Zero_shot_classfication"></a>
 # Zero shot classfication
 [[2024 NeurIPS](https://arxiv.org/pdf/2406.01837)] [[code](https://github.com/MaxZanella/transduction-for-vlms)] Transclip: Boosting Vision-Language Models with Transduction    
-[[2024 ICLR](https://arxiv.org/pdf/2402.04087)] [[code](https://github.com/mrflogs/ICLR24)] GDA-CLIP: A HARD-TO-BEAT BASELINE FOR TRAINING-FREE CLIP-BASED ADAPTATION    
+[[2024 ICLR](https://arxiv.org/pdf/2402.04087)] [[code](https://github.com/mrflogs/ICLR24)] GDA-CLIP: A hard-to-beat baseline for training-free clip-based adaptation
 
 <a name="Graph_Structure"></a>
 # Graph Structure
