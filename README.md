@@ -1,5 +1,5 @@
 # Content
-[[VPR](#VPR)] [[Token fusion](#Token_fusion)] [[Training Free](#Training_Free)] [[Classical segmentation](#Classical_Segmentation)] [[Classical detection](#Model-Classical_detection)] [[Backbone](#Backbone)] [[CLIP](#CLIP)] [[Open vocabulary segmentation](#open_segmentation)] [[Open vocabulary detection](#open_detection)] [[Other](#Other)]
+[[VPR](#VPR)] [[Token fusion](#Token_fusion)] [[Training Free](#Training_Free)] [[Weakly Supervised Semantic Segmentation](#Weakly_Supervised_Semantic_Segmentation)] [[Classical segmentation](#Classical_Segmentation)] [[Classical detection](#Model-Classical_detection)] [[Backbone](#Backbone)] [[CLIP](#CLIP)] [[Open vocabulary segmentation](#open_segmentation)] [[Open vocabulary detection](#open_detection)] [[Other](#Other)]
 -----------------------------------------------------------------------------------------------
 <a name="Training_Free"></a>
 # Training Free
@@ -34,15 +34,15 @@
 [[2024 NeurIPS](https://arxiv.org/pdf/2406.01837)] [[code](https://github.com/MaxZanella/transduction-for-vlms)] Transclip: Boosting Vision-Language Models with Transduction     
 [[2024 ICLR](https://arxiv.org/pdf/2402.04087)] [[code](https://github.com/mrflogs/ICLR24)] GDA-CLIP: A hard-to-beat baseline for training-free clip-based adaptation     
 [[2025 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/32534)] [[code](https://github.com/lyymuwu/TIMO)] TIMO: Text and Image Are Mutually Beneficial: Enhancing Training-Free Few-Shot Classification with CLIP     
+[[2023 ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)] [[code](https://github.com/miccunifi/SEARLE.)] Zero-Shot Composed Image Retrieval with Textual Inversion   
 
 <a name="Weakly_Supervised_Semantic_Segmentation"></a>
 # Weakly Supervised Semantic Segmentation
-[[2022 CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Ru_Learning_Affinity_From_Attention_End-to-End_Weakly-Supervised_Semantic_Segmentation_With_Transformers_CVPR_2022_paper.pdf)] [[code](https://github.com/rulixiang/afa)] Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers     
+[[2022 CVPR](https://arxiv.org/pdf/2203.02664)] [[code](https://github.com/rulixiang/afa)] Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers     
 [[2022 CVPR](https://arxiv.org/pdf/2203.02891)] [[code](https://github.com/xulianuwa/MCTformer)] MCTFormer:Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation     
 [[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Multi-Modal_Class-Specific_Tokens_for_Weakly_Supervised_Dense_Object_Localization_CVPR_2023_paper.pdf)] [[code](https://github.com/xulianuwa/MMCST)] Learning Multi-Modal Class-Specific Tokens for Weakly Supervised Dense Object Localization     
 [[2023 ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf)] [[code](https://github.com/wpy1999/SAT)] Spatial-Aware Token for Weakly Supervised Object Localization     
-[[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Rong_Boundary-Enhanced_Co-Training_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2023_paper.pdf)] [[code](https://github.com/ShenghaiRong/BECO?tab=readme-ov-file)] Boundary-enhanced Co-training for Weakly Supervised Semantic Segmentation     
-[[2023 ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)] [[code](https://github.com/miccunifi/SEARLE.)] Zero-Shot Composed Image Retrieval with Textual Inversion     
+[[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Rong_Boundary-Enhanced_Co-Training_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2023_paper.pdf)] [[code](https://github.com/ShenghaiRong/BECO?tab=readme-ov-file)] Boundary-enhanced Co-training for Weakly Supervised Semantic Segmentation       
 [[2023 CVPR](https://arxiv.org/pdf/2303.01267)] [[code](https://github.com/rulixiang/ToCo)] ToCo:Token Contrast for Weakly-Supervised Semantic Segmentation     
 [[2023 arXiv](https://arxiv.org/pdf/2308.03005)] [[code](https://github.com/xulianuwa/MCTformer)] MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation     
 [[2024 CVPR](https://arxiv.org/pdf/2406.11189v1)] [[code](https://github.com/zbf1991/WeCLIP)] Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation     
