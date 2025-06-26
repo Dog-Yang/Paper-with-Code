@@ -37,33 +37,34 @@
 
 <a name="Weakly_Supervised_Semantic_Segmentation"></a>
 # Weakly Supervised Semantic Segmentation
-[[2022 CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Ru_Learning_Affinity_From_Attention_End-to-End_Weakly-Supervised_Semantic_Segmentation_With_Transformers_CVPR_2022_paper.pdf)] [[code](https://github.com/rulixiang/afa)] Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers
-[[2022 CVPR](https://arxiv.org/pdf/2203.02891)] [[code](https://github.com/xulianuwa/MCTformer)] MCTFormer:Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation
-[[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Multi-Modal_Class-Specific_Tokens_for_Weakly_Supervised_Dense_Object_Localization_CVPR_2023_paper.pdf)] [[code](https://github.com/xulianuwa/MMCST)] Learning Multi-Modal Class-Specific Tokens for Weakly Supervised Dense Object Localization
-[[2023 ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf)] [[code](https://github.com/wpy1999/SAT)] Spatial-Aware Token for Weakly Supervised Object Localization
-[[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Rong_Boundary-Enhanced_Co-Training_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2023_paper.pdf)] [[code](https://github.com/ShenghaiRong/BECO?tab=readme-ov-file)] Boundary-enhanced Co-training for Weakly Supervised Semantic Segmentation
-[[2023 ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)] [[code](https://github.com/miccunifi/SEARLE.)] Zero-Shot Composed Image Retrieval with Textual Inversion
-[[2023 CVPR](https://arxiv.org/pdf/2303.01267)] [[code](https://github.com/rulixiang/ToCo)] ToCo:Token Contrast for Weakly-Supervised Semantic Segmentation
-[[2023 arXiv](https://arxiv.org/pdf/2308.03005)] [[code](https://github.com/xulianuwa/MCTformer)] MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation
-[[2024 CVPR](https://arxiv.org/pdf/2406.11189v1)] [[code](https://github.com/zbf1991/WeCLIP)] Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation
-[[2024 CVPR](https://arxiv.org/pdf/2403.11184)] [[code](https://github.com/Wu0409/DuPL)] DuPL: Dual Student with Trustworthy Progressive Learning for RobustWeakly Supervised Semantic Segmentation
-[[2024 CVPR](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2403.07630)] [[code](https://github.com/Barrett-python/CPAL)] Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation
-[[2024 ECCV](https://arxiv.org/pdf/2409.15801)] [code] DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation
-[[2024 CVPR](https://arxiv.org/pdf/2402.18467)] [[code](https://github.com/zwyang6/SeCo)] Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation
-[[2024 ECCV](https://arxiv.org/pdf/2402.17891)] [[code](https://github.com/youshyee/CoSA)] CoSa:Weakly Supervised Co-training with Swapping Assignments for Semantic Segmentation
-[[2024 IEEE](https://arxiv.org/pdf/2401.11122)] [[code](https://github.com/NUST-Machine-Intelligence-Laboratory/SSC)] SSC:Spatial Structure Constraints for Weakly Supervised Semantic Segmentation
-[[2024 AAAI](https://arxiv.org/pdf/2312.08916)] [[code](https://github.com/Jessie459/feature-self-reinforcement)] Progressive Feature Self-Reinforcement for Weakly Supervised Semantic Segmentation
+[[2022 CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Ru_Learning_Affinity_From_Attention_End-to-End_Weakly-Supervised_Semantic_Segmentation_With_Transformers_CVPR_2022_paper.pdf)] [[code](https://github.com/rulixiang/afa)] Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers     
+[[2022 CVPR](https://arxiv.org/pdf/2203.02891)] [[code](https://github.com/xulianuwa/MCTformer)] MCTFormer:Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation     
+[[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Multi-Modal_Class-Specific_Tokens_for_Weakly_Supervised_Dense_Object_Localization_CVPR_2023_paper.pdf)] [[code](https://github.com/xulianuwa/MMCST)] Learning Multi-Modal Class-Specific Tokens for Weakly Supervised Dense Object Localization     
+[[2023 ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf)] [[code](https://github.com/wpy1999/SAT)] Spatial-Aware Token for Weakly Supervised Object Localization     
+[[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Rong_Boundary-Enhanced_Co-Training_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2023_paper.pdf)] [[code](https://github.com/ShenghaiRong/BECO?tab=readme-ov-file)] Boundary-enhanced Co-training for Weakly Supervised Semantic Segmentation     
+[[2023 ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)] [[code](https://github.com/miccunifi/SEARLE.)] Zero-Shot Composed Image Retrieval with Textual Inversion     
+[[2023 CVPR](https://arxiv.org/pdf/2303.01267)] [[code](https://github.com/rulixiang/ToCo)] ToCo:Token Contrast for Weakly-Supervised Semantic Segmentation     
+[[2023 arXiv](https://arxiv.org/pdf/2308.03005)] [[code](https://github.com/xulianuwa/MCTformer)] MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation     
+[[2024 CVPR](https://arxiv.org/pdf/2406.11189v1)] [[code](https://github.com/zbf1991/WeCLIP)] Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation     
+[[2024 CVPR](https://arxiv.org/pdf/2403.11184)] [[code](https://github.com/Wu0409/DuPL)] DuPL: Dual Student with Trustworthy Progressive Learning for RobustWeakly Supervised Semantic Segmentation     
+[[2024 CVPR](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2403.07630)] [[code](https://github.com/Barrett-python/CPAL)] Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation     
+[[2024 ECCV](https://arxiv.org/pdf/2409.15801)] [code] DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation     
+[[2024 CVPR](https://arxiv.org/pdf/2402.18467)] [[code](https://github.com/zwyang6/SeCo)] Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation     
+[[2024 ECCV](https://arxiv.org/pdf/2402.17891)] [[code](https://github.com/youshyee/CoSA)] CoSa:Weakly Supervised Co-training with Swapping Assignments for Semantic Segmentation     
+[[2024 IEEE](https://arxiv.org/pdf/2401.11122)] [[code](https://github.com/NUST-Machine-Intelligence-Laboratory/SSC)] SSC:Spatial Structure Constraints for Weakly Supervised Semantic Segmentation     
+[[2024 AAAI](https://arxiv.org/pdf/2312.08916)] [[code](https://github.com/Jessie459/feature-self-reinforcement)] Progressive Feature Self-Reinforcement for Weakly Supervised Semantic Segmentation     
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Yoon_Class_Tokens_Infusion_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf)] [[code](https://github.com/yoon307/CTI)] Class Tokens Infusion for Weakly Supervised Semantic Segmentation
-[[2024 CVPR](https://arxiv.org/pdf/2401.11719)] [[code](https://github.com/Barrett-python/SFC)] SFC: Shared Feature Calibration in Weakly Supervised Semantic Segmentation
-[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_PSDPM_Prototype-based_Secondary_Discriminative_Pixels_Mining_for_Weakly_Supervised_Semantic_CVPR_2024_paper.pdf)] [[code](https://github.com/xinqiaozhao/PSDPM)] PSDPM:Prototype-based Secondary Discriminative Pixels Mining for Weakly Supervised Semantic Segmentation
-[[2024 arXiv](https://arxiv.org/pdf/2404.10034)] [[code](https://github.com/shakeebmurtaza/wsol_model_selection)] A Realistic Protocol for Evaluation of Weakly Supervised Object Localization
-[[2025 AAAI](https://arxiv.org/pdf/2412.11076)] [[code](https://github.com/zwyang6/MoRe)] MoRe: Class Patch Attention Needs Regularization for Weakly Supervised Semantic Segmentation
-[[2025 CVPR](https://arxiv.org/pdf/2501.09333)] [[code](https://github.com/Imageomics/Prompt_CAM)] PROMPT-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis
-[[2025 CVPR](https://arxiv.org/pdf/2503.20826)] [[code](https://github.com/zwyang6/ExCEL)] Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation
-[[2025 CVPR](https://arxiv.org/abs/2403.09974)] [[code](https://github.com/enguangW/GET)] GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery
-[[2025 arXiv](https://arxiv.org/pdf/2501.12632)] [[code](https://github.com/shakeebmurtaza/TeDLOC)] TeD-Loc: Text Distillation for Weakly Supervised Object Localization
-[[2025 arXiv](https://arxiv.org/pdf/2412.20439)] [code] Image Augmentation Agent for Weakly Supervised Semantic Segmentation
-[2025 CVPR Submission] Multi-Label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation
+[[2024 CVPR](https://arxiv.org/pdf/2401.11719)] [[code](https://github.com/Barrett-python/SFC)] SFC: Shared Feature Calibration in Weakly Supervised Semantic Segmentation     
+[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_PSDPM_Prototype-based_Secondary_Discriminative_Pixels_Mining_for_Weakly_Supervised_Semantic_CVPR_2024_paper.pdf)] [[code](https://github.com/xinqiaozhao/PSDPM)] PSDPM:Prototype-based Secondary Discriminative Pixels Mining for Weakly Supervised Semantic Segmentation     
+[[2024 arXiv](https://arxiv.org/pdf/2404.10034)] [[code](https://github.com/shakeebmurtaza/wsol_model_selection)] A Realistic Protocol for Evaluation of Weakly Supervised Object Localization     
+[[2025 AAAI](https://arxiv.org/pdf/2412.11076)] [[code](https://github.com/zwyang6/MoRe)] MoRe: Class Patch Attention Needs Regularization for Weakly Supervised Semantic Segmentation     
+[[2025 CVPR](https://arxiv.org/pdf/2501.09333)] [[code](https://github.com/Imageomics/Prompt_CAM)] PROMPT-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis     
+[[2025 CVPR](https://arxiv.org/pdf/2503.20826)] [[code](https://github.com/zwyang6/ExCEL)] Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation     
+[[2025 CVPR](https://arxiv.org/abs/2403.09974)] [[code](https://github.com/enguangW/GET)] GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery     
+[[2025 arXiv](https://arxiv.org/pdf/2501.12632)] [[code](https://github.com/shakeebmurtaza/TeDLOC)] TeD-Loc: Text Distillation for Weakly Supervised Object Localization     
+[[2025 arXiv](https://arxiv.org/pdf/2412.20439)] [code] Image Augmentation Agent for Weakly Supervised Semantic Segmentation     
+[2025 CVPR Submission] Multi-Label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation      
+
 
 <a name="Graph_Structure"></a>
 # Graph Structure
