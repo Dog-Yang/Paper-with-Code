@@ -24,6 +24,10 @@
 [[2024 Arxiv](https://arxiv.org/pdf/2411.13836)] [[code](https://github.com/linsun449/cliper.code)] CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation    
 [[2025 CVPRW](https://openaccess.thecvf.com/content/CVPR2025W/PixFoundation/papers/Aydin_ITACLIP_Boosting_Training-Free_Semantic_Segmentation_with_Image_Text_and_Architectural_CVPRW_2025_paper.pdf)] [[code](https://github.com/m-arda-aydn/ITACLIP)] ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements    
 [[2022 AISTATS](https://arxiv.org/pdf/2110.11773)] [[code](https://github.com/michaelsdr/sinkformers)] Sinkformers: Transformers with Doubly Stochastic Attention      
+[[2024 NeurIPS](https://arxiv.org/pdf/2406.02842v2)] [[code](https://github.com/PaulCouairon/DiffCut)] DiffCut: Catalyzing Zero-Shot Semantic Segmentation with Diffusion Features and Recursive Normalized Cut      
+[[2025 CVPR](https://arxiv.org/pdf/2505.04410)] [[code](https://github.com/xiaomoguhz/DeCLIP)] DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception      
+
+
 
 <a name="Zero_shot_classfication"></a>
 # Zero shot classfication
@@ -40,7 +44,7 @@
 [[2023 NeurIPS](https://arxiv.org/pdf/2310.05174)] [[code](https://github.com/GSL-Benchmark/GSLB)] GSLB: The Graph Structure Learning Benchmark     
 [[2024 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28092)] [[code](https://github.com/lhf12278/FCM-ReID)] Catalyst for Clustering-based Unsupervised Object Re-Identification: Feature Calibration    
 [[2025 ICLR](https://arxiv.org/pdf/2412.18303)] [[code](https://github.com/Yushu-Li/ECALP)] Efficient and Context-Aware Label Propagation for Zero-/Few-Shot Training-Free Adaptation of Vision-Language Model    
-[[2025 CVPR]()] [[code]()] 
+[[2025 CVPR]()] [[code]()]       
 
 [[network](https://www.gnn.club/?p=2170)] [[code]()] 
 
