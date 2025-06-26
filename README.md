@@ -48,7 +48,7 @@
 [[2024 CVPR](https://arxiv.org/pdf/2406.11189v1)] [[code](https://github.com/zbf1991/WeCLIP)] Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation     
 [[2024 CVPR](https://arxiv.org/pdf/2403.11184)] [[code](https://github.com/Wu0409/DuPL)] DuPL: Dual Student with Trustworthy Progressive Learning for RobustWeakly Supervised Semantic Segmentation     
 [[2024 CVPR](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2403.07630)] [[code](https://github.com/Barrett-python/CPAL)] Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation     
-[[2024 ECCV](https://arxiv.org/pdf/2409.15801)] [code] DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation     
+[[2024 ECCV](https://arxiv.org/pdf/2409.15801)] DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation     
 [[2024 CVPR](https://arxiv.org/pdf/2402.18467)] [[code](https://github.com/zwyang6/SeCo)] Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation     
 [[2024 ECCV](https://arxiv.org/pdf/2402.17891)] [[code](https://github.com/youshyee/CoSA)] CoSa:Weakly Supervised Co-training with Swapping Assignments for Semantic Segmentation     
 [[2024 IEEE](https://arxiv.org/pdf/2401.11122)] [[code](https://github.com/NUST-Machine-Intelligence-Laboratory/SSC)] SSC:Spatial Structure Constraints for Weakly Supervised Semantic Segmentation     
@@ -62,8 +62,8 @@
 [[2025 CVPR](https://arxiv.org/pdf/2503.20826)] [[code](https://github.com/zwyang6/ExCEL)] Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation     
 [[2025 CVPR](https://arxiv.org/abs/2403.09974)] [[code](https://github.com/enguangW/GET)] GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery     
 [[2025 arXiv](https://arxiv.org/pdf/2501.12632)] [[code](https://github.com/shakeebmurtaza/TeDLOC)] TeD-Loc: Text Distillation for Weakly Supervised Object Localization     
-[[2025 arXiv](https://arxiv.org/pdf/2412.20439)] [code] Image Augmentation Agent for Weakly Supervised Semantic Segmentation     
-[2025 CVPR Submission] Multi-Label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation      
+[[2025 arXiv](https://arxiv.org/pdf/2412.20439)] Image Augmentation Agent for Weakly Supervised Semantic Segmentation     
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_Multi-Label_Prototype_Visual_Spatial_Search_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)] Multi-Label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation      
 
 
 <a name="Graph_Structure"></a>
