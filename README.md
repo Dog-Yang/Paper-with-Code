@@ -47,7 +47,7 @@
 [[2023 arXiv](https://arxiv.org/pdf/2308.03005)] [[code](https://github.com/xulianuwa/MCTformer)] MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation     
 [[2024 CVPR](https://arxiv.org/pdf/2406.11189v1)] [[code](https://github.com/zbf1991/WeCLIP)] Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation     
 [[2024 CVPR](https://arxiv.org/pdf/2403.11184)] [[code](https://github.com/Wu0409/DuPL)] DuPL: Dual Student with Trustworthy Progressive Learning for RobustWeakly Supervised Semantic Segmentation     
-[[2024 CVPR](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2403.07630)] [[code](https://github.com/Barrett-python/CPAL)] Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation     
+[[2024 CVPR](https://arxiv.org/pdf/2403.07630)] [[code](https://github.com/Barrett-python/CPAL)] Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation     
 [[2024 ECCV](https://arxiv.org/pdf/2409.15801)] DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation     
 [[2024 CVPR](https://arxiv.org/pdf/2402.18467)] [[code](https://github.com/zwyang6/SeCo)] Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation     
 [[2024 ECCV](https://arxiv.org/pdf/2402.17891)] [[code](https://github.com/youshyee/CoSA)] CoSa:Weakly Supervised Co-training with Swapping Assignments for Semantic Segmentation     
