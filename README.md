@@ -19,13 +19,18 @@
 [[2025 Arxiv](https://arxiv.org/pdf/2504.10487)] [[code](https://github.com/yasserben/FLOSS)] FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation    
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Exploring_Regional_Clues_in_CLIP_for_Zero-Shot_Semantic_Segmentation_CVPR_2024_paper.pdf)] [[code](https://github.com/Jittor/JSeg)] Exploring Regional Clues in CLIP for Zero-Shot Semantic    Segmentation    
 [[2025 CVPRW](https://arxiv.org/pdf/2412.13823)] Prompt Categories Cluster for Weakly Supervised Semantic Segmentation    
-[[2024 ECCV](https://arxiv.org/pdf/2403.14183)] [[code](https://github.com/cubeyoung/OTSeg)] OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation     
-[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)] [[code](https://github.com/jianwang91/POT)] POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation    
 [[2024 Arxiv](https://arxiv.org/pdf/2411.13836)] [[code](https://github.com/linsun449/cliper.code)] CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation    
 [[2025 CVPRW](https://openaccess.thecvf.com/content/CVPR2025W/PixFoundation/papers/Aydin_ITACLIP_Boosting_Training-Free_Semantic_Segmentation_with_Image_Text_and_Architectural_CVPRW_2025_paper.pdf)] [[code](https://github.com/m-arda-aydn/ITACLIP)] ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements    
-[[2022 AISTATS](https://arxiv.org/pdf/2110.11773)] [[code](https://github.com/michaelsdr/sinkformers)] Sinkformers: Transformers with Doubly Stochastic Attention      
 [[2024 NeurIPS](https://arxiv.org/pdf/2406.02842v2)] [[code](https://github.com/PaulCouairon/DiffCut)] DiffCut: Catalyzing Zero-Shot Semantic Segmentation with Diffusion Features and Recursive Normalized Cut      
 [[2025 CVPR](https://arxiv.org/pdf/2505.04410)] [[code](https://github.com/xiaomoguhz/DeCLIP)] DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception      
+
+# Optimal Transport
+<a name="Optimal_Transport"></a>
+[[2022 AISTATS](https://arxiv.org/pdf/2110.11773)] [[code](https://github.com/michaelsdr/sinkformers)] Sinkformers: Transformers with Doubly Stochastic Attention      
+[[2024 ECCV](https://arxiv.org/pdf/2403.14183)] [[code](https://github.com/cubeyoung/OTSeg)] OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation    
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)] [[code](https://github.com/jianwang91/POT)] POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation    
+[[2025 CVPR](https://arxiv.org/pdf/2503.15337)] [[code](https://github.com/EricTan7/RAM)] Recover and Match: Open-Vocabulary Multi-Label Recognition through Knowledge-Constrained  Transport     
+[[2022 NeurIPS](https://arxiv.org/pdf/2006.09882)] [[code](https://github.com/facebookresearch/swav)] SwAV: Unsupervised Learning of Visual Features by Contrasting Cluster Assignments         
 
 
 <a name="Zero_shot_classfication"></a>
@@ -36,6 +41,7 @@
 [[2023 ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)] [[code](https://github.com/miccunifi/SEARLE.)] Zero-Shot Composed Image Retrieval with Textual Inversion   
 [[2024 CVPR](https://arxiv.org/pdf/2405.02266)] [[code](https://github.com/MaxZanella/MTA)] On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?   
 [[2024 NeurIPS](https://arxiv.org/pdf/2405.18330)] [[code](https://github.com/FarinaMatteo/zero)] Frustratingly Easy Test-Time Adaptation of Vision-Language Models      
+[[2025 CVPR](https://arxiv.org/pdf/2501.03729)] [[code](https://github.com/MaxZanella/StatA)] Realistic Test-Time Adaptation of Vision-Language Models     
 
 <a name="Weakly_Supervised_Semantic_Segmentation"></a>
 # Weakly Supervised Semantic Segmentation
@@ -174,7 +180,6 @@
 [[2025 ICLR](https://arxiv.org/pdf/2410.05270)] [[code](https://github.com/astra-vision/ProLIP)] CLIP’s Visual Embedding Projector is a Few-shot Cornucopia    
 [[2025 CVPR](https://arxiv.org/pdf/2505.23694)]  [[code](https://github.com/Noahsark/DA-VPT)] DA-VPT: Semantic-Guided Visual Prompt Tuning for Vision Transformers     
 [[2025 ICML](https://arxiv.org/pdf/2506.02557)]  [[code](https://github.com/peterant330/KUEA)] Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models     
-[[2025 CVPR](https://arxiv.org/pdf/2501.03729)] [[code](https://github.com/MaxZanella/StatA)] Realistic Test-Time Adaptation of Vision-Language Models     
 [[2025 CVPR](https://arxiv.org/pdf/2503.16873)] [[code](https://github.com/k0u-id/CCD)] Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification   
 
 <a name="open_segmentation"></a>
@@ -194,8 +199,7 @@
 [[2023 CVPR](https://arxiv.org/pdf/2302.12242)] [[code](https://github.com/MendelXu/SAN)] SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation    
 [[2024 ECCV](https://arxiv.org/pdf/2312.12359)] [[code](https://github.com/wysoczanska/clip_dinoiser)] CLIP-DINOiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation    
 [[2024 CVPR](https://arxiv.org/pdf/2311.15537)] [[code](https://github.com/xb534/SED)] SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation    
-[[2024 TPAMI](https://arxiv.org/pdf/2306.15880)] [[code](https://github.com/jianzongwu/Awesome-Open-Vocabulary)] Review: Towards Open Vocabulary Learning: A Survey    
-[[2025 CVPR](https://arxiv.org/pdf/2503.15337)] [[code](https://github.com/EricTan7/RAM)] Recover and Match: Open-Vocabulary Multi-Label Recognition through Knowledge-Constrained Optimal Transport      
+[[2024 TPAMI](https://arxiv.org/pdf/2306.15880)] [[code](https://github.com/jianzongwu/Awesome-Open-Vocabulary)] Review: Towards Open Vocabulary Learning: A Survey         
 
 <a name="open_detection"></a>
 # Open vocabulary object detection
