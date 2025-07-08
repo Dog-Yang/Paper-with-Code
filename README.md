@@ -31,7 +31,7 @@
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)] [[code](https://github.com/jianwang91/POT)] POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation    
 [[2025 CVPR](https://arxiv.org/pdf/2503.15337)] [[code](https://github.com/EricTan7/RAM)] Recover and Match: Open-Vocabulary Multi-Label Recognition through Knowledge-Constrained  Transport     
 [[2022 NeurIPS](https://arxiv.org/pdf/2006.09882)] [[code](https://github.com/facebookresearch/swav)] SwAV: Unsupervised Learning of Visual Features by Contrasting Cluster Assignments         
-[[2023 ICRL](https://arxiv.org/pdf/2210.01253)] [[code](https://github.com/CHENGY12/PLOT)] PLOT: PROMPT LEARNING WITH OPTIMAL TRANSPORT FOR VISION-LANGUAGE MODELS     
+[[2023 ICRL](https://arxiv.org/pdf/2210.01253)] [[code](https://github.com/CHENGY12/PLOT)] PLOT: Prompt Learning with Optimal Transport for Vision-Language Models         
 
 <a name="Zero_shot_classfication"></a>
 # Zero shot classfication
