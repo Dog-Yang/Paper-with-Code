@@ -42,6 +42,9 @@
 [[2024 CVPR](https://arxiv.org/pdf/2405.02266)] [[code](https://github.com/MaxZanella/MTA)] On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?   
 [[2024 NeurIPS](https://arxiv.org/pdf/2405.18330)] [[code](https://github.com/FarinaMatteo/zero)] Frustratingly Easy Test-Time Adaptation of Vision-Language Models      
 [[2025 CVPR](https://arxiv.org/pdf/2501.03729)] [[code](https://github.com/MaxZanella/StatA)] Realistic Test-Time Adaptation of Vision-Language Models     
+[[2023 AAAI](https://arxiv.org/pdf/2209.14169)] [[code](https://github.com/ZiyuGuo99/CALIP)] CALIP: Zero-Shot Enhancement of CLIP with Parameter-free Attention      
+
+
 
 <a name="Weakly_Supervised_Semantic_Segmentation"></a>
 # Weakly Supervised Semantic Segmentation
