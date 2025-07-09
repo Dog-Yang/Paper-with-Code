@@ -53,7 +53,7 @@ https://github.com/Pter61/osrcir
 [[2025 CVPR](https://arxiv.org/pdf/2412.11077)] [[code](https://github.com/Pter61/osrcir)] Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval   
 [[2024 NeurIPS](https://arxiv.org/pdf/2410.19294)] [[code](https://github.com/zhuhsingyuu/Frolic)] Enhancing Zero-Shot Vision Models by Label-Free Prompt Distribution Learning and Bias Correcting  
 [[2025 ICML](https://arxiv.org/pdf/2505.13233)] [[code](https://github.com/BIT-DA/ABS)] From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection      
-[[2025 CVPR](https://arxiv.org/pdf/2308.01313)] [[code](https://github.com/umd-huang-lab/perceptionCLIP)] PerceptionCLIP: Visual Classification by Inferring and Conditioning on Contexts   
+[[2025 CVPR](https://arxiv.org/pdf/2308.01313)] [[code](https://github.com/umd-huang-lab/perceptionCLIP)] ZLaP: PerceptionCLIP: Visual Classification by Inferring and Conditioning on Contexts   
 [[2024 CVPR](https://arxiv.org/pdf/2404.04072)] [[code](https://github.com/vladan-stojnic/ZLaP)] Label Propagation for Zero-shot Classification with Vision-Language Models         
 [[2025 CVPRW](https://arxiv.org/pdf/2503.12206)] [[code](https://github.com/ans92/TLAC)] TLAC: Two-stage LMM Augmented CLIP for Zero-Shot Classification         
 
