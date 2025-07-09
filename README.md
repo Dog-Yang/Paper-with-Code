@@ -213,6 +213,7 @@
 [[2024 ECCV](https://arxiv.org/pdf/2312.12359)] [[code](https://github.com/wysoczanska/clip_dinoiser)] CLIP-DINOiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation    
 [[2024 CVPR](https://arxiv.org/pdf/2311.15537)] [[code](https://github.com/xb534/SED)] SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation    
 [[2024 TPAMI](https://arxiv.org/pdf/2306.15880)] [[code](https://github.com/jianzongwu/Awesome-Open-Vocabulary)] Review: Towards Open Vocabulary Learning: A Survey         
+[[2025 ICCV](https://arxiv.org/abs/2412.06244)] [[code](https://github.com/HVision-NKU/DenseVLM)] Unbiased Region-Language Alignment for Open-Vocabulary Dense Prediction        
 
 <a name="open_detection"></a>
 # Open vocabulary object detection
