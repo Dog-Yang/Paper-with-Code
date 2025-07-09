@@ -16,12 +16,15 @@
 [[2025 CVPR](https://arxiv.org/pdf/2503.19777)] [[code](https://github.com/vladan-stojnic/LPOSS/tree/main)] LOPSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation    
 [[2024 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/file/996bef37d8a638f37bdfcac2789e835d-Paper-Conference.pdf)] [[code](https://github.com/AI4LIFE-GROUP/SpLiCE)] SpLiCE: Interpreting CLIP with Sparse Linear Concept Embeddings    
 [[2025 Arxiv](https://arxiv.org/pdf/2504.10487)] [[code](https://github.com/yasserben/FLOSS)] FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation    
-[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Exploring_Regional_Clues_in_CLIP_for_Zero-Shot_Semantic_Segmentation_CVPR_2024_paper.pdf)] [[code](https://github.com/Jittor/JSeg)] Exploring Regional Clues in CLIP for Zero-Shot Semantic    Segmentation    
+[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Exploring_Regional_Clues_in_CLIP_for_Zero-Shot_Semantic_Segmentation_CVPR_2024_paper.pdf)] [[code](https://github.com/Jittor/JSeg)] Exploring Regional Clues in CLIP for Zero-Shot Semantic Segmentation    
 [[2025 CVPRW](https://arxiv.org/pdf/2412.13823)] Prompt Categories Cluster for Weakly Supervised Semantic Segmentation    
 [[2024 Arxiv](https://arxiv.org/pdf/2411.13836)] [[code](https://github.com/linsun449/cliper.code)] CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation    
 [[2025 CVPRW](https://openaccess.thecvf.com/content/CVPR2025W/PixFoundation/papers/Aydin_ITACLIP_Boosting_Training-Free_Semantic_Segmentation_with_Image_Text_and_Architectural_CVPRW_2025_paper.pdf)] [[code](https://github.com/m-arda-aydn/ITACLIP)] ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements    
 [[2024 NeurIPS](https://arxiv.org/pdf/2406.02842v2)] [[code](https://github.com/PaulCouairon/DiffCut)] DiffCut: Catalyzing Zero-Shot Semantic Segmentation with Diffusion Features and Recursive Normalized Cut      
-[[2025 CVPR](https://arxiv.org/pdf/2505.04410)] [[code](https://github.com/xiaomoguhz/DeCLIP)] DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception      
+[[2025 CVPR](https://arxiv.org/pdf/2505.04410)] [[code](https://github.com/xiaomoguhz/DeCLIP)] DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception     
+[[2024 ECCV](https://arxiv.org/pdf/2407.08268)] [[code](https://github.com/leaves162/CLIPtrase)] Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation    
+https://github.com/Pter61/osrcir
+[[2025 CVPR]()] [[code]()]          
 
 # Optimal Transport
 <a name="Optimal_Transport"></a>
@@ -38,12 +41,21 @@
 [[2024 NeurIPS](https://arxiv.org/pdf/2406.01837)] [[code](https://github.com/MaxZanella/transduction-for-vlms)] Transclip: Boosting Vision-Language Models with Transduction     
 [[2024 ICLR](https://arxiv.org/pdf/2402.04087)] [[code](https://github.com/mrflogs/ICLR24)] GDA-CLIP: A hard-to-beat baseline for training-free clip-based adaptation     
 [[2025 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/32534)] [[code](https://github.com/lyymuwu/TIMO)] TIMO: Text and Image Are Mutually Beneficial: Enhancing Training-Free Few-Shot Classification with CLIP     
-[[2023 ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)] [[code](https://github.com/miccunifi/SEARLE.)] Zero-Shot Composed Image Retrieval with Textual Inversion   
 [[2024 CVPR](https://arxiv.org/pdf/2405.02266)] [[code](https://github.com/MaxZanella/MTA)] On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?   
 [[2024 NeurIPS](https://arxiv.org/pdf/2405.18330)] [[code](https://github.com/FarinaMatteo/zero)] Frustratingly Easy Test-Time Adaptation of Vision-Language Models      
 [[2025 CVPR](https://arxiv.org/pdf/2501.03729)] [[code](https://github.com/MaxZanella/StatA)] Realistic Test-Time Adaptation of Vision-Language Models     
 [[2023 AAAI](https://arxiv.org/pdf/2209.14169)] [[code](https://github.com/ZiyuGuo99/CALIP)] CALIP: Zero-Shot Enhancement of CLIP with Parameter-free Attention      
-
+[[2024 CVPR](https://arxiv.org/pdf/2403.18293)] [[code](https://github.com/kdiAAA/TDA)] TDA: Efficient Test-Time Adaptation of Vision-Language Model   
+[[2024 NeurIPS](https://arxiv.org/pdf/2410.15430)] [[code](https://github.com/taolinzhang/BoostAdapter)] BoostAdapter: Improving Vision-Language Test-Time Adaptation via Regional Bootstrapping      
+[[2025 CVPR](https://arxiv.org/pdf/2503.23388)] [[code](https://github.com/hf618/COSMIC)] COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation       
+[[2024 CVPR](https://arxiv.org/pdf/2403.17589)] [[code](https://github.com/YBZh/DMN)] DMN: Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models     
+[[2023 ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)] [[code](https://github.com/miccunifi/SEARLE.)] Zero-Shot Composed Image Retrieval with Textual Inversion   
+[[2025 CVPR](https://arxiv.org/pdf/2412.11077)] [[code](https://github.com/Pter61/osrcir)] Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval   
+[[2024 NeurIPS](https://arxiv.org/pdf/2410.19294)] [[code](https://github.com/zhuhsingyuu/Frolic)] Enhancing Zero-Shot Vision Models by Label-Free Prompt Distribution Learning and Bias Correcting  
+[[2025 ICML](https://arxiv.org/pdf/2505.13233)] [[code](https://github.com/BIT-DA/ABS)] From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection      
+[[2025 CVPR](https://arxiv.org/pdf/2308.01313)] [[code](https://github.com/umd-huang-lab/perceptionCLIP)] PerceptionCLIP: Visual Classification by Inferring and Conditioning on Contexts   
+[[2024 CVPR](https://arxiv.org/pdf/2404.04072)] [[code](https://github.com/vladan-stojnic/ZLaP)] Label Propagation for Zero-shot Classification with Vision-Language Models         
+[[2025 CVPRW](https://arxiv.org/pdf/2503.12206)] [[code](https://github.com/ans92/TLAC)] TLAC: Two-stage LMM Augmented CLIP for Zero-Shot Classification         
 
 
 <a name="Weakly_Supervised_Semantic_Segmentation"></a>
@@ -83,8 +95,6 @@
 [[2023 NeurIPS](https://arxiv.org/pdf/2310.05174)] [[code](https://github.com/GSL-Benchmark/GSLB)] GSLB: The Graph Structure Learning Benchmark     
 [[2024 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28092)] [[code](https://github.com/lhf12278/FCM-ReID)] Catalyst for Clustering-based Unsupervised Object Re-Identification: Feature Calibration    
 [[2025 ICLR](https://arxiv.org/pdf/2412.18303)] [[code](https://github.com/Yushu-Li/ECALP)] Efficient and Context-Aware Label Propagation for Zero-/Few-Shot Training-Free Adaptation of Vision-Language Model    
-[[2025 CVPR]()] [[code]()]       
-
 [[network](https://www.gnn.club/?p=2170)] [[code]()] 
 
 <a name="VPR"></a>
@@ -184,6 +194,7 @@
 [[2025 CVPR](https://arxiv.org/pdf/2505.23694)]  [[code](https://github.com/Noahsark/DA-VPT)] DA-VPT: Semantic-Guided Visual Prompt Tuning for Vision Transformers     
 [[2025 ICML](https://arxiv.org/pdf/2506.02557)]  [[code](https://github.com/peterant330/KUEA)] Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models     
 [[2025 CVPR](https://arxiv.org/pdf/2503.16873)] [[code](https://github.com/k0u-id/CCD)] Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification   
+[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_MMA_Multi-Modal_Adapter_for_Vision-Language_Models_CVPR_2024_paper.pdf)] [[code](https://github.com/ZjjConan/VLM-MultiModalAdapter)] Multi-Modal Adapter for Vision-Language Models    
 
 <a name="open_segmentation"></a>
 # Open vocabulary segmentation
