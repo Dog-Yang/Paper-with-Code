@@ -23,6 +23,8 @@
 [[2024 NeurIPS](https://arxiv.org/pdf/2406.02842v2)] [[code](https://github.com/PaulCouairon/DiffCut)] DiffCut: Catalyzing Zero-Shot Semantic Segmentation with Diffusion Features and Recursive Normalized Cut      
 [[2025 CVPR](https://arxiv.org/pdf/2505.04410)] [[code](https://github.com/xiaomoguhz/DeCLIP)] DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception     
 [[2024 ECCV](https://arxiv.org/pdf/2407.08268)] [[code](https://github.com/leaves162/CLIPtrase)] Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation    
+[[2025 NeurIPS](https://arxiv.org/pdf/2505.23769)] [[code](https://github.com/avaxiao/TextRegion)] TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models         
+[[2025 ICCV](https://arxiv.org/pdf/2411.09219)] [[code](https://github.com/YuHengsss/Trident)] Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation         
 [[2025 CVPR]()] [[code]()]          
 
 # Optimal Transport
