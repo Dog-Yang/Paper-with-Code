@@ -58,7 +58,7 @@
 [[2025 CVPR](https://arxiv.org/pdf/2308.01313)] [[code](https://github.com/umd-huang-lab/perceptionCLIP)] PerceptionCLIP: Visual Classification by Inferring and Conditioning on Contexts   
 [[2024 CVPR](https://arxiv.org/pdf/2404.04072)] [[code](https://github.com/vladan-stojnic/ZLaP)] ZLaP: Label Propagation for Zero-shot Classification with Vision-Language Models         
 [[2025 CVPRW](https://arxiv.org/pdf/2503.12206)] [[code](https://github.com/ans92/TLAC)] TLAC: Two-stage LMM Augmented CLIP for Zero-Shot Classification         
-
+[[2024 CVPR](https://arxiv.org/pdf/2405.18437)] [[code](https://github.com/SegoleneMartin/transductive-CLIP)] Transductive Zero-Shot and Few-Shot CLIP      
 
 <a name="Weakly_Supervised_Semantic_Segmentation"></a>
 # Weakly Supervised Semantic Segmentation
@@ -183,7 +183,6 @@
 [[2024 CVPR](https://arxiv.org/pdf/2404.17753)] [[code](https://github.com/YCaigogogo/CODER)] CODER: Leveraging Cross-Modal Neighbor Representation for Improved CLIP Classification      
 [[2024 CVPR](https://arxiv.org/pdf/2404.02285)] [[code](https://github.com/FereshteShakeri/FewShot-CLIP-Strong-Baseline)] LP++: A Surprisingly Strong Linear Probe for Few-Shot CLIP      
 [[2024 CVPR](https://arxiv.org/pdf/2403.02781)] [[code](https://github.com/zhengli97/PromptKD)] PromptKD: Unsupervised Prompt Distillation for Vision-Language Models      
-[[2024 CVPR](https://arxiv.org/pdf/2405.18437)] [[code](https://github.com/SegoleneMartin/transductive-CLIP)] Transductive Zero-Shot and Few-Shot CLIP      
 [[2024 CVPR](https://arxiv.org/pdf/2403.15132)] [[code](https://github.com/alwaysuu/CLIPDenoising)] Transfer CLIP for Generalizable Image Denoising      
 [[2024 ECCV](https://arxiv.org/pdf/2404.07204)] BRAVE: Broadening the visual encoding of vision-language model      
 [[2024 ICML](https://arxiv.org/pdf/2406.10502)] [[code](https://github.com/vanillaer/CPL-ICML2024)] Candidate Pseudolabel Learning: Enhancing Vision-Language Models by Prompt Tuning with Unlabeled Data      
