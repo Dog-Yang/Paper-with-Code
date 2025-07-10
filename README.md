@@ -59,6 +59,8 @@
 [[2024 CVPR](https://arxiv.org/pdf/2404.04072)] [[code](https://github.com/vladan-stojnic/ZLaP)] ZLaP: Label Propagation for Zero-shot Classification with Vision-Language Models         
 [[2025 CVPRW](https://arxiv.org/pdf/2503.12206)] [[code](https://github.com/ans92/TLAC)] TLAC: Two-stage LMM Augmented CLIP for Zero-Shot Classification         
 [[2024 CVPR](https://arxiv.org/pdf/2405.18437)] [[code](https://github.com/SegoleneMartin/transductive-CLIP)] Transductive Zero-Shot and Few-Shot CLIP      
+[[2023 NeurIPS](https://arxiv.org/pdf/2310.19752)] [[code](https://github.com/idstcv/InMaP)] Intra-Modal Proxy Learning for Zero-Shot Visual Categorization with CLIP      
+
 
 <a name="Weakly_Supervised_Semantic_Segmentation"></a>
 # Weakly Supervised Semantic Segmentation
