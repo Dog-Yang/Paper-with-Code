@@ -61,6 +61,7 @@ VLM & VFM & Diffusion & SAM
 [[2024 CVPR](https://arxiv.org/pdf/2405.18437)] [[code](https://github.com/SegoleneMartin/transductive-CLIP)] Transductive Zero-Shot and Few-Shot CLIP      
 [[2023 NeurIPS](https://arxiv.org/pdf/2310.19752)] [[code](https://github.com/idstcv/InMaP)] Intra-Modal Proxy Learning for Zero-Shot Visual Categorization with CLIP      
 [[2023 CVPR](https://arxiv.org/pdf/2111.03930)] [[code](https://github.com/gaopengcuhk/Tip-Adapter)] Tip-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling      
+[[2024 ICML](https://arxiv.org/pdf/2406.07236?)] [[code](https://github.com/mlbio-epfl/turtle)] Let Go of Your Labels with Unsupervised Transfer      
 
 # Optimal Transport
 <a name="Optimal_Transport"></a>
