@@ -40,6 +40,40 @@ VLM & VFM & Diffusion & SAM
 [[2025 CVPR]()] [[code]()]          
 
 
+[[2022 NeurIPS](https://arxiv.org/pdf/2206.07045)] [[code](https://github.com/NoelShin/reco)] ReCo: Retrieve and Co-segment for Zero-shot Transfer
+[[2023 ArXiv](https://arxiv.org/pdf/2304.05653)] [[code](https://github.com/xmed-lab/CLIP_Surgery)] CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks
+[[2023 ArXiv](https://arxiv.org/pdf/2306.09316)] Diffusion Models for Zero-Shot Open-Vocabulary Segmentation
+[[2023 ArXiv](https://arxiv.org/pdf/2309.02773)] [[code](https://github.com/VCG-team/DiffSegmenter)] Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter
+[[2024 IJCV](https://arxiv.org/pdf/2310.10912)] Towards Training-free Open-world Segmentation via Image Prompting Foundation Models
+[[2023 ArXiv](https://arxiv.org/pdf/2312.01597)] SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference
+[[2024 CVPR](https://arxiv.org/pdf/2312.00878)] [[code](https://github.com/WalBouss/GEM)] Grounding Everything: Emerging Localization Properties in Vision-Language Transformers
+[[2024 WACV](https://arxiv.org/pdf/2309.14289)] CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free
+[[2024 WACV](https://openaccess.thecvf.com/content/WACV2024/papers/Barsellotti_FOSSIL_Free_Open-Vocabulary_Semantic_Segmentation_Through_Synthetic_References_Retrieval_WACV_2024_paper.pdf)] FOSSIL: Free Open-Vocabulary Semantic Segmentation through Synthetic References Retrieval
+[[2024 AAAI](https://arxiv.org/pdf/2312.12828)] [[code](https://github.com/linyq2117/TagCLIP)] TagCLIP: A Local-to-Global Framework to Enhance Open-VocabularyMulti-Label Classification of CLIP Without Training
+[[2024 ICLR](https://arxiv.org/pdf/2401.11739)] [[code](https://github.com/linyq2117/TagCLIP)] EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models
+[[2024 ArXiv](https://arxiv.org/pdf/2403.20105)] [[code](https://bcorrad.github.io/freesegdiff/)] FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models
+[[2024 ArXiv](https://arxiv.org/pdf/2403.11194)] [[code](https://github.com/Valkyrja3607/MaskDiffusion)] MaskDiffusion: Exploiting Pre-trained Diffusion Models for Semantic Segmentation
+[[2024 ArXiv](https://arxiv.org/pdf/2403.11197)] [[code](https://github.com/Valkyrja3607/TAG)] TAG: Guidance-free Open-Vocabulary Semantic Segmentation
+[[2024 ArXiv](https://arxiv.org/pdf/2404.00701)] Training-Free Semantic Segmentation via LLM-Supervision
+[[2024 ArXiv](https://arxiv.org/pdf/2404.08181)] [[code](https://github.com/sinahmr/NACLIP)] Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation
+[[2024 CVPR](https://arxiv.org/pdf/2311.17095)] [[code](https://github.com/letitiabanana/PnP-OVSS)] Emergent Open-Vocabulary Semantic Segmentation from Off-the-shelf Vision-Language Models
+[[2024 CVPR](https://arxiv.org/pdf/2312.07661)] [[code](https://github.com/kevin-ssy/CLIP_as_RNN)] CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor
+[[2024 CVPR](https://arxiv.org/pdf/2404.00262)] [[code](https://github.com/072jiajia/image-text-co-decomposition)] Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation
+[[2024 CVPR](https://arxiv.org/pdf/2404.06542)] [[code](https://aimagelab.github.io/freeda/)] Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation
+[[2024 ArXiv](https://arxiv.org/pdf/2405.14294)] Tuning-free Universally-Supervised Semantic Segmentation
+[[2024 ECCV](https://arxiv.org/pdf/2407.08268)] [[code](https://github.com/leaves162/CLIPtrase)] Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation
+[[2024 ECCV](https://arxiv.org/pdf/2407.12442)] [[code](https://github.com/mc-lan/ClearCLIP)] ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference
+[[2024 ECCV](https://arxiv.org/pdf/2408.04883)] [[code](https://github.com/mc-lan/ProxyCLIP)] ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation
+[[2024 ECCV](https://arxiv.org/pdf/2408.04961)] [[code](https://github.com/dahyun-kang/lavg)] In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation
+[[2024 ArXiv](https://arxiv.org/pdf/2411.12044)] [[code](https://github.com/m-arda-aydn/ITACLIP)] ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements
+[[2024 ArXiv](https://arxiv.org/pdf/2411.09219)] [[code](https://github.com/YuHengsss/Trident)] Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation
+[[2024 ArXiv](https://arxiv.org/pdf/2411.10086)] CorrCLIP: Reconstructing Correlations in CLIP with Off-the-Shelf Foundation Models for Open-Vocabulary Semantic Segmentation
+[[2024 ArXiv](https://arxiv.org/pdf/2411.13836)] [[code](https://github.com/linsun449/cliper.code)] CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation
+[[2024 ArXiv](https://arxiv.org/pdf/2411.15851)] [[code](https://github.com/yvhangyang/ResCLIP?tab=readme-ov-file)] ResCLIP: Residual Attention for Training-free Dense Vision-language Inference
+[[2024 ArXiv](https://arxiv.org/pdf/2411.15869)] [[code](https://github.com/SuleBai/SC-CLIP)] Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation
+[[2024 ArXiv](https://arxiv.org/pdf/2408.04883)] [[code](https://github.com/lorebianchi98/Talk2DINO)] Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation
+[[2025 CVPR](https://arxiv.org/pdf/2411.17150)] [[code](https://micv-yonsei.github.io/cass/)] Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation
+
 <a name="Zero_shot_classification"></a>
 # Zero shot Classification / Test Time Adaptation
 [[2024 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/file/996bef37d8a638f37bdfcac2789e835d-Paper-Conference.pdf)] [[code](https://github.com/AI4LIFE-GROUP/SpLiCE)] SpLiCE: Interpreting CLIP with Sparse Linear Concept Embeddings    
