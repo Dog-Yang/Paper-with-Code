@@ -14,7 +14,7 @@
 -----------------------------------------------------------------------------------------------
 <a name="Training_Free"></a>
 # Training Free Segmentation
-CLIP Only    
+VLM Only    
 [[2022 ECCV](https://arxiv.org/pdf/2112.01071)] [[code](https://github.com/chongzhou96/MaskCLIP)] Maskclip: Extract Free Dense Labels from CLIP    
 [[2024 ECCV](https://arxiv.org/pdf/2312.01597)] [[code](https://github.com/wangf3014/SCLIP)] SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference    
 [[2024 WACV](https://arxiv.org/pdf/2404.08181)] [[code](https://github.com/sinahmr/NACLIP)] NACLIP: Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation       
@@ -25,7 +25,7 @@ CLIP Only
 [[2025 CVPRW](https://openaccess.thecvf.com/content/CVPR2025W/PixFoundation/papers/Aydin_ITACLIP_Boosting_Training-Free_Semantic_Segmentation_with_Image_Text_and_Architectural_CVPRW_2025_paper.pdf)] [[code](https://github.com/m-arda-aydn/ITACLIP)] ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements    
 [[2024 ECCV](https://arxiv.org/pdf/2407.08268)] [[code](https://github.com/leaves162/CLIPtrase)] Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation    
 
-VFM       
+VLM & VFM      
 [[2024 ECCV](https://arxiv.org/pdf/2408.04883v1)] [[code](https://github.com/mc-lan/ProxyCLIP)] ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation    
 [[2024 ECCV](https://arxiv.org/pdf/2312.12359)] [[code](https://github.com/wysoczanska/clip_dinoiser)] CLIP_Dinoiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation    
 [[2025 CVPR](https://arxiv.org/pdf/2503.19777)] [[code](https://github.com/vladan-stojnic/LPOSS/tree/main)] LOPSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation    
