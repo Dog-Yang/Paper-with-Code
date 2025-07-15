@@ -4,15 +4,16 @@
 
 [[CLIP](#CLIP)]           
 [[Visual Place Recognition](#VPR)]         
-
 [[Token Mering, Clustering and Pruning](#Token_fusion)]           
 [[Backbone](#Backbone)]           
+
 [[Weakly Supervised Semantic Segmentation](#Weakly_Supervised_Semantic_Segmentation)]           
 [[Open vocabulary segmentation](#open_segmentation)]           
 [[Open vocabulary detection](#open_detection)]           
 [[Classical segmentation](#Classical_Segmentation)]           
-[[Classical detection](#Model-Classical_detection)]      
+[[Classical detection](#Model-Classical_detection)]     
 [[Other](#Other)]          
+
 -----------------------------------------------------------------------------------------------
 <a name="Training_Free"></a>
 # Training Free Segmentation
