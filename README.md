@@ -18,7 +18,7 @@
 
 <a name="Training_Free"></a>
 # Training Free Segmentation
-## VLM Only      
+### VLM Only      
 [[2022 ECCV](https://arxiv.org/pdf/2112.01071)]  [[code](https://github.com/chongzhou96/MaskCLIP)] Maskclip: Extract Free Dense Labels from CLIP    
 [[2022 NeurIPS](https://arxiv.org/pdf/2206.07045)] [[code](https://github.com/NoelShin/reco)] ReCo: Retrieve and Co-segment for Zero-shot Transfer    
 [[2023 Arxiv](https://arxiv.org/pdf/2304.05653)] [[code](https://github.com/xmed-lab/CLIP_Surgery)] CLIPSurgery: CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks       
