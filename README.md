@@ -45,7 +45,7 @@ VLM & VFM & Diffusion & SAM
 [[2025 PR](https://arxiv.org/pdf/2304.05653)] [[code](https://github.com/xmed-lab/CLIP_Surgery)] CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks       
 [[2024 IJCV](https://arxiv.org/pdf/2310.10912)] [[code](https://github.com/luckybird1994/IPSeg)] Towards Training-free Open-world Segmentation via Image Prompting Foundation Models       
 [[2024 CVPR](https://arxiv.org/pdf/2312.00878)] [[code](https://github.com/WalBouss/GEM)] Grounding Everything: Emerging Localization Properties in Vision-Language Transformers       
-[[2024 WACV](https://arxiv.org/pdf/2309.14289)] [[ceode](https://github.com/wysoczanska/clip-diy)]CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free       
+[[2024 WACV](https://arxiv.org/pdf/2309.14289)] [[code](https://github.com/wysoczanska/clip-diy)] CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free       
 [[2024 WACV](https://openaccess.thecvf.com/content/WACV2024/papers/Barsellotti_FOSSIL_Free_Open-Vocabulary_Semantic_Segmentation_Through_Synthetic_References_Retrieval_WACV_2024_paper.pdf)] FOSSIL: Free Open-Vocabulary Semantic Segmentation through Synthetic References Retrieval       
 [[2024 AAAI](https://arxiv.org/pdf/2312.12828)] [[code](https://github.com/linyq2117/TagCLIP)] TagCLIP: A Local-to-Global Framework to Enhance Open-VocabularyMulti-Label Classification of CLIP Without Training       
 [[2024 ICLR](https://arxiv.org/pdf/2401.11739)] [[code](https://github.com/linyq2117/TagCLIP)] EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models           
