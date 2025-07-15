@@ -18,8 +18,6 @@
 
 <a name="Training_Free"></a>
 # Training Free Segmentation
-[[2025.05 Arxiv](https://arxiv.org/pdf/2505.22209)] A Survey on Training-free Open-Vocabulary Semantic Segmentation         
-***************************************************************
 VLM Only    
 [[2022 ECCV](https://arxiv.org/pdf/2112.01071)]  [[code](https://github.com/chongzhou96/MaskCLIP)] Maskclip: Extract Free Dense Labels from CLIP    
 [[2022 NeurIPS](https://arxiv.org/pdf/2206.07045)] [[code](https://github.com/NoelShin/reco)] ReCo: Retrieve and Co-segment for Zero-shot Transfer    
@@ -32,6 +30,7 @@ VLM Only
 [[2025 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/32602)] [[code](https://ojs.aaai.org/index.php/AAAI/article/view/32602)] Unveiling the Knowledge of CLIP for Training-Free Open-Vocabulary Semantic Segmentation      
 [[2025 CVPRW](https://arxiv.org/pdf/2411.12044)] [[code](https://github.com/m-arda-aydn/ITACLIP)] ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements    
 [[2024 ECCV](https://arxiv.org/pdf/2407.08268)]  [[code](https://github.com/leaves162/CLIPtrase)] Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation    
+[[2025.05 Arxiv](https://arxiv.org/pdf/2505.22209)] A Survey on Training-free Open-Vocabulary Semantic Segmentation         
 
 ***************************************************************
 VLM & VFM & Diffusion & SAM     
