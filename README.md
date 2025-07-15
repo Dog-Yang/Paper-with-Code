@@ -50,7 +50,7 @@
 
 ***************************************************************
 [[2024 WACV](https://openaccess.thecvf.com/content/WACV2024/papers/Barsellotti_FOSSIL_Free_Open-Vocabulary_Semantic_Segmentation_Through_Synthetic_References_Retrieval_WACV_2024_paper.pdf)] FOSSIL: Free Open-Vocabulary Semantic Segmentation through Synthetic References Retrieval       
-[[2024 AAAI](https://arxiv.org/pdf/2312.12828)] [[code](https://github.com/linyq2117/TagCLIP)] TagCLIP: A Local-to-Global Framework to Enhance Open-VocabularyMulti-Label Classification of CLIP Without Training       
+[[2024 AAAI](https://arxiv.org/pdf/2312.12828)] [[code](https://github.com/linyq2117/TagCLIP)] TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training       
 [[2024 ICLR](https://arxiv.org/pdf/2401.11739)] [[code](https://github.com/linyq2117/TagCLIP)] EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models           
 [[2024 CVPR](https://arxiv.org/pdf/2311.17095)] [[code](https://github.com/letitiabanana/PnP-OVSS)] Emergent Open-Vocabulary Semantic Segmentation from Off-the-shelf Vision-Language Models       
 [[2024 CVPR](https://arxiv.org/pdf/2312.07661)] [[code](https://github.com/kevin-ssy/CLIP_as_RNN)] CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor       
