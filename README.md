@@ -22,6 +22,7 @@
 ***************************************************************
 VLM Only    
 [[2022 ECCV](https://arxiv.org/pdf/2112.01071)]  [[code](https://github.com/chongzhou96/MaskCLIP)] Maskclip: Extract Free Dense Labels from CLIP    
+[[2022 NeurIPS](https://arxiv.org/pdf/2206.07045)] [[code](https://github.com/NoelShin/reco)] ReCo: Retrieve and Co-segment for Zero-shot Transfer       
 [[2024 ECCV](https://arxiv.org/pdf/2312.01597)]  [[code](https://github.com/wangf3014/SCLIP)] SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference    
 [[2024 WACV](https://arxiv.org/pdf/2404.08181)]  [[code](https://github.com/sinahmr/NACLIP)] NACLIP: Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation       
 [[2024 Arxiv](https://arxiv.org/pdf/2411.15869)] [[code](https://github.com/SuleBai/SC-CLIP)] SC-CLIP: Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation    
@@ -46,7 +47,6 @@ VLM & VFM & Diffusion & SAM
 [[2025 CVPR]()] [[code]()]          
 
 ***************************************************************
-[[2022 NeurIPS](https://arxiv.org/pdf/2206.07045)] [[code](https://github.com/NoelShin/reco)] ReCo: Retrieve and Co-segment for Zero-shot Transfer       
 [[2025 PR](https://arxiv.org/pdf/2304.05653)] [[code](https://github.com/xmed-lab/CLIP_Surgery)] CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks       
 [[2024 IJCV](https://arxiv.org/pdf/2310.10912)] [[code](https://github.com/luckybird1994/IPSeg)] Towards Training-free Open-world Segmentation via Image Prompting Foundation Models       
 [[2024 CVPR](https://arxiv.org/pdf/2312.00878)] [[code](https://github.com/WalBouss/GEM)] Grounding Everything: Emerging Localization Properties in Vision-Language Transformers       
