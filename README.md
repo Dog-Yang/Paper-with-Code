@@ -148,6 +148,8 @@
 [[2024 NeurIPS](https://openreview.net/pdf?id=bZpZMdY1sj)] [[code](https://github.com/Lu-Feng/SuperVLAD)] SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition    
 [[2024 ECCV](https://arxiv.org/pdf/2409.18049)] [[code](https://github.com/AnyLoc/Revisit-Anything)] Revisit Anything: Visual Place Recognition via Image Segment Retrieval      
 [[2025 Arxiv](https://arxiv.org/pdf/2506.04764)] [[code](https://github.com/suhan-woo/HypeVPR)] HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition  
+[[2023 IROS](https://ieeexplore.ieee.org/abstract/document/10342347)] Training-Free Attentive-Patch Selection for Visual Place Recognition       
+
 
 <a name="Token_fusion"></a>
 # Token Mering, Clustering and Pruning
