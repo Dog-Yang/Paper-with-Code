@@ -14,7 +14,7 @@
 -----------------------------------------------------------------------------------------------
 <a name="Training_Free"></a>
 # Training Free Segmentation
-[[2025.05 Arxiv](https://arxiv.org/pdf/2505.22209)] [[code]()] A Survey on Training-free Open-Vocabulary Semantic Segmentation         
+[[2025.05 Arxiv](https://arxiv.org/pdf/2505.22209)] A Survey on Training-free Open-Vocabulary Semantic Segmentation         
 
 VLM Only    
 [[2022 ECCV](https://arxiv.org/pdf/2112.01071)]  [[code](https://github.com/chongzhou96/MaskCLIP)] Maskclip: Extract Free Dense Labels from CLIP    
