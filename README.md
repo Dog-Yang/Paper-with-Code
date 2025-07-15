@@ -23,6 +23,7 @@ CLIP Only
 [[2024 ECCV](https://arxiv.org/pdf/2407.12442)] [[code](https://github.com/mc-lan/ClearCLIP)] ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference         
 [[2025 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/32602)] [[code](https://ojs.aaai.org/index.php/AAAI/article/view/32602)] Unveiling the Knowledge of CLIP for Training-Free Open-Vocabulary Semantic Segmentation      
 [[2025 CVPRW](https://openaccess.thecvf.com/content/CVPR2025W/PixFoundation/papers/Aydin_ITACLIP_Boosting_Training-Free_Semantic_Segmentation_with_Image_Text_and_Architectural_CVPRW_2025_paper.pdf)] [[code](https://github.com/m-arda-aydn/ITACLIP)] ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements    
+[[2024 ECCV](https://arxiv.org/pdf/2407.08268)] [[code](https://github.com/leaves162/CLIPtrase)] Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation    
 
 VFM       
 [[2024 ECCV](https://arxiv.org/pdf/2408.04883v1)] [[code](https://github.com/mc-lan/ProxyCLIP)] ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation    
@@ -31,10 +32,8 @@ VFM
 [[2025 Arxiv](https://arxiv.org/pdf/2504.10487)] [[code](https://github.com/yasserben/FLOSS)] FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation    
 [[2024 Arxiv](https://arxiv.org/pdf/2411.13836)] [[code](https://github.com/linsun449/cliper.code)] CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation    
 [[2024 NeurIPS](https://arxiv.org/pdf/2406.02842v2)] [[code](https://github.com/PaulCouairon/DiffCut)] DiffCut: Catalyzing Zero-Shot Semantic Segmentation with Diffusion Features and Recursive Normalized Cut      
-[[2024 ECCV](https://arxiv.org/pdf/2407.08268)] [[code](https://github.com/leaves162/CLIPtrase)] Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation    
 [[2025 NeurIPS](https://arxiv.org/pdf/2505.23769)] [[code](https://github.com/avaxiao/TextRegion)] TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models         
 [[2025 ICCV](https://arxiv.org/pdf/2411.09219)] [[code](https://github.com/YuHengsss/Trident)] Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation         
-
 [[2025 CVPR]()] [[code]()]          
 
 <a name="Zero_shot_classification"></a>
