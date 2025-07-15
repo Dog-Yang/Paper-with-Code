@@ -25,7 +25,7 @@ VLM Only
 [[2025 CVPRW](https://openaccess.thecvf.com/content/CVPR2025W/PixFoundation/papers/Aydin_ITACLIP_Boosting_Training-Free_Semantic_Segmentation_with_Image_Text_and_Architectural_CVPRW_2025_paper.pdf)] [[code](https://github.com/m-arda-aydn/ITACLIP)] ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements    
 [[2024 ECCV](https://arxiv.org/pdf/2407.08268)]  [[code](https://github.com/leaves162/CLIPtrase)] Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation    
 
-VLM & VFM      
+VLM & VFM & Diffusion & SAM     
 [[2024 ECCV](https://arxiv.org/pdf/2408.04883v1)] [[code](https://github.com/mc-lan/ProxyCLIP)] ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation    
 [[2024 ECCV](https://arxiv.org/pdf/2312.12359)] [[code](https://github.com/wysoczanska/clip_dinoiser)] CLIP_Dinoiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation    
 [[2025 CVPR](https://arxiv.org/pdf/2503.19777)] [[code](https://github.com/vladan-stojnic/LPOSS/tree/main)] LOPSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation    
@@ -34,6 +34,7 @@ VLM & VFM
 [[2024 NeurIPS](https://arxiv.org/pdf/2406.02842v2)] [[code](https://github.com/PaulCouairon/DiffCut)] DiffCut: Catalyzing Zero-Shot Semantic Segmentation with Diffusion Features and Recursive Normalized Cut      
 [[2025 NeurIPS](https://arxiv.org/pdf/2505.23769)] [[code](https://github.com/avaxiao/TextRegion)] TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models         
 [[2025 ICCV](https://arxiv.org/pdf/2411.09219)] [[code](https://github.com/YuHengsss/Trident)] Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation         
+[[2024 CVPR](https://arxiv.org/pdf/2404.06542)] [[code](https://github.com/aimagelab/freeda)] Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation         
 [[2025 CVPR]()] [[code]()]          
 
 <a name="Zero_shot_classification"></a>
