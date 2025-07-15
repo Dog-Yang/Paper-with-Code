@@ -15,7 +15,7 @@
 <a name="Training_Free"></a>
 # Training Free Segmentation
 [[2025.05 Arxiv](https://arxiv.org/pdf/2505.22209)] A Survey on Training-free Open-Vocabulary Semantic Segmentation         
-
+***************************************************************
 VLM Only    
 [[2022 ECCV](https://arxiv.org/pdf/2112.01071)]  [[code](https://github.com/chongzhou96/MaskCLIP)] Maskclip: Extract Free Dense Labels from CLIP    
 [[2024 ECCV](https://arxiv.org/pdf/2312.01597)]  [[code](https://github.com/wangf3014/SCLIP)] SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference    
@@ -27,6 +27,7 @@ VLM Only
 [[2025 CVPRW](https://arxiv.org/pdf/2411.12044)] [[code](https://github.com/m-arda-aydn/ITACLIP)] ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements    
 [[2024 ECCV](https://arxiv.org/pdf/2407.08268)]  [[code](https://github.com/leaves162/CLIPtrase)] Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation    
 
+***************************************************************
 VLM & VFM & Diffusion & SAM     
 [[2024 ECCV](https://arxiv.org/pdf/2408.04883v1)] [[code](https://github.com/mc-lan/ProxyCLIP)] ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation    
 [[2024 ECCV](https://arxiv.org/pdf/2312.12359)] [[code](https://github.com/wysoczanska/clip_dinoiser)] CLIP_Dinoiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation    
@@ -39,7 +40,7 @@ VLM & VFM & Diffusion & SAM
 [[2024 CVPR](https://arxiv.org/pdf/2404.06542)] [[code](https://github.com/aimagelab/freeda)] Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation         
 [[2025 CVPR]()] [[code]()]          
 
-*********************
+***************************************************************
 [[2022 NeurIPS](https://arxiv.org/pdf/2206.07045)] [[code](https://github.com/NoelShin/reco)] ReCo: Retrieve and Co-segment for Zero-shot Transfer       
 [[2025 PR](https://arxiv.org/pdf/2304.05653)] [[code](https://github.com/xmed-lab/CLIP_Surgery)] CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks       
 [[2024 IJCV](https://arxiv.org/pdf/2310.10912)] [[code](https://github.com/luckybird1994/IPSeg)] Towards Training-free Open-world Segmentation via Image Prompting Foundation Models       
