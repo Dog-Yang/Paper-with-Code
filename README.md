@@ -39,22 +39,15 @@ VLM & VFM & Diffusion & SAM
 [[2024 CVPR](https://arxiv.org/pdf/2404.06542)] [[code](https://github.com/aimagelab/freeda)] Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation         
 [[2025 CVPR]()] [[code]()]          
 
-
+*********************
 [[2022 NeurIPS](https://arxiv.org/pdf/2206.07045)] [[code](https://github.com/NoelShin/reco)] ReCo: Retrieve and Co-segment for Zero-shot Transfer       
 [[2025 PR](https://arxiv.org/pdf/2304.05653)] [[code](https://github.com/xmed-lab/CLIP_Surgery)] CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks       
-[[2023 ArXiv](https://arxiv.org/pdf/2306.09316)] Diffusion Models for Zero-Shot Open-Vocabulary Segmentation       
-[[2023 ArXiv](https://arxiv.org/pdf/2309.02773)] [[code](https://github.com/VCG-team/DiffSegmenter)] Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter       
-[[2024 IJCV](https://arxiv.org/pdf/2310.10912)] Towards Training-free Open-world Segmentation via Image Prompting Foundation Models       
+[[2024 IJCV](https://arxiv.org/pdf/2310.10912)] [[code](https://github.com/luckybird1994/IPSeg)] Towards Training-free Open-world Segmentation via Image Prompting Foundation Models       
 [[2024 CVPR](https://arxiv.org/pdf/2312.00878)] [[code](https://github.com/WalBouss/GEM)] Grounding Everything: Emerging Localization Properties in Vision-Language Transformers       
 [[2024 WACV](https://arxiv.org/pdf/2309.14289)] [[ceode](https://github.com/wysoczanska/clip-diy)]CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free       
 [[2024 WACV](https://openaccess.thecvf.com/content/WACV2024/papers/Barsellotti_FOSSIL_Free_Open-Vocabulary_Semantic_Segmentation_Through_Synthetic_References_Retrieval_WACV_2024_paper.pdf)] FOSSIL: Free Open-Vocabulary Semantic Segmentation through Synthetic References Retrieval       
 [[2024 AAAI](https://arxiv.org/pdf/2312.12828)] [[code](https://github.com/linyq2117/TagCLIP)] TagCLIP: A Local-to-Global Framework to Enhance Open-VocabularyMulti-Label Classification of CLIP Without Training       
-[[2024 ICLR](https://arxiv.org/pdf/2401.11739)] [[code](https://github.com/linyq2117/TagCLIP)] EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models       
-[[2024 ArXiv](https://arxiv.org/pdf/2403.20105)] [[code](https://bcorrad.github.io/freesegdiff/)] FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models       
-[[2024 ArXiv](https://arxiv.org/pdf/2403.11194)] [[code](https://github.com/Valkyrja3607/MaskDiffusion)] MaskDiffusion: Exploiting Pre-trained Diffusion Models for Semantic Segmentation       
-[[2024 ArXiv](https://arxiv.org/pdf/2403.11197)] [[code](https://github.com/Valkyrja3607/TAG)] TAG: Guidance-free Open-Vocabulary Semantic Segmentation       
-[[2024 ArXiv](https://arxiv.org/pdf/2404.00701)] Training-Free Semantic Segmentation via LLM-Supervision       
-[[2024 ArXiv](https://arxiv.org/pdf/2405.14294)] Tuning-free Universally-Supervised Semantic Segmentation       
+[[2024 ICLR](https://arxiv.org/pdf/2401.11739)] [[code](https://github.com/linyq2117/TagCLIP)] EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models           
 [[2024 CVPR](https://arxiv.org/pdf/2311.17095)] [[code](https://github.com/letitiabanana/PnP-OVSS)] Emergent Open-Vocabulary Semantic Segmentation from Off-the-shelf Vision-Language Models       
 [[2024 CVPR](https://arxiv.org/pdf/2312.07661)] [[code](https://github.com/kevin-ssy/CLIP_as_RNN)] CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor       
 [[2024 CVPR](https://arxiv.org/pdf/2404.00262)] [[code](https://github.com/072jiajia/image-text-co-decomposition)] Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation       
