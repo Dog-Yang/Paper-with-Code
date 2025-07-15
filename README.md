@@ -14,6 +14,8 @@
 -----------------------------------------------------------------------------------------------
 <a name="Training_Free"></a>
 # Training Free Segmentation
+[[2025.05 Arxiv](https://arxiv.org/pdf/2505.22209)] [[code]()] A Survey on Training-free Open-Vocabulary Semantic Segmentation         
+
 VLM Only    
 [[2022 ECCV](https://arxiv.org/pdf/2112.01071)]  [[code](https://github.com/chongzhou96/MaskCLIP)] Maskclip: Extract Free Dense Labels from CLIP    
 [[2024 ECCV](https://arxiv.org/pdf/2312.01597)]  [[code](https://github.com/wangf3014/SCLIP)] SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference    
@@ -36,6 +38,7 @@ VLM & VFM & Diffusion & SAM
 [[2025 ICCV](https://arxiv.org/pdf/2411.09219)] [[code](https://github.com/YuHengsss/Trident)] Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation         
 [[2024 CVPR](https://arxiv.org/pdf/2404.06542)] [[code](https://github.com/aimagelab/freeda)] Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation         
 [[2025 CVPR]()] [[code]()]          
+
 
 <a name="Zero_shot_classification"></a>
 # Zero shot Classification / Test Time Adaptation
