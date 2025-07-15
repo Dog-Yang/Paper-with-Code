@@ -27,7 +27,6 @@ VFM
 [[2024 ECCV](https://arxiv.org/pdf/2312.12359)] [[code](https://github.com/wysoczanska/clip_dinoiser)] CLIP_Dinoiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation    
 [[2025 CVPR](https://arxiv.org/pdf/2503.19777)] [[code](https://github.com/vladan-stojnic/LPOSS/tree/main)] LOPSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation    
 [[2025 Arxiv](https://arxiv.org/pdf/2504.10487)] [[code](https://github.com/yasserben/FLOSS)] FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation    
-[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Exploring_Regional_Clues_in_CLIP_for_Zero-Shot_Semantic_Segmentation_CVPR_2024_paper.pdf)] [[code](https://github.com/Jittor/JSeg)] Exploring Regional Clues in CLIP for Zero-Shot Semantic Segmentation      
 [[2024 Arxiv](https://arxiv.org/pdf/2411.13836)] [[code](https://github.com/linsun449/cliper.code)] CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation    
 [[2025 CVPRW](https://openaccess.thecvf.com/content/CVPR2025W/PixFoundation/papers/Aydin_ITACLIP_Boosting_Training-Free_Semantic_Segmentation_with_Image_Text_and_Architectural_CVPRW_2025_paper.pdf)] [[code](https://github.com/m-arda-aydn/ITACLIP)] ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements    
 [[2024 NeurIPS](https://arxiv.org/pdf/2406.02842v2)] [[code](https://github.com/PaulCouairon/DiffCut)] DiffCut: Catalyzing Zero-Shot Semantic Segmentation with Diffusion Features and Recursive Normalized Cut      
@@ -231,6 +230,7 @@ VFM
 [[2024 CVPR](https://arxiv.org/pdf/2311.15537)] [[code](https://github.com/xb534/SED)] SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation    
 [[2024 TPAMI](https://arxiv.org/pdf/2306.15880)] [[code](https://github.com/jianzongwu/Awesome-Open-Vocabulary)] Review: Towards Open Vocabulary Learning: A Survey         
 [[2025 ICCV](https://arxiv.org/abs/2412.06244)] [[code](https://github.com/HVision-NKU/DenseVLM)] Unbiased Region-Language Alignment for Open-Vocabulary Dense Prediction        
+[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Exploring_Regional_Clues_in_CLIP_for_Zero-Shot_Semantic_Segmentation_CVPR_2024_paper.pdf)] [[code](https://github.com/Jittor/JSeg)] Exploring Regional Clues in CLIP for Zero-Shot Semantic Segmentation      
 
 <a name="open_detection"></a>
 # Open vocabulary object detection
