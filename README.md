@@ -1,10 +1,9 @@
 # Content
-[[Training Free Segmentation](#Training_Free)]       
-[[Training Free Classification/Segmentation](#Training_Free)]           
+[[Training Free Segmentation](#Training_Free)]            
 [[Zero shot Classification/Test Time Adaptation](#Zero_shot_classification)]      
 [[CLIP](#CLIP)]           
 [[Visual Place Recognition](#VPR)]          
-[[Token fusion](#Token_fusion)]           
+[[Token Mering, Clustering and Pruning](#Token_fusion)]           
 [[Backbone](#Backbone)]           
 [[Weakly Supervised Semantic Segmentation](#Weakly_Supervised_Semantic_Segmentation)]           
 [[Open vocabulary segmentation](#open_segmentation)]           
