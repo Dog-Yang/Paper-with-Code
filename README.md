@@ -27,6 +27,7 @@
 [[2024 Arxiv](https://arxiv.org/pdf/2411.15869)] [[code](https://github.com/SuleBai/SC-CLIP)] SC-CLIP: Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation    
 [[2025 CVPR](https://arxiv.org/pdf/2411.15851)]  [[code](https://github.com/yvhangyang/ResCLIP)] ResCLIP: Residual Attention for Training-free Dense Vision-language Inference    
 [[2024 ECCV](https://arxiv.org/pdf/2407.12442)]  [[code](https://github.com/mc-lan/ClearCLIP)] ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference         
+[[2024 CVPR](https://arxiv.org/pdf/2312.00878)] [[code](https://github.com/WalBouss/GEM)] GEM: Grounding Everything: Emerging Localization Properties in Vision-Language Transformers       
 [[2025 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/32602)] [[code](https://ojs.aaai.org/index.php/AAAI/article/view/32602)] Unveiling the Knowledge of CLIP for Training-Free Open-Vocabulary Semantic Segmentation      
 [[2025 CVPRW](https://arxiv.org/pdf/2411.12044)] [[code](https://github.com/m-arda-aydn/ITACLIP)] ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements    
 [[2024 ECCV](https://arxiv.org/pdf/2407.08268)]  [[code](https://github.com/leaves162/CLIPtrase)] Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation    
@@ -48,7 +49,6 @@
 [[2025 CVPR]()] [[code]()]          
 
 ***************************************************************
-[[2024 CVPR](https://arxiv.org/pdf/2312.00878)] [[code](https://github.com/WalBouss/GEM)] GEM: Grounding Everything: Emerging Localization Properties in Vision-Language Transformers       
 [[2024 WACV](https://openaccess.thecvf.com/content/WACV2024/papers/Barsellotti_FOSSIL_Free_Open-Vocabulary_Semantic_Segmentation_Through_Synthetic_References_Retrieval_WACV_2024_paper.pdf)] FOSSIL: Free Open-Vocabulary Semantic Segmentation through Synthetic References Retrieval       
 [[2024 AAAI](https://arxiv.org/pdf/2312.12828)] [[code](https://github.com/linyq2117/TagCLIP)] TagCLIP: A Local-to-Global Framework to Enhance Open-VocabularyMulti-Label Classification of CLIP Without Training       
 [[2024 ICLR](https://arxiv.org/pdf/2401.11739)] [[code](https://github.com/linyq2117/TagCLIP)] EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models           
