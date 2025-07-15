@@ -37,7 +37,7 @@ VLM & VFM & Diffusion & SAM
 [[2024 ECCV](https://arxiv.org/pdf/2408.04883v1)] [[code](https://github.com/mc-lan/ProxyCLIP)] ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation    
 [[2024 ECCV](https://arxiv.org/pdf/2312.12359)] [[code](https://github.com/wysoczanska/clip_dinoiser)] CLIP_Dinoiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation    
 [[2025 CVPR](https://arxiv.org/pdf/2503.19777)] [[code](https://github.com/vladan-stojnic/LPOSS/tree/main)] LOPSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation    
-[[2025 Arxiv](https://arxiv.org/pdf/2504.10487)] [[code](https://github.com/yasserben/FLOSS)] FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation    
+[[2025 ICCV](https://arxiv.org/pdf/2504.10487)] [[code](https://github.com/yasserben/FLOSS)] FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation    
 [[2024 Arxiv](https://arxiv.org/pdf/2411.13836)] [[code](https://github.com/linsun449/cliper.code)] CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation    
 [[2024 WACV](https://arxiv.org/pdf/2309.14289)] [[code](https://github.com/wysoczanska/clip-diy)] CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free       
 [[2024 NeurIPS](https://arxiv.org/pdf/2406.02842v2)] [[code](https://github.com/PaulCouairon/DiffCut)] DiffCut: Catalyzing Zero-Shot Semantic Segmentation with Diffusion Features and Recursive Normalized Cut      
