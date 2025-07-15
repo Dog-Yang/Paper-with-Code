@@ -1,6 +1,7 @@
 # Content
 [[Training Free Segmentation](#Training_Free)]            
 [[Zero shot Classification/Test Time Adaptation](#Zero_shot_classification)]      
+[[Optimal Transport](#Optimal_Transport)]   
 
 [[CLIP](#CLIP)]           
 [[Visual Place Recognition](#VPR)]         
