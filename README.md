@@ -15,7 +15,7 @@
 [[Classical detection](#Model-Classical_detection)]     
 [[Other](#Other)]          
 
------------------------------------------------------------------------------------------------
+
 <a name="Training_Free"></a>
 # Training Free Segmentation
 [[2025.05 Arxiv](https://arxiv.org/pdf/2505.22209)] A Survey on Training-free Open-Vocabulary Semantic Segmentation         
