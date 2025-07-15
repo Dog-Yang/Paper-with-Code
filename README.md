@@ -41,8 +41,8 @@ VLM & VFM & Diffusion & SAM
 [[2024 Arxiv](https://arxiv.org/pdf/2411.13836)] [[code](https://github.com/linsun449/cliper.code)] CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation    
 [[2024 WACV](https://arxiv.org/pdf/2309.14289)] [[code](https://github.com/wysoczanska/clip-diy)] CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free       
 [[2024 NeurIPS](https://arxiv.org/pdf/2406.02842v2)] [[code](https://github.com/PaulCouairon/DiffCut)] DiffCut: Catalyzing Zero-Shot Semantic Segmentation with Diffusion Features and Recursive Normalized Cut      
+[[2025 ICCV](https://arxiv.org/pdf/2411.09219)] [[code](https://github.com/YuHengsss/Trident)] Trident: Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation         
 [[2025 NeurIPS](https://arxiv.org/pdf/2505.23769)] [[code](https://github.com/avaxiao/TextRegion)] TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models         
-[[2025 ICCV](https://arxiv.org/pdf/2411.09219)] [[code](https://github.com/YuHengsss/Trident)] Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation         
 [[2024 CVPR](https://arxiv.org/pdf/2404.06542)] [[code](https://github.com/aimagelab/freeda)] Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation         
 [[2025 CVPR]()] [[code]()]          
 
