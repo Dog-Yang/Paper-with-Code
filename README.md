@@ -1,4 +1,5 @@
 # Content
+[[Training Free Segmentation](#Training_Free)]       
 [[Training Free Classification/Segmentation](#Training_Free)]           
 [[Zero shot Classification/Test Time Adaptation](#Zero_shot_classification)]      
 [[CLIP](#CLIP)]           
@@ -13,19 +14,16 @@
 [[Other](#Other)]          
 -----------------------------------------------------------------------------------------------
 <a name="Training_Free"></a>
-# Training Free
+# Training Free Segmentation
 [[2022 ECCV](https://arxiv.org/pdf/2112.01071)] [[code](https://github.com/chongzhou96/MaskCLIP)] Maskclip: Extract Free Dense Labels from CLIP    
 [[2024 ECCV](https://arxiv.org/pdf/2312.01597)] [[code](https://github.com/wangf3014/SCLIP)] SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference    
 [[2024 WACV](https://arxiv.org/pdf/2404.08181)] [[code](https://github.com/sinahmr/NACLIP)] NACLIP: Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation       
 [[2024 ECCV](https://arxiv.org/pdf/2408.04883v1)] [[code](https://github.com/mc-lan/ProxyCLIP)] ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation    
 [[2024 ECCV](https://arxiv.org/pdf/2312.12359)] [[code](https://github.com/wysoczanska/clip_dinoiser)] CLIP_Dinoiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation    
 [[2024 Arxiv](https://arxiv.org/pdf/2411.15869)] [[code](https://github.com/SuleBai/SC-CLIP)] SC-CLIP: Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation    
-[[2025 CVPR](https://arxiv.org/pdf/2505.24693)] [[code](https://github.com/jusiro/CLIP-Conformal)] Conformal Prediction for Zero-Shot Models     
-[[2025 ICML](https://arxiv.org/abs/2505.04560)] [[code](https://github.com/ghwang-s/abkd)] ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via α-β-Divergence    
 [[2025 CVPR](https://arxiv.org/pdf/2411.15851)] [[code](https://github.com/yvhangyang/ResCLIP)] ResCLIP: Residual Attention for Training-free Dense Vision-language Inference    
 [[2025 AAAI](https://arxiv.org/pdf/2404.08181)] [[code](https://ojs.aaai.org/index.php/AAAI/article/view/32602)] Unveiling the Knowledge of CLIP for Training-Free Open-Vocabulary Semantic Segmentation      
 [[2025 CVPR](https://arxiv.org/pdf/2503.19777)] [[code](https://github.com/vladan-stojnic/LPOSS/tree/main)] LOPSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation    
-[[2024 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/file/996bef37d8a638f37bdfcac2789e835d-Paper-Conference.pdf)] [[code](https://github.com/AI4LIFE-GROUP/SpLiCE)] SpLiCE: Interpreting CLIP with Sparse Linear Concept Embeddings    
 [[2025 Arxiv](https://arxiv.org/pdf/2504.10487)] [[code](https://github.com/yasserben/FLOSS)] FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation    
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Exploring_Regional_Clues_in_CLIP_for_Zero-Shot_Semantic_Segmentation_CVPR_2024_paper.pdf)] [[code](https://github.com/Jittor/JSeg)] Exploring Regional Clues in CLIP for Zero-Shot Semantic Segmentation    
 [[2024 Arxiv](https://arxiv.org/pdf/2411.13836)] [[code](https://github.com/linsun449/cliper.code)] CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation    
@@ -39,6 +37,7 @@
 
 <a name="Zero_shot_classification"></a>
 # Zero shot Classification / Test Time Adaptation
+[[2024 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/file/996bef37d8a638f37bdfcac2789e835d-Paper-Conference.pdf)] [[code](https://github.com/AI4LIFE-GROUP/SpLiCE)] SpLiCE: Interpreting CLIP with Sparse Linear Concept Embeddings    
 [[2024 NeurIPS](https://arxiv.org/pdf/2406.01837)] [[code](https://github.com/MaxZanella/transduction-for-vlms)] Transclip: Boosting Vision-Language Models with Transduction     
 [[2024 ICLR](https://arxiv.org/pdf/2402.04087)] [[code](https://github.com/mrflogs/ICLR24)] GDA-CLIP: A hard-to-beat baseline for training-free clip-based adaptation     
 [[2025 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/32534)] [[code](https://github.com/lyymuwu/TIMO)] TIMO: Text and Image Are Mutually Beneficial: Enhancing Training-Free Few-Shot Classification with CLIP     
@@ -71,7 +70,8 @@
 [[2023 ICRL](https://arxiv.org/pdf/2210.01253)] [[code](https://github.com/CHENGY12/PLOT)] PLOT: Prompt Learning with Optimal Transport for Vision-Language Models         
 [[2024 NeurIPS](https://arxiv.org/pdf/2404.08461)] [[code](https://github.com/sprocketlab/otter)] OTTER: Effortless Label Distribution Adaptation of Zero-shot Models    
 [[2025 ICCV](https://arxiv.org/pdf/2506.23822)] [[code](https://github.com/shiming-chen/LaZSL)] Intrepretable Zero-Shot Learning with Locally-Aligned Vision-Language Model     
-
+[[2025 CVPR](https://arxiv.org/pdf/2505.24693)] [[code](https://github.com/jusiro/CLIP-Conformal)] Conformal Prediction for Zero-Shot Models     
+[[2025 ICML](https://arxiv.org/abs/2505.04560)] [[code](https://github.com/ghwang-s/abkd)] ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via α-β-Divergence    
 
 <a name="Weakly_Supervised_Semantic_Segmentation"></a>
 # Weakly Supervised Semantic Segmentation
