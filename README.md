@@ -41,7 +41,7 @@ VLM & VFM & Diffusion & SAM
 
 
 [[2022 NeurIPS](https://arxiv.org/pdf/2206.07045)] [[code](https://github.com/NoelShin/reco)] ReCo: Retrieve and Co-segment for Zero-shot Transfer       
-[[2023 ArXiv](https://arxiv.org/pdf/2304.05653)] [[code](https://github.com/xmed-lab/CLIP_Surgery)] CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks       
+[[2025 PR](https://arxiv.org/pdf/2304.05653)] [[code](https://github.com/xmed-lab/CLIP_Surgery)] CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks       
 [[2023 ArXiv](https://arxiv.org/pdf/2306.09316)] Diffusion Models for Zero-Shot Open-Vocabulary Segmentation       
 [[2023 ArXiv](https://arxiv.org/pdf/2309.02773)] [[code](https://github.com/VCG-team/DiffSegmenter)] Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter       
 [[2024 IJCV](https://arxiv.org/pdf/2310.10912)] Towards Training-free Open-world Segmentation via Image Prompting Foundation Models       
