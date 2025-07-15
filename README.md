@@ -1,6 +1,6 @@
 # Content
 [[Training Free Classification/Segmentation](#Training_Free)]           
-[[zero shot Classification/Test Time Adaptation](#Zero_shot_classification)]      
+[[Zero shot Classification/Test Time Adaptation](#Zero_shot_classification)]      
 [[CLIP](#CLIP)]           
 [[Visual Place Recognition](#VPR)]          
 [[Token fusion](#Token_fusion)]           
@@ -38,7 +38,7 @@
 [[2025 CVPR]()] [[code]()]          
 
 <a name="Zero_shot_classification"></a>
-# Zero shot classfication / Test Time Adaptation
+# Zero shot Classification / Test Time Adaptation
 [[2024 NeurIPS](https://arxiv.org/pdf/2406.01837)] [[code](https://github.com/MaxZanella/transduction-for-vlms)] Transclip: Boosting Vision-Language Models with Transduction     
 [[2024 ICLR](https://arxiv.org/pdf/2402.04087)] [[code](https://github.com/mrflogs/ICLR24)] GDA-CLIP: A hard-to-beat baseline for training-free clip-based adaptation     
 [[2025 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/32534)] [[code](https://github.com/lyymuwu/TIMO)] TIMO: Text and Image Are Mutually Beneficial: Enhancing Training-Free Few-Shot Classification with CLIP     
