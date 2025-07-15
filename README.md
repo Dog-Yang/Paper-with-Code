@@ -33,7 +33,7 @@
 [[2025.05 Arxiv](https://arxiv.org/pdf/2505.22209)] A Survey on Training-free Open-Vocabulary Semantic Segmentation         
 
 ***************************************************************
-## VLM & VFM & Diffusion & SAM      
+### VLM & VFM & Diffusion & SAM      
 [[2024 ECCV](https://arxiv.org/pdf/2408.04883v1)] [[code](https://github.com/mc-lan/ProxyCLIP)] ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation    
 [[2024 ECCV](https://arxiv.org/pdf/2312.12359)] [[code](https://github.com/wysoczanska/clip_dinoiser)] CLIP_Dinoiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation    
 [[2024 Arxiv](https://arxiv.org/pdf/2411.13836)] [[code](https://github.com/linsun449/cliper.code)] CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation    
