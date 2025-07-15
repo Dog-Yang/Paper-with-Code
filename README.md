@@ -1,5 +1,16 @@
 # Content
-[[VPR](#VPR)] [[Token fusion](#Token_fusion)] [[Training Free](#Training_Free)] [[Weakly Supervised Semantic Segmentation](#Weakly_Supervised_Semantic_Segmentation)] [[Classical segmentation](#Classical_Segmentation)] [[Classical detection](#Model-Classical_detection)] [[Backbone](#Backbone)] [[CLIP](#CLIP)] [[Open vocabulary segmentation](#open_segmentation)] [[Open vocabulary detection](#open_detection)] [[Other](#Other)]
+[[Training Free Classification/Segmentation](#Training_Free)]           
+[[zero shot Classification/Test Time Adaptation](#Zero_shot_classification)]      
+[[CLIP](#CLIP)]           
+[[Visual Place Recognition](#VPR)]          
+[[Token fusion](#Token_fusion)]           
+[[Backbone](#Backbone)]           
+[[Weakly Supervised Semantic Segmentation](#Weakly_Supervised_Semantic_Segmentation)]           
+[[Open vocabulary segmentation](#open_segmentation)]           
+[[Open vocabulary detection](#open_detection)]           
+[[Classical segmentation](#Classical_Segmentation)]           
+[[Classical detection](#Model-Classical_detection)]      
+[[Other](#Other)]          
 -----------------------------------------------------------------------------------------------
 <a name="Training_Free"></a>
 # Training Free
@@ -26,19 +37,8 @@
 [[2025 ICCV](https://arxiv.org/pdf/2411.09219)] [[code](https://github.com/YuHengsss/Trident)] Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation         
 [[2025 CVPR]()] [[code]()]          
 
-# Optimal Transport
-<a name="Optimal_Transport"></a>
-[[2022 AISTATS](https://arxiv.org/pdf/2110.11773)] [[code](https://github.com/michaelsdr/sinkformers)] Sinkformers: Transformers with Doubly Stochastic Attention      
-[[2024 ECCV](https://arxiv.org/pdf/2403.14183)] [[code](https://github.com/cubeyoung/OTSeg)] OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation    
-[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)] [[code](https://github.com/jianwang91/POT)] POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation    
-[[2025 CVPR](https://arxiv.org/pdf/2503.15337)] [[code](https://github.com/EricTan7/RAM)] Recover and Match: Open-Vocabulary Multi-Label Recognition through Knowledge-Constrained  Transport     
-[[2022 NeurIPS](https://arxiv.org/pdf/2006.09882)] [[code](https://github.com/facebookresearch/swav)] SwAV: Unsupervised Learning of Visual Features by Contrasting Cluster Assignments         
-[[2023 ICRL](https://arxiv.org/pdf/2210.01253)] [[code](https://github.com/CHENGY12/PLOT)] PLOT: Prompt Learning with Optimal Transport for Vision-Language Models         
-[[2024 NeurIPS](https://arxiv.org/pdf/2404.08461)] [[code](https://github.com/sprocketlab/otter)] OTTER: Effortless Label Distribution Adaptation of Zero-shot Models    
-[[2025 ICCV](https://arxiv.org/pdf/2506.23822)] [[code](https://github.com/shiming-chen/LaZSL)] Intrepretable Zero-Shot Learning with Locally-Aligned Vision-Language Model     
-
-<a name="Zero_shot_classfication"></a>
-# Zero shot classfication
+<a name="Zero_shot_classification"></a>
+# Zero shot classfication / Test Time Adaptation
 [[2024 NeurIPS](https://arxiv.org/pdf/2406.01837)] [[code](https://github.com/MaxZanella/transduction-for-vlms)] Transclip: Boosting Vision-Language Models with Transduction     
 [[2024 ICLR](https://arxiv.org/pdf/2402.04087)] [[code](https://github.com/mrflogs/ICLR24)] GDA-CLIP: A hard-to-beat baseline for training-free clip-based adaptation     
 [[2025 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/32534)] [[code](https://github.com/lyymuwu/TIMO)] TIMO: Text and Image Are Mutually Beneficial: Enhancing Training-Free Few-Shot Classification with CLIP     
@@ -59,6 +59,18 @@
 [[2025 CVPRW](https://arxiv.org/pdf/2503.12206)] [[code](https://github.com/ans92/TLAC)] TLAC: Two-stage LMM Augmented CLIP for Zero-Shot Classification         
 [[2024 CVPR](https://arxiv.org/pdf/2405.18437)] [[code](https://github.com/SegoleneMartin/transductive-CLIP)] Transductive Zero-Shot and Few-Shot CLIP      
 [[2023 NeurIPS](https://arxiv.org/pdf/2310.19752)] [[code](https://github.com/idstcv/InMaP)] Intra-Modal Proxy Learning for Zero-Shot Visual Categorization with CLIP      
+[[2023 CVPR](https://arxiv.org/pdf/2111.03930)] [[code](https://github.com/gaopengcuhk/Tip-Adapter)] Tip-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling      
+
+# Optimal Transport
+<a name="Optimal_Transport"></a>
+[[2022 AISTATS](https://arxiv.org/pdf/2110.11773)] [[code](https://github.com/michaelsdr/sinkformers)] Sinkformers: Transformers with Doubly Stochastic Attention      
+[[2024 ECCV](https://arxiv.org/pdf/2403.14183)] [[code](https://github.com/cubeyoung/OTSeg)] OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation    
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)] [[code](https://github.com/jianwang91/POT)] POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation    
+[[2025 CVPR](https://arxiv.org/pdf/2503.15337)] [[code](https://github.com/EricTan7/RAM)] Recover and Match: Open-Vocabulary Multi-Label Recognition through Knowledge-Constrained  Transport     
+[[2022 NeurIPS](https://arxiv.org/pdf/2006.09882)] [[code](https://github.com/facebookresearch/swav)] SwAV: Unsupervised Learning of Visual Features by Contrasting Cluster Assignments         
+[[2023 ICRL](https://arxiv.org/pdf/2210.01253)] [[code](https://github.com/CHENGY12/PLOT)] PLOT: Prompt Learning with Optimal Transport for Vision-Language Models         
+[[2024 NeurIPS](https://arxiv.org/pdf/2404.08461)] [[code](https://github.com/sprocketlab/otter)] OTTER: Effortless Label Distribution Adaptation of Zero-shot Models    
+[[2025 ICCV](https://arxiv.org/pdf/2506.23822)] [[code](https://github.com/shiming-chen/LaZSL)] Intrepretable Zero-Shot Learning with Locally-Aligned Vision-Language Model     
 
 
 <a name="Weakly_Supervised_Semantic_Segmentation"></a>
