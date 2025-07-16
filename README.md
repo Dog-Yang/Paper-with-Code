@@ -60,6 +60,9 @@
 [[2025 ICCV](https://arxiv.org/pdf/2411.10086)] [[code](https://github.com/zdk258/CorrCLIP/tree/master)] CorrCLIP: Reconstructing Correlations in CLIP with Off-the-Shelf Foundation Models for Open-Vocabulary Semantic Segmentation       
 [[2025 ICCV](https://arxiv.org/pdf/2411.19331)] [[code](https://github.com/lorebianchi98/Talk2DINO)] Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation       
 [[2025 CVPR](https://arxiv.org/pdf/2411.17150)] [[code](https://micv-yonsei.github.io/cass/)] Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation       
+[[2024 ICLR](https://arxiv.org/pdf/2309.16588)] [[code](https://github.com/kyegomez/Vit-RGTS)] Vision Transformers Need Registers         
+[[2024 ICLR](https://arxiv.org/pdf/2506.08010)] [[code](https://github.com/nickjiang2378/test-time-registers/tree/main)] Vision Transformers Don't Need Trained Registers         
+
 
 <a name="Zero_shot_classification"></a>
 # Zero shot Classification / Test Time Adaptation
