@@ -103,7 +103,7 @@
 [[2025 ICCV](https://arxiv.org/pdf/2506.23822)] [[code](https://github.com/shiming-chen/LaZSL)] Intrepretable Zero-Shot Learning with Locally-Aligned Vision-Language Model     
 [[2025 CVPR](https://arxiv.org/pdf/2505.24693)] [[code](https://github.com/jusiro/CLIP-Conformal)] Conformal Prediction for Zero-Shot Models     
 [[2025 ICML](https://arxiv.org/abs/2505.04560)] [[code](https://github.com/ghwang-s/abkd)] ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via α-β-Divergence    
-[[2024 ICLR](https://arxiv.org/pdf/2310.04691)] [[code](https://github.com/DRSY/EMO)] EMO: EARTH MOVER DISTANCE OPTIMIZATION FOR AUTO-REGRESSIVE LANGUAGE MODELING          
+[[2024 ICLR](https://arxiv.org/pdf/2310.04691)] [[code](https://github.com/DRSY/EMO)] EMO: Earth mover distance optimization for auto-regessive language modeling      
 
 <a name="Weakly_Supervised_Semantic_Segmentation"></a>
 # Weakly Supervised Semantic Segmentation
