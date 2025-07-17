@@ -90,7 +90,10 @@
 [[2025 CVPRW](https://arxiv.org/pdf/2503.12206)] [[code](https://github.com/ans92/TLAC)] TLAC: Two-stage LMM Augmented CLIP for Zero-Shot Classification         
 [[2023 NeurIPS](https://arxiv.org/pdf/2310.19752)] [[code](https://github.com/idstcv/InMaP)] Intra-Modal Proxy Learning for Zero-Shot Visual Categorization with CLIP      
 [[2024 ICML](https://arxiv.org/pdf/2406.07236?)] [[code](https://github.com/mlbio-epfl/turtle)] Let Go of Your Labels with Unsupervised Transfer      
+[[2023 ICLR](https://arxiv.org/pdf/2210.07183)] [[code](https://github.com/sachit-menon/classify_by_description_release)] DCLIP: Visual Classification via Description from Large Language Models         
+[[2023 ICCV](https://arxiv.org/pdf/2209.03320)] [[code](https://github.com/sarahpratt/CuPL)] CuPL: What does a platypus look like? Generating customized prompts for zero-shot image classification         
 
+ 
 # Optimal Transport
 <a name="Optimal_Transport"></a>
 [[2022 AISTATS](https://arxiv.org/pdf/2110.11773)] [[code](https://github.com/michaelsdr/sinkformers)] Sinkformers: Transformers with Doubly Stochastic Attention      
@@ -100,7 +103,7 @@
 [[2022 NeurIPS](https://arxiv.org/pdf/2006.09882)] [[code](https://github.com/facebookresearch/swav)] SwAV: Unsupervised Learning of Visual Features by Contrasting Cluster Assignments         
 [[2023 ICRL](https://arxiv.org/pdf/2210.01253)] [[code](https://github.com/CHENGY12/PLOT)] PLOT: Prompt Learning with Optimal Transport for Vision-Language Models         
 [[2024 NeurIPS](https://arxiv.org/pdf/2404.08461)] [[code](https://github.com/sprocketlab/otter)] OTTER: Effortless Label Distribution Adaptation of Zero-shot Models    
-[[2025 ICCV](https://arxiv.org/pdf/2506.23822)] [[code](https://github.com/shiming-chen/LaZSL)] Intrepretable Zero-Shot Learning with Locally-Aligned Vision-Language Model     
+[[2025 ICCV](https://arxiv.org/pdf/2506.23822)] [[code](https://github.com/shiming-chen/LaZSL)] LaZSL: Intrepretable Zero-Shot Learning with Locally-Aligned Vision-Language Model     
 [[2025 CVPR](https://arxiv.org/pdf/2505.24693)] [[code](https://github.com/jusiro/CLIP-Conformal)] Conformal Prediction for Zero-Shot Models     
 [[2025 ICML](https://arxiv.org/abs/2505.04560)] [[code](https://github.com/ghwang-s/abkd)] ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via α-β-Divergence    
 [[2024 ICLR](https://arxiv.org/pdf/2310.04691)] [[code](https://github.com/DRSY/EMO)] EMO: Earth mover distance optimization for auto-regessive language modeling      
