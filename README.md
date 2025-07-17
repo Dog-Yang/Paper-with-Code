@@ -66,6 +66,7 @@
 
 <a name="Zero_shot_classification"></a>
 # Zero shot Classification / Test Time Adaptation
+### parameter free      
 [[2024 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/file/996bef37d8a638f37bdfcac2789e835d-Paper-Conference.pdf)] [[code](https://github.com/AI4LIFE-GROUP/SpLiCE)] SpLiCE: Interpreting CLIP with Sparse Linear Concept Embeddings    
 [[2024 NeurIPS](https://arxiv.org/pdf/2406.01837)] [[code](https://github.com/MaxZanella/transduction-for-vlms)] Transclip: Boosting Vision-Language Models with Transduction     
 [[2025 CVPR](https://arxiv.org/pdf/2501.03729)] [[code](https://github.com/MaxZanella/StatA)] Realistic Test-Time Adaptation of Vision-Language Models     
@@ -75,7 +76,10 @@
 [[2024 CVPR](https://arxiv.org/pdf/2405.18437)] [[code](https://github.com/SegoleneMartin/transductive-CLIP)] Transductive Zero-Shot and Few-Shot CLIP      
 [[2023 CVPR](https://arxiv.org/pdf/2111.03930)] [[code](https://github.com/gaopengcuhk/Tip-Adapter)] Tip-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling      
 [[2024 ICLR](https://arxiv.org/pdf/2402.04087)] [[code](https://github.com/mrflogs/ICLR24)] GDA-CLIP: A hard-to-beat baseline for training-free clip-based adaptation     
+[[2023 ICLR](https://arxiv.org/pdf/2210.07183)] [[code](https://github.com/sachit-menon/classify_by_description_release)] DCLIP: Visual Classification via Description from Large Language Models         
+[[2023 ICCV](https://arxiv.org/pdf/2209.03320)] [[code](https://github.com/sarahpratt/CuPL)] CuPL: What does a platypus look like? Generating customized prompts for zero-shot image classification     
 ***************************************************************
+### parameter fitting      
 [[2024 CVPR](https://arxiv.org/pdf/2405.02266)] [[code](https://github.com/MaxZanella/MTA)] On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?   
 [[2024 NeurIPS](https://arxiv.org/pdf/2405.18330)] [[code](https://github.com/FarinaMatteo/zero)] Frustratingly Easy Test-Time Adaptation of Vision-Language Models      
 [[2024 CVPR](https://arxiv.org/pdf/2403.18293)] [[code](https://github.com/kdiAAA/TDA)] TDA: Efficient Test-Time Adaptation of Vision-Language Model   
@@ -90,9 +94,6 @@
 [[2025 CVPRW](https://arxiv.org/pdf/2503.12206)] [[code](https://github.com/ans92/TLAC)] TLAC: Two-stage LMM Augmented CLIP for Zero-Shot Classification         
 [[2023 NeurIPS](https://arxiv.org/pdf/2310.19752)] [[code](https://github.com/idstcv/InMaP)] Intra-Modal Proxy Learning for Zero-Shot Visual Categorization with CLIP      
 [[2024 ICML](https://arxiv.org/pdf/2406.07236?)] [[code](https://github.com/mlbio-epfl/turtle)] Let Go of Your Labels with Unsupervised Transfer      
-[[2023 ICLR](https://arxiv.org/pdf/2210.07183)] [[code](https://github.com/sachit-menon/classify_by_description_release)] DCLIP: Visual Classification via Description from Large Language Models         
-[[2023 ICCV](https://arxiv.org/pdf/2209.03320)] [[code](https://github.com/sarahpratt/CuPL)] CuPL: What does a platypus look like? Generating customized prompts for zero-shot image classification         
-
  
 # Optimal Transport
 <a name="Optimal_Transport"></a>
