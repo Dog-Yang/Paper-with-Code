@@ -33,6 +33,8 @@
 [[2024 ECCV](https://arxiv.org/pdf/2407.08268)]  [[code](https://github.com/leaves162/CLIPtrase)] Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation    
 [[2024 ECCV](https://arxiv.org/pdf/2407.08268)] [[code](https://github.com/leaves162/CLIPtrase)] Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation       
 [[2025.05 Arxiv](https://arxiv.org/pdf/2505.22209)] A Survey on Training-free Open-Vocabulary Semantic Segmentation         
+[[2024 ICLR](https://arxiv.org/pdf/2309.16588)] [[code](https://github.com/kyegomez/Vit-RGTS)] Vision Transformers Need Registers         
+[[2024 ICLR](https://arxiv.org/pdf/2506.08010)] [[code](https://github.com/nickjiang2378/test-time-registers/tree/main)] Vision Transformers Don't Need Trained Registers         
 
 ***************************************************************
 ### VLM & VFM & Diffusion & SAM      
@@ -60,8 +62,7 @@
 [[2024 CVPR](https://arxiv.org/pdf/2404.00262)] [[code](https://github.com/072jiajia/image-text-co-decomposition)] Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation       
 [[2024 ECCV](https://arxiv.org/pdf/2408.04961)] [[code](https://github.com/dahyun-kang/lavg)] In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation        
 [[2025 CVPR](https://arxiv.org/pdf/2411.17150)] [[code](https://micv-yonsei.github.io/cass/)] Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation       
-[[2024 ICLR](https://arxiv.org/pdf/2309.16588)] [[code](https://github.com/kyegomez/Vit-RGTS)] Vision Transformers Need Registers         
-[[2024 ICLR](https://arxiv.org/pdf/2506.08010)] [[code](https://github.com/nickjiang2378/test-time-registers/tree/main)] Vision Transformers Don't Need Trained Registers         
+
 
 
 <a name="Zero_shot_classification"></a>
