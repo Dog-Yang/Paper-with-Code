@@ -63,6 +63,7 @@
 [[2024 CVPR](https://arxiv.org/pdf/2404.00262)] [[code](https://github.com/072jiajia/image-text-co-decomposition)] Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation       
 [[2024 ECCV](https://arxiv.org/pdf/2408.04961)] [[code](https://github.com/dahyun-kang/lavg)] In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation        
 [[2025 CVPR](https://arxiv.org/pdf/2411.17150)] [[code](https://micv-yonsei.github.io/cass/)] Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation       
+[[2025 CVPR](https://arxiv.org/pdf/2410.01768)] [[code](https://github.com/likyoo/SegEarth-OV)] SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images         
 
 <a name="Zero_shot_classification"></a>
 # Zero shot Classification / Test Time Adaptation
