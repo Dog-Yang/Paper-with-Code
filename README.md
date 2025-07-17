@@ -31,7 +31,6 @@
 [[2025 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/32602)] [[code](https://ojs.aaai.org/index.php/AAAI/article/view/32602)] Unveiling the Knowledge of CLIP for Training-Free Open-Vocabulary Semantic Segmentation      
 [[2025 CVPRW](https://arxiv.org/pdf/2411.12044)] [[code](https://github.com/m-arda-aydn/ITACLIP)] ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements    
 [[2024 ECCV](https://arxiv.org/pdf/2407.08268)]  [[code](https://github.com/leaves162/CLIPtrase)] Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation    
-[[2024 ECCV](https://arxiv.org/pdf/2407.08268)] [[code](https://github.com/leaves162/CLIPtrase)] Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation       
 [[2025.05 Arxiv](https://arxiv.org/pdf/2505.22209)] A Survey on Training-free Open-Vocabulary Semantic Segmentation         
 [[2024 ICLR](https://arxiv.org/pdf/2309.16588)] [[code](https://github.com/kyegomez/Vit-RGTS)] Vision Transformers Need Registers         
 [[2024 ICLR](https://arxiv.org/pdf/2506.08010)] [[code](https://github.com/nickjiang2378/test-time-registers/tree/main)] Vision Transformers Don't Need Trained Registers         
@@ -43,7 +42,7 @@
 [[2024 Arxiv](https://arxiv.org/pdf/2411.13836)] [[code](https://github.com/linsun449/cliper.code)] CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation    
 [[2024 WACV](https://arxiv.org/pdf/2309.14289)] [[code](https://github.com/wysoczanska/clip-diy)] CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free       
 [[2024 NeurIPS](https://arxiv.org/pdf/2406.02842v2)] [[code](https://github.com/PaulCouairon/DiffCut)] DiffCut: Catalyzing Zero-Shot Semantic Segmentation with Diffusion Features and Recursive Normalized Cut      
-[[2024 CVPR](https://arxiv.org/pdf/2404.06542)] [[code](https://github.com/aimagelab/freeda)] Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation     
+[[2024 CVPR](https://arxiv.org/pdf/2404.06542)] [[code](https://github.com/aimagelab/freeda)] FreeDA: Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation     
 [[2024 IJCV](https://arxiv.org/pdf/2310.10912)] [[code](https://github.com/luckybird1994/IPSeg)] Towards Training-free Open-world Segmentation via Image Prompting Foundation Models       
 [[2025 CVPR](https://arxiv.org/pdf/2503.19777)] [[code](https://github.com/vladan-stojnic/LPOSS/tree/main)] LOPSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation    
 [[2025 ICCV](https://arxiv.org/pdf/2504.10487)] [[code](https://github.com/yasserben/FLOSS)] FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation    
