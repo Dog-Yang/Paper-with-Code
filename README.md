@@ -142,7 +142,7 @@
 
 <a name="Graph_Structure"></a>
 # Graph Structure
-[[2016 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/10302)] The Constrained Laplacian Rank Algorithm for Graph-Based Clustering    
+[[2016 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/10302)] [[code](https://github.com/convexfi/spectralGraphTopology/blob/97eee40c8aa30cd62fa01b6e9e01e20197fc7940/R/constrLaplacianRank.R)] The Constrained Laplacian Rank Algorithm for Graph-Based Clustering    
 [[2016 IJCAI](https://www.ijcai.org/Proceedings/16/Papers/269.pdf)] Parameter-Free Auto-Weighted Multiple Graph Learning: A Framework for Multiview Clustering and Semi-Supervised Classification   
 [[2023 NeurIPS](https://arxiv.org/pdf/2310.05174)] [[code](https://github.com/GSL-Benchmark/GSLB)] GSLB: The Graph Structure Learning Benchmark     
 [[2024 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28092)] [[code](https://github.com/lhf12278/FCM-ReID)] Catalyst for Clustering-based Unsupervised Object Re-Identification: Feature Calibration    
