@@ -64,6 +64,8 @@
 [[2025 CVPR](https://arxiv.org/pdf/2411.17150)] [[code](https://micv-yonsei.github.io/cass/)] Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation       
 [[2025 CVPR](https://arxiv.org/pdf/2410.01768)] [[code](https://github.com/likyoo/SegEarth-OV)] SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images         
 [[2025 ICCV](https://arxiv.org/pdf/2410.14462#page=17.85)] [[code](https://github.com/naver/ludvig)] LUDVIG: Learning-free uplifting of 2D visual features to gaussuan splatting scenes         
+[[2025 CVPR](https://arxiv.org/pdf/2501.12931)] [[code](https://github.com/likyoo/DynamicEarth)] DynamicEarth: How Far are We from Open-Vocabulary Change Detection?          
+[[2024 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/file/9415416201aa201902d1743c7e65787b-Paper-Conference.pdf)] [[code](https://github.com/Z-Zheng/pytorch-change-models)] Segment Any Change         
 
 <a name="Zero_shot_classification"></a>
 # Zero shot Classification / Test Time Adaptation
