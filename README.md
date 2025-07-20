@@ -13,7 +13,7 @@
 [[Open vocabulary detection](#open_detection)]           
 [[Classical segmentation](#Classical_Segmentation)]           
 [[Classical detection](#Model-Classical_detection)]     
-[[Other](#Other)]          
+[[Other](#Other)]      
 
 
 <a name="Training_Free"></a>
