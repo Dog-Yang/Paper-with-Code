@@ -52,6 +52,10 @@
 [[2025 ICCV](https://arxiv.org/pdf/2411.19331)] [[code](https://github.com/lorebianchi98/Talk2DINO)] Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation     
 [[2024 ICLR](https://arxiv.org/pdf/2401.11739)] [[code](https://github.com/linyq2117/TagCLIP)] EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models           
 [[2025 ICCV](https://arxiv.org/pdf/2506.21233)] [[code](https://github.com/xiweix/ReME)] ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation         
+[[2025 CVPR](https://arxiv.org/pdf/2403.09974)] [[code](https://github.com/enguangW/GET)] GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery      
+[[2025 ICML](https://openreview.net/pdf?id=uvFE58mSnR)] [[code](https://github.com/stone96123/MFRNet)] Multi-Modal Object Re-Identification via Sparse Mixture-of-Experts         
+[[2025 ICML](https://openreview.net/pdf?id=dewR2augg2)] FlexiReID: Adaptive Mixture of Expert for Multi-Modal Person Re-Identification         
+[[2025 CVPR](https://arxiv.org/pdf/2503.16873)] [[code](https://github.com/k0u-id/CCD)] CCD: Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification         
 [[2025 CVPR]()] [[code]()]          
 
 ***************************************************************
