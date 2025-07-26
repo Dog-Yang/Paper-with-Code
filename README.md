@@ -58,7 +58,7 @@
 [[2025 CVPR](https://arxiv.org/pdf/2503.16873)] [[code](https://github.com/k0u-id/CCD)] CCD: Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification         
 [[2024 ICML](https://openreview.net/pdf?id=sHswzNWUW2)] [[code](https://github.com/yic20/CoMC)] Language-driven Cross-modal Classifier for Zero-shot Multi-label Image Recognition         
 [[2024 AAAI](https://arxiv.org/pdf/2312.12828)] [[code](https://github.com/linyq2117/TagCLIP)] TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training         
-[[2025 CVPR]((https://arxiv.org/pdf/2502.16911?)] [[code]](https://github.com/kjmillerCURIS/SPARC)) SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label Recognition in Vision-Language Models         
+[[2025 CVPR](https://arxiv.org/pdf/2502.16911?)] [[code]](https://github.com/kjmillerCURIS/SPARC)) SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label Recognition in Vision-Language Models         
 [[2025 CVPR]()] [[code]()]          
 
 ***************************************************************
@@ -119,6 +119,7 @@
 [[2025 CVPR](https://arxiv.org/pdf/2505.24693)] [[code](https://github.com/jusiro/CLIP-Conformal)] Conformal Prediction for Zero-Shot Models     
 [[2025 ICML](https://arxiv.org/abs/2505.04560)] [[code](https://github.com/ghwang-s/abkd)] ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via α-β-Divergence    
 [[2024 ICLR](https://arxiv.org/pdf/2310.04691)] [[code](https://github.com/DRSY/EMO)] EMO: Earth mover distance optimization for auto-regessive language modeling      
+[[2025 CVPR](https://arxiv.org/abs/2503.15337)] [[code](https://github.com/EricTan7/RAM)] RAM: Open-Vocabulary Multi-Label Recognition through Knowledge-Constrained Optimal Transport       
 
 <a name="Weakly_Supervised_Semantic_Segmentation"></a>
 # Weakly Supervised Semantic Segmentation
