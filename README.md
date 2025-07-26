@@ -56,6 +56,9 @@
 [[2025 ICML](https://openreview.net/pdf?id=uvFE58mSnR)] [[code](https://github.com/stone96123/MFRNet)] Multi-Modal Object Re-Identification via Sparse Mixture-of-Experts         
 [[2025 ICML](https://openreview.net/pdf?id=dewR2augg2)] FlexiReID: Adaptive Mixture of Expert for Multi-Modal Person Re-Identification         
 [[2025 CVPR](https://arxiv.org/pdf/2503.16873)] [[code](https://github.com/k0u-id/CCD)] CCD: Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification         
+[[2024 ICML](https://openreview.net/pdf?id=sHswzNWUW2)] [[code](https://github.com/yic20/CoMC)] Language-driven Cross-modal Classifier for Zero-shot Multi-label Image Recognition         
+[[2024 AAAI](https://arxiv.org/pdf/2312.12828)] [[code](https://github.com/linyq2117/TagCLIP)] TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training         
+[[2025 CVPR]((https://arxiv.org/pdf/2502.16911?)] [[code]](https://github.com/kjmillerCURIS/SPARC)) SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label Recognition in Vision-Language Models         
 [[2025 CVPR]()] [[code]()]          
 
 ***************************************************************
@@ -146,6 +149,8 @@
 [[2025 arXiv](https://arxiv.org/pdf/2412.20439)] Image Augmentation Agent for Weakly Supervised Semantic Segmentation     
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_Multi-Label_Prototype_Visual_Spatial_Search_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)] Multi-Label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation      
 [[2025 CVPRW](https://arxiv.org/pdf/2412.13823)] Prompt Categories Cluster for Weakly Supervised Semantic Segmentation    
+[[2025 Arxiv](https://arxiv.org/pdf/2507.02798)] [[code](https://github.com/miquel-espinosa/no-time-to-train)] No time to train! Training-Free Reference-Based Instance Segmentation         
+
 
 <a name="Graph_Structure"></a>
 # Graph Structure
