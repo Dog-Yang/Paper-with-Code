@@ -105,7 +105,11 @@
 [[2025 CVPRW](https://arxiv.org/pdf/2503.12206)] [[code](https://github.com/ans92/TLAC)] TLAC: Two-stage LMM Augmented CLIP for Zero-Shot Classification         
 [[2023 NeurIPS](https://arxiv.org/pdf/2310.19752)] [[code](https://github.com/idstcv/InMaP)] Intra-Modal Proxy Learning for Zero-Shot Visual Categorization with CLIP      
 [[2024 ICML](https://arxiv.org/pdf/2406.07236?)] [[code](https://github.com/mlbio-epfl/turtle)] Let Go of Your Labels with Unsupervised Transfer      
- 
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Bendou_ProKeR_A_Kernel_Perspective_on_Few-Shot_Adaptation_of_Large_Vision-Language_CVPR_2025_paper.pdf)] [[code](https://github.com/ybendou/ProKeR)] ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models       
+
+
+
+
 # Optimal Transport
 <a name="Optimal_Transport"></a>
 [[2022 AISTATS](https://arxiv.org/pdf/2110.11773)] [[code](https://github.com/michaelsdr/sinkformers)] Sinkformers: Transformers with Doubly Stochastic Attention      
