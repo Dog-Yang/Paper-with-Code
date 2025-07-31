@@ -12,8 +12,7 @@
 [[Weakly Supervised Semantic Segmentation](#Weakly_Supervised_Semantic_Segmentation)]           
 [[Open vocabulary segmentation](#open_segmentation)]           
 [[Open vocabulary detection](#open_detection)]           
-[[Classical segmentation](#Classical_Segmentation)]           
-[[Classical detection](#Model-Classical_detection)]     
+[[segmentation and detection](#Segmentation_and_Detection)]           
 [[Other](#Other)]      
 
 <a name="Remote_Sensing"></a>
@@ -215,8 +214,8 @@
 [[2025 CVPR](https://arxiv.org/pdf/2504.08966)] [[code](https://github.com/orailix/PACT/tree/main)] PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models   
 
 
-<a name="Classical_Segmentation"></a>
-# Classical segmentation method
+<a name="Segmentation_and_Detection"></a>
+# Segmentation and Detection
 [[2015 CVPR](https://arxiv.org/abs/1411.4038)] [[code](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)] FCN: Fully Convolutional Networks for Semantic Segmentation    
 [[2016 MICCAI](https://arxiv.org/pdf/1505.04597)] UNet: Convolutional Networks for Biomedical Image Segmentation    
 [[2017 arXiv](https://arxiv.org/pdf/1706.05587)] DeepLabV3: Rethinking atrous convolution for semantic image segmentation    
@@ -228,9 +227,6 @@
 [[2021 CVPR](https://arxiv.org/pdf/2107.06278)] [[code](https://github.com/facebookresearch/MaskFormer)] MaskFormer: Per-Pixel Classification is Not All You Need for Semantic Segmentation    
 [[2022 CVPR](https://arxiv.org/pdf/2112.01527)] [[code](https://github.com/facebookresearch/Mask2Former)] Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation    
 [[2024 CVPR](https://arxiv.org/pdf/2312.04265)] [[code](https://github.com/w1oves/Rein)] Rein: Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation    
-
-<a name="Classical_detection"></a>
-# Classical detection method
 [[2015 NeurIPS](https://arxiv.org/pdf/1506.01497)] Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks    
 [[2020 ECCV](https://arxiv.org/pdf/2005.12872)] [[code](https://github.com/facebookresearch/detr)] DETR: End-to-End Object Detection with Transformers    
 [[2021 ICLR](https://arxiv.org/pdf/2010.04159)] [[code](https://github.com/fundamentalvision/Deformable-DETR)] Deformable DETR: Deformable Transformers for End-to-End Object Detection    
