@@ -1,4 +1,5 @@
 # Content
+[[Remote Sensing](#Remote_Sensing)]   
 [[Training Free Segmentation](#Training_Free)]            
 [[Zero shot Classification/Test Time Adaptation](#Zero_shot_classification)]      
 [[Optimal Transport](#Optimal_Transport)]   
@@ -14,6 +15,23 @@
 [[Classical segmentation](#Classical_Segmentation)]           
 [[Classical detection](#Model-Classical_detection)]     
 [[Other](#Other)]      
+
+<a name="Remote_Sensing"></a>
+# Remote Sensing
+[[2025 TGRS](https://ieeexplore.ieee.org/document/11063320)] [[code](https://github.com/sstary/SSRS)] A Unified Framework With Multimodal Fine-Tuning for Remote Sensing Semantic Segmentation        
+[[2025 ICCV](https://arxiv.org/pdf/2503.06683)] [[code](https://github.com/XavierJiezou/D2LS)] Dynamic Dictionary Learning for Remote Sensing Image Segmentation.              
+[[2025 ICCV](https://arxiv.org/abs/2411.15789)] [[code](https://github.com/The-AI-Alliance/GEO-Bench-VLM)] GEOBench-VLM: Benchmarking Vision-Language Models for Geospatial Tasks.            
+[[2024 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/file/9415416201aa201902d1743c7e65787b-Paper-Conference.pdf)] [[code](https://github.com/Z-Zheng/pytorch-change-models)] Segment Any Change         
+[[2025 DynamicEarth](https://arxiv.org/abs/2501.12931)] [[code](https://github.com/likyoo/DynamicEarth)] DynamicEarth: How Far are We from Open-Vocabulary Change Detection?       
+[[2025 CVPR](https://arxiv.org/abs/2410.01768)] [[code](https://github.com/likyoo/SegEarth-OV)] SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images.           
+[[2025 ICCV](https://arxiv.org/abs/2507.12857)] [[code](https://github.com/HuangShiqi128/SCORE)] SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation.             
+[[2025 ICCV](https://arxiv.org/pdf/2503.07588)] [[code](https://github.com/VisionXLab/LRS-VQA)] When Large Vision-Language Model Meets Large Remote Sensing Imagery: Coarse-to-Fine Text-Guided Token Pruning           
+[[2025 CVPR](https://arxiv.org/abs/2503.23771)] [[code](https://github.com/EvolvingLMMs-Lab/XLRS-Bench)] XLRS-Bench: Could Your Multimodal LLMs Understand Extremely Large Ultra-High-Resolution Remote Sensing Imagery?    
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Exact_Exploring_Space-Time_Perceptive_Clues_for_Weakly_Supervised_Satellite_Image_CVPR_2025_paper.pdf)] [[code](https://github.com/MiSsU-HH/Exact)] Exact: Exploring Space-Time Perceptive Clues for Weakly Supervised Satellite Image Time Series Semantic Segmentation     
+[[2025 ICASSP](https://arxiv.org/abs/2409.00698)] [[code](https://github.com/elkhouryk/RS-TransCLIP)] Enhancing Remote Sensing Vision-Language Models for Zero-Shot Scene Classification.        
+[[2023 ICCV](https://arxiv.org/abs/2308.05569)] [[code](https://github.com/chunmeifeng/DiffTPT)] Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning.        
+[[2025 AAAI](https://arxiv.org/abs/2412.12798)] [[code](https://github.com/HuangShiqi128/ZoRI)] ZoRI: Towards discriminative zero-shot remote sensing instance segmentation.           
+
 
 
 <a name="Training_Free"></a>
