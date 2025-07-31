@@ -1,16 +1,16 @@
 # Content
-1.[[Remote Sensing](#Remote_Sensing)]      
-2.[[Training Free Segmentation](#Training_Free)]            
-3.[[Zero shot Classification/Test Time Adaptation](#Zero_shot_classification)]      
-4.[[Optimal Transport](#Optimal_Transport)]     
-5.[[CLIP](#CLIP)]           
-6.[[Visual Place Recognition](#VPR)]         
-7.[[Token Mering, Clustering and Pruning](#Token_fusion)]           
-8.[[Backbone](#Backbone)]           
-9.[[Weakly Supervised Semantic Segmentation](#WSSS)]           
-10.[[Open vocabulary segmentation and detection](#open_segmentation)]                
-11.[[segmentation and detection](#Segmentation_and_Detection)]           
-12.[[Other](#Other)]      
+1. [[Remote Sensing](#Remote_Sensing)]      
+2. [[Training Free Segmentation](#Training_Free)]            
+3. [[Zero shot Classification/Test Time Adaptation](#Zero_shot_classification)]      
+4. [[Optimal Transport](#Optimal_Transport)]     
+5. [[CLIP](#CLIP)]           
+6. [[Visual Place Recognition](#VPR)]         
+7. [[Token Mering, Clustering and Pruning](#Token_fusion)]           
+8. [[Backbone](#Backbone)]           
+9. [[Weakly Supervised Semantic Segmentation](#WSSS)]           
+10. [[Open vocabulary segmentation and detection](#open_segmentation)]                
+11. [[segmentation and detection](#Segmentation_and_Detection)]           
+12. [[Other](#Other)]      
 
 <a name="Remote_Sensing"></a>
 # Remote Sensing
