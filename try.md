@@ -79,6 +79,7 @@
 22. [2025 CVPR]      SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label Recognition in Vision-Language Models. [[code](https://github.com/kjmillerCURIS/SPARC)] [[paper](https://arxiv.org/pdf/2502.16911?)]
 
 ***************************************************************
+
  1. [2024 WACV]   FOSSIL: Free Open-Vocabulary Semantic Segmentation through Synthetic References Retrieval. [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Barsellotti_FOSSIL_Free_Open-Vocabulary_Semantic_Segmentation_Through_Synthetic_References_Retrieval_WACV_2024_paper.pdf)]
  2. [2024 AAAI]   TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training. [[code](https://github.com/linyq2117/TagCLIP)] [[paper](https://arxiv.org/pdf/2312.12828)]
  3. [2024 CVPR]   Emergent Open-Vocabulary Semantic Segmentation from Off-the-shelf Vision-Language Models. [[code](https://github.com/letitiabanana/PnP-OVSS)] [[paper](https://arxiv.org/pdf/2311.17095)]
@@ -134,7 +135,7 @@
  3. [2025 CVPR]      POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation. [[code](https://github.com/jianwang91/POT)] [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)]
  4. [2025 CVPR]      RAM: Open-Vocabulary Multi-Label Recognition through Knowledge-Constrained Transport. [[code](https://github.com/EricTan7/RAM)] [[paper](https://arxiv.org/pdf/2503.15337)]
  5. [2022 NeurIPS]   SwAV: Unsupervised Learning of Visual Features by Contrasting Cluster Assignments. [[code](https://github.com/facebookresearch/swav)] [[paper](https://arxiv.org/pdf/2006.09882)]
- 6. [2023 ICRL]      PLOT: Prompt Learning with Optimal Transport for Vision-Language Models. [[code](https://github.com/CHENGY12/PLOT)] [[paper](https://arxiv.org/pdf/2210.01253)]
+ 6. [2023 ICLR]      PLOT: Prompt Learning with Optimal Transport for Vision-Language Models. [[code](https://github.com/CHENGY12/PLOT)] [[paper](https://arxiv.org/pdf/2210.01253)]
  7. [2024 NeurIPS]   OTTER: Effortless Label Distribution Adaptation of Zero-shot Models. [[code](https://github.com/sprocketlab/otter)] [[paper](https://arxiv.org/pdf/2404.08461)]
  8. [2025 ICCV]      LaZSL: Intrepretable Zero-Shot Learning with Locally-Aligned Vision-Language Model. [[code](https://github.com/shiming-chen/LaZSL)] [[paper](https://arxiv.org/pdf/2506.23822)]
  9. [2025 CVPR]      Conformal Prediction for Zero-Shot Models. [[code](https://github.com/jusiro/CLIP-Conformal)] [[paper](https://arxiv.org/pdf/2505.24693)]
