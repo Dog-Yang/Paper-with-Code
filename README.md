@@ -1,17 +1,16 @@
 # Content
-[[Remote Sensing](#Remote_Sensing)]   
+[[Remote Sensing](#Remote_Sensing)]      
 [[Training Free Segmentation](#Training_Free)]            
 [[Zero shot Classification/Test Time Adaptation](#Zero_shot_classification)]      
-[[Optimal Transport](#Optimal_Transport)]   
+[[Optimal Transport](#Optimal_Transport)]     
 
 [[CLIP](#CLIP)]           
 [[Visual Place Recognition](#VPR)]         
 [[Token Mering, Clustering and Pruning](#Token_fusion)]           
 [[Backbone](#Backbone)]           
 
-[[Weakly Supervised Semantic Segmentation](#Weakly_Supervised_Semantic_Segmentation)]           
-[[Open vocabulary segmentation](#open_segmentation)]           
-[[Open vocabulary detection](#open_detection)]           
+[[Weakly Supervised Semantic Segmentation](#WSSS)]           
+[[Open vocabulary segmentation and detection](#open_segmentation)]                
 [[segmentation and detection](#Segmentation_and_Detection)]           
 [[Other](#Other)]      
 
@@ -84,11 +83,8 @@
 [[2024 CVPR](https://arxiv.org/pdf/2312.07661)] [[code](https://github.com/kevin-ssy/CLIP_as_RNN)] CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor       
 [[2024 CVPR](https://arxiv.org/pdf/2404.00262)] [[code](https://github.com/072jiajia/image-text-co-decomposition)] Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation       
 [[2024 ECCV](https://arxiv.org/pdf/2408.04961)] [[code](https://github.com/dahyun-kang/lavg)] In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation        
-[[2025 CVPR](https://arxiv.org/pdf/2411.17150)] [[code](https://micv-yonsei.github.io/cass/)] Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation       
-[[2025 CVPR](https://arxiv.org/pdf/2410.01768)] [[code](https://github.com/likyoo/SegEarth-OV)] SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images         
-[[2025 ICCV](https://arxiv.org/pdf/2410.14462#page=17.85)] [[code](https://github.com/naver/ludvig)] LUDVIG: Learning-free uplifting of 2D visual features to gaussuan splatting scenes         
-[[2025 CVPR](https://arxiv.org/pdf/2501.12931)] [[code](https://github.com/likyoo/DynamicEarth)] DynamicEarth: How Far are We from Open-Vocabulary Change Detection?          
-[[2024 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/file/9415416201aa201902d1743c7e65787b-Paper-Conference.pdf)] [[code](https://github.com/Z-Zheng/pytorch-change-models)] Segment Any Change         
+[[2025 CVPR](https://arxiv.org/pdf/2411.17150)] [[code](https://micv-yonsei.github.io/cass/)] Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation           
+[[2025 ICCV](https://arxiv.org/pdf/2410.14462#page=17.85)] [[code](https://github.com/naver/ludvig)] LUDVIG: Learning-free uplifting of 2D visual features to gaussuan splatting scenes           
 [[2025 CVPR](https://arxiv.org/pdf/2503.12035)] [[code](https://github.com/JethroPeng/MOS)] MOS: Modeling Object-Scene Associations in Generalized Category Discovery      
 
 <a name="Zero_shot_classification"></a>
@@ -123,9 +119,6 @@
 [[2024 ICML](https://arxiv.org/pdf/2406.07236?)] [[code](https://github.com/mlbio-epfl/turtle)] Let Go of Your Labels with Unsupervised Transfer      
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Bendou_ProKeR_A_Kernel_Perspective_on_Few-Shot_Adaptation_of_Large_Vision-Language_CVPR_2025_paper.pdf)] [[code](https://github.com/ybendou/ProKeR)] ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models       
 
-
-
-
 # Optimal Transport
 <a name="Optimal_Transport"></a>
 [[2022 AISTATS](https://arxiv.org/pdf/2110.11773)] [[code](https://github.com/michaelsdr/sinkformers)] Sinkformers: Transformers with Doubly Stochastic Attention      
@@ -143,7 +136,7 @@
 [[2025 ICCV][( https://iccv.thecvf.com/virtual/2025/poster/1933)]] Class Token as Proxy: Optimal Transport-assisted Proxy Learning for Weakly Supervised Semantic Segmentation          
 
 
-<a name="Weakly_Supervised_Semantic_Segmentation"></a>
+<a name="WSSS"></a>
 # Weakly Supervised Semantic Segmentation
 [[2022 CVPR](https://arxiv.org/pdf/2203.02664)] [[code](https://github.com/rulixiang/afa)] Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers     
 [[2022 CVPR](https://arxiv.org/pdf/2203.02891)] [[code](https://github.com/xulianuwa/MCTformer)] MCTFormer:Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation     
@@ -283,6 +276,7 @@
 
 <a name="open_segmentation"></a>
 # Open vocabulary segmentation
+## segmentation
 [[2022 ICLR](https://arxiv.org/pdf/2201.03546)] [[code](https://github.com/isl-org/lang-seg)] Lseg: Language-driven semantic segmentation (Supervised)    
 [[2022 CVPR](https://arxiv.org/pdf/2112.07910)] [[code](https://github.com/dingjiansw101/ZegFormer)] ZegFormer: Decoupling Zero-Shot Semantic Segmentation    
 [[2022 ECCV](https://arxiv.org/pdf/2112.01071)] [[code](https://github.com/chongzhou96/MaskCLIP)] MaskCLIP+: Extract Free Dense Labels from CLIP    
@@ -302,9 +296,7 @@
 [[2025 ICCV](https://arxiv.org/abs/2412.06244)] [[code](https://github.com/HVision-NKU/DenseVLM)] Unbiased Region-Language Alignment for Open-Vocabulary Dense Prediction        
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Exploring_Regional_Clues_in_CLIP_for_Zero-Shot_Semantic_Segmentation_CVPR_2024_paper.pdf)] [[code](https://github.com/Jittor/JSeg)] Exploring Regional Clues in CLIP for Zero-Shot Semantic Segmentation      
 [[2025 CVPR](https://arxiv.org/pdf/2505.04410)] [[code](https://github.com/xiaomoguhz/DeCLIP)] DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception     
-
-<a name="open_detection"></a>
-# Open vocabulary object detection
+## object detection
 [[2021 CVPR](https://arxiv.org/pdf/2011.10678)] [[code](https://github.com/alirezazareian/ovr-cnn)] Open-Vocabulary Object Detection Using Captions    
 [[2022 ICLR](https://arxiv.org/pdf/2104.13921)] [[code](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)] ViLD: Open-Vocabulary Object Detection via Vision and Language Knowledge Distillation    
 [[2022 CVPR](https://arxiv.org/pdf/2112.03857)] [[code](https://github.com/microsoft/GLIP)] GLIP: Grounded Language-Image Pre-training    
