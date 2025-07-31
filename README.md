@@ -11,6 +11,8 @@
 10. [[Open vocabulary segmentation and detection](#open_segmentation)]                
 11. [[segmentation and detection](#Segmentation_and_Detection)]           
 12. [[Other](#Other)]      
+-----------------------------------------------------------------------------------------------
+
 
 <a name="Remote_Sensing"></a>
 # Remote Sensing
