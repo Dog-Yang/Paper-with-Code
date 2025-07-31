@@ -124,6 +124,8 @@
 [[2025 ICML](https://arxiv.org/abs/2505.04560)] [[code](https://github.com/ghwang-s/abkd)] ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via α-β-Divergence    
 [[2024 ICLR](https://arxiv.org/pdf/2310.04691)] [[code](https://github.com/DRSY/EMO)] EMO: Earth mover distance optimization for auto-regessive language modeling      
 [[2025 CVPR](https://arxiv.org/abs/2503.15337)] [[code](https://github.com/EricTan7/RAM)] RAM: Open-Vocabulary Multi-Label Recognition through Knowledge-Constrained Optimal Transport       
+[[2025 ICCV][( https://iccv.thecvf.com/virtual/2025/poster/1933)]] Class Token as Proxy: Optimal Transport-assisted Proxy Learning for Weakly Supervised Semantic Segmentation          
+
 
 <a name="Weakly_Supervised_Semantic_Segmentation"></a>
 # Weakly Supervised Semantic Segmentation
