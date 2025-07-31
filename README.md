@@ -22,7 +22,7 @@
 [[2025 ICCV](https://arxiv.org/pdf/2503.06683)] [[code](https://github.com/XavierJiezou/D2LS)] Dynamic Dictionary Learning for Remote Sensing Image Segmentation.              
 [[2025 ICCV](https://arxiv.org/abs/2411.15789)] [[code](https://github.com/The-AI-Alliance/GEO-Bench-VLM)] GEOBench-VLM: Benchmarking Vision-Language Models for Geospatial Tasks.            
 [[2024 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/file/9415416201aa201902d1743c7e65787b-Paper-Conference.pdf)] [[code](https://github.com/Z-Zheng/pytorch-change-models)] Segment Any Change         
-[[2025 DynamicEarth](https://arxiv.org/abs/2501.12931)] [[code](https://github.com/likyoo/DynamicEarth)] DynamicEarth: How Far are We from Open-Vocabulary Change Detection?       
+[[2025 Arxiv](https://arxiv.org/abs/2501.12931)] [[code](https://github.com/likyoo/DynamicEarth)] DynamicEarth: How Far are We from Open-Vocabulary Change Detection?       
 [[2025 CVPR](https://arxiv.org/abs/2410.01768)] [[code](https://github.com/likyoo/SegEarth-OV)] SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images.           
 [[2025 ICCV](https://arxiv.org/abs/2507.12857)] [[code](https://github.com/HuangShiqi128/SCORE)] SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation.             
 [[2025 ICCV](https://arxiv.org/pdf/2503.07588)] [[code](https://github.com/VisionXLab/LRS-VQA)] When Large Vision-Language Model Meets Large Remote Sensing Imagery: Coarse-to-Fine Text-Guided Token Pruning           
