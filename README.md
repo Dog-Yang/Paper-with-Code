@@ -75,8 +75,7 @@
 [[2025 CVPR](https://arxiv.org/pdf/2503.16873)] [[code](https://github.com/k0u-id/CCD)] CCD: Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification         
 [[2024 ICML](https://openreview.net/pdf?id=sHswzNWUW2)] [[code](https://github.com/yic20/CoMC)] Language-driven Cross-modal Classifier for Zero-shot Multi-label Image Recognition         
 [[2024 AAAI](https://arxiv.org/pdf/2312.12828)] [[code](https://github.com/linyq2117/TagCLIP)] TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training         
-[[2025 CVPR](https://arxiv.org/pdf/2502.16911?)] [[code]](https://github.com/kjmillerCURIS/SPARC)) SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label Recognition in Vision-Language Models         
-[[2025 CVPR]()] [[code]()]          
+[[2025 CVPR](https://arxiv.org/pdf/2502.16911?)] [[code]](https://github.com/kjmillerCURIS/SPARC) SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label Recognition in Vision-Language Models            
 
 ***************************************************************
 [[2024 WACV](https://openaccess.thecvf.com/content/WACV2024/papers/Barsellotti_FOSSIL_Free_Open-Vocabulary_Semantic_Segmentation_Through_Synthetic_References_Retrieval_WACV_2024_paper.pdf)] FOSSIL: Free Open-Vocabulary Semantic Segmentation through Synthetic References Retrieval       
