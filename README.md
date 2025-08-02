@@ -8,7 +8,7 @@
 7. [[Token Mering, Clustering and Pruning](#Token_fusion)]           
 8. [[Backbone](#Backbone)]           
 9. [[Weakly Supervised Semantic Segmentation](#WSSS)]           
-10. [[Open vocabulary segmentation and detection](#open_segmentation)]                
+10. [[Open vocabulary](#open_vocabulary)]                
 11. [[segmentation and detection](#Segmentation_and_Detection)]           
 12. [[Other](#Other)]      
 -----------------------------------------------------------------------------------------------
@@ -279,8 +279,8 @@
 30. [2024 CVPR] **Multi-Modal Adapter for Vision-Language Models.** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_MMA_Multi-Modal_Adapter_for_Vision-Language_Models_CVPR_2024_paper.pdf) [[code]](https://github.com/ZjjConan/VLM-MultiModalAdapter)
 
 
-<a name="open_segmentation"></a>
-## Open vocabulary segmentation
+<a name="open_vocabulary"></a>
+## Open vocabulary
 ### segmentation
 1. [2022 ICLR] **Lseg: Language-driven semantic segmentation (Supervised).** [[paper]](https://arXiv.org/pdf/2201.03546) [[code]](https://github.com/isl-org/lang-seg)
 2. [2022 CVPR] **ZegFormer: Decoupling Zero-Shot Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2112.07910) [[code]](https://github.com/dingjiansw101/ZegFormer)
