@@ -89,7 +89,6 @@
 
 <a name="Zero_shot_classification"></a>
 ## Zero shot Classification / Test Time Adaptation
-### parameter free
 1. [2024 NIPS] **SpLiCE: Interpreting CLIP with Sparse Linear Concept Embeddings.** [[paper]](https://proceedings.NIPS.cc/paper_files/paper/2024/file/996bef37d8a638f37bdfcac2789e835d-Paper-Conference.pdf) [[code]](https://github.com/AI4LIFE-GROUP/SpLiCE)
 2. [2024 NIPS] **Transclip: Boosting Vision-Language Models with Transduction.** [[paper]](https://arXiv.org/pdf/2406.01837) [[code]](https://github.com/MaxZanella/transduction-for-vlms)
 3. [2025 CVPR] **Realistic Test-Time Adaptation of Vision-Language Models.** [[paper]](https://arXiv.org/pdf/2501.03729) [[code]](https://github.com/MaxZanella/StatA)
@@ -101,24 +100,22 @@
 9. [2024 ICLR] **GDA-CLIP: A hard-to-beat baseline for training-free clip-based adaptation.** [[paper]](https://arXiv.org/pdf/2402.04087) [[code]](https://github.com/mrflogs/ICLR24)
 10. [2023 ICLR] **DCLIP: Visual Classification via Description from Large Language Models.** [[paper]](https://arXiv.org/pdf/2210.07183) [[code]](https://github.com/sachit-menon/classify_by_description_release)
 11. [2023 ICCV] **CuPL: What does a platypus look like? Generating customized prompts for zero-shot image classification.** [[paper]](https://arXiv.org/pdf/2209.03320) [[code]](https://github.com/sarahpratt/CuPL)
-
-***************************************************************
-### parameter fitting
-1. [2024 CVPR] **On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?** [[paper]](https://arXiv.org/pdf/2405.02266) [[code]](https://github.com/MaxZanella/MTA)
-2. [2024 NIPS] **Frustratingly Easy Test-Time Adaptation of Vision-Language Models.** [[paper]](https://arXiv.org/pdf/2405.18330) [[code]](https://github.com/FarinaMatteo/zero)
-3. [2024 CVPR] **TDA: Efficient Test-Time Adaptation of Vision-Language Model.** [[paper]](https://arXiv.org/pdf/2403.18293) [[code]](https://github.com/kdiAAA/TDA)
-4. [2024 NIPS] **BoostAdapter: Improving Vision-Language Test-Time Adaptation via Regional Bootstrapping.** [[paper]](https://arXiv.org/pdf/2410.15430) [[code]](https://github.com/taolinzhang/BoostAdapter)
-5. [2024 CVPR] **DMN: Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models.** [[paper]](https://arXiv.org/pdf/2403.17589) [[code]](https://github.com/YBZh/DMN)
-6. [2023 ICCV] **Zero-Shot Composed Image Retrieval with Textual Inversion.** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf) [[code]](https://github.com/miccunifi/SEARLE.)
-7. [2025 CVPR] **Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval.** [[paper]](https://arXiv.org/pdf/2412.11077) [[code]](https://github.com/Pter61/osrcir)
-8. [2024 NIPS] **Enhancing Zero-Shot Vision Models by Label-Free Prompt Distribution Learning and Bias Correcting.** [[paper]](https://arXiv.org/pdf/2410.19294) [[code]](https://github.com/zhuhsingyuu/Frolic)
-9. [2025 ICML] **From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection.** [[paper]](https://arXiv.org/pdf/2505.13233) [[code]](https://github.com/BIT-DA/ABS)
-10. [2025 CVPR] **PerceptionCLIP: Visual Classification by Inferring and Conditioning on Contexts.** [[paper]](https://arXiv.org/pdf/2308.01313) [[code]](https://github.com/umd-huang-lab/perceptionCLIP)
-11. [2024 CVPR] **ZLaP: Label Propagation for Zero-shot Classification with Vision-Language Models.** [[paper]](https://arXiv.org/pdf/2404.04072) [[code]](https://github.com/vladan-stojnic/ZLaP)
-12. [2025 CVPRW] **TLAC: Two-stage LMM Augmented CLIP for Zero-Shot Classification.** [[paper]](https://arXiv.org/pdf/2503.12206) [[code]](https://github.com/ans92/TLAC)
-13. [2023 NIPS] **Intra-Modal Proxy Learning for Zero-Shot Visual Categorization with CLIP.** [[paper]](https://arXiv.org/pdf/2310.19752) [[code]](https://github.com/idstcv/InMaP)
-14. [2024 ICML] **Let Go of Your Labels with Unsupervised Transfer.** [[paper]](https://arXiv.org/pdf/2406.07236?) [[code]](https://github.com/mlbio-epfl/turtle)
-15. [2025 CVPR] **ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models.** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Bendou_ProKeR_A_Kernel_Perspective_on_Few-Shot_Adaptation_of_Large_Vision-Language_CVPR_2025_paper.pdf) [[code]](https://github.com/ybendou/ProKeR)
+12. [2024 CVPR] **On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?** [[paper]](https://arXiv.org/pdf/2405.02266) [[code]](https://github.com/MaxZanella/MTA)
+13. [2024 NIPS] **Frustratingly Easy Test-Time Adaptation of Vision-Language Models.** [[paper]](https://arXiv.org/pdf/2405.18330) [[code]](https://github.com/FarinaMatteo/zero)
+14. [2024 NIPS] **BoostAdapter: Improving Vision-Language Test-Time Adaptation via Regional Bootstrapping.** [[paper]](https://arXiv.org/pdf/2410.15430) [[code]](https://github.com/taolinzhang/BoostAdapter)
+15. [2024 CVPR] **DMN: Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models.** [[paper]](https://arXiv.org/pdf/2403.17589) [[code]](https://github.com/YBZh/DMN)
+16. [2023 ICCV] **Zero-Shot Composed Image Retrieval with Textual Inversion.** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf) [[code]](https://github.com/miccunifi/SEARLE.)
+17. [2025 CVPR] **Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval.** [[paper]](https://arXiv.org/pdf/2412.11077) [[code]](https://github.com/Pter61/osrcir)
+18. [2024 NIPS] **Enhancing Zero-Shot Vision Models by Label-Free Prompt Distribution Learning and Bias Correcting.** [[paper]](https://arXiv.org/pdf/2410.19294) [[code]](https://github.com/zhuhsingyuu/Frolic)
+19. [2025 ICML] **From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection.** [[paper]](https://arXiv.org/pdf/2505.13233) [[code]](https://github.com/BIT-DA/ABS)
+20. [2025 CVPR] **PerceptionCLIP: Visual Classification by Inferring and Conditioning on Contexts.** [[paper]](https://arXiv.org/pdf/2308.01313) [[code]](https://github.com/umd-huang-lab/perceptionCLIP)
+21. [2024 CVPR] **ZLaP: Label Propagation for Zero-shot Classification with Vision-Language Models.** [[paper]](https://arXiv.org/pdf/2404.04072) [[code]](https://github.com/vladan-stojnic/ZLaP)
+22. [2025 CVPRW] **TLAC: Two-stage LMM Augmented CLIP for Zero-Shot Classification.** [[paper]](https://arXiv.org/pdf/2503.12206) [[code]](https://github.com/ans92/TLAC)
+23. [2023 NIPS] **Intra-Modal Proxy Learning for Zero-Shot Visual Categorization with CLIP.** [[paper]](https://arXiv.org/pdf/2310.19752) [[code]](https://github.com/idstcv/InMaP)
+24. [2024 ICML] **Let Go of Your Labels with Unsupervised Transfer.** [[paper]](https://arXiv.org/pdf/2406.07236?) [[code]](https://github.com/mlbio-epfl/turtle)
+25. [2025 CVPR] **ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models.** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Bendou_ProKeR_A_Kernel_Perspective_on_Few-Shot_Adaptation_of_Large_Vision-Language_CVPR_2025_paper.pdf) [[code]](https://github.com/ybendou/ProKeR)
+26. [2024 CVPR] **TDA: Efficient Test-Time Adaptation of Vision-Language Model.** [[paper]](https://arXiv.org/pdf/2403.18293) [[code]](https://github.com/kdiAAA/TDA)
+27. [2024 arXiv] **DOTA: Distributional test-time adaptation of Vision-Language Models** [[paper]](https://arxiv.org/pdf/2409.19375)
 
 
 <a name="Optimal_Transport"></a>
