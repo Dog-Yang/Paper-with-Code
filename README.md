@@ -116,6 +116,7 @@
 25. [2025 CVPR] **ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models.** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Bendou_ProKeR_A_Kernel_Perspective_on_Few-Shot_Adaptation_of_Large_Vision-Language_CVPR_2025_paper.pdf) [[code]](https://github.com/ybendou/ProKeR)
 26. [2024 CVPR] **TDA: Efficient Test-Time Adaptation of Vision-Language Model.** [[paper]](https://arXiv.org/pdf/2403.18293) [[code]](https://github.com/kdiAAA/TDA)
 27. [2024 arXiv] **DOTA: Distributional test-time adaptation of Vision-Language Models** [[paper]](https://arxiv.org/pdf/2409.19375)
+28. [2023 ICCV] **Black Box Few-Shot Adaptation for Vision-Language models** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ouali_Black_Box_Few-Shot_Adaptation_for_Vision-Language_Models_ICCV_2023_paper.pdf) [[code]](https://github.com/saic-fi/LFA)
 
 
 <a name="Optimal_Transport"></a>
