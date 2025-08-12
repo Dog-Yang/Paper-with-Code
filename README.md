@@ -14,7 +14,7 @@
 -----------------------------------------------------------------------------------------------
 
 
-<a name="Remote_Sensing"></a>
+<a name="Remote_Sensing"></a> 
 ## Remote Sensing
 1. [2025 arXiv] **DynamicEarth: How Far are We from Open-Vocabulary Change Detection?** [[paper]](https://arXiv.org/abs/2501.12931) [[code]](https://github.com/likyoo/DynamicEarth)
 2. [2025 TGRS] **A Unified Framework With Multimodal Fine-Tuning for Remote Sensing Semantic Segmentation.** [[paper]](https://ieeexplore.ieee.org/document/11063320) [[code]](https://github.com/sstary/SSRS)
