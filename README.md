@@ -85,6 +85,11 @@
 7. [2025 CVPR] **Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2411.17150) [[code]](https://micv-yonsei.github.io/cass/)
 8. [2025 ICCV] **LUDVIG: Learning-free uplifting of 2D visual features to gaussuan splatting scenes.** [[paper]](https://arXiv.org/pdf/2410.14462#page=17.85) [[code]](https://github.com/naver/ludvig)
 9. [2025 CVPR] **MOS: Modeling Object-Scene Associations in Generalized Category Discovery.** [[paper]](https://arXiv.org/pdf/2503.12035) [[code]](https://github.com/JethroPeng/MOS)
+10. [2024 NIPS] **Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels** [[paper]](https://arxiv.org/pdf/2409.19846)  [[code]](https://github.com/cvlab-kaist/PixelCLIP)
+11. [2024 NIPS] **Renovating Names in Open-Vocabulary Segmentation Benchmarks** [[paper]](https://arxiv.org/pdf/2403.09593)
+12. [2024 NIPS] **Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts** [[paper]](https://arxiv.org/pdf/2410.05963)
+13. [2025 ICML] **Unlocking the Power of SAM 2 for Few-Shot Segmentation** [[paper]](https://arxiv.org/pdf/2505.14100) [[code]](https://github.com/Sam1224/FSSAM)
+14. [2025 ICCV] **ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation.** [[paper]](https://arXiv.org/pdf/2506.21233) [[code]](https://github.com/xiweix/ReME)
 
 
 <a name="Zero_shot_classification"></a>
