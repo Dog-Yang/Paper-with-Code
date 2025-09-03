@@ -8,7 +8,7 @@
 7. [[Token Mering, Clustering and Pruning](#Token_fusion)]           
 8. [[Backbone](#Backbone)]           
 9. [[Weakly Supervised Semantic Segmentation](#WSSS)]           
-10. [[Open vocabulary](#open_vocabulary)]                
+10. [[Open vocabulary](#open_vocabulary)]                 
 11. [[segmentation and detection](#Segmentation_and_Detection)]           
 12. [[Other](#Other)]      
 -----------------------------------------------------------------------------------------------
