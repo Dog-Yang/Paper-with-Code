@@ -140,6 +140,7 @@
 11. [2024 ICLR] **EMO: Earth mover distance optimization for auto-regessive language modeling.** [[paper]](https://arXiv.org/pdf/2310.04691) [[code]](https://github.com/DRSY/EMO)
 12. [2025 CVPR] **RAM: Open-Vocabulary Multi-Label Recognition through Knowledge-Constrained Optimal Transport.** [[paper]](https://arXiv.org/abs/2503.15337) [[code]](https://github.com/EricTan7/RAM)
 13. [2025 ICCV] **Class Token as Proxy: Optimal Transport-assisted Proxy Learning for Weakly Supervised Semantic Segmentation.** [[paper]](https://iccv.thecvf.com/virtual/2025/poster/1933)
+14. [2025 AAAI] **Training-free Open-Vocabulary Semantic Segmentation via Diverse Prototype Construction and Sub-region Matching** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33137)
 
 
 <a name="WSSS"></a>
