@@ -123,6 +123,8 @@
 26. [2024 CVPR] **TDA: Efficient Test-Time Adaptation of Vision-Language Model.** [[paper]](https://arXiv.org/pdf/2403.18293) [[code]](https://github.com/kdiAAA/TDA)
 27. [2024 arXiv] **DOTA: Distributional test-time adaptation of Vision-Language Models** [[paper]](https://arxiv.org/pdf/2409.19375)
 28. [2023 ICCV] **Black Box Few-Shot Adaptation for Vision-Language models** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ouali_Black_Box_Few-Shot_Adaptation_for_Vision-Language_Models_ICCV_2023_paper.pdf) [[code]](https://github.com/saic-fi/LFA)
+29. [2025 ICCV] **Robust Vision-Language Models via Tensor Decomposition: A Defense Against Adversarial Attacks** [[paper]](https://arxiv.org/pdf/2509.16163v1)) [[code]](https://github.com/HettyPatel/TensorDefenseVLM)
+30. [2025 arXiv] **Training-Free Pyramid Token Pruning for Efficient Large Vision-Language Models via Region, Token, and Instruction-Guided Importance** [[paper]](https://arxiv.org/pdf/2509.15704v1)
 
 
 <a name="Optimal_Transport"></a>
