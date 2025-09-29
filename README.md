@@ -125,6 +125,9 @@
 28. [2023 ICCV] **Black Box Few-Shot Adaptation for Vision-Language models** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ouali_Black_Box_Few-Shot_Adaptation_for_Vision-Language_Models_ICCV_2023_paper.pdf) [[code]](https://github.com/saic-fi/LFA)
 29. [2025 ICCV] **Robust Vision-Language Models via Tensor Decomposition: A Defense Against Adversarial Attacks** [[paper]](https://arxiv.org/pdf/2509.16163v1)) [[code]](https://github.com/HettyPatel/TensorDefenseVLM)
 30. [2025 arXiv] **Training-Free Pyramid Token Pruning for Efficient Large Vision-Language Models via Region, Token, and Instruction-Guided Importance** [[paper]](https://arxiv.org/pdf/2509.15704v1)
+31. [2025 arXiv] **Seeing Through Words, Speaking Through Pixels: Deep Representational Alignment Between Vision and Language Models** [[paper]](https://arxiv.org/pdf/2509.20751v1)
+
+
 
 
 <a name="Optimal_Transport"></a>
