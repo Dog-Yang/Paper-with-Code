@@ -287,6 +287,7 @@
 28. [2025 ICML] **Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models.** [[paper]](https://arXiv.org/pdf/2506.02557) [[code]](https://github.com/peterant330/KUEA)
 29. [2025 CVPR] **Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification.** [[paper]](https://arXiv.org/pdf/2503.16873) [[code]](https://github.com/k0u-id/CCD)
 30. [2024 CVPR] **Multi-Modal Adapter for Vision-Language Models.** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_MMA_Multi-Modal_Adapter_for_Vision-Language_Models_CVPR_2024_paper.pdf) [[code]](https://github.com/ZjjConan/VLM-MultiModalAdapter)
+31. [2025 arXiv] **DeFacto: Counterfactual Thinking with Images for Enforcing Evidence-Grounded and Faithful Reasoning** [[paper]](https://arxiv.org/pdf/2509.20912v1) [[code]](https://github.com/tinnel123666888/defacto)
 
 
 <a name="open_vocabulary"></a>
