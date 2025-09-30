@@ -312,6 +312,8 @@
 17. [2025 ICCV] **Unbiased Region-Language Alignment for Open-Vocabulary Dense Prediction.** [[paper]](https://arXiv.org/abs/2412.06244) [[code]](https://github.com/HVision-NKU/DenseVLM)
 18. [2024 CVPR] **Exploring Regional Clues in CLIP for Zero-Shot Semantic Segmentation.** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Exploring_Regional_Clues_in_CLIP_for_Zero-Shot_Semantic_Segmentation_CVPR_2024_paper.pdf) [[code]](https://github.com/Jittor/JSeg)
 19. [2025 CVPR] **DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception.** [[paper]](https://arXiv.org/pdf/2505.04410) [[code]](https://github.com/xiaomoguhz/DeCLIP)
+20. [2025 arXiv] **REFAM: Attention magnets for zero-shot referral segmentaion** [[paper]](https://arxiv.org/pdf/2509.22650v1)
+
 
 ### object detection
 1. [2021 CVPR] **Open-Vocabulary Object Detection Using Captions.** [[paper]](https://arXiv.org/pdf/2011.10678) [[code]](https://github.com/alirezazareian/ovr-cnn)
