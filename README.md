@@ -126,7 +126,8 @@
 29. [2025 ICCV] **Robust Vision-Language Models via Tensor Decomposition: A Defense Against Adversarial Attacks** [[paper]](https://arxiv.org/pdf/2509.16163v1)) [[code]](https://github.com/HettyPatel/TensorDefenseVLM)
 30. [2025 arXiv] **Training-Free Pyramid Token Pruning for Efficient Large Vision-Language Models via Region, Token, and Instruction-Guided Importance** [[paper]](https://arxiv.org/pdf/2509.15704v1)
 31. [2025 arXiv] **Seeing Through Words, Speaking Through Pixels: Deep Representational Alignment Between Vision and Language Models** [[paper]](https://arxiv.org/pdf/2509.20751v1)
-
+32. [2025 CVPR] **AHubness Perspective on Representation Learning for Graph-Based Multi-View Clustering** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_A_Hubness_Perspective_on_Representation_Learning_for_Graph-Based_Multi-View_Clustering_CVPR_2025_paper.pdf) [[code]](https://github.com/zmxu196/hubREP)
+33. [2023 CVPR] **noHub: Hubs and Hyperspheres: Reducing Hubness and Improving Transductive Few-shot Learning with Hyperspherical Embeddings** [[paper]](https://arxiv.org/pdf/2303.09352) [[code]](https://github.com/uitml/noHub)
 
 
 
