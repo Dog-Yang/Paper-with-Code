@@ -130,6 +130,7 @@
 33. [2010 JMLR] **Hubs in Space: Popular Nearest Neighbors in High-Dimensional Data** [[paper]](https://jmlr.org/papers/volume11/radovanovic10a/radovanovic10a.pdf) 
 34. [2023 CVPR] **noHub: Hubs and Hyperspheres: Reducing Hubness and Improving Transductive Few-shot Learning with Hyperspherical Embeddings** [[paper]](https://arxiv.org/pdf/2303.09352) [[code]](https://github.com/uitml/noHub)
 35. [2025 CVPR] **AHubness Perspective on Representation Learning for Graph-Based Multi-View Clustering** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_A_Hubness_Perspective_on_Representation_Learning_for_Graph-Based_Multi-View_Clustering_CVPR_2025_paper.pdf) [[code]](https://github.com/zmxu196/hubREP)
+36. [2025 CVPR] **NeighborRetr: Balancing Hub Centrality in Cross-Modal Retrieval** [[paper]](https://arxiv.org/pdf/2503.10526) [[code]](https://github.com/zzezze/NeighborRetr/tree/main)
 
 
 
