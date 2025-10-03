@@ -30,7 +30,8 @@
 13. [2025 CVPR] **Exact: Exploring Space-Time Perceptive Clues for Weakly Supervised Satellite Image Time Series Semantic Segmentation.** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Exact_Exploring_Space-Time_Perceptive_Clues_for_Weakly_Supervised_Satellite_Image_CVPR_2025_paper.pdf) [[code]](https://github.com/MiSsU-HH/Exact)
 14. [2025 Arxiv] **SegEarth-OV-2: Annotation-Free Open-Vocabulary Segmentation for Remote-Sensing Images** [[paper]](https://arxiv.org/abs/2508.18067)  [[code]](https://github.com/earth-insights/SegEarth-OV-2)
 15. [2025 AAAI] **Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation** [[paper]](https://arxiv.org/abs/2412.19492) [[code]](https://github.com/yecy749/GSNet)
-16. [2025 Arxiv] **InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition** [[paper]](https://arxiv.org/pdf/2505.15818) [[code]](https://github.com/VoyagerXvoyagerx/InstructSAM) 
+16. [2025 Arxiv] **InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition** [[paper]](https://arxiv.org/pdf/2505.15818) [[code]](https://github.com/VoyagerXvoyagerx/InstructSAM)
+17. [2025 Arxiv] **DescribeEarth: Describe Anything for Remote Sensing Images** [[paper]](https://arxiv.org/pdf/2509.25654v1) [[code]](https://github.com/earth-insights/DescribeEarth)
 
 <a name="Training_Free"></a>
 ## Training Free Segmentation
@@ -133,6 +134,8 @@
 36. [2025 CVPR] **NeighborRetr: Balancing Hub Centrality in Cross-Modal Retrieval** [[paper]](https://arxiv.org/pdf/2503.10526) [[code]](https://github.com/zzezze/NeighborRetr/tree/main)
 37. [2025 arXiv] **SeMoBridge: Semantic Modality Bridge for Efficient Few-Shot Adaptation of CLIP** [[paper]](https://arxiv.org/pdf/2509.26036v1) [[code]](https://github.com/christti98/semobridge)
 38. [2023 ICCV] **Not All Features Matter: Enhancing Few-shot CLIP with Adaptive Prior Refinement** [[paper]](https://arxiv.org/pdf/2304.01195) [[code]](https://github.com/yangyangyang127/APE)
+39. [2025 arXiv] **SQUARE: Semantic Query-Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval** [[paper]](https://arxiv.org/pdf/2509.26330v1)
+40. [2025 arXiv] **Skip-It? Theoretical Conditions for Layer Skipping in Vision-Language Models** [[paper]](https://arxiv.org/pdf/2509.25584v1)
 
 <a name="Optimal_Transport"></a>
 ## Optimal Transport
