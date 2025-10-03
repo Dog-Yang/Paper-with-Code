@@ -131,8 +131,8 @@
 34. [2023 CVPR] **noHub: Hubs and Hyperspheres: Reducing Hubness and Improving Transductive Few-shot Learning with Hyperspherical Embeddings** [[paper]](https://arxiv.org/pdf/2303.09352) [[code]](https://github.com/uitml/noHub)
 35. [2025 CVPR] **AHubness Perspective on Representation Learning for Graph-Based Multi-View Clustering** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_A_Hubness_Perspective_on_Representation_Learning_for_Graph-Based_Multi-View_Clustering_CVPR_2025_paper.pdf) [[code]](https://github.com/zmxu196/hubREP)
 36. [2025 CVPR] **NeighborRetr: Balancing Hub Centrality in Cross-Modal Retrieval** [[paper]](https://arxiv.org/pdf/2503.10526) [[code]](https://github.com/zzezze/NeighborRetr/tree/main)
-
-
+37. [2025 arXiv] **SeMoBridge: Semantic Modality Bridge for Efficient Few-Shot Adaptation of CLIP** [[paper]](https://arxiv.org/pdf/2509.26036v1) [[code]](https://github.com/christti98/semobridge)
+38. [2023 ICCV] **Not All Features Matter: Enhancing Few-shot CLIP with Adaptive Prior Refinement** [[paper]](https://arxiv.org/pdf/2304.01195) [[code]](https://github.com/yangyangyang127/APE)
 
 <a name="Optimal_Transport"></a>
 ## Optimal Transport
