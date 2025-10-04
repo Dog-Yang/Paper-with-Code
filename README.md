@@ -136,6 +136,7 @@
 38. [2023 ICCV] **Not All Features Matter: Enhancing Few-shot CLIP with Adaptive Prior Refinement** [[paper]](https://arxiv.org/pdf/2304.01195) [[code]](https://github.com/yangyangyang127/APE)
 39. [2025 arXiv] **SQUARE: Semantic Query-Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval** [[paper]](https://arxiv.org/pdf/2509.26330v1)
 40. [2025 arXiv] **Skip-It? Theoretical Conditions for Layer Skipping in Vision-Language Models** [[paper]](https://arxiv.org/pdf/2509.25584v1)
+41. [2025 arXiv] **VLOD-TTA: Test-Time Adaptation of Vision-Language Object Detectors** [[paper]](https://arxiv.org/pdf/2510.00458v1) [[code]](https://github.com/imatif17/VLOD-TTA)
 
 <a name="Optimal_Transport"></a>
 ## Optimal Transport
