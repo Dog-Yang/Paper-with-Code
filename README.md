@@ -331,6 +331,8 @@
 3. [2022 CVPR] **GLIP: Grounded Language-Image Pre-training.** [[paper]](https://arXiv.org/pdf/2112.03857) [[code]](https://github.com/microsoft/GLIP)
 4. [2022 NIPS] **GLIPv2: Unifying Localization and Vision-Language Understanding.** [[paper]](https://arXiv.org/pdf/2206.05836) [[code]](https://github.com/microsoft/GLIP)
 
+### Active learning/ Data Selection
+1. [2025 arXiv] **Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories** [[paper]](https://arxiv.org/pdf/2510.01454v1) [[code]](https://bigml-cs-ucla.github.io/XMAS-project-page/)
 
 <a name="Other"></a>
 ## Other Technologies
