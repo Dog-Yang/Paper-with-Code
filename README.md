@@ -76,6 +76,7 @@
 20. [2025 CVPR] **CCD: Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification.** [[paper]](https://arXiv.org/pdf/2503.16873) [[code]](https://github.com/k0u-id/CCD)
 21. [2025 CVPR] **SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label Recognition in Vision-Language Models.** [[paper]](https://arXiv.org/pdf/2502.16911?) [[code]](https://github.com/kjmillerCURIS/SPARC)
 22. [2025 CVPR] **LOPSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2503.19777) [[code]](https://github.com/vladan-stojnic/LPOSS/tree/main)
+23. [2025 arXiv] **One Patch to Caption Them All: A Unified Zero-Shot Captioning Framework** [[paper]](https://arxiv.org/pdf/2510.02898v1) [[code]](https://paciosoft.com/Patch-ioner/)
 
 ***************************************************************
 1. [2024 WACV] **FOSSIL: Free Open-Vocabulary Semantic Segmentation through Synthetic References Retrieval.** [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Barsellotti_FOSSIL_Free_Open-Vocabulary_Semantic_Segmentation_Through_Synthetic_References_Retrieval_WACV_2024_paper.pdf)
@@ -137,6 +138,9 @@
 39. [2025 arXiv] **SQUARE: Semantic Query-Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval** [[paper]](https://arxiv.org/pdf/2509.26330v1)
 40. [2025 arXiv] **Skip-It? Theoretical Conditions for Layer Skipping in Vision-Language Models** [[paper]](https://arxiv.org/pdf/2509.25584v1)
 41. [2025 arXiv] **VLOD-TTA: Test-Time Adaptation of Vision-Language Object Detectors** [[paper]](https://arxiv.org/pdf/2510.00458v1) [[code]](https://github.com/imatif17/VLOD-TTA)
+42. [2025 arXiv] **Bayesian Test-time Adaptation for Object Recognition and Detection with Vision-language Models** [[paper]](https://arxiv.org/pdf/2510.02750v1)
+
+
 
 <a name="Optimal_Transport"></a>
 ## Optimal Transport
@@ -225,6 +229,7 @@
 12. [2024 arXiv] **DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models.** [[paper]](https://arXiv.org/pdf/2405.20985) [[code]](https://github.com/yaolinli/DeCo)
 13. [2024 CVPR] **Grounding Everything: Emerging Localization Properties in Vision-Language Transformers.** [[paper]](https://arXiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM)
 14. [2025 CVPR] **PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models.** [[paper]](https://arXiv.org/pdf/2504.08966) [[code]](https://github.com/orailix/PACT/tree/main)
+15. 
 
 
 <a name="Segmentation_and_Detection"></a>
@@ -330,9 +335,11 @@
 2. [2022 ICLR] **ViLD: Open-Vocabulary Object Detection via Vision and Language Knowledge Distillation.** [[paper]](https://arXiv.org/pdf/2104.13921) [[code]](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)
 3. [2022 CVPR] **GLIP: Grounded Language-Image Pre-training.** [[paper]](https://arXiv.org/pdf/2112.03857) [[code]](https://github.com/microsoft/GLIP)
 4. [2022 NIPS] **GLIPv2: Unifying Localization and Vision-Language Understanding.** [[paper]](https://arXiv.org/pdf/2206.05836) [[code]](https://github.com/microsoft/GLIP)
+5. [2024 ICCV] **Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection** [[paper]](https://arxiv.org/pdf/2303.05499) [[code]](https://github.com/IDEA-Research/GroundingDINO)
 
 ### Active learning/ Data Selection
 1. [2025 arXiv] **Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories** [[paper]](https://arxiv.org/pdf/2510.01454v1) [[code]](https://bigml-cs-ucla.github.io/XMAS-project-page/)
+2. [2025 arXiv] **AdaRD-key: Adaptive Relevance-Diversity Keyframe Sampling for Long-form Video understanding** [[paper]](https://arxiv.org/pdf/2510.02778v1) [[code]](https://github.com/Xian867/AdaRD-Key)
 
 <a name="Other"></a>
 ## Other Technologies
