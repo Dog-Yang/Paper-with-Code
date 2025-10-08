@@ -48,9 +48,10 @@
 10. [2024 WACV] **NACLIP: Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2404.08181) [[code]](https://github.com/sinahmr/NACLIP)
 11. [2024 ICLR] **Vision Transformers Need Registers.** [[paper]](https://arXiv.org/pdf/2309.16588) [[code]](https://github.com/kyegomez/Vit-RGTS)
 12. [2024 ICLR] **Vision Transformers Don't Need Trained Registers.** [[paper]](https://arXiv.org/pdf/2506.08010) [[code]](https://github.com/nickjiang2378/test-time-registers/tree/main)
-13. [2025 CVPR] **ResCLIP: Residual Attention for Training-free Dense Vision-language Inference.** [[paper]](https://arXiv.org/pdf/2411.15851) [[code]](https://github.com/yvhangyang/ResCLIP)
-14. [2024 CVPR] **GEM: Grounding Everything: Emerging Localization Properties in Vision-Language Transformers.** [[paper]](https://arXiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM)
-15. [2025 CVPRW] **ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements.** [[paper]](https://arXiv.org/pdf/2411.12044) [[code]](https://github.com/m-arda-aydn/ITACLIP)
+13. [2025 arXiv] **Post-Training Quantization of Vision Encoders Needs Prefixing Registers** [[paper]](https://arxiv.org/pdf/2510.04547v1)
+14. [2025 CVPR] **ResCLIP: Residual Attention for Training-free Dense Vision-language Inference.** [[paper]](https://arXiv.org/pdf/2411.15851) [[code]](https://github.com/yvhangyang/ResCLIP)
+15. [2024 CVPR] **GEM: Grounding Everything: Emerging Localization Properties in Vision-Language Transformers.** [[paper]](https://arXiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM)
+16. [2025 CVPRW] **ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements.** [[paper]](https://arXiv.org/pdf/2411.12044) [[code]](https://github.com/m-arda-aydn/ITACLIP)
 
 ***************************************************************
 ### VLM & VFM & Diffusion & SAM
