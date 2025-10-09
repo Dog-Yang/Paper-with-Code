@@ -351,6 +351,7 @@
 ### Active learning/ Data Selection
 1. [2025 arXiv] **Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories** [[paper]](https://arxiv.org/pdf/2510.01454v1) [[code]](https://bigml-cs-ucla.github.io/XMAS-project-page/)
 2. [2025 arXiv] **AdaRD-key: Adaptive Relevance-Diversity Keyframe Sampling for Long-form Video understanding** [[paper]](https://arxiv.org/pdf/2510.02778v1) [[code]](https://github.com/Xian867/AdaRD-Key)
+3. [2025 arXiv] **Diffusion Synthesis: Data Factory with Minimal Human Effort Using VLMs** [[paper]](https://arxiv.org/pdf/2510.05722v1)
 
 <a name="Time_series"></a>
 ### Time series
