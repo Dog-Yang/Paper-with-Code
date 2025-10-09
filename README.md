@@ -9,8 +9,10 @@
 8. [[Backbone](#Backbone)]           
 9. [[Weakly Supervised Semantic Segmentation](#WSSS)]           
 10. [[Open vocabulary](#open_vocabulary)]                 
-11. [[segmentation and detection](#Segmentation_and_Detection)]           
-12. [[Other](#Other)]      
+11. [[segmentation and detection](#Segmentation_and_Detection)]
+12. [[Active learning/ Data Selection](#Active)]
+13. [[Time series](#Time_series)]
+14. [[Other](#Other)]      
 -----------------------------------------------------------------------------------------------
 
 
@@ -338,9 +340,16 @@
 4. [2022 NIPS] **GLIPv2: Unifying Localization and Vision-Language Understanding.** [[paper]](https://arXiv.org/pdf/2206.05836) [[code]](https://github.com/microsoft/GLIP)
 5. [2024 ICCV] **Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection** [[paper]](https://arxiv.org/pdf/2303.05499) [[code]](https://github.com/IDEA-Research/GroundingDINO)
 
+<a name="Active"></a>
 ### Active learning/ Data Selection
 1. [2025 arXiv] **Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories** [[paper]](https://arxiv.org/pdf/2510.01454v1) [[code]](https://bigml-cs-ucla.github.io/XMAS-project-page/)
 2. [2025 arXiv] **AdaRD-key: Adaptive Relevance-Diversity Keyframe Sampling for Long-form Video understanding** [[paper]](https://arxiv.org/pdf/2510.02778v1) [[code]](https://github.com/Xian867/AdaRD-Key)
+
+<a name="Time_series"></a>
+### Time series
+1. [2025 ICLR] **FreDF: Learning to Forecast in the Frequency Domain** [[paper]](https://arxiv.org/pdf/2402.02399) [[code]](https://github.com/Master-PLC/FreDF)
+2. [2025 ICML] **Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting** [[paper]](https://arxiv.org/pdf/2502.04395) [[code]](https://github.com/CityMind-Lab/ICML25-TimeVLM)
+3. [2024 AAAI] **MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting** [[paper]](https://arxiv.org/pdf/2401.00423) [[code]](https://github.com/YoZhibo/MSGNet)
 
 <a name="Other"></a>
 ## Other Technologies
