@@ -56,9 +56,10 @@
 11. [2024 ICLR] **Vision Transformers Need Registers.** [[paper]](https://arXiv.org/pdf/2309.16588) [[code]](https://github.com/kyegomez/Vit-RGTS)
 12. [2024 ICLR] **Vision Transformers Don't Need Trained Registers.** [[paper]](https://arXiv.org/pdf/2506.08010) [[code]](https://github.com/nickjiang2378/test-time-registers/tree/main)
 13. [2025 arXiv] **Post-Training Quantization of Vision Encoders Needs Prefixing Registers** [[paper]](https://arxiv.org/pdf/2510.04547v1)
-14. [2025 CVPR] **ResCLIP: Residual Attention for Training-free Dense Vision-language Inference.** [[paper]](https://arXiv.org/pdf/2411.15851) [[code]](https://github.com/yvhangyang/ResCLIP)
-15. [2024 CVPR] **GEM: Grounding Everything: Emerging Localization Properties in Vision-Language Transformers.** [[paper]](https://arXiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM)
-16. [2025 CVPRW] **ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements.** [[paper]](https://arXiv.org/pdf/2411.12044) [[code]](https://github.com/m-arda-aydn/ITACLIP)
+14. [2025 arXiv] **To sink or not to sink: visual information pathways in large vision-language models** [[paper]](https://arxiv.org/pdf/2510.08510v1)
+15. [2025 CVPR] **ResCLIP: Residual Attention for Training-free Dense Vision-language Inference.** [[paper]](https://arXiv.org/pdf/2411.15851) [[code]](https://github.com/yvhangyang/ResCLIP)
+16. [2024 CVPR] **GEM: Grounding Everything: Emerging Localization Properties in Vision-Language Transformers.** [[paper]](https://arXiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM)
+17. [2025 CVPRW] **ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements.** [[paper]](https://arXiv.org/pdf/2411.12044) [[code]](https://github.com/m-arda-aydn/ITACLIP)
 
 ***************************************************************
 ### VLM & VFM & Diffusion & SAM
@@ -313,6 +314,8 @@
 31. [2025 arXiv] **DeFacto: Counterfactual Thinking with Images for Enforcing Evidence-Grounded and Faithful Reasoning** [[paper]](https://arxiv.org/pdf/2509.20912v1) [[code]](https://github.com/tinnel123666888/defacto)
 32. [2025 arXiv] **Hierarchical representation matching for clip-based class-incremental learning** [[paper]](https://arxiv.org/pdf/2509.22645v1)
 33. [2025 EMNLP]**From Behavioral Performance to Internal Competence: Interpreting Vision-Language Models with VLM-LENS** [[paper]](https://arxiv.org/pdf/2510.02292v1) [[code]](https://github.com/compling-wat/vlm-lens)
+34. [2025 NIPS] **Approximate Domain Unlearning for Vision-Language Models** [[paper]](https://arxiv.org/pdf/2510.08132v1) [[code]](https://kodaikawamura.github.io/Domain_Unlearning/)
+35. [ICLR 2025] **Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset** (https://arxiv.org/pdf/2411.03554) (https://github.com/SaFoLab-WISC/FIUBench)
 
 
 <a name="open_vocabulary"></a>
