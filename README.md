@@ -363,3 +363,4 @@
 ## Other Technologies
 1. [2016 CVPRW] **pixel shuffle.** [[paper]](https://arXiv.org/pdf/1609.05158)
 2. [2020 NIPS] **DDPM: Denoising Diffusion Probabilistic Models.** [[paper]](https://arXiv.org/pdf/2006.11239) [[code]](https://github.com/hojonathanho/diffusion)
+3. [2025 NIPS] **TTRL: Test-Time Reinforcement Learning** [[paper]](https://arxiv.org/pdf/2504.16084) [[code]](https://github.com/PRIME-RL/TTRL)
