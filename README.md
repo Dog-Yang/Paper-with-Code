@@ -317,7 +317,7 @@
 32. [2025 arXiv] **Hierarchical representation matching for clip-based class-incremental learning** [[paper]](https://arxiv.org/pdf/2509.22645v1)
 33. [2025 EMNLP]**From Behavioral Performance to Internal Competence: Interpreting Vision-Language Models with VLM-LENS** [[paper]](https://arxiv.org/pdf/2510.02292v1) [[code]](https://github.com/compling-wat/vlm-lens)
 34. [2025 NIPS] **Approximate Domain Unlearning for Vision-Language Models** [[paper]](https://arxiv.org/pdf/2510.08132v1) [[code]](https://kodaikawamura.github.io/Domain_Unlearning/)
-35. [ICLR 2025] **Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset** (https://arxiv.org/pdf/2411.03554) (https://github.com/SaFoLab-WISC/FIUBench)
+35. [ICLR 2025] **Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset** [[paper]](https://arxiv.org/pdf/2411.03554) [[code]](https://github.com/SaFoLab-WISC/FIUBench)
 
 
 <a name="open_vocabulary"></a>
