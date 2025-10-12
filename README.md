@@ -169,6 +169,7 @@
 12. [2025 CVPR] **RAM: Open-Vocabulary Multi-Label Recognition through Knowledge-Constrained Optimal Transport.** [[paper]](https://arXiv.org/abs/2503.15337) [[code]](https://github.com/EricTan7/RAM)
 13. [2025 ICCV] **Class Token as Proxy: Optimal Transport-assisted Proxy Learning for Weakly Supervised Semantic Segmentation.** [[paper]](https://iccv.thecvf.com/virtual/2025/poster/1933)
 14. [2025 AAAI] **Training-free Open-Vocabulary Semantic Segmentation via Diverse Prototype Construction and Sub-region Matching** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33137)
+15. [2025 TPAMI] **Recent Advances in Optimal Transport for Machine Learning** [[paper]](https://arxiv.org/pdf/2306.16156)
 
 
 <a name="WSSS"></a>
@@ -277,8 +278,9 @@
 11. [2023 ICCV] **OpenSeeD: A simple framework for open-vocabulary segmentation and detection.** [[paper]](https://arXiv.org/pdf/2303.08131) [[code]](https://github.com/IDEA-Research/OpenSeeD)
 12. [2023 arXiv] **SAM: Segment Anything.** [[paper]](https://arXiv.org/pdf/2304.02643) [[code]](https://github.com/facebookresearch/segment-anything) [[demo]](https://segment-anything.com/demo)
 13. [2024 arXiv] **SAM 2: Segment Anything in Images and Videos.** [[paper]](https://arXiv.org/pdf/2408.00714) [[code]](https://github.com/facebookresearch/sam2) [[demo]](https://sam2.metademolab.com/)
-14. [2024 github] **SAM with text prompt** [[code]](https://github.com/luca-medeiros/lang-segment-anything)
-15. [2025 NIPS] **OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts** [[paper]](https://arxiv.org/pdf/2507.05427)
+14. [2026 ICRL] **SAM3:Segment Anything with Concepts** [[paper]](https://openreview.net/forum?id=r35clVtGzw)
+15. [2024 github] **SAM with text prompt** [[code]](https://github.com/luca-medeiros/lang-segment-anything)
+16. [2025 NIPS] **OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts** [[paper]](https://arxiv.org/pdf/2507.05427)
 
 
 <a name="CLIP"></a>
