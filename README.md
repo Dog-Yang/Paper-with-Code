@@ -223,6 +223,7 @@
 5. [2024 ECCV] **Revisit Anything: Visual Place Recognition via Image Segment Retrieval.** [[paper]](https://arXiv.org/pdf/2409.18049) [[code]](https://github.com/AnyLoc/Revisit-Anything)
 6. [2025 arXiv] **HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition.** [[paper]](https://arXiv.org/pdf/2506.04764) [[code]](https://github.com/suhan-woo/HypeVPR)
 7. [2023 IROS] **Training-Free Attentive-Patch Selection for Visual Place Recognition.** [[paper]](https://ieeexplore.ieee.org/abstract/document/10342347)
+8. [2024 CVPR] **SALAD: Optimal transport aggregation for visual place recognition** [[paper]](https://arxiv.org/pdf/2311.15937) [[code]](https://github.com/serizba/salad)
 
 
 <a name="Token_fusion"></a>
