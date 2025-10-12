@@ -38,7 +38,9 @@
 19. [2025 Arxiv] **RS3DBench: A Comprehensive Benchmark for 3D Spatial Perception in Remote Sensing** [[paper]](https://arxiv.org/abs/2509.18897) [[code]](https://rs3dbench.github.io)
 20. [2025 Arxiv] **DGL-RSIS: Decoupling Global Spatial Context and Local Class Semantics for Training-Free Remote Sensing Image Segmentation** [[paper]](https://arxiv.org/pdf/2509.00598) [[code]](https://github.com/designer1024/DGL-RSIS)
 21. [2025 TGRS] **A Unified SAM-Guided Self-Prompt Learning Framework for Infrared Small Target Detection** [[paper]](https://ieeexplore.ieee.org/document/11172325) [[code]](https://github.com/fuyimin96/SAM-SPL)
-22. [2025 TGRS] **Semantic Prototyping With CLIP for Few-Shot Object Detection in Remote Sensing Images** [[paper]](https://ieeexplore.ieee.org/document/10930588) 
+22. [2025 TGRS] **Semantic Prototyping With CLIP for Few-Shot Object Detection in Remote Sensing Images** [[paper]](https://ieeexplore.ieee.org/document/10930588)
+23. [2025 Arxiv] **ATRNet-STAR: A Large Dataset and Benchmark Towards Remote Sensing Object Recognition in the Wild** [[paper]](https://arxiv.org/abs/2501.13354) [[code]](https://github.com/waterdisappear/ATRNet-STAR)
+24. [2025 Arxiv] **Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing** [[paper]](https://arxiv.org/pdf/2509.12040) [[code]](https://github.com/LiBingyu01/RSKT-Seg)
 
 <a name="Training_Free"></a>
 ## Training Free Segmentation
