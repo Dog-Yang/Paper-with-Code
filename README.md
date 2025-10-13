@@ -170,6 +170,7 @@
 13. [2025 ICCV] **Class Token as Proxy: Optimal Transport-assisted Proxy Learning for Weakly Supervised Semantic Segmentation.** [[paper]](https://iccv.thecvf.com/virtual/2025/poster/1933)
 14. [2025 AAAI] **Training-free Open-Vocabulary Semantic Segmentation via Diverse Prototype Construction and Sub-region Matching** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33137)
 15. [2025 TPAMI] **Recent Advances in Optimal Transport for Machine Learning** [[paper]](https://arxiv.org/pdf/2306.16156)
+16. [2024 CVPR] **SALAD: Optimal transport aggregation for visual place recognition** [[paper]](https://arxiv.org/pdf/2311.15937) [[code]](https://github.com/serizba/salad)
 
 
 <a name="WSSS"></a>
