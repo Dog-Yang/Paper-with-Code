@@ -89,6 +89,7 @@
 22. [2025 CVPR] **LOPSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2503.19777) [[code]](https://github.com/vladan-stojnic/LPOSS/tree/main)
 23. [2025 arXiv] **One Patch to Caption Them All: A Unified Zero-Shot Captioning Framework** [[paper]](https://arxiv.org/pdf/2510.02898v1) [[code]](https://paciosoft.com/Patch-ioner/)
 
+
 ***************************************************************
 1. [2024 WACV] **FOSSIL: Free Open-Vocabulary Semantic Segmentation through Synthetic References Retrieval.** [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Barsellotti_FOSSIL_Free_Open-Vocabulary_Semantic_Segmentation_Through_Synthetic_References_Retrieval_WACV_2024_paper.pdf)
 2. [2024 AAAI] **TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training.** [[paper]](https://arXiv.org/pdf/2312.12828) [[code]](https://github.com/linyq2117/TagCLIP)
@@ -368,8 +369,21 @@
 2. [2025 ICML] **Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting** [[paper]](https://arxiv.org/pdf/2502.04395) [[code]](https://github.com/CityMind-Lab/ICML25-TimeVLM)
 3. [2024 AAAI] **MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting** [[paper]](https://arxiv.org/pdf/2401.00423) [[code]](https://github.com/YoZhibo/MSGNet)
 
+<a name="Deep_Estimation"></a>
+## Deep Estimation
+1. [2014 NIPS] **Depth Map Prediction from a Single Image using a Multi-Scale Deep Network** [[paper]](https://arxiv.org/pdf/1406.2283) [[code]](https://github.com/hjimce/Depth-Map-Prediction)
+2. [2015 ICCV] **Predicting Depth, Surface, Normals and Semantic Labels with a Common Multi-Scale Convolutional Architecture** [[paper]](https://arxiv.org/pdf/1411.4734)
+3. [2017 TCSVT] **Estimating depth from monocular images as classification using deep fully convolutional residual networks** [[paper]](https://arxiv.org/pdf/1605.02305)
+4. [2021 ICCV] **Vision Transformers for Dense Prediction** [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Ranftl_Vision_Transformers_for_Dense_Prediction_ICCV_2021_paper.pdf) [[code]](https://github.com/isl-org/DPT)
+5. [2022 TPAMI] **MiDaS: Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer** [[paper]](https://arxiv.org/pdf/1907.01341v3) [[code]](https://github.com/isl-org/MiDaS) 
+6. [2024 CVPR] **Depth Anything V1: Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data** [[paper]](https://arxiv.org/pdf/2401.10891) [[code]](https://github.com/LiheYoung/Depth-Anything)
+7. [2024 NIPS] **Depth Anything V2** [[paper]](https://arxiv.org/pdf/2406.09414) [[code]](https://github.com/DepthAnything/Depth-Anything-V2)
+8. [2025 CVPR] **Video Depth Anything: Consistent Depth Estimation for Super-Long Videos** [[paper]](https://arxiv.org/pdf/2501.12375) [[code]](https://github.com/DepthAnything/Video-Depth-Anything)
+9. [2025 ICCV] **Hybrid-grained Feature Aggregation with Coarse-to-fine Language Guidance for Self-supervised Monocular Depth Estimation** [[paper]](https://arxiv.org/pdf/2510.09320v1) [[code]](https://github.com/Zhangwenyao1/Hybrid-depth)
+
 <a name="Other"></a>
 ## Other Technologies
-1. [2016 CVPRW] **pixel shuffle.** [[paper]](https://arXiv.org/pdf/1609.05158)
-2. [2020 NIPS] **DDPM: Denoising Diffusion Probabilistic Models.** [[paper]](https://arXiv.org/pdf/2006.11239) [[code]](https://github.com/hojonathanho/diffusion)
-3. [2025 NIPS] **TTRL: Test-Time Reinforcement Learning** [[paper]](https://arxiv.org/pdf/2504.16084) [[code]](https://github.com/PRIME-RL/TTRL)
+1. [2016 CVPRW] **pixel shuffle** [[paper]](https://arXiv.org/pdf/1609.05158) 
+2. [2019 ICCV] **CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features** [[paper]](https://arxiv.org/pdf/1905.04899) [[code]](https://github.com/clovaai/CutMix-PyTorch)
+3. [2020 NIPS] **DDPM: Denoising Diffusion Probabilistic Models.** [[paper]](https://arXiv.org/pdf/2006.11239) [[code]](https://github.com/hojonathanho/diffusion)
+4. [2025 NIPS] **TTRL: Test-Time Reinforcement Learning** [[paper]](https://arxiv.org/pdf/2504.16084) [[code]](https://github.com/PRIME-RL/TTRL)
