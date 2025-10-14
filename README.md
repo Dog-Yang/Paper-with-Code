@@ -12,7 +12,8 @@
 11. [[segmentation and detection](#Segmentation_and_Detection)]
 12. [[Active learning/ Data Selection](#Active)]
 13. [[Time series](#Time_series)]
-14. [[Other](#Other)]      
+14. [[Deep Estimation](#Deep_Estimation)]
+15. [[Other](#Other)]      
 -----------------------------------------------------------------------------------------------
 
 
