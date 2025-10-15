@@ -325,6 +325,8 @@
 33. [2025 EMNLP]**From Behavioral Performance to Internal Competence: Interpreting Vision-Language Models with VLM-LENS** [[paper]](https://arxiv.org/pdf/2510.02292v1) [[code]](https://github.com/compling-wat/vlm-lens)
 34. [2025 NIPS] **Approximate Domain Unlearning for Vision-Language Models** [[paper]](https://arxiv.org/pdf/2510.08132v1) [[code]](https://kodaikawamura.github.io/Domain_Unlearning/)
 35. [ICLR 2025] **Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset** [[paper]](https://arxiv.org/pdf/2411.03554) [[code]](https://github.com/SaFoLab-WISC/FIUBench)
+36. [2025 NIPS] **∆Energy: Optimizing Energy Change During Vision-Language Alignment Improves both OOD Detection and OOD Generalization** [[paper]](https://arxiv.org/pdf/2510.11296v1) [[code]](https://github.com/LinLLLL/DeltaEnergy)
+
 
 
 <a name="open_vocabulary"></a>
