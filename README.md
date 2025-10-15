@@ -13,7 +13,8 @@
 12. [[Active learning/ Data Selection](#Active)]
 13. [[Time series](#Time_series)]
 14. [[Deep Estimation](#Deep_Estimation)]
-15. [[Other](#Other)]      
+15. [[Model Merging](#Model_Merging)]
+16. [[Other](#Other)]      
 -----------------------------------------------------------------------------------------------
 
 
@@ -365,6 +366,17 @@
 3. [2022 CVPR] **GLIP: Grounded Language-Image Pre-training.** [[paper]](https://arXiv.org/pdf/2112.03857) [[code]](https://github.com/microsoft/GLIP)
 4. [2022 NIPS] **GLIPv2: Unifying Localization and Vision-Language Understanding.** [[paper]](https://arXiv.org/pdf/2206.05836) [[code]](https://github.com/microsoft/GLIP)
 5. [2024 ICCV] **Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection** [[paper]](https://arxiv.org/pdf/2303.05499) [[code]](https://github.com/IDEA-Research/GroundingDINO)
+
+<a name="Model_Merging"></a>
+### Model_Merging
+1. [2024 CVPR] **Training Free Pretrained Model Merging** [[paper]](https://arxiv.org/pdf/2403.01753) [[code]](https://github.com/zju-vipa/training_free_model_merging)
+2. [2024 ECCV] **Traiing-Free Model Merging for Multi-target Domain Adaptation** [[paper]](https://arxiv.org/pdf/2407.13771) [[code]](https://github.com/AIR-DISCOVER/Model-Merging-MTDA)
+3. **Training-free heterogeneous model merging** [[paper]](https://arxiv.org/pdf/2501.00061) [[code]](https://github.com/zju-vipa/training_free_heterogeneous_model_merging)
+4. **Training-free LLM Merging for Multi-task Learning** [[paper]](https://arxiv.org/pdf/2506.12379) (https://github.com/Applied-Machine-Learning-Lab/Hi-Merging)
+5. **SeMe: Training-Free Language Model Merging via Semantic Alignment** [[paper]](https://arxiv.org/pdf/2505.20144)
+6. [2024 arXiv] **Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities.** [[paper]](https://arxiv.org/pdf/2408.07666) [[code]](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications)
+7. [2025 arXiv] **TR-Merging: Training-free Router for Model Merging** [[paper]](https://openreview.net/attachment?id=nErnNhJx2o&name=pdf) [[code]]()
+8. [2024 ICML] **Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch** [[paper]](https://arxiv.org/pdf/2311.03099) [[code]](https://github.com/yule-BUAA/MergeLM)
 
 <a name="Active"></a>
 ### Active learning/ Data Selection
