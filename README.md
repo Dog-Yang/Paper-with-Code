@@ -153,7 +153,7 @@
 40. [2025 arXiv] **Skip-It? Theoretical Conditions for Layer Skipping in Vision-Language Models** [[paper]](https://arxiv.org/pdf/2509.25584v1)
 41. [2025 arXiv] **VLOD-TTA: Test-Time Adaptation of Vision-Language Object Detectors** [[paper]](https://arxiv.org/pdf/2510.00458v1) [[code]](https://github.com/imatif17/VLOD-TTA)
 42. [2025 arXiv] **Bayesian Test-time Adaptation for Object Recognition and Detection with Vision-language Models** [[paper]](https://arxiv.org/pdf/2510.02750v1)
-
+43. [2025 arXiv] **Constructive distortion: improving MLLMS with attention-guided image warping** [[paper]](https://arxiv.org/pdf/2510.09741v1) [[code]](https://dwipddalal.github.io/Attwarp/)
 
 
 <a name="Optimal_Transport"></a>
