@@ -268,6 +268,7 @@
 13. [2020 ECCV] **DETR: End-to-End Object Detection with Transformers.** [[paper]](https://arXiv.org/pdf/2005.12872) [[code]](https://github.com/facebookresearch/detr)
 14. [2021 ICLR] **Deformable DETR: Deformable Transformers for End-to-End Object Detection.** [[paper]](https://arXiv.org/pdf/2010.04159) [[code]](https://github.com/fundamentalvision/Deformable-DETR)
 15. [2023 ICLR] **DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.** [[paper]](https://arXiv.org/pdf/2203.03605) [[code]](https://github.com/IDEA-Research/DINO)
+16. [2025 arXiv] **SegDINO: An Efficient Design for Medical and Natural Image Segmentation with DINO-V3** [[paper]](https://arxiv.org/pdf/2509.00833) [[code]](https://github.com/script-Yang/segdino/tree/main)
 
 
 <a name="Backbone"></a>
