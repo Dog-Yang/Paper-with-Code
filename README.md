@@ -381,7 +381,7 @@
 1. [2014 NIPS] **Depth Map Prediction from a Single Image using a Multi-Scale Deep Network** [[paper]](https://arxiv.org/pdf/1406.2283) [[code]](https://github.com/hjimce/Depth-Map-Prediction)
 2. [2015 ICCV] **Predicting Depth, Surface, Normals and Semantic Labels with a Common Multi-Scale Convolutional Architecture** [[paper]](https://arxiv.org/pdf/1411.4734)
 3. [2017 TCSVT] **Estimating depth from monocular images as classification using deep fully convolutional residual networks** [[paper]](https://arxiv.org/pdf/1605.02305)
-4. [2021 ICCV] **Vision Transformers for Dense Prediction** [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Ranftl_Vision_Transformers_for_Dense_Prediction_ICCV_2021_paper.pdf) [[code]](https://github.com/isl-org/DPT)
+4. [2021 ICCV] **DPT: Vision Transformers for Dense Prediction** [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Ranftl_Vision_Transformers_for_Dense_Prediction_ICCV_2021_paper.pdf) [[code]](https://github.com/isl-org/DPT)
 5. [2022 TPAMI] **MiDaS: Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer** [[paper]](https://arxiv.org/pdf/1907.01341v3) [[code]](https://github.com/isl-org/MiDaS) 
 6. [2024 CVPR] **Depth Anything V1: Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data** [[paper]](https://arxiv.org/pdf/2401.10891) [[code]](https://github.com/LiheYoung/Depth-Anything)
 7. [2024 NIPS] **Depth Anything V2** [[paper]](https://arxiv.org/pdf/2406.09414) [[code]](https://github.com/DepthAnything/Depth-Anything-V2)
