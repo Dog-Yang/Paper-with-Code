@@ -217,7 +217,8 @@
 3. [2023 NIPS] **GSLB: The Graph Structure Learning Benchmark.** [[paper]](https://arXiv.org/pdf/2310.05174) [[code]](https://github.com/GSL-Benchmark/GSLB)
 4. [2024 AAAI] **Catalyst for Clustering-based Unsupervised Object Re-Identification: Feature Calibration.** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28092) [[code]](https://github.com/lhf12278/FCM-ReID)
 5. [2025 ICLR] **Efficient and Context-Aware Label Propagation for Zero-/Few-Shot Training-Free Adaptation of Vision-Language Model.** [[paper]](https://arXiv.org/pdf/2412.18303) [[code]](https://github.com/Yushu-Li/ECALP)
-6. [network] **.** [[paper]](https://www.gnn.club/?p=2170)
+6. [2025 NIPS] **One Prompt Fits All: Universal Graph Adaptation for Pretrained Models** [[paper]](https://arxiv.org/pdf/2509.22416) [[code]](https://github.com/hedongxiao-tju/UniPrompt)
+7. [network] **GNN Club** [[paper]](https://www.gnn.club/?p=2170)
 
 
 <a name="VPR"></a>
