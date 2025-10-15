@@ -107,6 +107,7 @@
 12. [2024 NIPS] **Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts** [[paper]](https://arxiv.org/pdf/2410.05963)
 13. [2025 ICML] **Unlocking the Power of SAM 2 for Few-Shot Segmentation** [[paper]](https://arxiv.org/pdf/2505.14100) [[code]](https://github.com/Sam1224/FSSAM)
 14. [2025 ICCV] **ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation.** [[paper]](https://arXiv.org/pdf/2506.21233) [[code]](https://github.com/xiweix/ReME)
+15. [2025 NIPS] **E-SD³: Fine-Grained Confidence-Aware Fusion of SD3 for Zero-Shot Semantic Matching** [[paper]](https://neurips.cc/virtual/2025/poster/119532) [[code]](https://github.com/panda7777777/feature-fusion)
 
 
 <a name="Zero_shot_classification"></a>
