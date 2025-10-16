@@ -66,6 +66,9 @@
 15. [2025 CVPR] **ResCLIP: Residual Attention for Training-free Dense Vision-language Inference.** [[paper]](https://arXiv.org/pdf/2411.15851) [[code]](https://github.com/yvhangyang/ResCLIP)
 16. [2024 CVPR] **GEM: Grounding Everything: Emerging Localization Properties in Vision-Language Transformers.** [[paper]](https://arXiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM)
 17. [2025 CVPRW] **ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements.** [[paper]](https://arXiv.org/pdf/2411.12044) [[code]](https://github.com/m-arda-aydn/ITACLIP)
+18. [2025 arXiv] **Improving visual discriminability of clip for training-free open-vocabulary semantic segmentation** [[paper]](https://openreview.net/attachment?id=tKO2l8oICt&name=pdf)
+
+
 
 ***************************************************************
 ### VLM & VFM & Diffusion & SAM
@@ -158,6 +161,7 @@
 42. [2025 arXiv] **Bayesian Test-time Adaptation for Object Recognition and Detection with Vision-language Models** [[paper]](https://arxiv.org/pdf/2510.02750v1)
 43. [2025 arXiv] **Constructive distortion: improving MLLMS with attention-guided image warping** [[paper]](https://arxiv.org/pdf/2510.09741v1) [[code]](https://dwipddalal.github.io/Attwarp/)
 44. [2025 NIPS] **Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2505.21844v1) [[code]](https://github.com/dosowiechi/MLMP)
+45. [2025 arXiv] **Reorienting the Frozen Space: Training-Free Test-Time Adaptation by Geometric Transformation** [[paper]](https://openreview.net/attachment?id=nErnNhJx2o&name=pdf)
 
 
 <a name="Optimal_Transport"></a>
@@ -178,6 +182,7 @@
 14. [2025 AAAI] **Training-free Open-Vocabulary Semantic Segmentation via Diverse Prototype Construction and Sub-region Matching** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33137)
 15. [2025 TPAMI] **Recent Advances in Optimal Transport for Machine Learning** [[paper]](https://arxiv.org/pdf/2306.16156)
 16. [2024 CVPR] **SALAD: Optimal transport aggregation for visual place recognition** [[paper]](https://arxiv.org/pdf/2311.15937) [[code]](https://github.com/serizba/salad)
+17. [2025 arXiv] **SPROUT: Training-free Nuclear Instance segmentation with automatic prompting** [[paper]](https://openreview.net/attachment?id=pqLlFR5ken&name=pdf)
 
 
 <a name="WSSS"></a>
