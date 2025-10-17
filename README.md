@@ -375,6 +375,8 @@
 3. [2022 CVPR] **GLIP: Grounded Language-Image Pre-training.** [[paper]](https://arXiv.org/pdf/2112.03857) [[code]](https://github.com/microsoft/GLIP)
 4. [2022 NIPS] **GLIPv2: Unifying Localization and Vision-Language Understanding.** [[paper]](https://arXiv.org/pdf/2206.05836) [[code]](https://github.com/microsoft/GLIP)
 5. [2024 ICCV] **Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection** [[paper]](https://arxiv.org/pdf/2303.05499) [[code]](https://github.com/IDEA-Research/GroundingDINO)
+6. [2025 arXiv] **cross-view open-vocabulary object detection in aerial imagery** [[paper]](https://openreview.net/attachment?id=QgTA3AvUC5&name=pdf)
+
 
 <a name="Model_Merging"></a>
 ### Model_Merging
