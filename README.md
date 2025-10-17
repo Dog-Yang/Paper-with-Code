@@ -70,6 +70,7 @@
 16. [2024 CVPR] **GEM: Grounding Everything: Emerging Localization Properties in Vision-Language Transformers.** [[paper]](https://arXiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM)
 17. [2025 CVPRW] **ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements.** [[paper]](https://arXiv.org/pdf/2411.12044) [[code]](https://github.com/m-arda-aydn/ITACLIP)
 18. [2025 arXiv] **Improving visual discriminability of clip for training-free open-vocabulary semantic segmentation** [[paper]](https://openreview.net/attachment?id=tKO2l8oICt&name=pdf)
+19. [2025 NIPS] **MLMP: Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2505.21844v1) [[code]](https://github.com/dosowiechi/MLMP)
 
 
 
@@ -163,7 +164,7 @@
 41. [2025 arXiv] **VLOD-TTA: Test-Time Adaptation of Vision-Language Object Detectors** [[paper]](https://arxiv.org/pdf/2510.00458v1) [[code]](https://github.com/imatif17/VLOD-TTA)
 42. [2025 arXiv] **Bayesian Test-time Adaptation for Object Recognition and Detection with Vision-language Models** [[paper]](https://arxiv.org/pdf/2510.02750v1)
 43. [2025 arXiv] **Constructive distortion: improving MLLMS with attention-guided image warping** [[paper]](https://arxiv.org/pdf/2510.09741v1) [[code]](https://dwipddalal.github.io/Attwarp/)
-44. [2025 NIPS] **Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2505.21844v1) [[code]](https://github.com/dosowiechi/MLMP)
+44. [2025 NIPS] **MLMP: Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2505.21844v1) [[code]](https://github.com/dosowiechi/MLMP)
 45. [2025 arXiv] **Reorienting the Frozen Space: Training-Free Test-Time Adaptation by Geometric Transformation** [[paper]](https://openreview.net/attachment?id=nErnNhJx2o&name=pdf)
 
 
