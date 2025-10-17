@@ -46,6 +46,8 @@
 25. [2025 ISPRS]  **AdaptVFMs-RSCD: Advancing Remote Sensing Change Detection from binary to semantic with SAM and CLIP** [[paper]](https://doi.org/10.1016/j.isprsjprs.2025.09.010) [[data]](https://github.com/Jiang-CHD-YunNan/RS-VFMs-Fine-tuning-Dataset)
 26. **PeftCD: Leveraging Vision Foundation Models with Parameter-Efficient Fine-Tuning for Remote Sensing Change Detection** [[paper]](https://arxiv.org/pdf/2509.09572) [[code]](https://github.com/dyzy41/PeftCD)
 27. [2025 Arxiv] **AlignCLIP: Self-Guided Alignment for Remote Sensing Open-Vocabulary Semantic Segmentation** [[paper]](https://openreview.net/forum?id=hpD3tn7Xbp) [[code]](https://openreview.net/attachment?id=hpD3tn7Xbp&name=supplementary_material)
+28. [2025 Arxiv] **Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models** [[paper]](https://arxiv.org/pdf/2510.07135) [[code]](https://github.com/elkhouryk/fewshot_RSVLMs)
+
 
 <a name="Training_Free"></a>
 ## Training Free Segmentation
@@ -336,8 +338,9 @@
 32. [2025 arXiv] **Hierarchical representation matching for clip-based class-incremental learning** [[paper]](https://arxiv.org/pdf/2509.22645v1)
 33. [2025 EMNLP]**From Behavioral Performance to Internal Competence: Interpreting Vision-Language Models with VLM-LENS** [[paper]](https://arxiv.org/pdf/2510.02292v1) [[code]](https://github.com/compling-wat/vlm-lens)
 34. [2025 NIPS] **Approximate Domain Unlearning for Vision-Language Models** [[paper]](https://arxiv.org/pdf/2510.08132v1) [[code]](https://kodaikawamura.github.io/Domain_Unlearning/)
-35. [ICLR 2025] **Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset** [[paper]](https://arxiv.org/pdf/2411.03554) [[code]](https://github.com/SaFoLab-WISC/FIUBench)
+35. [2025 ICLR] **Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset** [[paper]](https://arxiv.org/pdf/2411.03554) [[code]](https://github.com/SaFoLab-WISC/FIUBench)
 36. [2025 NIPS] **∆Energy: Optimizing Energy Change During Vision-Language Alignment Improves both OOD Detection and OOD Generalization** [[paper]](https://arxiv.org/pdf/2510.11296v1) [[code]](https://github.com/LinLLLL/DeltaEnergy)
+37. [2025 CVPR] **Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages** [[paper]](https://arxiv.org/pdf/2503.11609) [[code]](https://github.com/FarinaMatteo/rethinking_fewshot_vlms)
 
 
 
