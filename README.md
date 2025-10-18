@@ -100,6 +100,7 @@
 21. [2025 CVPR] **SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label Recognition in Vision-Language Models.** [[paper]](https://arXiv.org/pdf/2502.16911?) [[code]](https://github.com/kjmillerCURIS/SPARC)
 22. [2025 CVPR] **LOPSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2503.19777) [[code]](https://github.com/vladan-stojnic/LPOSS/tree/main)
 23. [2025 arXiv] **One Patch to Caption Them All: A Unified Zero-Shot Captioning Framework** [[paper]](https://arxiv.org/pdf/2510.02898v1) [[code]](https://paciosoft.com/Patch-ioner/)
+24. [2025 CVPR] **Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2411.17150) [[code]](https://micv-yonsei.github.io/cass/)
 
 
 ***************************************************************
@@ -109,7 +110,6 @@
 4. [2024 CVPR] **CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor.** [[paper]](https://arXiv.org/pdf/2312.07661) [[code]](https://github.com/kevin-ssy/CLIP_as_RNN)
 5. [2024 CVPR] **Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2404.00262) [[code]](https://github.com/072jiajia/image-text-co-decomposition)
 6. [2024 ECCV] **In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2408.04961) [[code]](https://github.com/dahyun-kang/lavg)
-7. [2025 CVPR] **Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2411.17150) [[code]](https://micv-yonsei.github.io/cass/)
 8. [2025 ICCV] **LUDVIG: Learning-free uplifting of 2D visual features to gaussuan splatting scenes.** [[paper]](https://arXiv.org/pdf/2410.14462#page=17.85) [[code]](https://github.com/naver/ludvig)
 9. [2025 CVPR] **MOS: Modeling Object-Scene Associations in Generalized Category Discovery.** [[paper]](https://arXiv.org/pdf/2503.12035) [[code]](https://github.com/JethroPeng/MOS)
 10. [2024 NIPS] **Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels** [[paper]](https://arxiv.org/pdf/2409.19846)  [[code]](https://github.com/cvlab-kaist/PixelCLIP)
