@@ -47,6 +47,7 @@
 26. **PeftCD: Leveraging Vision Foundation Models with Parameter-Efficient Fine-Tuning for Remote Sensing Change Detection** [[paper]](https://arxiv.org/pdf/2509.09572) [[code]](https://github.com/dyzy41/PeftCD)
 27. [2025 Arxiv] **AlignCLIP: Self-Guided Alignment for Remote Sensing Open-Vocabulary Semantic Segmentation** [[paper]](https://openreview.net/forum?id=hpD3tn7Xbp) [[code]](https://openreview.net/attachment?id=hpD3tn7Xbp&name=supplementary_material)
 28. [2025 Arxiv] **Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models** [[paper]](https://arxiv.org/pdf/2510.07135) [[code]](https://github.com/elkhouryk/fewshot_RSVLMs)
+29. [2025 RSE] **Strategic sampling for training a semantic segmentation model in operational mapping: Case studies on cropland parcel extraction** [[paper]](https://doi.org/10.1016/j.rse.2025.115034) [[data]](https://doi.org/10.5281/zenodo.16595511) [[code]](https://github.com/Remote-Sensing-of-Land-Resource-Lab/Training-Sample-Selection)
 
 
 <a name="Training_Free"></a>
@@ -260,7 +261,6 @@
 12. [2024 arXiv] **DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models.** [[paper]](https://arXiv.org/pdf/2405.20985) [[code]](https://github.com/yaolinli/DeCo)
 13. [2024 CVPR] **Grounding Everything: Emerging Localization Properties in Vision-Language Transformers.** [[paper]](https://arXiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM)
 14. [2025 CVPR] **PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models.** [[paper]](https://arXiv.org/pdf/2504.08966) [[code]](https://github.com/orailix/PACT/tree/main)
-15. 
 
 
 <a name="Segmentation_and_Detection"></a>
@@ -281,6 +281,8 @@
 14. [2021 ICLR] **Deformable DETR: Deformable Transformers for End-to-End Object Detection.** [[paper]](https://arXiv.org/pdf/2010.04159) [[code]](https://github.com/fundamentalvision/Deformable-DETR)
 15. [2023 ICLR] **DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.** [[paper]](https://arXiv.org/pdf/2203.03605) [[code]](https://github.com/IDEA-Research/DINO)
 16. [2025 arXiv] **SegDINO: An Efficient Design for Medical and Natural Image Segmentation with DINO-V3** [[paper]](https://arxiv.org/pdf/2509.00833) [[code]](https://github.com/script-Yang/segdino/tree/main)
+17. [2024 ICLR] **FeatUp: A Model-Agnostic Framework for Features at Any Resolution** [[paper]](https://arxiv.org/pdf/2403.10516) [[code]](https://github.com/mhamilton723/FeatUp)
+18. [2025 arXiv] **AnyUp: Universal Feature Upsampling** [[paper]](https://arxiv.org/pdf/2510.12764) [[code]](https://github.com/wimmerth/anyup)
 
 
 <a name="Backbone"></a>
