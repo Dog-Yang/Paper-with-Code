@@ -101,6 +101,7 @@
 22. [2025 CVPR] **LOPSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2503.19777) [[code]](https://github.com/vladan-stojnic/LPOSS/tree/main)
 23. [2025 arXiv] **One Patch to Caption Them All: A Unified Zero-Shot Captioning Framework** [[paper]](https://arxiv.org/pdf/2510.02898v1) [[code]](https://paciosoft.com/Patch-ioner/)
 24. [2025 CVPR] **Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2411.17150) [[code]](https://micv-yonsei.github.io/cass/)
+25. [2025 ICML] **Unlocking the Power of SAM 2 for Few-Shot Segmentation** [[paper]](https://arxiv.org/pdf/2505.14100) [[code]](https://github.com/Sam1224/FSSAM)
 
 
 ***************************************************************
@@ -115,7 +116,6 @@
 10. [2024 NIPS] **Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels** [[paper]](https://arxiv.org/pdf/2409.19846)  [[code]](https://github.com/cvlab-kaist/PixelCLIP)
 11. [2024 NIPS] **Renovating Names in Open-Vocabulary Segmentation Benchmarks** [[paper]](https://arxiv.org/pdf/2403.09593)
 12. [2024 NIPS] **Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts** [[paper]](https://arxiv.org/pdf/2410.05963)
-13. [2025 ICML] **Unlocking the Power of SAM 2 for Few-Shot Segmentation** [[paper]](https://arxiv.org/pdf/2505.14100) [[code]](https://github.com/Sam1224/FSSAM)
 14. [2025 ICCV] **ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation.** [[paper]](https://arXiv.org/pdf/2506.21233) [[code]](https://github.com/xiweix/ReME)
 15. [2025 NIPS] **E-SD³: Fine-Grained Confidence-Aware Fusion of SD3 for Zero-Shot Semantic Matching** [[paper]](https://neurips.cc/virtual/2025/poster/119532) [[code]](https://github.com/panda7777777/feature-fusion)
 
