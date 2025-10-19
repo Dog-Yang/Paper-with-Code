@@ -369,7 +369,7 @@
 18. [2024 CVPR] **Exploring Regional Clues in CLIP for Zero-Shot Semantic Segmentation.** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Exploring_Regional_Clues_in_CLIP_for_Zero-Shot_Semantic_Segmentation_CVPR_2024_paper.pdf) [[code]](https://github.com/Jittor/JSeg)
 19. [2024 ICLR] **CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction** [[paper]](https://arxiv.org/pdf/2310.01403) [[code]](https://github.com/wusize/CLIPSelf)
 20. [2025 CVPR] **DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception.** [[paper]](https://arXiv.org/pdf/2505.04410) [[code]](https://github.com/xiaomoguhz/DeCLIP)
-21. [2025 arXiv] **REFAM: Attention magnets for zero-shot referral segmentaion** [[paper]](https://arxiv.org/pdf/2509.22650v1)
+21. [2025 arXiv] **RefAM: Attention magnets for zero-shot referral segmentaion** [[paper]](https://arxiv.org/pdf/2509.22650v1) [[code]](https://github.com/Annusha/refam)
 
 
 ### object detection
