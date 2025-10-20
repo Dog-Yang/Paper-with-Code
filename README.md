@@ -345,6 +345,7 @@
 36. [2025 NIPS] **∆Energy: Optimizing Energy Change During Vision-Language Alignment Improves both OOD Detection and OOD Generalization** [[paper]](https://arxiv.org/pdf/2510.11296v1) [[code]](https://github.com/LinLLLL/DeltaEnergy)
 37. [2025 CVPR] **Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages** [[paper]](https://arxiv.org/pdf/2503.11609) [[code]](https://github.com/FarinaMatteo/rethinking_fewshot_vlms)
 38. [2025 arXiv] **Exploring cross-modal flows for few-shot learning** [[paper]](https://arxiv.org/pdf/2510.14543)
+39. [2025 arXiv] **VisCoP: Visual Probing for Domain Adapatation of Vision Language Models** [[paper]](https://arxiv.org/pdf/2510.13808v1) [[code]](https://github.com/dominickrei/VisCoP/)
 
 <a name="open_vocabulary"></a>
 ## Open vocabulary
