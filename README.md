@@ -383,7 +383,7 @@
 
 
 <a name="Model_Merging"></a>
-### Model_Merging
+### Model Merging
 1. [2024 CVPR] **Training Free Pretrained Model Merging** [[paper]](https://arxiv.org/pdf/2403.01753) [[code]](https://github.com/zju-vipa/training_free_model_merging)
 2. [2024 ECCV] **Traiing-Free Model Merging for Multi-target Domain Adaptation** [[paper]](https://arxiv.org/pdf/2407.13771) [[code]](https://github.com/AIR-DISCOVER/Model-Merging-MTDA)
 3. [2025 arXiv] **Training-free heterogeneous model merging** [[paper]](https://arxiv.org/pdf/2501.00061) [[code]](https://github.com/zju-vipa/training_free_heterogeneous_model_merging)
