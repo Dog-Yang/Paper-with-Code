@@ -399,7 +399,8 @@
 11. [2022 ICML] **Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time** [[paper]](https://arxiv.org/pdf/2203.05482) [[code]](https://github.com/mlfoundations/model-soups)
 12. [2023 ICLR] **Editing Models with Task Arithmetic** [[paper]](https://arxiv.org/pdf/2212.04089) [[code]](https://github.com/mlfoundations/task_vectors)
 13. [2023 NIPS] **TIES-Merging: Resolving Interference When Merging Models** [[paper]](https://arxiv.org/pdf/2306.01708) [[code]](https://github.com/prateeky2806/ties-merging)
-14. [2020 NIPS] **Ensemble Distillation for Robust Model Fusion in Federated Learning** [[paper]](https://arxiv.org/pdf/2006.07242) [[code]](https://github.com/epfml/federated-learning-public-code/tree/master)
+14. [2020 NIPS] **FedDF: Ensemble Distillation for Robust Model Fusion in Federated Learning** [[paper]](https://arxiv.org/pdf/2006.07242) [[code]](https://github.com/epfml/federated-learning-public-code/tree/master)
+15. [2024 WACV] **FusionDistill: Consolidating separate degradations model via weights fusion and distillation** [[paper]](https://openaccess.thecvf.com/content/WACV2024W/VAQ/papers/Daultani_Consolidating_Separate_Degradations_Model_via_Weights_Fusion_and_Distillation_WACVW_2024_paper.pdf) [[code]](https://github.com/dineshdaultani/FusionDistill)
 
 <a name="Active"></a>
 ### Active learning/ Data Selection
