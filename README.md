@@ -188,6 +188,8 @@
 15. [2025 TPAMI] **Recent Advances in Optimal Transport for Machine Learning** [[paper]](https://arxiv.org/pdf/2306.16156)
 16. [2024 CVPR] **SALAD: Optimal transport aggregation for visual place recognition** [[paper]](https://arxiv.org/pdf/2311.15937) [[code]](https://github.com/serizba/salad)
 17. [2025 arXiv] **SPROUT: Training-free Nuclear Instance segmentation with automatic prompting** [[paper]](https://openreview.net/attachment?id=pqLlFR5ken&name=pdf)
+18. [2020 NIPS] **Model Fusion via Optimal Transport** [[paper]](https://arxiv.org/pdf/1910.05653) [[code]](https://github.com/sidak/otfusion)
+19. [2024 ICLR] **Transformer Fusion with Optimal Transport** [[paper]](https://arxiv.org/pdf/2310.05719) [[code]](https://github.com/graldij/transformer-fusion)
 
 
 <a name="WSSS"></a>
@@ -392,6 +394,8 @@
 6. [2024 arXiv] **Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities.** [[paper]](https://arxiv.org/pdf/2408.07666) [[code]](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications)
 7. [2025 arXiv] **TR-Merging: Training-free Router for Model Merging** [[paper]](https://openreview.net/attachment?id=nErnNhJx2o&name=pdf)
 8. [2024 ICML] **Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch** [[paper]](https://arxiv.org/pdf/2311.03099) [[code]](https://github.com/yule-BUAA/MergeLM)
+9. [2020 NIPS] **Model Fusion via Optimal Transport** [[paper]](https://arxiv.org/pdf/1910.05653) [[code]](https://github.com/sidak/otfusion)
+10. [2024 ICLR] **Transformer Fusion with Optimal Transport** [[paper]](https://arxiv.org/pdf/2310.05719) [[code]](https://github.com/graldij/transformer-fusion)
 
 <a name="Active"></a>
 ### Active learning/ Data Selection
