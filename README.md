@@ -396,6 +396,9 @@
 8. [2024 ICML] **Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch** [[paper]](https://arxiv.org/pdf/2311.03099) [[code]](https://github.com/yule-BUAA/MergeLM)
 9. [2020 NIPS] **Model Fusion via Optimal Transport** [[paper]](https://arxiv.org/pdf/1910.05653) [[code]](https://github.com/sidak/otfusion)
 10. [2024 ICLR] **Transformer Fusion with Optimal Transport** [[paper]](https://arxiv.org/pdf/2310.05719) [[code]](https://github.com/graldij/transformer-fusion)
+11. [2022 ICML] **Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time** [[paper]](https://arxiv.org/pdf/2203.05482) [[code]](https://github.com/mlfoundations/model-soups)
+12. [2023 ICLR] **Editing Models with Task Arithmetic** [[paper]](https://arxiv.org/pdf/2212.04089) [[code]](https://github.com/mlfoundations/task_vectors)
+13. [2023 NIPS] **TIES-Merging: Resolving Interference When Merging Models** [[paper]](https://arxiv.org/pdf/2306.01708) [[code]](https://github.com/prateeky2806/ties-merging)
 
 <a name="Active"></a>
 ### Active learning/ Data Selection
