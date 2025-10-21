@@ -190,6 +190,7 @@
 17. [2025 arXiv] **SPROUT: Training-free Nuclear Instance segmentation with automatic prompting** [[paper]](https://openreview.net/attachment?id=pqLlFR5ken&name=pdf)
 18. [2020 NIPS] **Model Fusion via Optimal Transport** [[paper]](https://arxiv.org/pdf/1910.05653) [[code]](https://github.com/sidak/otfusion)
 19. [2024 ICLR] **Transformer Fusion with Optimal Transport** [[paper]](https://arxiv.org/pdf/2310.05719) [[code]](https://github.com/graldij/transformer-fusion)
+20. [2023 ICAC] **Att-Sinkhorn: Multimodal Alignment with Sinkhorn-based Deep Attention Architecture** [[paper]](https://ieeexplore.ieee.org/document/10275301)
 
 
 <a name="WSSS"></a>
@@ -232,7 +233,8 @@
 4. [2024 AAAI] **Catalyst for Clustering-based Unsupervised Object Re-Identification: Feature Calibration.** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28092) [[code]](https://github.com/lhf12278/FCM-ReID)
 5. [2025 ICLR] **Efficient and Context-Aware Label Propagation for Zero-/Few-Shot Training-Free Adaptation of Vision-Language Model.** [[paper]](https://arXiv.org/pdf/2412.18303) [[code]](https://github.com/Yushu-Li/ECALP)
 6. [2025 NIPS] **One Prompt Fits All: Universal Graph Adaptation for Pretrained Models** [[paper]](https://arxiv.org/pdf/2509.22416) [[code]](https://github.com/hedongxiao-tju/UniPrompt)
-7. [network] **GNN Club** [[paper]](https://www.gnn.club/?p=2170)
+7. [2021 AAAI] **UMGF: Multi-modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance** [[paper]](https://cdn.aaai.org/ojs/17687/17687-13-21181-1-2-20210518.pdf) [[code]](https://github.com/TransformersWsz/UMGF)
+8. [network] **GNN Club** [[paper]](https://www.gnn.club/?p=2170)
 
 
 <a name="VPR"></a>
@@ -401,6 +403,8 @@
 13. [2023 NIPS] **TIES-Merging: Resolving Interference When Merging Models** [[paper]](https://arxiv.org/pdf/2306.01708) [[code]](https://github.com/prateeky2806/ties-merging)
 14. [2020 NIPS] **FedDF: Ensemble Distillation for Robust Model Fusion in Federated Learning** [[paper]](https://arxiv.org/pdf/2006.07242) [[code]](https://github.com/epfml/federated-learning-public-code/tree/master)
 15. [2024 WACV] **FusionDistill: Consolidating separate degradations model via weights fusion and distillation** [[paper]](https://openaccess.thecvf.com/content/WACV2024W/VAQ/papers/Daultani_Consolidating_Separate_Degradations_Model_via_Weights_Fusion_and_Distillation_WACVW_2024_paper.pdf) [[code]](https://github.com/dineshdaultani/FusionDistill)
+16. [2023 arXiv] **Deep Model Fusion: A Survey** (https://arxiv.org/pdf/2309.15698)
+17. [2024 arXiv] **Multimodal Alignment and Fusion: A Survey** [[paper]](https://arxiv.org/pdf/2411.17040)
 
 <a name="Active"></a>
 ### Active learning/ Data Selection
