@@ -307,6 +307,7 @@
 14. [2026 ICRL] **SAM3:Segment Anything with Concepts** [[paper]](https://openreview.net/forum?id=r35clVtGzw)
 15. [2024 github] **SAM with text prompt** [[code]](https://github.com/luca-medeiros/lang-segment-anything)
 16. [2025 NIPS] **OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts** [[paper]](https://arxiv.org/pdf/2507.05427)
+17. [2025 ICCV] **E-SAM: Training-Free Segment Every Entity Model** [[paper]](https://arxiv.org/pdf/2503.12094)
 
 
 <a name="CLIP"></a>
