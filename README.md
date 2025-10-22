@@ -265,6 +265,7 @@
 12. [2024 arXiv] **DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models.** [[paper]](https://arXiv.org/pdf/2405.20985) [[code]](https://github.com/yaolinli/DeCo)
 13. [2024 CVPR] **Grounding Everything: Emerging Localization Properties in Vision-Language Transformers.** [[paper]](https://arXiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM)
 14. [2025 CVPR] **PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models.** [[paper]](https://arXiv.org/pdf/2504.08966) [[code]](https://github.com/orailix/PACT/tree/main)
+15. [2025 arXiv] **ZSPAPrune: zero-shot prompt-aware token pruning for vision-language models** [[paper]](https://arxiv.org/pdf/2510.17197v1)
 
 
 <a name="Segmentation_and_Detection"></a>
