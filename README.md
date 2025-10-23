@@ -167,6 +167,8 @@
 43. [2025 arXiv] **Constructive distortion: improving MLLMS with attention-guided image warping** [[paper]](https://arxiv.org/pdf/2510.09741v1) [[code]](https://dwipddalal.github.io/Attwarp/)
 44. [2025 NIPS] **MLMP: Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2505.21844v1) [[code]](https://github.com/dosowiechi/MLMP)
 45. [2025 arXiv] **Reorienting the Frozen Space: Training-Free Test-Time Adaptation by Geometric Transformation** [[paper]](https://openreview.net/attachment?id=nErnNhJx2o&name=pdf)
+46. [2025 arXiv] **Online in-context distillation for low-resource vision language models** [[paper]](https://arxiv.org/pdf/2510.18117v1)
+    
 
 
 <a name="Optimal_Transport"></a>
@@ -352,6 +354,7 @@
 37. [2025 CVPR] **Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages** [[paper]](https://arxiv.org/pdf/2503.11609) [[code]](https://github.com/FarinaMatteo/rethinking_fewshot_vlms)
 38. [2025 arXiv] **Exploring cross-modal flows for few-shot learning** [[paper]](https://arxiv.org/pdf/2510.14543)
 39. [2025 arXiv] **VisCoP: Visual Probing for Domain Adapatation of Vision Language Models** [[paper]](https://arxiv.org/pdf/2510.13808v1) [[code]](https://github.com/dominickrei/VisCoP/)
+40. [2025 arXiv] **ProCLIP: Progressive Vision-Language Alignment via LLM-based Embedder** [[paper]](https://arxiv.org/pdf/2510.18795v1) (https://github.com/VisionXLab/ProCLIP)
 
 <a name="open_vocabulary"></a>
 ## Open vocabulary
