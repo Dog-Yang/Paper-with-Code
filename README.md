@@ -447,3 +447,5 @@
 3. [2020 NIPS] **DDPM: Denoising Diffusion Probabilistic Models.** [[paper]](https://arXiv.org/pdf/2006.11239) [[code]](https://github.com/hojonathanho/diffusion)
 4. [2025 NIPS] **TTRL: Test-Time Reinforcement Learning** [[paper]](https://arxiv.org/pdf/2504.16084) [[code]](https://github.com/PRIME-RL/TTRL)
 5. [2025 NIPS] **Unified Reinforcement and Imitation Learning for Vision-Language Models** [[paper]](https://arxiv.org/pdf/2510.19307v1) [[code]](https://byungkwanlee.github.io/RIL-page/)
+6. [2021 ICCV] **Mean Shift for Self-Supervised Learning** [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Koohpayegani_Mean_Shift_for_Self-Supervised_Learning_ICCV_2021_paper.pdf) [[code]](https://github.com/UMBCvision/MSF)
+7. [2024 CVPR] **Contrastive Mean-Shift Learning for Generalized Category Discovery** [[paper]](https://arxiv.org/pdf/2404.09451) [[code]](https://github.com/sua-choi/CMS)
