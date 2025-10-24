@@ -3,7 +3,7 @@
 2. [[Training Free Segmentation](#Training_Free)]            
 3. [[Zero shot Classification/Test Time Adaptation](#Zero_shot_classification)]      
 4. [[Optimal Transport](#Optimal_Transport)]     
-5. [[CLIP](#CLIP)]           
+5. [[VLMs](#VLMs)]           
 6. [[Visual Place Recognition](#VPR)]         
 7. [[Token Mering, Clustering and Pruning](#Token_fusion)]           
 8. [[Backbone](#Backbone)]           
@@ -102,7 +102,7 @@
 23. [2025 arXiv] **One Patch to Caption Them All: A Unified Zero-Shot Captioning Framework** [[paper]](https://arxiv.org/pdf/2510.02898v1) [[code]](https://paciosoft.com/Patch-ioner/)
 24. [2025 CVPR] **Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2411.17150) [[code]](https://micv-yonsei.github.io/cass/)
 25. [2025 ICML] **Unlocking the Power of SAM 2 for Few-Shot Segmentation** [[paper]](https://arxiv.org/pdf/2505.14100) [[code]](https://github.com/Sam1224/FSSAM)
-
+26. [2025 arXiv] **Decomposed Attention Fusion in MLLMs for Training-Free Video Reasoning Segmentation** [[paper]](https://arxiv.org/pdf/2510.19592v1) [[code]](https://github.com/HYUNJS/DecAF)
 
 ***************************************************************
 1. [2024 WACV] **FOSSIL: Free Open-Vocabulary Semantic Segmentation through Synthetic References Retrieval.** [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Barsellotti_FOSSIL_Free_Open-Vocabulary_Semantic_Segmentation_Through_Synthetic_References_Retrieval_WACV_2024_paper.pdf)
@@ -313,8 +313,8 @@
 17. [2025 ICCV] **E-SAM: Training-Free Segment Every Entity Model** [[paper]](https://arxiv.org/pdf/2503.12094)
 
 
-<a name="CLIP"></a>
-## CLIP
+<a name="VLMs"></a>
+## VLMs and MLLM
 1. [2021 ICML] **CLIP: Learning transferable visual models from natural language supervision.** [[paper]](https://arXiv.org/pdf/2103.00020) [[code]](https://github.com/OpenAI/CLIP)
 2. [2022 IJCV] **CoOp: Learning to Prompt for Vision-Language Models.** [[paper]](https://arXiv.org/pdf/2109.01134) [[code]](https://github.com/KaiyangZhou/CoOp)
 3. [2022 ECCV] **VPT: Visual Prompt Tuning.** [[paper]](https://arXiv.org/pdf/2203.12119) [[code]](https://github.com/kmnp/vpt)
@@ -355,6 +355,7 @@
 38. [2025 arXiv] **Exploring cross-modal flows for few-shot learning** [[paper]](https://arxiv.org/pdf/2510.14543)
 39. [2025 arXiv] **VisCoP: Visual Probing for Domain Adapatation of Vision Language Models** [[paper]](https://arxiv.org/pdf/2510.13808v1) [[code]](https://github.com/dominickrei/VisCoP/)
 40. [2025 arXiv] **ProCLIP: Progressive Vision-Language Alignment via LLM-based Embedder** [[paper]](https://arxiv.org/pdf/2510.18795v1) (https://github.com/VisionXLab/ProCLIP)
+41. [2025 arXiv] **CARES:Context-AwareResolutionSelectorforVLMs** [[paper]](https://arxiv.org/pdf/2510.19496v1)
 
 <a name="open_vocabulary"></a>
 ## Open vocabulary
@@ -422,6 +423,8 @@
 1. [2025 ICLR] **FreDF: Learning to Forecast in the Frequency Domain** [[paper]](https://arxiv.org/pdf/2402.02399) [[code]](https://github.com/Master-PLC/FreDF)
 2. [2025 ICML] **Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting** [[paper]](https://arxiv.org/pdf/2502.04395) [[code]](https://github.com/CityMind-Lab/ICML25-TimeVLM)
 3. [2024 AAAI] **MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting** [[paper]](https://arxiv.org/pdf/2401.00423) [[code]](https://github.com/YoZhibo/MSGNet)
+4. [2025 arXiv] **Data efficient any transformer-to-mamba distillation via attention bridge** [[paper]](https://arxiv.org/pdf/2510.19266v1) [[code]](https://github.com/wph6/CAB)
+
 
 <a name="Deep_Estimation"></a>
 ## Deep Estimation
@@ -441,3 +444,4 @@
 2. [2019 ICCV] **CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features** [[paper]](https://arxiv.org/pdf/1905.04899) [[code]](https://github.com/clovaai/CutMix-PyTorch)
 3. [2020 NIPS] **DDPM: Denoising Diffusion Probabilistic Models.** [[paper]](https://arXiv.org/pdf/2006.11239) [[code]](https://github.com/hojonathanho/diffusion)
 4. [2025 NIPS] **TTRL: Test-Time Reinforcement Learning** [[paper]](https://arxiv.org/pdf/2504.16084) [[code]](https://github.com/PRIME-RL/TTRL)
+5. [2025 NIPS] **Unified Reinforcement and Imitation Learning for Vision-Language Models** [[paper]](https://arxiv.org/pdf/2510.19307v1) [[code]](https://byungkwanlee.github.io/RIL-page/)
