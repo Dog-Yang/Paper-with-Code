@@ -103,7 +103,7 @@
 22. [2025 CVPR] **SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label Recognition in Vision-Language Models.** [[paper]](https://arXiv.org/pdf/2502.16911?) [[code]](https://github.com/kjmillerCURIS/SPARC)
 23. [2025 CVPR] **LOPSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2503.19777) [[code]](https://github.com/vladan-stojnic/LPOSS/tree/main)
 24. [2025 arXiv] **One Patch to Caption Them All: A Unified Zero-Shot Captioning Framework** [[paper]](https://arxiv.org/pdf/2510.02898v1) [[code]](https://paciosoft.com/Patch-ioner/)
-25. [2025 CVPR] **Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2411.17150) [[code]](https://micv-yonsei.github.io/cass/)
+25. [2025 CVPR] **CASS: Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2411.17150) [[code]](https://micv-yonsei.github.io/cass/)
 26. [2025 ICML] **Unlocking the Power of SAM 2 for Few-Shot Segmentation** [[paper]](https://arxiv.org/pdf/2505.14100) [[code]](https://github.com/Sam1224/FSSAM)
 27. [2025 arXiv] **Decomposed Attention Fusion in MLLMs for Training-Free Video Reasoning Segmentation** [[paper]](https://arxiv.org/pdf/2510.19592v1) [[code]](https://github.com/HYUNJS/DecAF)
 
