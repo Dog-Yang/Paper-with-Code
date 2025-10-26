@@ -384,6 +384,7 @@
 19. [2024 ICLR] **CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction** [[paper]](https://arxiv.org/pdf/2310.01403) [[code]](https://github.com/wusize/CLIPSelf)
 20. [2025 CVPR] **DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception.** [[paper]](https://arXiv.org/pdf/2505.04410) [[code]](https://github.com/xiaomoguhz/DeCLIP)
 21. [2025 arXiv] **RefAM: Attention magnets for zero-shot referral segmentaion** [[paper]](https://arxiv.org/pdf/2509.22650v1) [[code]](https://github.com/Annusha/refam)
+22. [2023 NIPS] **OpenMask3D: Open-Vocabulary 3D Instance Segmentation** [[paper]](https://arxiv.org/pdf/2306.13631) [[code]](https://github.com/OpenMask3D/openmask3d)
 
 
 ### object detection
