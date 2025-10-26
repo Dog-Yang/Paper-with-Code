@@ -50,6 +50,7 @@
 29. [2025 RSE] **Strategic sampling for training a semantic segmentation model in operational mapping: Case studies on cropland parcel extraction** [[paper]](https://doi.org/10.1016/j.rse.2025.115034) [[data]](https://doi.org/10.5281/zenodo.16595511) [[code]](https://github.com/Remote-Sensing-of-Land-Resource-Lab/Training-Sample-Selection)
 30. [2025 Arxiv] **RSVG-ZeroOV: Exploring a Training-Free Framework for Zero-Shot Open-Vocabulary Visual Grounding in Remote Sensing Images** [[paper]](https://arxiv.org/pdf/2509.18711?)
 31. [2025 CVPR] **SkySense-O:TowardsOpen-WorldRemoteSensingInterpretation withVision-CentricVisual-LanguageModeling** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_SkySense-O_Towards_Open-World_Remote_Sensing_Interpretation_with_Vision-Centric_Visual-Language_Modeling_CVPR_2025_paper.pdf) [[code]](https://github.com/zqcrafts/SkySense-O)
+32. [2025 Arxiv] **SAR-KnowLIP: Towards Multimodal Foundation Models for Remote Sensing** [[paper]](https://arxiv.org/pdf/2509.23927) [[code]](https://github.com/yangyifremad/SARKnowLIP)
 
 
 <a name="Training_Free"></a>
@@ -171,6 +172,7 @@
 44. [2025 NIPS] **MLMP: Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2505.21844v1) [[code]](https://github.com/dosowiechi/MLMP)
 45. [2025 arXiv] **Reorienting the Frozen Space: Training-Free Test-Time Adaptation by Geometric Transformation** [[paper]](https://openreview.net/attachment?id=nErnNhJx2o&name=pdf)
 46. [2025 arXiv] **Online in-context distillation for low-resource vision language models** [[paper]](https://arxiv.org/pdf/2510.18117v1)
+47. [2025 NIPS] **TOMCAT:Test-timeComprehensive Knowledge Accumulation for Compositional Zero-Shot Learning** [[paper]](https://arxiv.org/pdf/2510.20162v1) [[code]](https://github.com/xud-yan/TOMCAT)
     
 
 
@@ -385,6 +387,7 @@
 20. [2025 CVPR] **DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception.** [[paper]](https://arXiv.org/pdf/2505.04410) [[code]](https://github.com/xiaomoguhz/DeCLIP)
 21. [2025 arXiv] **RefAM: Attention magnets for zero-shot referral segmentaion** [[paper]](https://arxiv.org/pdf/2509.22650v1) [[code]](https://github.com/Annusha/refam)
 22. [2023 NIPS] **OpenMask3D: Open-Vocabulary 3D Instance Segmentation** [[paper]](https://arxiv.org/pdf/2306.13631) [[code]](https://github.com/OpenMask3D/openmask3d)
+23. [2023 NIPS] **Weakly Supervised 3D Open-vocabulary Segmentation** [[paper]](https://arxiv.org/pdf/2305.14093) [[code]](https://github.com/Kunhao-Liu/3D-OVS)
 
 
 ### object detection
