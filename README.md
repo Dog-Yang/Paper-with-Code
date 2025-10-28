@@ -51,6 +51,7 @@
 30. [2025 Arxiv] **RSVG-ZeroOV: Exploring a Training-Free Framework for Zero-Shot Open-Vocabulary Visual Grounding in Remote Sensing Images** [[paper]](https://arxiv.org/pdf/2509.18711?)
 31. [2025 CVPR] **SkySense-O:TowardsOpen-WorldRemoteSensingInterpretation withVision-CentricVisual-LanguageModeling** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_SkySense-O_Towards_Open-World_Remote_Sensing_Interpretation_with_Vision-Centric_Visual-Language_Modeling_CVPR_2025_paper.pdf) [[code]](https://github.com/zqcrafts/SkySense-O)
 32. [2025 Arxiv] **SAR-KnowLIP: Towards Multimodal Foundation Models for Remote Sensing** [[paper]](https://arxiv.org/pdf/2509.23927) [[code]](https://github.com/yangyifremad/SARKnowLIP)
+33. [2025 Arxiv] **LG-CD: Enhancing Language-Guided Change Detection through SAM2 Adaptation** [[paper]](https://arxiv.org/pdf/2509.21894v1)
 
 
 <a name="Training_Free"></a>
