@@ -44,7 +44,7 @@
 23. [2025 Arxiv] **ATRNet-STAR: A Large Dataset and Benchmark Towards Remote Sensing Object Recognition in the Wild** [[paper]](https://arxiv.org/abs/2501.13354) [[code]](https://github.com/waterdisappear/ATRNet-STAR)
 24. [2025 Arxiv] **RSKT-Seg: Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing** [[paper]](https://arxiv.org/pdf/2509.12040) [[code]](https://github.com/LiBingyu01/RSKT-Seg)
 25. [2025 ISPRS]  **AdaptVFMs-RSCD: Advancing Remote Sensing Change Detection from binary to semantic with SAM and CLIP** [[paper]](https://doi.org/10.1016/j.isprsjprs.2025.09.010) [[data]](https://github.com/Jiang-CHD-YunNan/RS-VFMs-Fine-tuning-Dataset)
-26. **PeftCD: Leveraging Vision Foundation Models with Parameter-Efficient Fine-Tuning for Remote Sensing Change Detection** [[paper]](https://arxiv.org/pdf/2509.09572) [[code]](https://github.com/dyzy41/PeftCD)
+26. [2025 Arxiv] **PeftCD: Leveraging Vision Foundation Models with Parameter-Efficient Fine-Tuning for Remote Sensing Change Detection** [[paper]](https://arxiv.org/pdf/2509.09572) [[code]](https://github.com/dyzy41/PeftCD)
 27. [2025 Arxiv] **AlignCLIP: Self-Guided Alignment for Remote Sensing Open-Vocabulary Semantic Segmentation** [[paper]](https://openreview.net/forum?id=hpD3tn7Xbp) [[code]](https://openreview.net/attachment?id=hpD3tn7Xbp&name=supplementary_material)
 28. [2025 Arxiv] **Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models** [[paper]](https://arxiv.org/pdf/2510.07135) [[code]](https://github.com/elkhouryk/fewshot_RSVLMs)
 29. [2025 RSE] **Strategic sampling for training a semantic segmentation model in operational mapping: Case studies on cropland parcel extraction** [[paper]](https://doi.org/10.1016/j.rse.2025.115034) [[data]](https://doi.org/10.5281/zenodo.16595511) [[code]](https://github.com/Remote-Sensing-of-Land-Resource-Lab/Training-Sample-Selection)
@@ -52,7 +52,8 @@
 31. [2025 CVPR] **SkySense-O:TowardsOpen-WorldRemoteSensingInterpretation withVision-CentricVisual-LanguageModeling** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_SkySense-O_Towards_Open-World_Remote_Sensing_Interpretation_with_Vision-Centric_Visual-Language_Modeling_CVPR_2025_paper.pdf) [[code]](https://github.com/zqcrafts/SkySense-O)
 32. [2025 Arxiv] **SAR-KnowLIP: Towards Multimodal Foundation Models for Remote Sensing** [[paper]](https://arxiv.org/pdf/2509.23927) [[code]](https://github.com/yangyifremad/SARKnowLIP)
 33. [2025 Arxiv] **LG-CD: Enhancing Language-Guided Change Detection through SAM2 Adaptation** [[paper]](https://arxiv.org/pdf/2509.21894v1)
-
+34. [2025 CVM] **Remote sensing tuning: A survey** [[paper]](https://ieeexplore.ieee.org/document/11119145) [[code]](https://github.com/DongshuoYin/Remote-Sensing-Tuning-A-Survey)
+35. [2025 ISPRS] **AdaptVFMs-RSCD:Advancing Remote Sensing Change Detection from binary to semantic with SAM and CLIP** [[paper]](https://www.sciencedirect.com/science/article/pii/S0924271625003636) [[data]](https://github.com/Jiang-CHD-YunNan/RS-VFMs-Fine-tuning-Dataset)
 
 <a name="Training_Free"></a>
 ## Training Free Segmentation
@@ -75,7 +76,8 @@
 16. [2024 CVPR] **GEM: Grounding Everything: Emerging Localization Properties in Vision-Language Transformers.** [[paper]](https://arXiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM)
 17. [2025 CVPRW] **ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements.** [[paper]](https://arXiv.org/pdf/2411.12044) [[code]](https://github.com/m-arda-aydn/ITACLIP)
 18. [2025 arXiv] **Improving visual discriminability of clip for training-free open-vocabulary semantic segmentation** [[paper]](https://openreview.net/attachment?id=tKO2l8oICt&name=pdf)
-19. [2025 NIPS] **MLMP: Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2505.21844v1) [[code]](https://github.com/dosowiechi/MLMP)
+19. [2025 ICCV] **ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation.** [[paper]](https://arXiv.org/pdf/2506.21233) [[code]](https://github.com/xiweix/ReME)
+20. [2024 CVPR] **CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor.** [[paper]](https://arXiv.org/pdf/2312.07661) [[code]](https://github.com/kevin-ssy/CLIP_as_RNN)
 
 
 
@@ -108,21 +110,20 @@
 25. [2025 CVPR] **CASS: Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2411.17150) [[code]](https://micv-yonsei.github.io/cass/)
 26. [2025 ICML] **Unlocking the Power of SAM 2 for Few-Shot Segmentation** [[paper]](https://arxiv.org/pdf/2505.14100) [[code]](https://github.com/Sam1224/FSSAM)
 27. [2025 arXiv] **Decomposed Attention Fusion in MLLMs for Training-Free Video Reasoning Segmentation** [[paper]](https://arxiv.org/pdf/2510.19592v1) [[code]](https://github.com/HYUNJS/DecAF)
+28. [2024 WACV] **FOSSIL: Free Open-Vocabulary Semantic Segmentation through Synthetic References Retrieval.** [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Barsellotti_FOSSIL_Free_Open-Vocabulary_Semantic_Segmentation_Through_Synthetic_References_Retrieval_WACV_2024_paper.pdf)
+29. [2024 NIPS] **Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts** [[paper]](https://arxiv.org/pdf/2410.05963)
 
 ***************************************************************
-1. [2024 WACV] **FOSSIL: Free Open-Vocabulary Semantic Segmentation through Synthetic References Retrieval.** [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Barsellotti_FOSSIL_Free_Open-Vocabulary_Semantic_Segmentation_Through_Synthetic_References_Retrieval_WACV_2024_paper.pdf)
-2. [2024 AAAI] **TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training.** [[paper]](https://arXiv.org/pdf/2312.12828) [[code]](https://github.com/linyq2117/TagCLIP)
-3. [2024 CVPR] **Emergent Open-Vocabulary Semantic Segmentation from Off-the-shelf Vision-Language Models.** [[paper]](https://arXiv.org/pdf/2311.17095) [[code]](https://github.com/letitiabanana/PnP-OVSS)
-4. [2024 CVPR] **CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor.** [[paper]](https://arXiv.org/pdf/2312.07661) [[code]](https://github.com/kevin-ssy/CLIP_as_RNN)
-5. [2024 CVPR] **Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2404.00262) [[code]](https://github.com/072jiajia/image-text-co-decomposition)
-6. [2024 ECCV] **In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2408.04961) [[code]](https://github.com/dahyun-kang/lavg)
-8. [2025 ICCV] **LUDVIG: Learning-free uplifting of 2D visual features to gaussuan splatting scenes.** [[paper]](https://arXiv.org/pdf/2410.14462#page=17.85) [[code]](https://github.com/naver/ludvig)
-9. [2025 CVPR] **MOS: Modeling Object-Scene Associations in Generalized Category Discovery.** [[paper]](https://arXiv.org/pdf/2503.12035) [[code]](https://github.com/JethroPeng/MOS)
-10. [2024 NIPS] **Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels** [[paper]](https://arxiv.org/pdf/2409.19846)  [[code]](https://github.com/cvlab-kaist/PixelCLIP)
-11. [2024 NIPS] **Renovating Names in Open-Vocabulary Segmentation Benchmarks** [[paper]](https://arxiv.org/pdf/2403.09593)
-12. [2024 NIPS] **Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts** [[paper]](https://arxiv.org/pdf/2410.05963)
-14. [2025 ICCV] **ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation.** [[paper]](https://arXiv.org/pdf/2506.21233) [[code]](https://github.com/xiweix/ReME)
-15. [2025 NIPS] **E-SD³: Fine-Grained Confidence-Aware Fusion of SD3 for Zero-Shot Semantic Matching** [[paper]](https://neurips.cc/virtual/2025/poster/119532) [[code]](https://github.com/panda7777777/feature-fusion)
+1. [2024 AAAI] **TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training.** [[paper]](https://arXiv.org/pdf/2312.12828) [[code]](https://github.com/linyq2117/TagCLIP)
+2. [2024 CVPR] **Emergent Open-Vocabulary Semantic Segmentation from Off-the-shelf Vision-Language Models.** [[paper]](https://arXiv.org/pdf/2311.17095) [[code]](https://github.com/letitiabanana/PnP-OVSS)
+3. [2024 CVPR] **Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2404.00262) [[code]](https://github.com/072jiajia/image-text-co-decomposition)
+4. [2024 ECCV] **In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2408.04961) [[code]](https://github.com/dahyun-kang/lavg)
+5. [2025 ICCV] **LUDVIG: Learning-free uplifting of 2D visual features to gaussuan splatting scenes.** [[paper]](https://arXiv.org/pdf/2410.14462#page=17.85) [[code]](https://github.com/naver/ludvig)
+6. [2025 CVPR] **MOS: Modeling Object-Scene Associations in Generalized Category Discovery.** [[paper]](https://arXiv.org/pdf/2503.12035) [[code]](https://github.com/JethroPeng/MOS)
+7. [2024 NIPS] **Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels** [[paper]](https://arxiv.org/pdf/2409.19846)  [[code]](https://github.com/cvlab-kaist/PixelCLIP)
+8. [2024 NIPS] **Renovating Names in Open-Vocabulary Segmentation Benchmarks** [[paper]](https://arxiv.org/pdf/2403.09593)
+9. [2025 NIPS] **E-SD³: Fine-Grained Confidence-Aware Fusion of SD3 for Zero-Shot Semantic Matching** [[paper]](https://neurips.cc/virtual/2025/poster/119532) [[code]](https://github.com/panda7777777/feature-fusion)
+10. [2025 NIPS] **MLMP: Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2505.21844v1) [[code]](https://github.com/dosowiechi/MLMP)
 
 
 <a name="Zero_shot_classification"></a>
