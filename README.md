@@ -63,7 +63,7 @@
 3. [2025 arXiv] **A Survey on Training-free Open-Vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2505.22209)
 4. [2022 ECCV] **Maskclip: Extract Free Dense Labels from CLIP.** [[paper]](https://arXiv.org/pdf/2112.01071) [[code]](https://github.com/chongzhou96/MaskCLIP)
 5. [2024 ECCV] **SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference.** [[paper]](https://arXiv.org/pdf/2312.01597) [[code]](https://github.com/wangf3014/SCLIP)
-6. [2024 ECCV] **Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2407.08268) [[code]](https://github.com/leaves162/CLIPtrase)
+6. [2024 ECCV] **CLIPtrase: Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2407.08268) [[code]](https://github.com/leaves162/CLIPtrase)
 7. [2024 ECCV] **ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference.** [[paper]](https://arXiv.org/pdf/2407.12442) [[code]](https://github.com/mc-lan/ClearCLIP)
 8. [2025 AAAI] **Unveiling the Knowledge of CLIP for Training-Free Open-Vocabulary Semantic Segmentation.** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32602) [[code]](https://ojs.aaai.org/index.php/AAAI/article/view/32602)
 9. [2022 NIPS] **ReCo: Retrieve and Co-segment for Zero-shot Transfer.** [[paper]](https://arXiv.org/pdf/2206.07045) [[code]](https://github.com/NoelShin/reco)
