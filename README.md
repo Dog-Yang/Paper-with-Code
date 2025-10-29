@@ -362,6 +362,7 @@
 39. [2025 arXiv] **VisCoP: Visual Probing for Domain Adapatation of Vision Language Models** [[paper]](https://arxiv.org/pdf/2510.13808v1) [[code]](https://github.com/dominickrei/VisCoP/)
 40. [2025 arXiv] **ProCLIP: Progressive Vision-Language Alignment via LLM-based Embedder** [[paper]](https://arxiv.org/pdf/2510.18795v1) (https://github.com/VisionXLab/ProCLIP)
 41. [2025 arXiv] **CARES:Context-AwareResolutionSelectorforVLMs** [[paper]](https://arxiv.org/pdf/2510.19496v1)
+42. [2025 ICCV] **Controllable-LPMoE: Adapting to Challenging Object Segmentation via Dynamic Local Priors from Mixture-of-Experts** [[paper]](https://arxiv.org/pdf/2510.21114v1) [[code]](https://github.com/CSYSI/Controllable-LPMoE)
 
 <a name="open_vocabulary"></a>
 ## Open vocabulary
