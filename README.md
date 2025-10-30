@@ -200,6 +200,7 @@
 18. [2020 NIPS] **Model Fusion via Optimal Transport** [[paper]](https://arxiv.org/pdf/1910.05653) [[code]](https://github.com/sidak/otfusion)
 19. [2024 ICLR] **Transformer Fusion with Optimal Transport** [[paper]](https://arxiv.org/pdf/2310.05719) [[code]](https://github.com/graldij/transformer-fusion)
 20. [2023 ICAC] **Att-Sinkhorn: Multimodal Alignment with Sinkhorn-based Deep Attention Architecture** [[paper]](https://ieeexplore.ieee.org/document/10275301)
+21. [2025 NIPS] **Enhancing CLIP Robustness via Cross-Modality Alignment** [[paper]](https://arxiv.org/pdf/2510.24038v1) 
 
 
 <a name="WSSS"></a>
@@ -364,6 +365,7 @@
 40. [2025 arXiv] **ProCLIP: Progressive Vision-Language Alignment via LLM-based Embedder** [[paper]](https://arxiv.org/pdf/2510.18795v1) (https://github.com/VisionXLab/ProCLIP)
 41. [2025 arXiv] **CARES:Context-AwareResolutionSelectorforVLMs** [[paper]](https://arxiv.org/pdf/2510.19496v1)
 42. [2025 ICCV] **Controllable-LPMoE: Adapting to Challenging Object Segmentation via Dynamic Local Priors from Mixture-of-Experts** [[paper]](https://arxiv.org/pdf/2510.21114v1) [[code]](https://github.com/CSYSI/Controllable-LPMoE)
+43. [2025 ICLR] **Mitigate the Gap: Investigating Approaches for Improving Cross-Modal Alignment in CLIP** [[paper]](https://arxiv.org/pdf/2406.17639) [[code]](https://github.com/sarahESL/AlignCLIP)
 
 <a name="open_vocabulary"></a>
 ## Open vocabulary
