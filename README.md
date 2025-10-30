@@ -54,6 +54,9 @@
 33. [2025 Arxiv] **LG-CD: Enhancing Language-Guided Change Detection through SAM2 Adaptation** [[paper]](https://arxiv.org/pdf/2509.21894v1)
 34. [2025 CVM] **Remote sensing tuning: A survey** [[paper]](https://ieeexplore.ieee.org/document/11119145) [[code]](https://github.com/DongshuoYin/Remote-Sensing-Tuning-A-Survey)
 35. [2025 ISPRS] **AdaptVFMs-RSCD:Advancing Remote Sensing Change Detection from binary to semantic with SAM and CLIP** [[paper]](https://www.sciencedirect.com/science/article/pii/S0924271625003636) [[data]](https://github.com/Jiang-CHD-YunNan/RS-VFMs-Fine-tuning-Dataset)
+36.[2025 NatureMI] **A semantic-enhanced multi-modal remote sensing foundation model for Earth observation** [[paper]](https://www.nature.com/articles/s42256-025-01078-8)
+
+
 
 <a name="Training_Free"></a>
 ## Training Free Segmentation
@@ -78,7 +81,6 @@
 18. [2025 arXiv] **Improving visual discriminability of clip for training-free open-vocabulary semantic segmentation** [[paper]](https://openreview.net/attachment?id=tKO2l8oICt&name=pdf)
 19. [2025 ICCV] **ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation.** [[paper]](https://arXiv.org/pdf/2506.21233) [[code]](https://github.com/xiweix/ReME)
 20. [2024 CVPR] **CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor.** [[paper]](https://arXiv.org/pdf/2312.07661) [[code]](https://github.com/kevin-ssy/CLIP_as_RNN)
-
 
 
 ***************************************************************
