@@ -54,7 +54,7 @@
 33. [2025 Arxiv] **LG-CD: Enhancing Language-Guided Change Detection through SAM2 Adaptation** [[paper]](https://arxiv.org/pdf/2509.21894v1)
 34. [2025 CVM] **Remote sensing tuning: A survey** [[paper]](https://ieeexplore.ieee.org/document/11119145) [[code]](https://github.com/DongshuoYin/Remote-Sensing-Tuning-A-Survey)
 35. [2025 ISPRS] **AdaptVFMs-RSCD:Advancing Remote Sensing Change Detection from binary to semantic with SAM and CLIP** [[paper]](https://www.sciencedirect.com/science/article/pii/S0924271625003636) [[data]](https://github.com/Jiang-CHD-YunNan/RS-VFMs-Fine-tuning-Dataset)
-36.[2025 NatureMI] **A semantic-enhanced multi-modal remote sensing foundation model for Earth observation** [[paper]](https://www.nature.com/articles/s42256-025-01078-8)
+36. [2025 NatureMI] **A semantic-enhanced multi-modal remote sensing foundation model for Earth observation** [[paper]](https://www.nature.com/articles/s42256-025-01078-8)
 
 
 
