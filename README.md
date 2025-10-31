@@ -178,6 +178,7 @@
 46. [2025 arXiv] **Online in-context distillation for low-resource vision language models** [[paper]](https://arxiv.org/pdf/2510.18117v1)
 47. [2025 NIPS] **TOMCAT:Test-timeComprehensive Knowledge Accumulation for Compositional Zero-Shot Learning** [[paper]](https://arxiv.org/pdf/2510.20162v1) [[code]](https://github.com/xud-yan/TOMCAT)
 48. [2025 arXiv] **Seeing but not believing: probing the disconnect betwwen visual attention and answer correctness in VLMs** [[paper]](https://arxiv.org/pdf/2510.17771v1)
+49. [2025 arXiv] **Adapting Vision-Language Models Without Labels: A Comprehensive Survey** [[paper]](https://arxiv.org/pdf/2508.05547?) [[code]](https://github.com/tim-learn/Awesome-LabelFree-VLMs)
 
 
 <a name="Optimal_Transport"></a>
