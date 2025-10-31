@@ -177,7 +177,7 @@
 45. [2025 arXiv] **Reorienting the Frozen Space: Training-Free Test-Time Adaptation by Geometric Transformation** [[paper]](https://openreview.net/attachment?id=nErnNhJx2o&name=pdf)
 46. [2025 arXiv] **Online in-context distillation for low-resource vision language models** [[paper]](https://arxiv.org/pdf/2510.18117v1)
 47. [2025 NIPS] **TOMCAT:Test-timeComprehensive Knowledge Accumulation for Compositional Zero-Shot Learning** [[paper]](https://arxiv.org/pdf/2510.20162v1) [[code]](https://github.com/xud-yan/TOMCAT)
-    
+48. [2025 arXiv] **Seeing but not believing: probing the disconnect betwwen visual attention and answer correctness in VLMs** [[paper]](https://arxiv.org/pdf/2510.17771v1)
 
 
 <a name="Optimal_Transport"></a>
