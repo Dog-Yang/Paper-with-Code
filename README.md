@@ -183,8 +183,8 @@
 48. [2025 arXiv] **Seeing but not believing: probing the disconnect betwwen visual attention and answer correctness in VLMs** [[paper]](https://arxiv.org/pdf/2510.17771v1)
 49. [2025 arXiv] **Adapting Vision-Language Models Without Labels: A Comprehensive Survey** [[paper]](https://arxiv.org/pdf/2508.05547?) [[code]](https://github.com/tim-learn/Awesome-LabelFree-VLMs)
 50. [2025 arXiv] **Representation-Level Counterfactual Calibration for Debiased Zero-Shot Recognition** [[paper]](https://arxiv.org/pdf/2510.26466v1) [[code]](https://github.com/peipeng98)
-51. [2025 arXiv] **A-TPT: Angular Diversity Calibration Properties for Test-Time Prompt Tuning of Vision-Language Models** [[paper]](https://arxiv.org/pdf/2510.26441v1) 
-
+51. [2025 arXiv] **A-TPT: Angular Diversity Calibration Properties for Test-Time Prompt Tuning of Vision-Language Models** [[paper]](https://arxiv.org/pdf/2510.26441v1)
+52. [2025 ICLR] **Basis sharing: cross-layer parameter sharing for large language model compression** [[paper]](https://arxiv.org/pdf/2410.03765) [[code]](https://github.com/TUDa-HWAI/Basis_Sharing)
 
 <a name="Optimal_Transport"></a>
 ## Optimal Transport
