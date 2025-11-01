@@ -180,6 +180,7 @@
 47. [2025 NIPS] **TOMCAT:Test-timeComprehensive Knowledge Accumulation for Compositional Zero-Shot Learning** [[paper]](https://arxiv.org/pdf/2510.20162v1) [[code]](https://github.com/xud-yan/TOMCAT)
 48. [2025 arXiv] **Seeing but not believing: probing the disconnect betwwen visual attention and answer correctness in VLMs** [[paper]](https://arxiv.org/pdf/2510.17771v1)
 49. [2025 arXiv] **Adapting Vision-Language Models Without Labels: A Comprehensive Survey** [[paper]](https://arxiv.org/pdf/2508.05547?) [[code]](https://github.com/tim-learn/Awesome-LabelFree-VLMs)
+50. [2025 arXiv] **Representation-Level Counterfactual Calibration for Debiased Zero-Shot Recognition** [[paper]](https://arxiv.org/pdf/2510.26466v1) [[code]](https://github.com/peipeng98)
 
 
 <a name="Optimal_Transport"></a>
@@ -464,3 +465,4 @@
 5. [2025 NIPS] **Unified Reinforcement and Imitation Learning for Vision-Language Models** [[paper]](https://arxiv.org/pdf/2510.19307v1) [[code]](https://byungkwanlee.github.io/RIL-page/)
 6. [2021 ICCV] **Mean Shift for Self-Supervised Learning** [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Koohpayegani_Mean_Shift_for_Self-Supervised_Learning_ICCV_2021_paper.pdf) [[code]](https://github.com/UMBCvision/MSF)
 7. [2024 CVPR] **Contrastive Mean-Shift Learning for Generalized Category Discovery** [[paper]](https://arxiv.org/pdf/2404.09451) [[code]](https://github.com/sua-choi/CMS)
+8. [2025 arXiv] **Emu3.5: Native Multimodal Models are World Learners** [[paper]](https://arxiv.org/pdf/2510.26583v1) [[code]](https://github.com/baaivision/Emu3.5)
