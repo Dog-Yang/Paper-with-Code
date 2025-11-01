@@ -33,7 +33,7 @@
 12. [2025 CVPR] **XLRS-Bench: Could Your Multimodal LLMs Understand Extremely Large Ultra-High-Resolution Remote Sensing Imagery?** [[paper]](https://arXiv.org/abs/2503.23771) [[code]](https://github.com/EvolvingLMMs-Lab/XLRS-Bench)
 13. [2025 CVPR] **Exact: Exploring Space-Time Perceptive Clues for Weakly Supervised Satellite Image Time Series Semantic Segmentation.** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Exact_Exploring_Space-Time_Perceptive_Clues_for_Weakly_Supervised_Satellite_Image_CVPR_2025_paper.pdf) [[code]](https://github.com/MiSsU-HH/Exact)
 14. [2025 Arxiv] **SegEarth-OV-2: Annotation-Free Open-Vocabulary Segmentation for Remote-Sensing Images** [[paper]](https://arxiv.org/abs/2508.18067)  [[code]](https://github.com/earth-insights/SegEarth-OV-2)
-15. [2025 AAAI] **Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation** [[paper]](https://arxiv.org/abs/2412.19492) [[code]](https://github.com/yecy749/GSNet)
+15. [2025 AAAI] **GSNet: Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation** [[paper]](https://arxiv.org/abs/2412.19492) [[code]](https://github.com/yecy749/GSNet)
 16. [2025 Arxiv] **InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition** [[paper]](https://arxiv.org/pdf/2505.15818) [[code]](https://github.com/VoyagerXvoyagerx/InstructSAM)
 17. [2025 Arxiv] **DescribeEarth: Describe Anything for Remote Sensing Images** [[paper]](https://arxiv.org/pdf/2509.25654v1) [[code]](https://github.com/earth-insights/DescribeEarth)
 18. [2025 NIPS] **GTPBD: A Fine-Grained Global Terraced Parcel and Boundary Dataset** [[paper]](https://arxiv.org/abs/2507.14697) [[code]](https://github.com/Z-ZW-WXQ/GTPBD)
