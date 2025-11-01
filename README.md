@@ -58,6 +58,8 @@
 34. [2025 CVM] **Remote sensing tuning: A survey** [[paper]](https://ieeexplore.ieee.org/document/11119145) [[code]](https://github.com/DongshuoYin/Remote-Sensing-Tuning-A-Survey)
 35. [2025 ISPRS] **AdaptVFMs-RSCD:Advancing Remote Sensing Change Detection from binary to semantic with SAM and CLIP** [[paper]](https://www.sciencedirect.com/science/article/pii/S0924271625003636) [[data]](https://github.com/Jiang-CHD-YunNan/RS-VFMs-Fine-tuning-Dataset)
 36. [2025 NatureMI] **A semantic-enhanced multi-modal remote sensing foundation model for Earth observation** [[paper]](https://www.nature.com/articles/s42256-025-01078-8)
+37. [2025 NIPS] **Can Large Multimodal Models Understand Agricultural Scenes? Benchmarking with AgroMind** [[paper]](https://arxiv.org/pdf/2505.12207) [[code]](https://github.com/rssysu/AgroMind)
+38. [2025 TPAMI] **RingMo-Aerial: An Aerial Remote Sensing Foundation Model With Affine Transformation Contrastive Learning** [[paper]](https://arxiv.org/pdf/2409.13366)
 
 <a name="Training_Free"></a>
 ## Training Free Segmentation
@@ -282,6 +284,7 @@
 13. [2024 CVPR] **Grounding Everything: Emerging Localization Properties in Vision-Language Transformers.** [[paper]](https://arXiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM)
 14. [2025 CVPR] **PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models.** [[paper]](https://arXiv.org/pdf/2504.08966) [[code]](https://github.com/orailix/PACT/tree/main)
 15. [2025 arXiv] **ZSPAPrune: zero-shot prompt-aware token pruning for vision-language models** [[paper]](https://arxiv.org/pdf/2510.17197v1)
+16. [2025 NIPS] **Don't Just Chase “Highlighted Tokens” in MLLMs: Revisiting Visual Holistic Context Retention** [[paper]](https://arxiv.org/pdf/2510.02912) [[code]](https://github.com/obananas/HoloV) 
 
 
 <a name="Segmentation_and_Detection"></a>
