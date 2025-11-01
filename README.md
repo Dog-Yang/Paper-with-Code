@@ -372,6 +372,7 @@
 41. [2025 arXiv] **CARES:Context-AwareResolutionSelectorforVLMs** [[paper]](https://arxiv.org/pdf/2510.19496v1)
 42. [2025 ICCV] **Controllable-LPMoE: Adapting to Challenging Object Segmentation via Dynamic Local Priors from Mixture-of-Experts** [[paper]](https://arxiv.org/pdf/2510.21114v1) [[code]](https://github.com/CSYSI/Controllable-LPMoE)
 43. [2025 ICLR] **Mitigate the Gap: Investigating Approaches for Improving Cross-Modal Alignment in CLIP** [[paper]](https://arxiv.org/pdf/2406.17639) [[code]](https://github.com/sarahESL/AlignCLIP)
+44. [2025 arXiv] **Counteracting Matthew Effect in Self-Improvement of LVLMs through Head-Tail Re-balancing** [[paper]](https://arxiv.org/pdf/2510.26474v1) 
 
 <a name="open_vocabulary"></a>
 ## Open vocabulary
