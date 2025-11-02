@@ -209,7 +209,7 @@
 19. [2024 ICLR] **Transformer Fusion with Optimal Transport** [[paper]](https://arxiv.org/pdf/2310.05719) [[code]](https://github.com/graldij/transformer-fusion)
 20. [2023 ICAC] **Att-Sinkhorn: Multimodal Alignment with Sinkhorn-based Deep Attention Architecture** [[paper]](https://ieeexplore.ieee.org/document/10275301)
 21. [2025 NIPS] **Enhancing CLIP Robustness via Cross-Modality Alignment** [[paper]](https://arxiv.org/pdf/2510.24038v1)
-22. [2024 ICLR] Towards meta-pruning via optimal transport [[paper]](https://arxiv.org/pdf/2402.07839) [[code]](https://github.com/alexandertheus/Intra-Fusion)
+22. [2024 ICLR] **Towards meta-pruning via optimal transport** [[paper]](https://arxiv.org/pdf/2402.07839) [[code]](https://github.com/alexandertheus/Intra-Fusion)
 
 
 <a name="WSSS"></a>
