@@ -193,7 +193,7 @@
 3. [2025 CVPR] **POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation.** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf) [[code]](https://github.com/jianwang91/POT)
 4. [2025 CVPR] **RAM: Open-Vocabulary Multi-Label Recognition through Knowledge-Constrained Transport.** [[paper]](https://arXiv.org/pdf/2503.15337) [[code]](https://github.com/EricTan7/RAM)
 5. [2022 NIPS] **SwAV: Unsupervised Learning of Visual Features by Contrasting Cluster Assignments.** [[paper]](https://arXiv.org/pdf/2006.09882) [[code]](https://github.com/facebookresearch/swav)
-6. [2023 ICRL] **PLOT: Prompt Learning with Optimal Transport for Vision-Language Models.** [[paper]](https://arXiv.org/pdf/2210.01253) [[code]](https://github.com/CHENGY12/PLOT)
+6. [2023 ICLR] **PLOT: Prompt Learning with Optimal Transport for Vision-Language Models.** [[paper]](https://arXiv.org/pdf/2210.01253) [[code]](https://github.com/CHENGY12/PLOT)
 7. [2024 NIPS] **OTTER: Effortless Label Distribution Adaptation of Zero-shot Models.** [[paper]](https://arXiv.org/pdf/2404.08461) [[code]](https://github.com/sprocketlab/otter)
 8. [2025 ICCV] **LaZSL: Intrepretable Zero-Shot Learning with Locally-Aligned Vision-Language Model.** [[paper]](https://arXiv.org/pdf/2506.23822) [[code]](https://github.com/shiming-chen/LaZSL)
 9. [2025 CVPR] **Conformal Prediction for Zero-Shot Models.** [[paper]](https://arXiv.org/pdf/2505.24693) [[code]](https://github.com/jusiro/CLIP-Conformal)
@@ -208,7 +208,8 @@
 18. [2020 NIPS] **Model Fusion via Optimal Transport** [[paper]](https://arxiv.org/pdf/1910.05653) [[code]](https://github.com/sidak/otfusion)
 19. [2024 ICLR] **Transformer Fusion with Optimal Transport** [[paper]](https://arxiv.org/pdf/2310.05719) [[code]](https://github.com/graldij/transformer-fusion)
 20. [2023 ICAC] **Att-Sinkhorn: Multimodal Alignment with Sinkhorn-based Deep Attention Architecture** [[paper]](https://ieeexplore.ieee.org/document/10275301)
-21. [2025 NIPS] **Enhancing CLIP Robustness via Cross-Modality Alignment** [[paper]](https://arxiv.org/pdf/2510.24038v1) 
+21. [2025 NIPS] **Enhancing CLIP Robustness via Cross-Modality Alignment** [[paper]](https://arxiv.org/pdf/2510.24038v1)
+22. [2024 ICLR] Towards meta-pruning via optimal transport [[paper]](https://arxiv.org/pdf/2402.07839) [[code]](https://github.com/alexandertheus/Intra-Fusion)
 
 
 <a name="WSSS"></a>
