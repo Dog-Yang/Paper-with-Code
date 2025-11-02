@@ -285,7 +285,10 @@
 13. [2024 CVPR] **Grounding Everything: Emerging Localization Properties in Vision-Language Transformers.** [[paper]](https://arXiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM)
 14. [2025 CVPR] **PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models.** [[paper]](https://arXiv.org/pdf/2504.08966) [[code]](https://github.com/orailix/PACT/tree/main)
 15. [2025 arXiv] **ZSPAPrune: zero-shot prompt-aware token pruning for vision-language models** [[paper]](https://arxiv.org/pdf/2510.17197v1)
-16. [2025 NIPS] **Don't Just Chase “Highlighted Tokens” in MLLMs: Revisiting Visual Holistic Context Retention** [[paper]](https://arxiv.org/pdf/2510.02912) [[code]](https://github.com/obananas/HoloV) 
+16. [2025 NIPS] **Don't Just Chase “Highlighted Tokens” in MLLMs: Revisiting Visual Holistic Context Retention** [[paper]](https://arxiv.org/pdf/2510.02912) [[code]](https://github.com/obananas/HoloV)
+17. [2021 NIPS] **DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification** [[paper]](https://arxiv.org/pdf/2106.02034) [[code]](https://github.com/raoyongming/DynamicViT)
+18. [2022 CVPR] **A-ViT: Adaptive Tokens for Efficient Vision Transformer** [[paper]](https://arxiv.org/pdf/2112.07658) [[code]](https://a-vit.github.io/)
+19. [2023 ICLR] **ToMe: Token merging: Your vit but faster token** [[paper]](https://arxiv.org/pdf/2210.09461) [[code]](https://github.com/facebookresearch/ToMe)
 
 
 <a name="Segmentation_and_Detection"></a>
