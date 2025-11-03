@@ -60,6 +60,9 @@
 36. [2025 NatureMI] **A semantic-enhanced multi-modal remote sensing foundation model for Earth observation** [[paper]](https://www.nature.com/articles/s42256-025-01078-8)
 37. [2025 NIPS] **Can Large Multimodal Models Understand Agricultural Scenes? Benchmarking with AgroMind** [[paper]](https://arxiv.org/pdf/2505.12207) [[code]](https://github.com/rssysu/AgroMind)
 38. [2025 TPAMI] **RingMo-Aerial: An Aerial Remote Sensing Foundation Model With Affine Transformation Contrastive Learning** [[paper]](https://arxiv.org/pdf/2409.13366)
+39. [2025 Arxiv] **FoBa: A Foreground-Background co-Guided Method and New Benchmark for Remote Sensing Semantic Change Detection** [[paper]](https://arxiv.org/pdf/2509.15788) [[code]](https://github.com/zmoka-zht/FoBa)
+
+
 
 <a name="Training_Free"></a>
 ## Training Free Segmentation
