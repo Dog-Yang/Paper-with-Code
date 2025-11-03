@@ -138,7 +138,7 @@
 ## Zero shot Classification / Test Time Adaptation
 1. [2024 NIPS] **SpLiCE: Interpreting CLIP with Sparse Linear Concept Embeddings.** [[paper]](https://proceedings.NIPS.cc/paper_files/paper/2024/file/996bef37d8a638f37bdfcac2789e835d-Paper-Conference.pdf) [[code]](https://github.com/AI4LIFE-GROUP/SpLiCE)
 2. [2024 NIPS] **Transclip: Boosting Vision-Language Models with Transduction.** [[paper]](https://arXiv.org/pdf/2406.01837) [[code]](https://github.com/MaxZanella/transduction-for-vlms)
-3. [2025 CVPR] **Realistic Test-Time Adaptation of Vision-Language Models.** [[paper]](https://arXiv.org/pdf/2501.03729) [[code]](https://github.com/MaxZanella/StatA)
+3. [2025 CVPR] **StatA: Realistic Test-Time Adaptation of Vision-Language Models.** [[paper]](https://arXiv.org/pdf/2501.03729) [[code]](https://github.com/MaxZanella/StatA)
 4. [2023 AAAI] **CALIP: Zero-Shot Enhancement of CLIP with Parameter-free Attention.** [[paper]](https://arXiv.org/pdf/2209.14169) [[code]](https://github.com/ZiyuGuo99/CALIP)
 5. [2025 AAAI] **TIMO: Text and Image Are Mutually Beneficial: Enhancing Training-Free Few-Shot Classification with CLIP.** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32534) [[code]](https://github.com/lyymuwu/TIMO)
 6. [2025 CVPR] **COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation.** [[paper]](https://arXiv.org/pdf/2503.23388) [[code]](https://github.com/hf618/COSMIC)
