@@ -316,6 +316,8 @@
 16. [2025 arXiv] **SegDINO: An Efficient Design for Medical and Natural Image Segmentation with DINO-V3** [[paper]](https://arxiv.org/pdf/2509.00833) [[code]](https://github.com/script-Yang/segdino/tree/main)
 17. [2024 ICLR] **FeatUp: A Model-Agnostic Framework for Features at Any Resolution** [[paper]](https://arxiv.org/pdf/2403.10516) [[code]](https://github.com/mhamilton723/FeatUp)
 18. [2025 arXiv] **AnyUp: Universal Feature Upsampling** [[paper]](https://arxiv.org/pdf/2510.12764) [[code]](https://github.com/wimmerth/anyup)
+19. **SigLIP: Sigmoid Loss for Language Image Pre-Training** [[paper]](https://arxiv.org/pdf/2303.15343) [[code]](https://github.com/google-research/big_vision/tree/main)
+20. [2025 arXiv]  **SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features** [[paper]](https://arxiv.org/pdf/2502.14786) [[code]](https://github.com/google-research/big_vision/blob/main/big_vision/configs/proj/image_text/README_siglip2.md)
 
 
 <a name="Backbone"></a>
