@@ -385,6 +385,9 @@
 43. [2025 ICLR] **Mitigate the Gap: Investigating Approaches for Improving Cross-Modal Alignment in CLIP** [[paper]](https://arxiv.org/pdf/2406.17639) [[code]](https://github.com/sarahESL/AlignCLIP)
 44. [2025 arXiv] **Counteracting Matthew Effect in Self-Improvement of LVLMs through Head-Tail Re-balancing** [[paper]](https://arxiv.org/pdf/2510.26474v1)
 45. [2025 arXiv] **Modality alignment across trees on herero deneous huperbolic manifolds** [[paper]](https://arxiv.org/pdf/2510.27391v1) [[code]](https://github.com/MCISLAB-Manifold-Learning/HypModalAlign)
+46. [2026 ICLR] **SEPS: Semantic-enhanced patch slimming framework for fine-grained cross-modal alignment** [[paper]](https://arxiv.org/pdf/2511.01390v1) [[code]](https://github.com/Sweet4tars/seps)
+47. [2025 arXiv] **OMEGA:Optimized Multimodal Position Encoding Index Derivation with Global Adaptive Scaling for Vision-Language Models** [[paper]](https://arxiv.org/pdf/2511.00821v1)
+
 
 <a name="open_vocabulary"></a>
 ## Open vocabulary
