@@ -188,6 +188,7 @@
 50. [2025 arXiv] **Representation-Level Counterfactual Calibration for Debiased Zero-Shot Recognition** [[paper]](https://arxiv.org/pdf/2510.26466v1) [[code]](https://github.com/peipeng98)
 51. [2025 arXiv] **A-TPT: Angular Diversity Calibration Properties for Test-Time Prompt Tuning of Vision-Language Models** [[paper]](https://arxiv.org/pdf/2510.26441v1)
 52. [2025 ICLR] **Basis sharing: cross-layer parameter sharing for large language model compression** [[paper]](https://arxiv.org/pdf/2410.03765) [[code]](https://github.com/TUDa-HWAI/Basis_Sharing)
+53. [2025 arXiv] **SegDebias: Test-Time Bias Mitigation for ViT-Based CLIP via Segmentation** [[paper]](https://arxiv.org/pdf/2511.00523v1)
 
 <a name="Optimal_Transport"></a>
 ## Optimal Transport
