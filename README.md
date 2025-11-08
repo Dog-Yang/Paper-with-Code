@@ -322,7 +322,7 @@
 
 <a name="Backbone"></a>
 ## Backbone
-1. [2017 NIPS] **transfomer: Attention Is All You Need.** [[paper]](https://arXiv.org/pdf/1706.03762) [[code]](https://github.com/tensorflow/tensor2tensor)
+1. [2017 NIPS] **Transfomer: Attention Is All You Need.** [[paper]](https://arXiv.org/pdf/1706.03762) [[code]](https://github.com/tensorflow/tensor2tensor)
 2. [2021 ICLR] **ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.** [[paper]](https://arXiv.org/pdf/2010.11929) [[code]](https://github.com/google-research/vision_transformer)
 3. [2021 ICML] **DeiT: Training data-efficient image transformers & distillation through attention.** [[paper]](https://arXiv.org/pdf/2012.12877)
 4. [2021 ICCV] **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows.** [[paper]](https://arXiv.org/pdf/2103.14030) [[code]](https://github.com/microsoft/Swin-Transformer)
