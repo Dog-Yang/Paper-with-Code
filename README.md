@@ -61,6 +61,7 @@
 37. [2025 NIPS] **Can Large Multimodal Models Understand Agricultural Scenes? Benchmarking with AgroMind** [[paper]](https://arxiv.org/pdf/2505.12207) [[code]](https://github.com/rssysu/AgroMind)
 38. [2025 TPAMI] **RingMo-Aerial: An Aerial Remote Sensing Foundation Model With Affine Transformation Contrastive Learning** [[paper]](https://arxiv.org/pdf/2409.13366)
 39. [2025 Arxiv] **FoBa: A Foreground-Background co-Guided Method and New Benchmark for Remote Sensing Semantic Change Detection** [[paper]](https://arxiv.org/pdf/2509.15788) [[code]](https://github.com/zmoka-zht/FoBa)
+40. [2025 TGRS] Multimodal Visual-Language Prompt Network for Remote Sensing Few-Shot Segmentation [[paper]](https://ieeexplore.ieee.org/abstract/document/11071646) [[code]](https://github.com/Gritiii/MVLPNet)
 
 
 
