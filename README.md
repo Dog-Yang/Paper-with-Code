@@ -369,7 +369,7 @@
 22. [2025 WACV] **DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models.** [[paper]](https://arXiv.org/pdf/2408.08855) [[code]](https://github.com/Externalhappy/DPA)
 23. [2025 WACV] **Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models.** [[paper]](https://arXiv.org/pdf/2403.12952) [[code]](https://github.com/elaine-sui/TPS)
 24. [2025 WACV] **LATTECLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts.** [[paper]](https://arXiv.org/pdf/2410.08211) [[code]](https://github.com/astra-vision/LatteCLIP)
-25. [2025 ICLR] **CROSS THE GAP: EXPOSING THE INTRA-MODAL MISALIGNMENT IN CLIP VIA MODALITY INVERSION.** [[paper]](https://arXiv.org/pdf/2502.04263) [[code]](https://github.com/miccunifi/Cross-the-Gap)
+25. [2025 ICLR] **Cross the GAP: Exposing the intra-modal misalignment in CLIP via modality inversion.** [[paper]](https://arXiv.org/pdf/2502.04263) [[code]](https://github.com/miccunifi/Cross-the-Gap)
 26. [2025 ICLR] **CLIP’s Visual Embedding Projector is a Few-shot Cornucopia.** [[paper]](https://arXiv.org/pdf/2410.05270) [[code]](https://github.com/astra-vision/ProLIP)
 27. [2025 CVPR] **DA-VPT: Semantic-Guided Visual Prompt Tuning for Vision Transformers.** [[paper]](https://arXiv.org/pdf/2505.23694) [[code]](https://github.com/Noahsark/DA-VPT)
 28. [2025 ICML] **Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models.** [[paper]](https://arXiv.org/pdf/2506.02557) [[code]](https://github.com/peterant330/KUEA)
