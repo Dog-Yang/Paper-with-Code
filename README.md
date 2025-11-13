@@ -23,7 +23,7 @@
 1. [2025 arXiv] **DynamicEarth: How Far are We from Open-Vocabulary Change Detection?** [[paper]](https://arXiv.org/abs/2501.12931) [[code]](https://github.com/likyoo/DynamicEarth)
 2. [2025 ICCV] **SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation.** [[paper]](https://arXiv.org/abs/2507.12857) [[code]](https://github.com/HuangShiqi128/SCORE)
 3. [2025 CVPR] **SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images.** [[paper]](https://arXiv.org/abs/2410.01768) [[code]](https://github.com/likyoo/SegEarth-OV)
-4. [2025 Arxiv] **RSKT-Seg: Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing** [[paper]](https://arxiv.org/pdf/2509.12040) [[code]](https://github.com/LiBingyu01/RSKT-Seg)
+4. [2026 AAAI] **RSKT-Seg: Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing** [[paper]](https://arxiv.org/pdf/2509.12040) [[code]](https://github.com/LiBingyu01/RSKT-Seg)
 5. [2025 Arxiv] **AlignCLIP: Self-Guided Alignment for Remote Sensing Open-Vocabulary Semantic Segmentation** [[paper]](https://openreview.net/forum?id=hpD3tn7Xbp) [[code]](https://openreview.net/attachment?id=hpD3tn7Xbp&name=supplementary_material)
 6. [2025 Arxiv] **RSVG-ZeroOV: Exploring a Training-Free Framework for Zero-Shot Open-Vocabulary Visual Grounding in Remote Sensing Images** [[paper]](https://arxiv.org/pdf/2509.18711?)
 7. [2025 Arxiv] **SegEarth-OV-2: Annotation-Free Open-Vocabulary Segmentation for Remote-Sensing Images** [[paper]](https://arxiv.org/abs/2508.18067)  [[code]](https://github.com/earth-insights/SegEarth-OV-2)
@@ -61,7 +61,7 @@
 37. [2025 NIPS] **Can Large Multimodal Models Understand Agricultural Scenes? Benchmarking with AgroMind** [[paper]](https://arxiv.org/pdf/2505.12207) [[code]](https://github.com/rssysu/AgroMind)
 38. [2025 TPAMI] **RingMo-Aerial: An Aerial Remote Sensing Foundation Model With Affine Transformation Contrastive Learning** [[paper]](https://arxiv.org/pdf/2409.13366)
 39. [2025 Arxiv] **FoBa: A Foreground-Background co-Guided Method and New Benchmark for Remote Sensing Semantic Change Detection** [[paper]](https://arxiv.org/pdf/2509.15788) [[code]](https://github.com/zmoka-zht/FoBa)
-40. [2025 TGRS] Multimodal Visual-Language Prompt Network for Remote Sensing Few-Shot Segmentation [[paper]](https://ieeexplore.ieee.org/abstract/document/11071646) [[code]](https://github.com/Gritiii/MVLPNet)
+40. [2025 TGRS] **Multimodal Visual-Language Prompt Network for Remote Sensing Few-Shot Segmentation** [[paper]](https://ieeexplore.ieee.org/abstract/document/11071646) [[code]](https://github.com/Gritiii/MVLPNet)
 
 
 
