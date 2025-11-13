@@ -343,6 +343,9 @@
 15. [2024 github] **SAM with text prompt** [[code]](https://github.com/luca-medeiros/lang-segment-anything)
 16. [2025 NIPS] **OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts** [[paper]](https://arxiv.org/pdf/2507.05427)
 17. [2025 ICCV] **E-SAM: Training-Free Segment Every Entity Model** [[paper]](https://arxiv.org/pdf/2503.12094)
+18. [2021 ICCV] **DINOv1: Emerging Properties in Self-Supervised Vision Transformers** [[paper]](https://arxiv.org/pdf/2104.14294) [[code]](https://github.com/facebookresearch/dino)
+19. [2023 TMLR] **DINOv2: Learning Robust Visual Features without Supervision** [[paper]](https://arxiv.org/pdf/2304.07193) [[code]](https://github.com/facebookresearch/dinov2)
+20. [2025 arXiv] **DINOv3** [[paper]](https://arxiv.org/pdf/2508.10104) [[code]](https://github.com/facebookresearch/dinov3)
 
 
 <a name="VLMs"></a>
