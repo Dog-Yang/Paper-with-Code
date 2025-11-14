@@ -31,18 +31,6 @@
 9. [2025 CVPRW] **AerOSeg: Harnessing SAM for Open-Vocabulary Segmentation in Remote Sensing Images** [[paper]](https://arxiv.org/abs/2412.19492)
 
 ***************************************************************
-## test
-1. [2025 arXiv] **DynamicEarth: How Far are We from Open-Vocabulary Change Detection?** <a href="https://arXiv.org/abs/2501.12931" target="_blank">[paper]</a> <a href="https://github.com/likyoo/DynamicEarth" target="_blank">[code]</a>
-2. [2025 ICCV] **SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation.** <a href="https://arXiv.org/abs/2507.12857" target="_blank">[paper]</a> <a href="https://github.com/HuangShiqi128/SCORE" target="_blank">[code]</a>
-3. [2025 CVPR] **SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images.** <a href="https://arXiv.org/abs/2410.01768" target="_blank">[paper]</a> <a href="https://github.com/likyoo/SegEarth-OV" target="_blank">[code]</a>
-4. [2026 AAAI] **RSKT-Seg: Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing** <a href="https://arxiv.org/pdf/2509.12040" target="_blank">[paper]</a> <a href="https://github.com/LiBingyu01/RSKT-Seg" target="_blank">[code]</a>
-5. [2025 Arxiv] **AlignCLIP: Self-Guided Alignment for Remote Sensing Open-Vocabulary Semantic Segmentation** <a href="https://openreview.net/forum?id=hpD3tn7Xbp" target="_blank">[paper]</a> <a href="https://openreview.net/attachment?id=hpD3tn7Xbp&name=supplementary_material" target="_blank">[code]</a>
-6. [2025 Arxiv] **RSVG-ZeroOV: Exploring a Training-Free Framework for Zero-Shot Open-Vocabulary Visual Grounding in Remote Sensing Images** <a href="https://arxiv.org/pdf/2509.18711?" target="_blank">[paper]</a>
-7. [2025 Arxiv] **SegEarth-OV-2: Annotation-Free Open-Vocabulary Segmentation for Remote-Sensing Images** <a href="https://arxiv.org/abs/2508.18067" target="_blank">[paper]</a>  <a href="https://github.com/earth-insights/SegEarth-OV-2" target="_blank">[code]</a>
-8. [2025 AAAI] **GSNet: Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation** <a href="https://arxiv.org/abs/2412.19492" target="_blank">[paper]</a> <a href="https://github.com/yecy749/GSNet" target="_blank">[code]</a>
-9. [2025 CVPRW] **AerOSeg: Harnessing SAM for Open-Vocabulary Segmentation in Remote Sensing Images** <a href="https://arxiv.org/abs/2412.19492" target="_blank">[paper]</a>
-
-***************************************************************
 1. [2025 TGRS] **A Unified Framework With Multimodal Fine-Tuning for Remote Sensing Semantic Segmentation.** [[paper]](https://ieeexplore.ieee.org/document/11063320) [[code]](https://github.com/sstary/SSRS)
 3. [2025 ICASSP] **Enhancing Remote Sensing Vision-Language Models for Zero-Shot Scene Classification.** [[paper]](https://arXiv.org/abs/2409.00698) [[code]](https://github.com/elkhouryk/RS-TransCLIP)
 5. [2025 ICCV] **Dynamic Dictionary Learning for Remote Sensing Image Segmentation.** [[paper]](https://arXiv.org/pdf/2503.06683) [[code]](https://github.com/XavierJiezou/D2LS)
