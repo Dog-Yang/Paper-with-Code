@@ -30,8 +30,8 @@
 8. [2025 AAAI] **GSNet: Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation** [[paper]](https://arxiv.org/abs/2412.19492) [[code]](https://github.com/yecy749/GSNet)
 9. [2025 CVPRW] **AerOSeg: Harnessing SAM for Open-Vocabulary Segmentation in Remote Sensing Images** [[paper]](https://arxiv.org/abs/2412.19492)
 
-
-
+***************************************************************
+## test
 1. [2025 arXiv] **DynamicEarth: How Far are We from Open-Vocabulary Change Detection?** <a href="https://arXiv.org/abs/2501.12931" target="_blank">[paper]</a> <a href="https://github.com/likyoo/DynamicEarth" target="_blank">[code]</a>
 2. [2025 ICCV] **SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation.** <a href="https://arXiv.org/abs/2507.12857" target="_blank">[paper]</a> <a href="https://github.com/HuangShiqi128/SCORE" target="_blank">[code]</a>
 3. [2025 CVPR] **SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images.** <a href="https://arXiv.org/abs/2410.01768" target="_blank">[paper]</a> <a href="https://github.com/likyoo/SegEarth-OV" target="_blank">[code]</a>
