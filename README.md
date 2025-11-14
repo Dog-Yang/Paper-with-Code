@@ -136,6 +136,7 @@
 9. [2025 NIPS] **E-SD³: Fine-Grained Confidence-Aware Fusion of SD3 for Zero-Shot Semantic Matching** [[paper]](https://neurips.cc/virtual/2025/poster/119532) [[code]](https://github.com/panda7777777/feature-fusion)
 10. [2025 NIPS] **MLMP: Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2505.21844v1) [[code]](https://github.com/dosowiechi/MLMP)
 11. [2025 arXiv] **NERVE: Neighbourhood & Entropy-guided Random-walk for training free open-Vocabulary segmentation** [[paper]](https://arxiv.org/pdf/2511.08248v1) [[code]](https://github.com/kunal-mahatha/nerve/)
+12. [2025 arXiv] **Exploring the Underwater World Segmentation without Extra Training** [[paper]](https://arxiv.org/pdf/2511.07923v1) [[code]](https://github.com/LiBingyu01/Earth2Ocean)
 
 
 <a name="Zero_shot_classification"></a>
