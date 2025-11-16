@@ -398,6 +398,7 @@
 45. [2025 arXiv] **Modality alignment across trees on herero deneous huperbolic manifolds** [[paper]](https://arxiv.org/pdf/2510.27391v1) [[code]](https://github.com/MCISLAB-Manifold-Learning/HypModalAlign)
 46. [2026 ICLR] **SEPS: Semantic-enhanced patch slimming framework for fine-grained cross-modal alignment** [[paper]](https://arxiv.org/pdf/2511.01390v1) [[code]](https://github.com/Sweet4tars/seps)
 47. [2025 arXiv] **OMEGA:Optimized Multimodal Position Encoding Index Derivation with Global Adaptive Scaling for Vision-Language Models** [[paper]](https://arxiv.org/pdf/2511.00821v1)
+48. [2025 arXiv] **Test-Time Spectrum-Aware Latent Steering for Zero-Shot Generalization in Vision-Language Models** [[paper]](https://arxiv.org/pdf/2511.09809v1) [[code]](https://github.com/kdafnis/STS)
 
 
 <a name="open_vocabulary"></a>
