@@ -195,6 +195,7 @@
 52. [2025 ICLR] **Basis sharing: cross-layer parameter sharing for large language model compression** [[paper]](https://arxiv.org/pdf/2410.03765) [[code]](https://github.com/TUDa-HWAI/Basis_Sharing)
 53. [2025 arXiv] **SegDebias: Test-Time Bias Mitigation for ViT-Based CLIP via Segmentation** [[paper]](https://arxiv.org/pdf/2511.00523v1)
 54. [2025 NIPS] **Training-Free Test-Time Adaptation via Shape and Style Guidance for Vision-Language Models** [[paper]](https://openreview.net/attachment?id=OF7OLxvY0t&name=pdf)
+55. [2025 NIPS] **Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment** [[paper]](https://arxiv.org/pdf/2508.15568) [[code]](https://github.com/AIM-SKKU/ADAPT)
 
 <a name="Optimal_Transport"></a>
 ## Optimal Transport
