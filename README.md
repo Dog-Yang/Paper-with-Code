@@ -56,7 +56,7 @@
 32. [2025 Arxiv] **SAR-KnowLIP: Towards Multimodal Foundation Models for Remote Sensing** [[paper]](https://arxiv.org/pdf/2509.23927) [[code]](https://github.com/yangyifremad/SARKnowLIP)
 33. [2025 Arxiv] **LG-CD: Enhancing Language-Guided Change Detection through SAM2 Adaptation** [[paper]](https://arxiv.org/pdf/2509.21894v1)
 34. [2025 CVM] **Remote sensing tuning: A survey** [[paper]](https://ieeexplore.ieee.org/document/11119145) [[code]](https://github.com/DongshuoYin/Remote-Sensing-Tuning-A-Survey)
-35. [2025 ISPRS] **AdaptVFMs-RSCD:Advancing Remote Sensing Change Detection from binary to semantic with SAM and CLIP** [[paper]](https://www.sciencedirect.com/science/article/pii/S0924271625003636) [[data]](https://github.com/Jiang-CHD-YunNan/RS-VFMs-Fine-tuning-Dataset)
+35. [2025 ISPRS] **Identifying rural roads in remote sensing imagery: From benchmark dataset to coarse-to-fine extraction network—A case study in China** [[paper]](https://doi.org/10.1016/j.isprsjprs.2025.11.010) [[data]](https://rsidea.whu.edu.cn/resource_sharing.htm)
 36. [2025 NatureMI] **A semantic-enhanced multi-modal remote sensing foundation model for Earth observation** [[paper]](https://www.nature.com/articles/s42256-025-01078-8)
 37. [2025 NIPS] **Can Large Multimodal Models Understand Agricultural Scenes? Benchmarking with AgroMind** [[paper]](https://arxiv.org/pdf/2505.12207) [[code]](https://github.com/rssysu/AgroMind)
 38. [2025 TPAMI] **RingMo-Aerial: An Aerial Remote Sensing Foundation Model With Affine Transformation Contrastive Learning** [[paper]](https://arxiv.org/pdf/2409.13366)
