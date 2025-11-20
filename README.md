@@ -3,7 +3,7 @@
 2. [[Training Free Segmentation](#Training_Free)]            
 3. [[Zero shot Classification/Test Time Adaptation](#Zero_shot_classification)]      
 4. [[Optimal Transport](#Optimal_Transport)]     
-5. [[VLMs](#VLMs)]           
+5. [[VLMs and MLLM](#VLMs)]           
 6. [[Visual Place Recognition](#VPR)]         
 7. [[Token Mering, Clustering and Pruning](#Token_fusion)]           
 8. [[Backbone](#Backbone)]           
@@ -50,7 +50,7 @@
 23. [2025 Arxiv] **ATRNet-STAR: A Large Dataset and Benchmark Towards Remote Sensing Object Recognition in the Wild** [[paper]](https://arxiv.org/abs/2501.13354) [[code]](https://github.com/waterdisappear/ATRNet-STAR)
 25. [2025 ISPRS]  **AdaptVFMs-RSCD: Advancing Remote Sensing Change Detection from binary to semantic with SAM and CLIP** [[paper]](https://doi.org/10.1016/j.isprsjprs.2025.09.010) [[data]](https://github.com/Jiang-CHD-YunNan/RS-VFMs-Fine-tuning-Dataset)
 26. [2025 Arxiv] **PeftCD: Leveraging Vision Foundation Models with Parameter-Efficient Fine-Tuning for Remote Sensing Change Detection** [[paper]](https://arxiv.org/pdf/2509.09572) [[code]](https://github.com/dyzy41/PeftCD)
-28. [2025 Arxiv] **Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models** [[paper]](https://arxiv.org/pdf/2510.07135) [[code]](https://github.com/elkhouryk/fewshot_RSVLMs)
+28. [2025 Arxiv] **Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models** [[paper]](https://arxiv.org/pdf/2510.07135) [[code]](https://github.com/elkhouryk/fewshot_RS)
 29. [2025 RSE] **Strategic sampling for training a semantic segmentation model in operational mapping: Case studies on cropland parcel extraction** [[paper]](https://doi.org/10.1016/j.rse.2025.115034) [[data]](https://doi.org/10.5281/zenodo.16595511) [[code]](https://github.com/Remote-Sensing-of-Land-Resource-Lab/Training-Sample-Selection)
 31. [2025 CVPR] **SkySense-O:TowardsOpen-WorldRemoteSensingInterpretation withVision-CentricVisual-LanguageModeling** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_SkySense-O_Towards_Open-World_Remote_Sensing_Interpretation_with_Vision-Centric_Visual-Language_Modeling_CVPR_2025_paper.pdf) [[code]](https://github.com/zqcrafts/SkySense-O)
 32. [2025 Arxiv] **SAR-KnowLIP: Towards Multimodal Foundation Models for Remote Sensing** [[paper]](https://arxiv.org/pdf/2509.23927) [[code]](https://github.com/yangyifremad/SARKnowLIP)
@@ -350,7 +350,7 @@
 20. [2025 arXiv] **DINOv3** [[paper]](https://arxiv.org/pdf/2508.10104) [[code]](https://github.com/facebookresearch/dinov3)
 
 
-<a name="VLMs"></a>
+<a name="VLMs and MLLM"></a>
 ## VLMs and MLLM
 1. [2021 ICML] **CLIP: Learning transferable visual models from natural language supervision.** [[paper]](https://arXiv.org/pdf/2103.00020) [[code]](https://github.com/OpenAI/CLIP)
 2. [2022 IJCV] **CoOp: Learning to Prompt for Vision-Language Models.** [[paper]](https://arXiv.org/pdf/2109.01134) [[code]](https://github.com/KaiyangZhou/CoOp)
