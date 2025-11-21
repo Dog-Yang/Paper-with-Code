@@ -402,6 +402,7 @@
 48. [2025 arXiv] **Test-Time Spectrum-Aware Latent Steering for Zero-Shot Generalization in Vision-Language Models** [[paper]](https://arxiv.org/pdf/2511.09809v1) [[code]](https://github.com/kdafnis/STS)
 49. [2025 arXiv] **BRIDGE: Bridging Hidden States in Vision–Language Models** [[paper]](https://arxiv.org/pdf/2511.11526v1) [[code]](https://github.com/jfeinashley/BRIDGE)
 50. [2026 AAAI] **BOFA: Bridge-Layer Orthogonal Low-Rank Fusion for CLIP-based Class-Incremental Learning** [[paper]](https://arxiv.org/pdf/2511.11421v1)
+51. [2025 CVPR] **Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves** [[paper]](https://arxiv.org/pdf/2412.11509) [[code]](https://github.com/Koorye/SkipTuning)
 
 
 <a name="open_vocabulary"></a>
