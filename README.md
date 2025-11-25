@@ -321,9 +321,11 @@
 15. [2023 ICLR] **DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.** [[paper]](https://arXiv.org/pdf/2203.03605) [[code]](https://github.com/IDEA-Research/DINO)
 16. [2025 arXiv] **SegDINO: An Efficient Design for Medical and Natural Image Segmentation with DINO-V3** [[paper]](https://arxiv.org/pdf/2509.00833) [[code]](https://github.com/script-Yang/segdino/tree/main)
 17. [2024 ICLR] **FeatUp: A Model-Agnostic Framework for Features at Any Resolution** [[paper]](https://arxiv.org/pdf/2403.10516) [[code]](https://github.com/mhamilton723/FeatUp)
-18. [2025 arXiv] **AnyUp: Universal Feature Upsampling** [[paper]](https://arxiv.org/pdf/2510.12764) [[code]](https://github.com/wimmerth/anyup)
-19. **SigLIP: Sigmoid Loss for Language Image Pre-Training** [[paper]](https://arxiv.org/pdf/2303.15343) [[code]](https://github.com/google-research/big_vision/tree/main)
-20. [2025 arXiv]  **SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features** [[paper]](https://arxiv.org/pdf/2502.14786) [[code]](https://github.com/google-research/big_vision/blob/main/big_vision/configs/proj/image_text/README_siglip2.md)
+18. [2025 ICCV] **LoftUp: A Coordinate-Based Feature Upsampler for Vision Foundation Models** [[paper]](https://arxiv.org/abs/2504.14032) [[code]](https://github.com/andrehuang/loftup)
+19. [2025 arXiv] **AnyUp: Universal Feature Upsampling** [[paper]](https://arxiv.org/pdf/2510.12764) [[code]](https://github.com/wimmerth/anyup)
+20. [2025 arXiv] **Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling** [[paper]](https://arxiv.org/pdf/2511.16301) [[code]](https://github.com/seominseok0429/Upsample-Anything-A-Simple-and-Hard-to-Beat-Baseline-for-Feature-Upsampling)
+21. **SigLIP: Sigmoid Loss for Language Image Pre-Training** [[paper]](https://arxiv.org/pdf/2303.15343) [[code]](https://github.com/google-research/big_vision/tree/main)
+22. [2025 arXiv]  **SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features** [[paper]](https://arxiv.org/pdf/2502.14786) [[code]](https://github.com/google-research/big_vision/blob/main/big_vision/configs/proj/image_text/README_siglip2.md)
 
 
 <a name="Backbone"></a>
