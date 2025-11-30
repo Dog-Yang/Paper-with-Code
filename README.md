@@ -1,4 +1,4 @@
-2# Content
+# Content
 1. [[Remote Sensing](#Remote_Sensing)]      
 2. [[Training Free Segmentation](#Training_Free)]            
 3. [[Zero shot Classification/Test Time Adaptation](#Zero_shot_classification)]      
