@@ -1,4 +1,4 @@
-# Content
+2# Content
 1. [[Remote Sensing](#Remote_Sensing)]      
 2. [[Training Free Segmentation](#Training_Free)]            
 3. [[Zero shot Classification/Test Time Adaptation](#Zero_shot_classification)]      
@@ -253,6 +253,7 @@
 26. [2025 CVPR] **Multi-Label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation.** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_Multi-Label_Prototype_Visual_Spatial_Search_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)
 27. [2025 CVPRW] **Prompt Categories Cluster for Weakly Supervised Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2412.13823)
 28. [2025 arXiv] **No time to train! Training-Free Reference-Based Instance Segmentation.** [[paper]](https://arXiv.org/pdf/2507.02798) [[code]](https://github.com/miquel-espinosa/no-time-to-train)
+29. [2025 TPAMI] **Modeling the Label Distributions for Weakly-Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2403.13225) [[code]](https://github.com/Luffy03/AGMM-SASS)
 
 
 <a name="Graph_Structure"></a>
