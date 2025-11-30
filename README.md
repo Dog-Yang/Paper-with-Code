@@ -278,6 +278,7 @@
 6. [2025 arXiv] **HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition.** [[paper]](https://arXiv.org/pdf/2506.04764) [[code]](https://github.com/suhan-woo/HypeVPR)
 7. [2023 IROS] **Training-Free Attentive-Patch Selection for Visual Place Recognition.** [[paper]](https://ieeexplore.ieee.org/abstract/document/10342347)
 8. [2024 CVPR] **SALAD: Optimal transport aggregation for visual place recognition** [[paper]](https://arxiv.org/pdf/2311.15937) [[code]](https://github.com/serizba/salad)
+9. [2021 CVPRW] **CCT: Escaping the Big Data Paradigm with Compact Transformers** [[paper]](https://arxiv.org/pdf/2104.05704) [[code]](https://github.com/SHI-Labs/Compact-Transformers)
 
 
 <a name="Token_fusion"></a>
