@@ -345,7 +345,7 @@
 11. [2023 ICCV] **OpenSeeD: A simple framework for open-vocabulary segmentation and detection.** [[paper]](https://arXiv.org/pdf/2303.08131) [[code]](https://github.com/IDEA-Research/OpenSeeD)
 12. [2023 arXiv] **SAM: Segment Anything.** [[paper]](https://arXiv.org/pdf/2304.02643) [[code]](https://github.com/facebookresearch/segment-anything) [[demo]](https://segment-anything.com/demo)
 13. [2024 arXiv] **SAM2: Segment Anything in Images and Videos.** [[paper]](https://arXiv.org/pdf/2408.00714) [[code]](https://github.com/facebookresearch/sam2) [[demo]](https://sam2.metademolab.com/)
-14. [2026 ICRL] **SAM3: Segment Anything with Concepts** [[paper]](https://openreview.net/forum?id=r35clVtGzw) [[code]](https://github.com/facebookresearch/sam3) [[demo]](https://segment-anything.com/)
+14. [2026 ICRL] **SAM3: Segment Anything with Concepts** [[paper]](https://openreview.net/forum?id=r35clVtGzw) [[code]](https://github.com/facebookresearch/sam3) [[demo]](https://segment-anything.com/) 
 15. [2024 github] **SAM with text prompt** [[code]](https://github.com/luca-medeiros/lang-segment-anything)
 16. [2025 NIPS] **OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts** [[paper]](https://arxiv.org/pdf/2507.05427)
 17. [2025 ICCV] **E-SAM: Training-Free Segment Every Entity Model** [[paper]](https://arxiv.org/pdf/2503.12094)
