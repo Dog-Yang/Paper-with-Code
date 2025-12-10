@@ -353,7 +353,7 @@
 19. [2023 TMLR] **DINOv2: Learning Robust Visual Features without Supervision** [[paper]](https://arxiv.org/pdf/2304.07193) [[code]](https://github.com/facebookresearch/dinov2)
 20. [2025 arXiv] **DINOv3** [[paper]](https://arxiv.org/pdf/2508.10104) [[code]](https://github.com/facebookresearch/dinov3)
 21. [2025 arXiv] **ViT3: Unlocking Test-Time Training in Vision** [[paper]](https://arxiv.org/pdf/2512.01643v1) [[code]](https://github.com/LeapLabTHU/ViTTT)
-
+22. [2025 arXiv] [[paper]]**SAM3-I: Segment Anything with Instructions** (https://arxiv.org/pdf/2512.04585) [[code]](https://github.com/debby-0527/SAM3-I)
 
 <a name="VLMs and MLLM"></a>
 ## VLMs and MLLM
