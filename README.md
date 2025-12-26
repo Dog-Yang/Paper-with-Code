@@ -355,6 +355,7 @@
 20. [2025 arXiv] **DINOv3** [[paper]](https://arxiv.org/pdf/2508.10104) [[code]](https://github.com/facebookresearch/dinov3)
 21. [2025 arXiv] **ViT3: Unlocking Test-Time Training in Vision** [[paper]](https://arxiv.org/pdf/2512.01643v1) [[code]](https://github.com/LeapLabTHU/ViTTT)
 22. [2025 arXiv] **SAM3-I: Segment Anything with Instructions** [[paper]](https://arxiv.org/pdf/2512.04585) [[code]](https://github.com/debby-0527/SAM3-I)
+23. [2025 arXiv] **In Pursuit of Pixel Supervision for Visual Pre-training** [[paper]](https://arxiv.org/pdf/2512.15715) [[code]](https://github.com/facebookresearch/pixio)
 
 <a name="VLMs and MLLM"></a>
 ## VLMs and MLLM
