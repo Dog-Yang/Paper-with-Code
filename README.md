@@ -439,6 +439,7 @@
 22. [2023 NIPS] **OpenMask3D: Open-Vocabulary 3D Instance Segmentation** [[paper]](https://arxiv.org/pdf/2306.13631) [[code]](https://github.com/OpenMask3D/openmask3d)
 23. [2023 NIPS] **Weakly Supervised 3D Open-vocabulary Segmentation** [[paper]](https://arxiv.org/pdf/2305.14093) [[code]](https://github.com/Kunhao-Liu/3D-OVS)
 24. [2025 NIPS] **LangHOPS: Language Grounded Hierarchical Open-Vocabulary Part Segmentation** [[paper]](https://arxiv.org/pdf/2510.25263v1) [[code]](https://insait-institute.github.io/langhops.github.io/)
+25. [2025 TPAMI] **Low-Resolution Self-Attention for Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2310.05026) [[code]](https://github.com/yuhuan-wu/LRFormer)
 
 
 ### object detection
